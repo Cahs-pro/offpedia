@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>OFFPEDIA</title>
+<meta name="description" content="Knowledge without the internet. An offline-capable encyclopedia.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f7f8fb" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0b1020" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="OFFPEDIA">
+<link rel="manifest" href="./manifest.json">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%232f5bea'/%3E%3Cpath d='M16 18h13a6 6 0 0 1 6 6v22a5 5 0 0 0-5-5H16z' fill='%23fff' opacity='.95'/%3E%3Cpath d='M48 18H35a6 6 0 0 0-6 6v22a5 5 0 0 1 5-5h14z' fill='%23fff' opacity='.7'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="./style.css">
+<script>
+/* Applied before first paint so the theme never flashes. */
+(function () {
+  var d = document.documentElement;
+  var pref = 'system';
+  try { pref = localStorage.getItem('offpedia.theme') || 'system'; } catch (e) { pref = 'system'; }
+  if (pref !== 'light' && pref !== 'dark' && pref !== 'system') { pref = 'system'; }
+  var dark = pref === 'dark';
+  if (pref === 'system') {
+    try { dark = window.matchMedia('(prefers-color-scheme: dark)').matches; } catch (e) { dark = false; }
+  }
+  d.setAttribute('data-theme', dark ? 'dark' : 'light');
+  d.setAttribute('data-theme-pref', pref);
+  try {
+    var lang = localStorage.getItem('offpedia.lang');
+    if (lang) { d.setAttribute('lang', lang); }
+  } catch (e) {}
+})();
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main" data-i18n="a11y.skip">Skip to content</a>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="#/" data-i18n-attr="aria-label|nav.brandAria" aria-label="OFFPEDIA home">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 64 64" width="28" height="28" focusable="false" aria-hidden="true">
+          <rect width="64" height="64" rx="14" fill="currentColor"></rect>
+          <path d="M16 18h13a6 6 0 0 1 6 6v22a5 5 0 0 0-5-5H16z" fill="#fff" opacity=".95"></path>
+          <path d="M48 18H35a6 6 0 0 0-6 6v22a5 5 0 0 1 5-5h14z" fill="#fff" opacity=".7"></path>
+        </svg>
+      </span>
+      <span class="brand-text">
+        <span class="brand-name">OFFPEDIA</span>
+        <span class="brand-tagline" data-i18n="app.tagline">Knowledge without the internet.</span>
+      </span>
+    </a>
+
+    <div class="header-actions">
+      <span id="net-status" class="net-status is-online" role="status" aria-live="polite">
+        <span class="dot" aria-hidden="true"></span>
+        <span id="net-status-text" data-i18n="status.online">Online</span>
+      </span>
+
+      <label class="select-field">
+        <span class="sr-only" data-i18n="settings.language">Language</span>
+        <select id="lang-select" data-i18n-attr="aria-label|settings.language" aria-label="Language">
+          <option value="az">Azərbaycanca</option>
+          <option value="en">English</option>
+          <option value="zh">中文</option>
+          <option value="de">Deutsch</option>
+          <option value="ru">Русский</option>
+        </select>
+      </label>
+
+      <label class="select-field">
+        <span class="sr-only" data-i18n="settings.theme">Theme</span>
+        <select id="theme-select" data-i18n-attr="aria-label|settings.theme" aria-label="Theme">
+          <option value="system" data-i18n="theme.system">System</option>
+          <option value="light" data-i18n="theme.light">Light</option>
+          <option value="dark" data-i18n="theme.dark">Dark</option>
+        </select>
+      </label>
+    </div>
+  </div>
+
+  <div class="header-search">
+    <nav class="quick-nav" data-i18n-attr="aria-label|a11y.nav" aria-label="Main navigation">
+      <a class="chip" href="#/" data-i18n="nav.home">Home</a>
+      <button class="chip chip-button" type="button" id="random-nav" data-i18n="nav.random">Random</button>
+    </nav>
+    <div class="search-box">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input
+        id="search-input"
+        type="search"
+        autocomplete="off"
+        autocapitalize="off"
+        spellcheck="false"
+        data-i18n-attr="placeholder|search.placeholder,aria-label|search.label"
+        placeholder="Search the encyclopedia…"
+        aria-label="Search the encyclopedia">
+    </div>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <div id="view" class="view" aria-busy="true"></div>
+</main>
+
+<footer class="site-footer">
+  <p><span class="brand-name">OFFPEDIA</span> · <span data-i18n="app.tagline">Knowledge without the internet.</span></p>
+</footer>
+
+<div id="toasts" class="toasts" aria-live="polite" aria-atomic="false"></div>
+
+<script src="./app.js" defer></script>
+</body>
+</html>

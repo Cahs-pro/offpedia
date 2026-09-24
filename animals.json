@@ -1,0 +1,704 @@
+{
+  "category": "animals",
+  "articles": [
+    {
+      "id": "lion",
+      "title": "Lion",
+      "description": "The only truly social cat, living in prides across Africa.",
+      "content": "Lions live in prides of related females with their cubs and a small coalition of males. A pride can have anywhere from a handful to about 30 members and defends a territory that may cover hundreds of square kilometres.\n\nFemales do most of the hunting, working together to bring down prey much larger than themselves, such as zebra and buffalo. A male's roar can carry for eight kilometres and is used to advertise territory. Lions sleep up to 20 hours a day and hunt mostly at dusk and at night.\n\nAdult males can weigh around 190 kilograms and are recognised by their manes. Lions once ranged across much of Africa, Asia and southern Europe, but today roughly 20,000 survive mainly in sub-Saharan Africa, with a small population of Asiatic lions in India's Gir Forest.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg?width=800"
+    },
+    {
+      "id": "tiger",
+      "title": "Tiger",
+      "description": "The largest living cat, with unique stripes.",
+      "content": "The tiger is the largest living cat, with adult males up to about three metres long including the tail and weighing 200 to 300 kilograms. The biggest subspecies, the Siberian or Amur tiger, lives in the forests of the Russian Far East.\n\nEach tiger's stripes are unique, like fingerprints, and the pattern is on its skin as well as its fur. Unlike most cats, tigers enjoy water and swim well. They are solitary ambush hunters, preying on deer and wild pigs mostly at night, and a female raises two to four cubs, which stay with her for about two years.\n\nTigers once lived across Asia, from Turkey to Siberia and Indonesia, but lost more than 90% of their range. Today roughly 4,500 to 5,500 wild tigers remain, mostly in India.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bengal_tiger_(Panthera_tigris_tigris)_female_3_crop.jpg?width=800"
+    },
+    {
+      "id": "elephant",
+      "title": "Elephant",
+      "description": "The largest living land animal, known for intelligence and memory.",
+      "content": "Elephants are the largest living land animals; African bush elephants can weigh up to about six tonnes and stand more than three metres tall at the shoulder. There are three species: the African savanna, African forest and Asian elephant.\n\nTheir trunk, containing tens of thousands of muscles, works as nose, hand and drinking straw. Elephants are herbivores, eating up to 150 kilograms of plants a day. Herds are led by an older female, the matriarch, who remembers where to find water during droughts.\n\nThey are highly intelligent, showing memory, cooperation and apparent grief, and they communicate over long distances with low rumbles. Pregnancy lasts about 22 months, the longest of any mammal. Poaching for ivory and loss of habitat threaten them.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/African_Bush_Elephant.jpg?width=800"
+    },
+    {
+      "id": "giraffe",
+      "title": "Giraffe",
+      "description": "The tallest land animal, with a neck as long as a person.",
+      "content": "The giraffe is the tallest land animal, reaching up to about 5.5 metres, with a neck that can be about 2 metres long. Despite its length, the neck has only seven vertebrae, the same number as in humans, but each is greatly elongated.\n\nGiraffes live on the African savanna and feed on leaves, especially from acacia trees, which they pull off with a dark, flexible tongue about 45 centimetres long. Each giraffe has a unique coat pattern. A calf is already about 1.8 metres tall when born and can stand within an hour.\n\nA giraffe's heart must pump blood high up to the brain, so it has very high blood pressure and special valves in its neck. Giraffe populations have fallen sharply in recent decades because of habitat loss and poaching.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giraffe_Mikumi_National_Park.jpg?width=800"
+    },
+    {
+      "id": "zebra",
+      "title": "Zebra",
+      "description": "The striped horse relative of the African plains.",
+      "content": "Zebras are African wild horses recognised by their black and white stripes. There are three species: the plains zebra, the mountain zebra and Grévy's zebra, which is the largest and is endangered.\n\nThe stripe pattern is unique to each individual. Scientists have found evidence that the stripes discourage biting flies, which struggle to land on striped surfaces, and they may also help with heat regulation and social recognition. Zebras live in herds, and a group of mares and foals is led by a stallion.\n\nEvery year huge herds of plains zebra join wildebeest on the great migration across the Serengeti and Masai Mara. A zebra can run at about 65 km/h to escape lions, and it defends itself with powerful kicks.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Plains_Zebra_Equus_quagga_cropped.jpg?width=800"
+    },
+    {
+      "id": "hippopotamus",
+      "title": "Hippopotamus",
+      "description": "The huge river horse that spends the day in water.",
+      "content": "The hippopotamus, whose name means river horse in Greek, is one of the largest land mammals, with males weighing about 1,500 kilograms and sometimes much more. It lives in rivers and lakes of sub-Saharan Africa.\n\nHippos spend the day in the water to keep cool and protect their skin, which secretes a reddish oily fluid that acts like a natural sunscreen and antiseptic. At night they leave the water to graze on grass, walking several kilometres. Although they look clumsy, they can run at about 30 km/h over short distances.\n\nHippos are aggressive and among the most dangerous large animals in Africa. They are listed as vulnerable because of habitat loss and hunting for meat and ivory teeth.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_Hippopotamus_in_the_water.jpg?width=800"
+    },
+    {
+      "id": "rhinoceros",
+      "title": "Rhinoceros",
+      "description": "The armoured giant with a horn made of keratin.",
+      "content": "Rhinoceroses are large herbivores known for one or two horns on the snout. There are five species: the white and black rhinoceros in Africa, and the Indian, Javan and Sumatran rhinoceros in Asia.\n\nThe horn is made of keratin, the same material as fingernails, not bone. White rhinos can weigh more than two tonnes and are the second-largest land mammals after elephants. Rhinos have poor eyesight but an excellent sense of smell and hearing, and they often keep company with birds called oxpeckers that eat ticks off their skin.\n\nPoaching for horn, which is falsely believed to have medicinal value, has pushed several species to the brink. The northern white rhinoceros is functionally extinct, with only two females left, and conservation teams protect the rest with guards and dehorning.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/081_White_rhinoceros_(male)_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg?width=800"
+    },
+    {
+      "id": "cheetah",
+      "title": "Cheetah",
+      "description": "The fastest land animal on Earth.",
+      "content": "The cheetah is the fastest land animal, able to reach about 100 to 120 km/h in short sprints of a few hundred metres and accelerate from 0 to 100 km/h in about three seconds. Its slim body, long legs, flexible spine and large nostrils are built for speed.\n\nUnlike other big cats, it has semi-retractable claws that grip the ground like running spikes, and black tear-like marks on its face that may reduce the sun's glare. Cheetahs hunt by day, chasing gazelles, and after a sprint they need to rest before they can eat.\n\nCheetahs cannot roar but they purr and make chirping calls. They are vulnerable, with about 7,000 remaining in Africa and a very small population in Iran, because of habitat loss and conflicts with farmers.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Male_cheetah_facing_left_in_South_Africa.jpg?width=800"
+    },
+    {
+      "id": "leopard",
+      "title": "Leopard",
+      "description": "The stealthy, adaptable spotted cat.",
+      "content": "The leopard is a powerful and adaptable big cat found in Africa and Asia, living in forests, mountains, savannas and even near cities. It has a golden coat marked with dark rosettes, and the so-called black panther is a leopard with excess dark pigment.\n\nLeopards are solitary, nocturnal hunters that stalk their prey silently and can take animals larger than themselves. They are strong climbers and often drag their kills up into trees to keep them away from lions and hyenas. A leopard weighs 30 to 90 kilograms and can leap about six metres horizontally.\n\nMany leopard populations are declining because of habitat loss and hunting. Subspecies such as the Persian or Caucasian leopard, which lives in the Caucasus and Iran, are endangered.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/African_leopard_male_(cropped).jpg?width=800"
+    },
+    {
+      "id": "jaguar",
+      "title": "Jaguar",
+      "description": "The largest cat of the Americas.",
+      "content": "The jaguar is the largest cat in the Americas and the third-largest in the world, with a stocky build and a golden coat marked with rosettes that contain dark spots. It lives from Mexico to northern Argentina, especially in rainforests and wetlands such as the Amazon and Pantanal.\n\nUnlike most cats, jaguars are good swimmers and often hunt in water, preying on capybara, caiman and fish. They have an extremely powerful bite for their size and often kill by piercing the skull. Jaguars are solitary and territorial.\n\nThe animal was revered by the Maya and Aztecs as a symbol of power. Jaguars are near threatened as their forests are cleared, and conservation projects create wildlife corridors to connect populations.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Standing_jaguar.jpg?width=800"
+    },
+    {
+      "id": "wolf",
+      "title": "Wolf",
+      "description": "The wild ancestor of the dog and a social pack hunter.",
+      "content": "The wolf is the largest wild member of the dog family and the ancestor of domestic dogs, which were domesticated from wolves at least 15,000 years ago. Wolves live across the Northern Hemisphere in forests, tundra, mountains and deserts.\n\nThey live in packs, usually a family made up of a breeding pair and their offspring. They communicate by body language, scent marking and howling, which can be heard from 10 kilometres or more away. Wolves hunt deer, elk and other large prey cooperatively and can travel more than 50 kilometres a day.\n\nTheir reintroduction to Yellowstone in 1995 is often cited as an example of how a top predator can reshape an ecosystem. In Turkic cultures the grey wolf is a symbol of strength and freedom.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurasian_wolf_2.jpg?width=800"
+    },
+    {
+      "id": "red-fox",
+      "title": "Red Fox",
+      "description": "The cunning canine found across the Northern Hemisphere.",
+      "content": "The red fox is the most widespread wild carnivore in the world, living across North America, Europe, Asia and North Africa, and introduced to Australia. It is recognised by its rusty-red coat, white chest and bushy tail tipped with white.\n\nFoxes are omnivores that eat rodents, birds, insects, fruit and even scraps in towns. They have excellent hearing and can locate a mouse under snow, then pounce from a height, an approach that studies suggest may be guided by the alignment with Earth's magnetic field. They usually hunt alone at dusk.\n\nFoxes live in dens called earths, and a mother raises four to six kits in spring. Red foxes are common in the forests and semi-deserts of Azerbaijan, and they appear in the folk tales of many cultures as a clever trickster.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog_(cropped).jpg?width=800"
+    },
+    {
+      "id": "brown-bear",
+      "title": "Brown Bear",
+      "description": "The powerful omnivore of northern forests and mountains.",
+      "content": "The brown bear is one of the largest land carnivores, with males weighing 130 to 600 kilograms, and the biggest coastal Alaskan and Kodiak bears even more. It lives in the forests and mountains of North America, Europe and Asia.\n\nBrown bears are omnivores: they eat berries, roots, nuts, insects, fish and meat, and in autumn they feed heavily to store fat for winter. Salmon-catching bears in Alaska and Kamchatka are a famous sight. In cold regions they hibernate in dens for several months, and females give birth to tiny cubs during that time.\n\nAbout 200,000 brown bears live in the world, and the Caucasus subspecies inhabits mountain forests in Azerbaijan. Bears are shy and generally avoid people, but they can be dangerous when surprised.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2010-kodiak-bear-1.jpg?width=800"
+    },
+    {
+      "id": "polar-bear",
+      "title": "Polar Bear",
+      "description": "The white giant of the Arctic ice.",
+      "content": "The polar bear is the largest bear and the largest land carnivore, with males weighing 350 to 700 kilograms. It lives around the Arctic Ocean, where it depends on sea ice for hunting.\n\nIts fur looks white but is actually made of transparent, hollow hairs, and its skin is black, which absorbs heat. A thick layer of fat keeps it warm. Polar bears are excellent swimmers and can travel hundreds of kilometres, hunting seals at breathing holes and at the edge of the ice. Females give birth in snow dens in winter.\n\nBecause climate change is melting the sea ice, polar bears are classified as vulnerable, with roughly 26,000 remaining. The species has become a symbol of the fight against global warming.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polar_Bear_-_Alaska_(cropped).jpg?width=800"
+    },
+    {
+      "id": "giant-panda",
+      "title": "Giant Panda",
+      "description": "The black-and-white bear that eats bamboo.",
+      "content": "The giant panda is a bear native to the mountain forests of central China, recognised by its black and white coat. Although it belongs to the order of carnivores, more than 99% of its diet is bamboo, and it eats 12 to 38 kilograms every day.\n\nA special enlarged wrist bone works like a thumb, helping it grip bamboo stalks. Pandas spend up to 14 hours a day eating, since bamboo is low in nutrients. A newborn cub is tiny, about 100 grams, pink and blind, and stays with its mother for about two years.\n\nThanks to conservation efforts and protected reserves, the panda was moved from endangered to vulnerable in 2016, with about 1,800 living in the wild. It is the symbol of the World Wide Fund for Nature.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grosser_Panda.JPG?width=800"
+    },
+    {
+      "id": "gorilla",
+      "title": "Gorilla",
+      "description": "The largest primate, living in family groups in African forests.",
+      "content": "Gorillas are the largest living primates and share about 98% of their DNA with humans. There are two species, eastern and western, each with two subspecies, living in the forests of central Africa.\n\nThey live in family groups led by a dominant adult male called a silverback, named for the silver hair on his back. They are mostly herbivores, eating leaves, stems and fruit, and adult males can weigh around 170 kilograms. They build a new nest each night and communicate with a range of sounds and chest-beating.\n\nBoth gorilla species are endangered or critically endangered because of habitat loss, disease and poaching, and conservation efforts have helped mountain gorilla numbers slowly recover.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gorille_des_plaines_de_l'ouest_%C3%A0_l'Espace_Zoologique.jpg?width=800"
+    },
+    {
+      "id": "chimpanzee",
+      "title": "Chimpanzee",
+      "description": "Our closest relative in the animal kingdom.",
+      "content": "Chimpanzees are great apes that live in the forests and savannas of West and Central Africa. Together with bonobos they are the closest living relatives of humans, sharing about 98.8% of our DNA.\n\nThey live in communities of dozens of individuals, with complex social relationships, alliances and rivalries. Chimpanzees make and use tools: in 1960 the researcher Jane Goodall observed them stripping twigs to fish termites out of mounds, a discovery that changed how scientists defined humanity. They also use stones to crack nuts.\n\nChimpanzees eat fruit, leaves, insects and sometimes meat, and communicate with gestures, facial expressions and calls. They are endangered, with a few hundred thousand left, due to deforestation and hunting.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg?width=800"
+    },
+    {
+      "id": "orangutan",
+      "title": "Orangutan",
+      "description": "The red-haired ape of Borneo and Sumatra.",
+      "content": "Orangutans are great apes found only in the rainforests of Borneo and Sumatra in Southeast Asia. The name comes from Malay words meaning person of the forest, and they are the largest tree-dwelling animals in the world.\n\nAdults have shaggy reddish-brown hair and very long arms, with an arm span of about two metres. They move slowly through the canopy, eating fruit, leaves and bark, and every night build a nest of branches to sleep in. They are highly intelligent, using leaves as umbrellas or tools.\n\nOrangutans have the longest childhood of any animal except humans, and a mother nurses her young for six to eight years. All three species are critically endangered, as forests are cleared for palm oil plantations.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG?width=800"
+    },
+    {
+      "id": "kangaroo",
+      "title": "Kangaroo",
+      "description": "The hopping marsupial symbol of Australia.",
+      "content": "Kangaroos are large marsupials native to Australia and are recognised by their strong hind legs, long tails and hopping movement. The red kangaroo is the largest, with males weighing up to about 90 kilograms.\n\nA kangaroo can hop at 20 to 25 km/h continuously and reach up to about 70 km/h in bursts, leaping as far as nine metres in a single bound. The long tail helps balance, and kangaroos cannot move backwards easily. They eat grasses and are most active at dawn and dusk.\n\nA newborn joey is only about two centimetres long and crawls into its mother's pouch, where it feeds and grows for six to eight months. Kangaroos live in groups called mobs and appear on the coat of arms of Australia.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Forester_kangaroo_(Macropus_giganteus_tasmaniensis)_juvenile_hopping_Esk_Valley.jpg?width=800"
+    },
+    {
+      "id": "koala",
+      "title": "Koala",
+      "description": "The sleepy eucalyptus eater of Australia.",
+      "content": "The koala is a tree-dwelling marsupial from eastern Australia, often mistakenly called a koala bear. It has thick grey fur, round ears and a large black nose.\n\nKoalas eat almost only eucalyptus leaves, which are tough, low in nutrients and poisonous to most animals. Because they get so little energy from them, koalas sleep 18 to 22 hours a day. They have fingerprints that are almost identical to human ones, and they get most of their water from the leaves.\n\nA joey lives in its mother's pouch for about six months and then rides on her back. Koalas are threatened by habitat loss, bushfires and disease, and in 2022 they were listed as endangered in parts of eastern Australia.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koala_climbing_tree.jpg?width=800"
+    },
+    {
+      "id": "dolphin",
+      "title": "Dolphin",
+      "description": "A playful, intelligent marine mammal that uses echolocation.",
+      "content": "Dolphins are intelligent marine mammals in the toothed whale family, with about 40 species, including the bottlenose dolphin and the orca, which is the largest dolphin. A few species, such as the Amazon river dolphin, live in rivers.\n\nThey breathe air through a blowhole and must surface regularly. They navigate and find fish with echolocation, sending out clicks and listening to the echoes. Dolphins live in social groups called pods, communicate with whistles, each individual having its own signature whistle, and cooperate to hunt.\n\nBottlenose dolphins can swim at up to about 35 km/h and leap high out of the water. When they sleep, only half of the brain rests at a time, so they can keep breathing.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tursiops_truncatus_01.jpg?width=800"
+    },
+    {
+      "id": "blue-whale",
+      "title": "Blue Whale",
+      "description": "The largest animal ever known to have lived.",
+      "content": "The blue whale is the largest animal known to have ever lived, reaching about 30 metres in length and weighing up to 150 tonnes or more. Its heart is roughly the size of a small car, and its tongue can weigh as much as an elephant.\n\nDespite its size, it feeds mostly on krill, tiny shrimp-like animals, which it filters from the water through baleen plates; an adult may eat about four tonnes on a good day. Blue whales are found in all oceans, migrating between cold feeding grounds and warm breeding areas.\n\nTheir low-frequency calls are among the loudest made by any animal and can travel hundreds of kilometres underwater. Whaling reduced blue whales to a few thousand, and protection since 1966 has allowed a slow recovery, though they remain endangered.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg?width=800"
+    },
+    {
+      "id": "orca",
+      "title": "Orca",
+      "description": "The killer whale, the ocean's top predator.",
+      "content": "The orca, or killer whale, is the largest member of the dolphin family, with males reaching about eight metres and six tonnes. It is easily recognised by its black-and-white colouring and tall dorsal fin, and lives in every ocean from the Arctic to Antarctica.\n\nOrcas are apex predators that hunt in cooperative family groups called pods, led by older females. Different populations, called ecotypes, have their own diets and hunting methods: some eat fish such as salmon, others hunt seals, and some even attack large whales. Pods have their own dialects of calls that are passed down through generations.\n\nOrcas are highly intelligent and have complex social lives. Some populations, such as the southern resident orcas of the Pacific Northwest, are endangered because of declining salmon and pollution.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Killerwhales_jumping.jpg?width=800"
+    },
+    {
+      "id": "camel",
+      "title": "Camel",
+      "description": "The desert traveller with one or two humps.",
+      "content": "Camels are large hoofed mammals adapted to deserts. The dromedary has one hump and is found in the Middle East, Africa and Australia, while the Bactrian camel has two humps and lives in the cold deserts of Central Asia.\n\nThe hump stores fat, not water, providing energy when food is scarce. A camel can drink over 100 litres of water in a few minutes and can go days without drinking. Long eyelashes, closable nostrils and broad padded feet protect it from sand and heat.\n\nDomesticated thousands of years ago, camels carried goods on caravans along the Silk Road and earned the nickname ship of the desert. They still provide transport, milk, wool and meat for people in many dry regions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/07._Camel_Profile%2C_near_Silverton%2C_NSW%2C_07.07.2007.jpg?width=800"
+    },
+    {
+      "id": "horse",
+      "title": "Horse",
+      "description": "The animal that carried humanity across the world.",
+      "content": "The horse is a large hoofed mammal that was domesticated about 5,500 years ago on the steppes of Central Asia. It transformed transport, farming, trade and warfare and has been a companion of humans ever since.\n\nThere are more than 300 breeds, from powerful draught horses to the elegant Arabian and the Azerbaijani Karabakh horse. Horses are herbivores with excellent hearing and wide-angle vision, and they can sleep standing up by locking their legs. A galloping horse reaches about 60 to 70 km/h.\n\nHorses live in herds and communicate with body language and sounds. Today they are used in sports such as racing, show jumping and polo, in therapy and for recreation, and the wild Przewalski's horse survives in Mongolia.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nokota_Horses_cropped.jpg?width=800"
+    },
+    {
+      "id": "dog",
+      "title": "Dog",
+      "description": "The first animal domesticated by humans.",
+      "content": "The dog is a domesticated descendant of the wolf and the first animal that humans tamed, at least 15,000 years ago and possibly much earlier. Today there are more than 300 breeds, from the tiny Chihuahua to the giant Great Dane.\n\nDogs have a sense of smell tens of thousands of times more sensitive than ours, and they can hear high-pitched sounds we cannot. They have been bred for herding, hunting, guarding, pulling sleds and companionship, and today work as guide dogs, rescue dogs and detectors. In 1957 a dog named Laika became the first animal to orbit Earth.\n\nDogs read human gestures and emotions better than any other animal and form strong bonds with their owners. In Caucasian villages, large shepherd dogs have long guarded flocks against wolves.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Huskiesatrest.jpg?width=800"
+    },
+    {
+      "id": "cat",
+      "title": "Cat",
+      "description": "The independent hunter that shares our homes.",
+      "content": "The domestic cat descends from the African wildcat and was domesticated about 10,000 years ago in the Near East, probably because it hunted the mice that raided grain stores. Ancient Egyptians revered cats and worshipped the goddess Bastet, who had a cat's head.\n\nCats are agile predators with sharp retractable claws, excellent night vision and whiskers that sense objects nearby. They sleep 12 to 16 hours a day, groom themselves often and communicate through purring, meowing and body language. They almost always land on their feet thanks to a righting reflex.\n\nThere are about 70 recognised breeds, including the Persian, Siamese and the Turkish Angora. Cats are among the most popular pets in the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siam_lilacpoint.jpg?width=800"
+    },
+    {
+      "id": "cattle",
+      "title": "Cattle",
+      "description": "The domesticated cows and bulls that feed the world.",
+      "content": "Cattle are large domesticated hoofed mammals raised for milk, meat, leather and work. They descended from the wild aurochs, which were first domesticated about 10,500 years ago in the Near East, and there are now about a billion cattle worldwide.\n\nCattle are ruminants, with a four-chambered stomach that allows them to digest grass by chewing it again as cud. A dairy cow can produce about 20 to 30 litres of milk a day. In many cultures they are important, and in India cows are considered sacred by Hindus.\n\nOxen were used for centuries to pull ploughs and carts. Cattle farming is a major part of agriculture, but it also contributes to greenhouse gas emissions, since cattle release methane.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg?width=800"
+    },
+    {
+      "id": "sheep",
+      "title": "Sheep",
+      "description": "The woolly animal that clothed civilisations.",
+      "content": "Sheep are domesticated ruminant mammals kept for wool, meat and milk. They were among the first animals domesticated, about 10,000 years ago in the Middle East, from the wild mouflon.\n\nSheep live in flocks and follow a leader, which is why one sheep can guide the others. They have good memories, recognising faces of other sheep for years. Breeds are developed for different purposes: the Merino produces very fine wool, while others are raised mainly for meat and milk. Wool is sheared once a year.\n\nIn Azerbaijan, native breeds such as the Bozakh and Balbas are raised in the mountains and on winter pastures, and lamb is an important part of traditional cuisine. Cheese, felt and carpets are also made from sheep products.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flock_of_sheep.jpg?width=800"
+    },
+    {
+      "id": "bat",
+      "title": "Bat",
+      "description": "The only mammal capable of true flight.",
+      "content": "Bats are the only mammals that can truly fly, using wings made of skin stretched over very long finger bones. There are about 1,400 species, roughly a fifth of all mammals, found on every continent except Antarctica.\n\nMost bats are nocturnal and use echolocation, emitting high-pitched sounds and listening for the echoes to find insects in the dark. Others, such as fruit bats or flying foxes, have good eyesight and eat fruit and nectar. Bats roost upside down in caves, trees and buildings, and some species live in colonies of millions.\n\nBats are very useful: they eat huge numbers of insects, pollinate flowers and spread seeds. Many species are threatened by habitat loss and disease, and they are protected in numerous countries.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Big-eared-townsend-fledermaus.jpg?width=800"
+    },
+    {
+      "id": "sloth",
+      "title": "Sloth",
+      "description": "The slowest mammal, hanging in the rainforest canopy.",
+      "content": "Sloths are slow-moving tree-dwelling mammals of the rainforests of Central and South America. There are two-toed and three-toed sloths, and they spend almost their entire lives hanging upside down from branches.\n\nThey eat leaves, which give very little energy, so they move slowly and sleep for around 15 hours a day. Digesting a meal can take a month. Algae grow on their fur, giving it a greenish tint that helps camouflage them, and small moths and beetles live in their coats.\n\nOnce a week a sloth climbs down from the tree to defecate on the ground, which is when it is most vulnerable to predators. On land it can only crawl, but sloths are surprisingly good swimmers.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bicho-pregui%C3%A7a_3.jpg?width=800"
+    },
+    {
+      "id": "meerkat",
+      "title": "Meerkat",
+      "description": "The watchful desert mongoose of southern Africa.",
+      "content": "Meerkats are small mongooses that live in the deserts and grasslands of southern Africa, including the Kalahari. They stand up on their hind legs, using their tails for balance, which gives them their alert, upright appearance.\n\nThey live in groups called mobs or gangs of up to about 40 individuals, who dig a network of burrows together. While the group forages for insects, small reptiles and scorpions, a sentry stands guard on a high spot and gives a warning bark if it spots an eagle or snake. Meerkats have some resistance to scorpion venom.\n\nGroup members share duties: some babysit the pups while the others hunt. Their dark patches around the eyes help reduce the glare of the sun.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meerkat_(Suricata_suricatta)_Tswalu.jpg?width=800"
+    },
+    {
+      "id": "platypus",
+      "title": "Platypus",
+      "description": "The egg-laying mammal with a duck-like bill.",
+      "content": "The platypus is a semi-aquatic mammal from eastern Australia and Tasmania and one of only a few mammals that lay eggs, known as monotremes. It has a duck-like bill, a beaver-like tail and webbed feet, and when European scientists first saw a specimen in 1798 they thought it might be a hoax.\n\nIts bill is covered with sensitive skin that detects the tiny electric fields produced by prey such as shrimp and worms, so it can hunt with its eyes closed underwater. Males have a spur on the hind leg that delivers venom, which is unusual among mammals.\n\nThe female lays one to three eggs in a burrow and nurses the young with milk that seeps from her skin. Platypuses live in streams and are threatened by habitat loss and droughts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg?width=800"
+    },
+    {
+      "id": "hedgehog",
+      "title": "Hedgehog",
+      "description": "The spiny little insect eater that curls into a ball.",
+      "content": "Hedgehogs are small mammals covered with about 5,000 to 7,000 sharp spines. When threatened, they roll into a tight ball with the spines pointing outward, protecting the vulnerable belly.\n\nThey live in Europe, Asia and Africa and are mostly nocturnal, using their sharp sense of smell to find insects, worms, snails and slugs. In cold regions they hibernate through the winter in a nest of leaves. Hedgehogs snuffle and grunt, and they sometimes cover their spines with foamy saliva in a habit called self-anointing.\n\nNumbers of hedgehogs in Europe have declined because of roads, garden chemicals and habitat loss. Several species live in the semi-deserts and foothills of Azerbaijan.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Igel.JPG?width=800"
+    },
+    {
+      "id": "rabbit",
+      "title": "Rabbit",
+      "description": "The fast-breeding burrower with continuously growing teeth.",
+      "content": "Rabbits are small mammals with long ears, powerful hind legs and short fluffy tails. Wild rabbits originated in southwestern Europe and North Africa, and they were domesticated in the Middle Ages.\n\nThey live in groups in underground burrow systems called warrens and eat grass and leafy plants. Their teeth never stop growing and are worn down by chewing. Rabbits can turn their ears in different directions and can leap several metres when fleeing danger. They breed very fast, and a female can have several litters a year.\n\nIn 1859 a few rabbits released in Australia multiplied into millions and became a serious pest. Domestic rabbits are popular pets, and they have appeared in stories from Peter Rabbit to Alice in Wonderland.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oryctolagus_cuniculus_Rcdo.jpg?width=800"
+    },
+    {
+      "id": "goitered-gazelle",
+      "title": "Goitered Gazelle",
+      "description": "The jeyran, symbol of Azerbaijan's semi-deserts.",
+      "content": "The goitered gazelle, called jeyran in Azerbaijan, is a graceful antelope of the semi-deserts and steppes of Central Asia, Iran and the South Caucasus. It has a sandy coat and pale belly, and males have curved black horns and a swelling at the throat during the breeding season, which gives the animal its name.\n\nIt feeds on grasses, shrubs and herbs, and it can run at about 60 km/h to escape wolves. In the past hunting and loss of habitat brought it close to extinction in Azerbaijan, so the Shirvan National Park was created in 1969 largely to protect the jeyran.\n\nThe gazelle is celebrated in Azerbaijani folk songs and poetry as a symbol of beauty and grace. Conservation has helped its population recover in protected areas.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuhertajagaselli_Korkeasaari.jpg?width=800"
+    },
+    {
+      "id": "caspian-seal",
+      "title": "Caspian Seal",
+      "description": "The only marine mammal of the Caspian Sea.",
+      "content": "The Caspian seal is one of the world's smallest true seals, about 1.3 metres long, and it lives only in the Caspian Sea. It is the only mammal that inhabits this enclosed sea and descended from ancestors that lived in the Arctic Ocean millions of years ago.\n\nIn winter the seals gather on the ice of the northern Caspian, where females give birth to white-furred pups. Seals eat small fish such as sprats and gobies and can dive for several minutes. In summer they move to the south, and they rest on rocks and islands near shore.\n\nThe population has fallen dramatically, from about a million in the early 20th century to fewer than 100,000, and the species is endangered. Threats include hunting, fishing nets, pollution and mass die-offs, and the Caspian countries cooperate to protect it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspian_seal_03.jpg?width=800"
+    },
+    {
+      "id": "persian-leopard",
+      "title": "Persian Leopard",
+      "description": "The large leopard of the Caucasus and Iran.",
+      "content": "The Persian leopard, also called the Caucasian leopard, is one of the largest leopard subspecies, with males weighing up to about 90 kilograms. It lives in the mountains of the Caucasus, Iran, Turkmenistan and neighbouring areas.\n\nIt has a pale coat with widely spaced rosettes, suited to rocky mountains and dry forests. It hunts wild goats, deer and wild boar, and it is elusive and mainly active at dusk and at night. Camera traps have recorded it in Azerbaijan, including in the Nakhchivan region and the Lesser Caucasus.\n\nOnly about a thousand individuals remain in the wild. The subspecies is endangered, and projects in Azerbaijan, Armenia, Georgia and Iran are working to protect its habitat and prey.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Persian_Leopard_sitting.jpg?width=800"
+    },
+    {
+      "id": "wild-goat",
+      "title": "Wild Goat",
+      "description": "The mountain ancestor of the domestic goat.",
+      "content": "The wild goat, also called the bezoar ibex, is a hardy mountain animal that lives in the Caucasus, Turkey, Iran and Central Asia. It is the ancestor of the domestic goat, which was domesticated about 10,000 years ago.\n\nMales have large, backward-curving horns that can be over a metre long and a beard, while females have shorter horns. They live in herds on rocky slopes and cliffs, climbing with great skill, and feed on grasses, leaves and shrubs. In summer males and females live apart.\n\nIn Azerbaijan, wild goats live in the mountains of Nakhchivan and the Lesser Caucasus, where they are protected in reserves. They are a symbol of the wilderness of the mountains.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/6_Bezoar_Goat_(cropped).jpg?width=800"
+    },
+    {
+      "id": "caspian-tiger",
+      "title": "Caspian Tiger",
+      "description": "The extinct tiger of the Caucasus and Central Asia.",
+      "content": "The Caspian tiger, also known as the Turan or Persian tiger, was a population of tigers that lived from eastern Turkey through the Caucasus and Iran to Central Asia and western China. It roamed river valleys and reed-covered wetlands, and in Azerbaijan it lived in the forests of the Talysh region.\n\nThe tigers preyed on wild boar, deer and other wildlife. As the land was farmed and cleared in the 19th and 20th centuries and hunting continued, their numbers collapsed. The last are thought to have died out in the 1970s.\n\nGenetic studies suggest it was very close to the Siberian tiger. Conservationists have started a project to reintroduce Amur tigers to Kazakhstan's Ili River area, which might restore a similar predator to the region.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panthera_tigris_virgata.jpg?width=800"
+    },
+    {
+      "id": "wild-boar",
+      "title": "Wild Boar",
+      "description": "The tough ancestor of the domestic pig.",
+      "content": "The wild boar is a robust, bristly pig that lives in forests across Europe, Asia and North Africa. It is the ancestor of the domestic pig, which was domesticated in the Near East and China about 9,000 years ago.\n\nAdults weigh 100 to 200 kilograms and have a large head, small eyes and tusks. They are omnivores, digging with their snouts for roots, acorns, insects and small animals, and their sense of smell is extremely good. Females and their young live in groups called sounders, while old males are solitary.\n\nBoars are found in the tugay forests and reed beds of Azerbaijan. They are adaptable and can be a nuisance for farmers, and in some countries they have become invasive.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wildschwein%2C_N%C3%A4he_Pulverstampftor_(cropped).jpg?width=800"
+    },
+    {
+      "id": "deer",
+      "title": "Deer",
+      "description": "The graceful antlered grazers of forests and plains.",
+      "content": "Deer are hoofed ruminant mammals found on every continent except Antarctica and Australia. There are about 50 species, from the tiny pudu to the huge moose, and males of most species grow antlers.\n\nAntlers are made of bone, unlike horns, and are shed and regrown every year, one of the fastest-growing tissues in the animal kingdom. Males use them to compete for females in autumn, the rut, when their roaring can be heard in forests. Deer eat grass, leaves and shoots, and fawns are born with spotted coats that camouflage them.\n\nIn the forests of Azerbaijan live the Caucasian red deer, known locally as maral, and the roe deer. Deer are hunted by wolves and lynx, and have been important in myths and art for thousands of years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Family_Cervidae_five_species.jpg?width=800"
+    },
+    {
+      "id": "bison",
+      "title": "Bison",
+      "description": "The massive grazer of the prairies and forests.",
+      "content": "Bison are large bovines that once roamed in huge herds. There are two species: the American bison, often called buffalo, and the European bison, or wisent, which is the largest land mammal in Europe.\n\nAn American bison bull can weigh about 900 kilograms and run at 60 km/h. Their heavy shoulders, shaggy manes and short curved horns are unmistakable. In the 19th century hunting reduced the American population from tens of millions to about a thousand, but conservation efforts brought it back to hundreds of thousands.\n\nThe European bison was extinct in the wild by 1927 and was saved by breeding in zoos and reintroduction. Today it lives in forests in Poland and other countries.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/American_bison_k5680-1.jpg?width=800"
+    },
+    {
+      "id": "beaver",
+      "title": "Beaver",
+      "description": "The nature's engineer that builds dams and lodges.",
+      "content": "Beavers are large semi-aquatic rodents known for building dams and lodges. There are two species: the North American beaver and the Eurasian beaver, both of which have thick waterproof fur, webbed hind feet and a flat, paddle-shaped tail.\n\nTheir large front teeth never stop growing and are stained orange by iron, which strengthens the enamel. Beavers cut down trees and use branches and mud to build dams, creating ponds where they make lodges. These dams slow rivers, help filter water and create wetlands that support fish, birds and amphibians.\n\nBeavers were nearly wiped out by the fur trade in the 19th century, but they have recovered in many places through protection and reintroduction. They slap their tails on the water to warn of danger.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Beaver.jpg?width=800"
+    },
+    {
+      "id": "squirrel",
+      "title": "Squirrel",
+      "description": "The agile tree climber that buries nuts.",
+      "content": "Squirrels are small rodents with bushy tails and sharp claws, found on nearly every continent. There are about 200 species, including tree squirrels, ground squirrels, chipmunks and flying squirrels, which glide between trees using flaps of skin.\n\nTree squirrels eat nuts, seeds and fruit, and in autumn they bury thousands of acorns and nuts to eat in winter. They forget many of them, which grow into new trees, so squirrels help forests spread. They use their tails for balance, for warmth and as signals to other squirrels.\n\nThe Persian squirrel lives in forests of the Caucasus, including in Azerbaijan. Squirrels can descend trees head first because their ankles rotate backward.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sciuridae.jpg?width=800"
+    },
+    {
+      "id": "hyena",
+      "title": "Hyena",
+      "description": "The clever scavenger and hunter with a laughing call.",
+      "content": "Hyenas are dog-like carnivores of Africa and Asia. There are four species: the spotted, striped and brown hyena, and the aardwolf, which eats termites. Although they resemble dogs, they are more closely related to cats and mongooses.\n\nSpotted hyenas live in large clans led by females and are effective hunters, making most of their own kills, contrary to their reputation as scavengers. Their bite is powerful enough to crush bones, and their giggling calls express excitement and communicate with the clan.\n\nThe striped hyena lives in dry, rocky areas from Africa to India and also occurs in Azerbaijan, where it is rare and protected. It is a shy, nocturnal animal that eats carrion, fruit and small animals.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hyaenidae_Diversity.jpg?width=800"
+    },
+    {
+      "id": "lynx",
+      "title": "Lynx",
+      "description": "The tufted-eared cat of northern forests.",
+      "content": "The lynx is a medium-sized wild cat with a short tail, tufts of black hair on the ears and a ruff of fur around the face. The Eurasian lynx, the largest of the four species, lives in forests from Europe to Siberia and the Caucasus.\n\nIts large, furry paws work like snowshoes, and it has powerful hind legs for leaping. The lynx is a solitary and secretive hunter, active at dusk and night, that ambushes deer, hares and birds. A lynx can spot a mouse from far away thanks to its excellent eyesight and hearing.\n\nIn Azerbaijan the Caucasian lynx lives in mountain forests and is protected. The Iberian lynx of Spain is one of the world's most endangered cats but has recovered through conservation.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lynx_heads_collage.jpg?width=800"
+    },
+    {
+      "id": "yak",
+      "title": "Yak",
+      "description": "The shaggy giant of the high Himalayas.",
+      "content": "The yak is a large, long-haired bovine adapted to the cold heights of the Himalayas and the Tibetan Plateau. Wild yaks are rare, while domestic yaks are a vital part of life for mountain herders.\n\nYaks live at altitudes of 3,000 to 6,000 metres, where their large lungs and heart, plus thick double coats, help them cope with thin air and freezing temperatures. They graze on grasses and can survive on sparse vegetation. Adult males weigh about 500 to 1,000 kilograms.\n\nDomestic yaks carry loads, and provide milk, meat, wool and dung for fuel. Yak butter is used in Tibetan tea and as lamp fuel in temples.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sarlyk_Yak2.jpg?width=800"
+    },
+    {
+      "id": "llama",
+      "title": "Llama",
+      "description": "The pack animal of the Andes.",
+      "content": "The llama is a South American camelid domesticated in the Andes about 4,000 to 5,000 years ago. It has a long neck, a woolly coat and banana-shaped ears, and stands about 1.2 metres at the shoulder.\n\nLlamas were used by the Inca as pack animals, able to carry about 25 to 30 kilograms over mountain trails, and they provided wool, meat and dung for fuel. They are also used to guard sheep against coyotes and foxes. They communicate by humming, and spit when they feel threatened.\n\nTheir relatives include the alpaca, raised for fine wool, and the wild vicuña and guanaco. Llamas live in herds and are now kept around the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Llamas%2C_Vernagt-Stausee%2C_Italy.jpg?width=800"
+    },
+    {
+      "id": "walrus",
+      "title": "Walrus",
+      "description": "The tusked giant of the Arctic ice.",
+      "content": "The walrus is a large marine mammal of the Arctic and subarctic seas, recognised by its long ivory tusks, bristly whiskers and wrinkled skin. Males weigh up to about 1,500 kilograms.\n\nThe tusks, which can be up to a metre long, are used to haul the animal out of the water onto the ice, to defend against predators such as polar bears and orcas, and to display dominance. Walruses use their sensitive whiskers to find clams and other shellfish on the seabed, sucking the meat out of the shells.\n\nThey rest in large groups on ice floes and beaches, often piled on top of each other. As sea ice retreats with climate change, Pacific walruses are forced to crowd onto land.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg?width=800"
+    },
+    {
+      "id": "eagle",
+      "title": "Eagle",
+      "description": "A powerful bird of prey with extraordinary eyesight.",
+      "content": "Eagles are large birds of prey with powerful talons, hooked beaks and extremely sharp eyesight, about four to five times sharper than that of humans. Some have wingspans of more than two metres and soar for hours on rising warm air.\n\nThere are more than 60 species. The golden eagle, found across the Northern Hemisphere including the mountains of the Caucasus, hunts hares and marmots; the bald eagle is the national bird of the United States; and the harpy eagle of South American rainforests is among the most powerful.\n\nEagles build huge nests, called eyries, that they reuse for years, and many pair for life. Golden eagles can dive at more than 150 km/h when hunting, and in Central Asia they have been trained for hunting for centuries.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eagles_together.jpg?width=800"
+    },
+    {
+      "id": "penguin",
+      "title": "Penguin",
+      "description": "A flightless seabird that swims like a torpedo.",
+      "content": "Penguins are flightless seabirds that live almost entirely in the Southern Hemisphere; there are about 18 species. They range from the tiny little penguin, about 33 centimetres tall, to the emperor penguin.\n\nTheir wings evolved into flippers for swimming, and dense waterproof feathers and a layer of fat keep them warm. Emperor penguins, the largest at about 1.1 metres tall, breed during the Antarctic winter: males incubate a single egg on their feet for about two months in temperatures below −40 °C while females feed at sea.\n\nPenguins eat fish, squid and krill, and can dive hundreds of metres. Not all live in the cold: the Galápagos penguin lives near the equator.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg?width=800"
+    },
+    {
+      "id": "owl",
+      "title": "Owl",
+      "description": "The silent night hunter with a rotating head.",
+      "content": "Owls are birds of prey adapted to hunting at night, with large forward-facing eyes, a flat facial disc that funnels sound and sharp talons. There are about 200 species, found on every continent except Antarctica.\n\nOwls have very sensitive hearing, and some can locate a mouse under snow by sound alone. Their feathers have soft edges that muffle the sound of flapping, making flight almost silent. They cannot move their eyes in their sockets, so they turn their heads, up to about 270 degrees.\n\nThey eat rodents, insects and small birds, and they cough up the indigestible bones and fur as pellets. In ancient Greece the owl was the symbol of Athena, the goddess of wisdom.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bubo_bubo_sibiricus_-_01.JPG?width=800"
+    },
+    {
+      "id": "parrot",
+      "title": "Parrot",
+      "description": "The colourful, clever bird that can mimic speech.",
+      "content": "Parrots are colourful, intelligent birds with curved beaks and strong feet that can grip objects. There are about 400 species, from tiny parrotlets to large macaws and cockatoos, living mainly in tropical and subtropical regions.\n\nMany parrots can imitate human speech and other sounds, and some, such as the African grey parrot, can learn to use words meaningfully. In the wild they use calls to keep in touch with their flock. Parrots eat seeds, fruit and nuts, cracking them with their powerful beaks.\n\nThey pair for life and are among the longest-lived birds, with large macaws living for 60 years or more. Many species are endangered because of habitat destruction and the illegal pet trade.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rainbow_lorikeet_(Trichoglossus_moluccanus_moluccanus)_Sydney.jpg?width=800"
+    },
+    {
+      "id": "peacock",
+      "title": "Peacock",
+      "description": "The male peafowl with the dazzling tail display.",
+      "content": "The peacock is the male of the peafowl, a large bird from South Asia famous for its spectacular tail. The female is called a peahen, and together they are called peafowl.\n\nThe train is not really the tail but upper tail coverts, which can be about 1.5 metres long and contains around 200 feathers with iridescent eyespots. In the breeding season the male fans them and shakes them to attract a female, a display that is judged by the peahens.\n\nThe Indian peafowl is the national bird of India and has long been a symbol of beauty and royalty in Asian art. Peafowl live in forests and farmland, eating seeds, insects and small reptiles.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Peacock_on_tree_(52077240794).jpg?width=800"
+    },
+    {
+      "id": "flamingo",
+      "title": "Flamingo",
+      "description": "The pink wading bird that filters food with its bill.",
+      "content": "Flamingos are tall wading birds with long legs, curved necks and pink or reddish feathers. There are six species, found in Africa, Asia, Europe and the Americas, usually in shallow salty lakes and lagoons.\n\nTheir pink colour comes from carotenoid pigments in the algae and small crustaceans they eat. A flamingo feeds by holding its head upside down in the water and filtering food through comb-like plates in its bill. Standing on one leg helps them conserve body heat.\n\nFlamingos live in huge colonies of thousands and build mud nests. Greater flamingos spend the winter on the Caspian coast of Azerbaijan, including in the Gizilagaj reserve, and they are a sight of the shallow bays.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flamingos_Laguna_Colorada.jpg?width=800"
+    },
+    {
+      "id": "ostrich",
+      "title": "Ostrich",
+      "description": "The largest and fastest bird on Earth.",
+      "content": "The ostrich is the largest living bird, standing up to 2.5 metres tall and weighing as much as 150 kilograms. It cannot fly but is the fastest runner among birds, reaching about 70 km/h and maintaining 50 km/h for a long distance.\n\nOstriches live on the savannas and deserts of Africa. They have only two toes on each foot, and a powerful kick can injure a lion. Their eyes are the largest of any land vertebrate, bigger than their brains. Contrary to legend, they do not bury their heads in the sand.\n\nAn ostrich egg is the largest of any living bird, weighing about 1.4 kilograms, equal to two dozen chicken eggs. Females lay eggs in a shared nest, and the male incubates them at night.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Struthio_Diversity.jpg?width=800"
+    },
+    {
+      "id": "hummingbird",
+      "title": "Hummingbird",
+      "description": "The tiny bird that hovers and flies backwards.",
+      "content": "Hummingbirds are the smallest birds in the world, found only in the Americas. The bee hummingbird of Cuba weighs about two grams, less than a coin.\n\nThey can hover in place, fly backwards and even upside down, beating their wings 50 to 80 times per second, or more for the smallest species, which produces the humming sound. Their heart can beat over a thousand times a minute, and they need to feed constantly on nectar and small insects.\n\nAt night or in cold weather, hummingbirds may enter a state called torpor, lowering their body temperature and heart rate to save energy. Some species migrate thousands of kilometres, including across the Gulf of Mexico.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinidad_and_Tobago_hummingbirds_composite.jpg?width=800"
+    },
+    {
+      "id": "swan",
+      "title": "Swan",
+      "description": "The graceful white bird that mates for life.",
+      "content": "Swans are large, long-necked waterbirds, famous for their beauty and elegance. There are several species, including the mute swan, the whooper swan and the black swan of Australia.\n\nSwans usually mate for life and take care of their young, called cygnets, which ride on their parents' backs. They feed by dipping their long necks to eat aquatic plants, and they can be aggressive in defending their nests. Large swans weigh over 10 kilograms and are among the heaviest flying birds.\n\nSwans appear in many stories and art, from fairy tales such as The Ugly Duckling to Tchaikovsky's ballet Swan Lake. Migratory swans stop on the lakes and coasts of Azerbaijan in winter.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mute_Swan_Emsworth2.JPG?width=800"
+    },
+    {
+      "id": "crow",
+      "title": "Crow",
+      "description": "The clever black bird that uses tools.",
+      "content": "Crows are large, dark birds in the corvid family, which also includes ravens, magpies and jays. They live almost everywhere in the world and are considered some of the most intelligent birds.\n\nCrows use tools: the New Caledonian crow bends twigs into hooks to pull insects out of holes. They can recognise individual human faces and remember who threatened them, teaching others in their flock to be wary of that person. Some crows drop nuts on roads so cars crack them open.\n\nThey eat almost anything, including seeds, insects, small animals and scraps. Crows live in family groups, and researchers have seen them gather around dead companions, perhaps to learn about danger. The hooded crow is a familiar bird in Azerbaijan.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Corvus_corone_-near_Canford_Cliffs%2C_Poole%2C_England-8.jpg?width=800"
+    },
+    {
+      "id": "falcon",
+      "title": "Falcon",
+      "description": "The fast, sharp-eyed hunter of the skies.",
+      "content": "Falcons are medium-sized birds of prey with long pointed wings, built for speed and agile flight. There are about 40 species, found on every continent except Antarctica, including kestrels, hobbies and the gyrfalcon.\n\nThe peregrine falcon is the fastest animal on Earth: in a hunting dive, called a stoop, it can exceed 300 km/h. It hits other birds in flight with its talons. Falcons have excellent vision and a special notch in the beak to kill prey.\n\nPeregrines nearly vanished in the 1960s due to the pesticide DDT but recovered after it was banned. Falconry, the art of hunting with trained falcons, is an ancient tradition in the Middle East and Central Asia.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eurasian_hobby_(Falco_subbuteo)_by_Shantanu_Kuveskar.jpg?width=800"
+    },
+    {
+      "id": "stork",
+      "title": "Stork",
+      "description": "The long-legged bird that nests on rooftops.",
+      "content": "Storks are large, long-legged wading birds with long, stout bills. The white stork, a familiar species of Europe and western Asia, has white plumage with black flight feathers and red legs and bill, and stands about a metre tall.\n\nWhite storks build huge nests of sticks on rooftops, chimneys and poles, often reusing them for many years. They eat frogs, insects, small mammals and reptiles. In autumn they migrate thousands of kilometres to Africa, gliding on rising warm air, and many pass through the Caucasus on the way.\n\nStorks are quiet birds and make sounds by clattering their bills. In folklore they are said to bring babies, and their return in spring is celebrated as a sign of new life.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ringed_white_stork.jpg?width=800"
+    },
+    {
+      "id": "pelican",
+      "title": "Pelican",
+      "description": "The big-billed fishing bird with a pouch.",
+      "content": "Pelicans are large water birds recognised by their long bills with a stretchy throat pouch. There are eight species, found on lakes, rivers and coasts on all continents except Antarctica.\n\nThe pouch acts like a net: the bird scoops up water and fish, then drains the water before swallowing the catch. It can hold up to about ten litres. Some pelicans plunge from the air to catch fish, and others, such as the great white pelican, fish in groups, driving fish into shallow water.\n\nThe Dalmatian pelican, the largest, has a wingspan of up to three metres and is a rare visitor to the wetlands of Azerbaijan. Pelicans nest in colonies, and many species are vulnerable.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pelikan_Walvis_Bay.jpg?width=800"
+    },
+    {
+      "id": "chicken",
+      "title": "Chicken",
+      "description": "The world's most common domesticated bird.",
+      "content": "The chicken is a domesticated bird descended from the red junglefowl of Southeast Asia, first domesticated about 8,000 years ago. It is the most numerous bird in the world, with more than 20 billion alive at any moment.\n\nChickens are kept for eggs and meat, and there are hundreds of breeds. They are social animals with a pecking order in the flock, and communicate using many different calls. A hen lays about 250 to 300 eggs per year, and a chick starts to peep before hatching.\n\nChickens can fly only short distances. Studies show they can recognise many faces and can solve simple problems, and they are more intelligent than they are often given credit for.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Male_and_female_chicken_sitting_together.jpg?width=800"
+    },
+    {
+      "id": "pigeon",
+      "title": "Pigeon",
+      "description": "The city bird with a homing instinct.",
+      "content": "Pigeons and doves belong to a family of about 300 species. The best known is the rock pigeon, descended from wild rock doves that nested on cliffs, and today living in cities around the world.\n\nPigeons were domesticated thousands of years ago for food, and they are famous for their homing instinct: they can find their way home from hundreds of kilometres away, apparently using the Earth's magnetic field and landmarks. Messenger pigeons carried news for centuries and were used in both world wars.\n\nCharles Darwin bred pigeons to study how selection changes species. The passenger pigeon, once the most numerous bird in North America with billions of birds, was hunted to extinction, and the last one died in 1914.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Columba_livia_(Rock_Dove%2C_wild)%2C_Duncansby_Head%2C_Caithness%2C_Scotland_1.jpg?width=800"
+    },
+    {
+      "id": "albatross",
+      "title": "Albatross",
+      "description": "The ocean glider with the longest wings.",
+      "content": "Albatrosses are huge seabirds of the Southern Ocean and North Pacific. The wandering albatross has the largest wingspan of any living bird, up to about 3.5 metres.\n\nThey glide for hours without flapping, using the wind and waves to travel thousands of kilometres, and can spend years at sea without touching land. They feed on squid and fish. Albatrosses mate for life, perform elaborate courtship dances and can live more than 50 years, and a pair raises just one chick every one or two years.\n\nMany albatross species are threatened, mainly because they get caught on longline fishing hooks or eat plastic. Conservation measures such as bird-scaring lines have helped reduce deaths.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Short_tailed_Albatross1.jpg?width=800"
+    },
+    {
+      "id": "crocodile",
+      "title": "Crocodile",
+      "description": "The ancient armoured reptile of rivers and coasts.",
+      "content": "Crocodiles are large reptiles that live in the tropical rivers, lakes and coasts of Africa, Asia, Australia and the Americas. The crocodilian group is about 200 million years old and has survived since the age of dinosaurs.\n\nThe saltwater crocodile is the largest living reptile, reaching over six metres and one tonne. Crocodiles are ambush predators that lie almost submerged, then explode from the water to seize prey, and they have one of the strongest bites in the animal kingdom. They can hold their breath for over an hour.\n\nA female lays dozens of eggs in a nest and guards them, carrying the hatchlings to the water in her mouth. The temperature of the nest determines whether the hatchlings are male or female.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nile_crocodile_head.jpg?width=800"
+    },
+    {
+      "id": "komodo-dragon",
+      "title": "Komodo Dragon",
+      "description": "The largest lizard in the world.",
+      "content": "The Komodo dragon is the largest living lizard, growing up to about three metres long and weighing up to 70 kilograms. It lives on a few Indonesian islands, including Komodo and Rinca.\n\nIt is a powerful predator that hunts deer, pigs and sometimes water buffalo, and also eats carrion. It has serrated teeth and venom glands that lower the blood pressure and prevent clotting in its prey, so animals bitten may weaken and die later. Its forked tongue picks up scents from several kilometres away.\n\nKomodo dragons can even reproduce without a male, in a process called parthenogenesis. The species is endangered, and Komodo National Park, established in 1980, protects it and is a UNESCO World Heritage Site.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/202306_Varanus_komodoensis.jpg?width=800"
+    },
+    {
+      "id": "king-cobra",
+      "title": "King Cobra",
+      "description": "The longest venomous snake in the world.",
+      "content": "The king cobra is the longest venomous snake in the world, reaching about four to five metres in length. It lives in the forests of India and Southeast Asia and is known for spreading its neck into a hood when threatened.\n\nIt feeds mainly on other snakes, including pythons and even other cobras, which is why its scientific name means snake-eater. When defensive it can raise the front part of its body up to a third of its length and hiss with a low growl, like a dog.\n\nThe king cobra is the only snake known to build a nest for its eggs, and the female guards it. Its venom is dangerous to humans, but it usually avoids people. The species is vulnerable because of habitat loss.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12_-_The_Mystical_King_Cobra_and_Coffee_Forests.jpg?width=800"
+    },
+    {
+      "id": "sea-turtle",
+      "title": "Sea Turtle",
+      "description": "The ancient ocean navigator that returns to its birth beach.",
+      "content": "Sea turtles are ancient reptiles that spend nearly all their lives in the ocean. There are seven species, including the green, loggerhead, hawksbill and leatherback, which is the largest at about two metres and up to 700 kilograms.\n\nFemales return to the beach where they hatched to lay eggs, sometimes after travelling thousands of kilometres, guided by Earth's magnetic field. They dig a nest and lay around a hundred eggs, then return to the sea. The temperature of the sand determines whether hatchlings are male or female, and the tiny turtles race to the sea at night.\n\nOnly a small fraction of hatchlings survive to adulthood. Sea turtles are threatened by plastic pollution, fishing nets, coastal development and warming beaches, and conservation groups protect nesting sites.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chelonia_mydas_is_going_for_the_air_edit.jpg?width=800"
+    },
+    {
+      "id": "giant-tortoise",
+      "title": "Giant Tortoise",
+      "description": "The slow giants that can live for two centuries.",
+      "content": "Giant tortoises are the largest living tortoises, found on the Galápagos Islands in the Pacific and Aldabra in the Indian Ocean. They can weigh up to 400 kilograms and have domed shells more than a metre long.\n\nThey are among the longest-living animals. Jonathan, a Seychelles giant tortoise living on the island of Saint Helena, was born around 1832, which would make him the oldest known living land animal. Giant tortoises eat grass, cacti and leaves, and in dry periods can go for months without food or water.\n\nSailors once collected the tortoises for meat, which drove several populations to extinction. Lonesome George, the last Pinta Island tortoise, died in 2012. Conservation programmes now breed and release tortoises.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A._gigantea_Aldabra_Giant_Tortoise.jpg?width=800"
+    },
+    {
+      "id": "chameleon",
+      "title": "Chameleon",
+      "description": "The colour-changing lizard with swivelling eyes.",
+      "content": "Chameleons are unusual lizards known for changing colour, rotating eyes and a long sticky tongue. There are about 200 species, and nearly half live on the island of Madagascar, while others are found in Africa, southern Europe and Asia.\n\nColour change is mainly used for communication and regulating temperature, not just for camouflage: chameleons show brighter colours when they are excited or displaying to a rival, and darker ones when cold. Each eye moves independently, giving nearly 360-degree vision.\n\nThe tongue can be as long as the body and shoots out in a fraction of a second to catch insects. Chameleons have feet with toes fused into two opposing bundles and a prehensile tail for gripping branches.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panther_Chameleon_738367_(cropped).jpg?width=800"
+    },
+    {
+      "id": "frog",
+      "title": "Frog",
+      "description": "The amphibian that starts life as a tadpole.",
+      "content": "Frogs are amphibians with long hind legs, webbed feet, and moist skin. There are about 7,000 species, found on every continent except Antarctica. They are known for their croaking calls, made mostly by males to attract females.\n\nA frog begins life as an egg in water, hatches as a tadpole with gills and a tail, and gradually changes into an adult with lungs and legs in a process called metamorphosis. Frogs absorb water and oxygen through their skin, which makes them sensitive to pollution, so they are indicator species of environmental health.\n\nSome, such as the poison dart frogs of South America, are brightly coloured to warn that they are toxic. Around a third of amphibians are threatened, partly by a fungal disease and habitat loss. The marsh frog is common in Azerbaijan's wetlands.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red-eyed_Leaf_Frog_(49661076226).jpg?width=800"
+    },
+    {
+      "id": "salamander",
+      "title": "Salamander",
+      "description": "The amphibian that can regrow lost limbs.",
+      "content": "Salamanders are amphibians with slender bodies, short legs and long tails, which look like lizards but have moist skin without scales. They live mostly in damp habitats in the Northern Hemisphere, and there are about 700 species.\n\nMany salamanders can regenerate lost limbs, tails and even parts of their heart and brain, which makes them important for medical research. The axolotl, a Mexican salamander that keeps its larval form, is a favourite in laboratories. The Chinese giant salamander can reach nearly two metres and is the largest amphibian.\n\nSalamanders breathe through their skin, and some species have no lungs at all. They feed on insects and worms and often hide under logs and stones. Newts, which are related, live in ponds and streams in the Caucasus.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SpottedSalamander.jpg?width=800"
+    },
+    {
+      "id": "gecko",
+      "title": "Gecko",
+      "description": "The lizard that walks up walls.",
+      "content": "Geckos are small lizards, with more than 1,500 species, found in warm regions around the world. Most are nocturnal and have large eyes and soft skin, and many can make chirping calls, unusual among reptiles.\n\nTheir toes are covered with millions of microscopic hairs, called setae, that cling to surfaces through weak molecular forces, letting them climb smooth walls and hang from ceilings. This has inspired scientists to design sticky materials. Many geckos can drop their tail to escape a predator, and it grows back.\n\nGeckos eat insects and help keep homes free of pests. Several species live in the dry regions of Azerbaijan, hiding under rocks and in cracks during the day.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phelsuma_l._laticauda.jpg?width=800"
+    },
+    {
+      "id": "great-white-shark",
+      "title": "Great White Shark",
+      "description": "The famous ocean predator of temperate seas.",
+      "content": "The great white shark is the largest predatory fish, growing up to about six metres and weighing over two tonnes. It lives in coastal waters of most temperate oceans, and it is recognised by its white underside, grey back and rows of serrated triangular teeth.\n\nSharks have around 300 teeth arranged in several rows and continually replace the ones they lose. They detect prey with electrical sensors in the snout and a sharp sense of smell, and often ambush seals from below, sometimes leaping fully out of the water, an action called breaching.\n\nDespite their fearsome image, unprovoked attacks on people are rare, and sharks are far more threatened by humans than the other way round. The great white is listed as vulnerable, hunted for fins and caught accidentally in nets.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/White_shark.jpg?width=800"
+    },
+    {
+      "id": "sturgeon",
+      "title": "Sturgeon",
+      "description": "The ancient giant fish that gives us caviar.",
+      "content": "Sturgeons are large, long-lived fish with rows of bony plates instead of scales and a long shovel-like snout. They belong to a very old group that has changed little in more than 200 million years, and they live in rivers and seas in the Northern Hemisphere.\n\nThe Caspian Sea is home to most of the world's sturgeon species, including the beluga, which can reach five or six metres, weigh more than a tonne and live for over a century. Sturgeons swim up rivers such as the Kura and the Volga to spawn, and they take many years to mature.\n\nTheir eggs are sold as caviar, and overfishing and dams have made almost all species critically endangered. International trade is regulated, and the Caspian countries have banned commercial sturgeon fishing to protect them."
+    },
+    {
+      "id": "salmon",
+      "title": "Salmon",
+      "description": "The fish that returns home to spawn.",
+      "content": "Salmon are fish that hatch in fresh water, migrate to the sea to grow, and return to their birthplace rivers to spawn. This life pattern is called anadromous. There are Atlantic and several Pacific species, and a Caspian salmon lives in the Caspian basin.\n\nSalmon find their way home by smell, recognising the chemistry of their home stream, and they may travel thousands of kilometres. They swim against strong currents and leap up waterfalls and rapids. Pacific salmon usually die after spawning, and their bodies feed bears, birds and even trees along the river.\n\nSalmon are a valuable food, and much of the salmon we eat comes from fish farms. Dams and overfishing have reduced wild populations, and fish ladders help them pass obstacles.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Salmo_salar.jpg?width=800"
+    },
+    {
+      "id": "seahorse",
+      "title": "Seahorse",
+      "description": "The little fish where the male carries the young.",
+      "content": "Seahorses are small fish with horse-like heads, curled tails and bony armour instead of scales. There are about 46 species, found in shallow tropical and temperate seas, where they hold on to seagrass and coral with their tails.\n\nThey swim upright, propelled by a tiny dorsal fin that beats 30 to 70 times per second, and are poor swimmers. Seahorses have no teeth or stomach and must eat almost constantly, sucking up small crustaceans through their snouts. They can change colour to blend in with their surroundings.\n\nThe male carries the eggs in a brood pouch until they hatch, so he is the one that gives birth, up to hundreds of babies. Many seahorses are threatened by habitat loss and by the trade in dried seahorses for traditional medicine.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippocampus_hippocampus_(on_Ascophyllum_nodosum).jpg?width=800"
+    },
+    {
+      "id": "octopus",
+      "title": "Octopus",
+      "description": "An invertebrate with three hearts and remarkable problem-solving skills.",
+      "content": "Octopuses have eight arms lined with suckers that can taste as well as touch, and about two-thirds of their neurons sit in the arms rather than the brain. They have three hearts and blue blood.\n\nThey change colour and skin texture in a fraction of a second, both to hide and to signal, despite being effectively colour-blind. Octopuses are among the most intelligent invertebrates: they can open jars, solve mazes, use coconut shells as shelters and squeeze through tiny gaps because they have no bones.\n\nWhen threatened, an octopus can squirt ink to confuse a predator and jet away. Most live only one to five years, and a mother guards her eggs without eating until they hatch, after which she dies.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Octopus2.jpg?width=800"
+    },
+    {
+      "id": "jellyfish",
+      "title": "Jellyfish",
+      "description": "The drifting, brainless animal with stinging tentacles.",
+      "content": "Jellyfish are soft-bodied sea animals that drift with the currents, with a bell-shaped body and trailing tentacles. They have existed for more than 500 million years, making them one of the oldest animal groups.\n\nAbout 95% of a jellyfish is water, and it has no brain, heart or bones. Its tentacles are covered with stinging cells, which fire tiny harpoons to paralyse prey such as plankton and small fish. The lion's mane jellyfish has tentacles that can grow over 30 metres long.\n\nSome jellyfish, such as the box jellyfish, have very painful or dangerous stings. When conditions are right, jellyfish can form huge swarms called blooms. One small species, Turritopsis dohrnii, is called immortal because it can revert to an earlier stage of life.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jelly_cc11.jpg?width=800"
+    },
+    {
+      "id": "clownfish",
+      "title": "Clownfish",
+      "description": "The orange-striped fish that lives in anemones.",
+      "content": "Clownfish are small, brightly coloured fish of the tropical Indian and Pacific oceans, recognised by their orange bodies with white stripes. They live among the stinging tentacles of sea anemones, which shelter them from predators.\n\nThe clownfish is protected by a layer of mucus that stops the anemone from stinging it. In return it cleans the anemone, drives away fish that eat it and provides nutrients with its waste. Each anemone holds a group led by a large female, with a smaller breeding male and several non-breeding males.\n\nAll clownfish are born male, and if the female dies, the dominant male changes sex and takes her place. The film Finding Nemo (2003) made the fish famous, though it also increased demand for them as pets.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg?width=800"
+    },
+    {
+      "id": "whale-shark",
+      "title": "Whale Shark",
+      "description": "The largest fish in the sea, a gentle plankton eater.",
+      "content": "The whale shark is the largest fish in the world, reaching about 12 metres and possibly more, and weighing many tonnes. Despite its size, it is a gentle filter feeder that eats plankton, small fish and krill by swimming with its huge mouth open.\n\nIt has a broad flat head and a body covered with a pattern of white spots and stripes, unique to every individual, like a fingerprint. Whale sharks live in warm oceans and travel thousands of kilometres, and they may live 70 years or more.\n\nThey are not whales but sharks, and they are harmless to humans. The species is endangered because of fishing and collisions with ships, and swimming with them is a popular tourist activity that needs careful management.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Similan_Dive_Center_-_great_whale_shark.jpg?width=800"
+    },
+    {
+      "id": "bee",
+      "title": "Bee",
+      "description": "A pollinating insect that lives in highly organised colonies.",
+      "content": "Bees are flying insects known for pollinating flowers, and there are more than 20,000 species. The honey bee is the best known, living in colonies of up to 60,000 individuals with a single queen, female workers and male drones.\n\nWorker bees collect nectar and pollen, and tell their nestmates where flowers are through the waggle dance. A worker makes only about a twelfth of a teaspoon of honey in her whole life. Bees pollinate about a third of the food crops people eat.\n\nBees face threats from pesticides, habitat loss, disease and climate change, which is why protecting them matters for farming and for wild plants alike. Many bees are solitary and do not live in hives, and some, like bumblebees, live in small colonies.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tetragonula_carbonaria_(14521993792).jpg?width=800"
+    },
+    {
+      "id": "ant",
+      "title": "Ant",
+      "description": "The tiny social insect that builds giant colonies.",
+      "content": "Ants are social insects that live in organised colonies, and there are more than 12,000 known species. They are found on every continent except Antarctica, and the total weight of all ants on Earth is believed to be comparable to that of all humans.\n\nA colony is made up of a queen, who lays eggs, and workers, which are all females that forage, care for the young and defend the nest. Ants communicate with chemicals called pheromones and leave scent trails to food. An ant can carry objects many times its own weight.\n\nSome ants show remarkable behaviour: leafcutter ants grow fungus on leaves as food, and army ants march in huge columns. The Argentine ant forms supercolonies that spread over thousands of kilometres of southern Europe.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_Ant_-_March_2025.jpg?width=800"
+    },
+    {
+      "id": "butterfly",
+      "title": "Butterfly",
+      "description": "The winged insect that transforms in a chrysalis.",
+      "content": "Butterflies are insects with large, colourful wings covered with tiny scales. There are about 18,000 species, and they live on every continent except Antarctica.\n\nA butterfly goes through complete metamorphosis in four stages: egg, caterpillar, pupa, or chrysalis, and adult. The caterpillar eats leaves and grows, then forms a chrysalis, inside which its body is rebuilt. Adults drink nectar through a coiled tube and have taste sensors on their feet.\n\nThe monarch butterfly is famous for its migration: each autumn millions travel up to about 4,000 kilometres from Canada and the United States to overwintering sites in Mexico. Butterflies are also important pollinators, and many species are declining due to habitat loss.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fesoj_-_Papilio_machaon_(by).jpg?width=800"
+    },
+    {
+      "id": "spider",
+      "title": "Spider",
+      "description": "The eight-legged silk spinner and hunter.",
+      "content": "Spiders are arachnids, not insects, with eight legs, two body segments and no antennae. There are about 50,000 known species, which live on every continent except Antarctica and are important predators of insects.\n\nNearly all spiders produce silk from glands at the rear of the body and use it in many ways: to build webs, wrap prey, make egg sacs and travel on the wind. Not all build webs: wolf spiders and jumping spiders hunt actively, and trapdoor spiders ambush prey from burrows. Most have venom, but only a few are dangerous to humans.\n\nSpiders in Azerbaijan include the karakurt, a relative of the black widow that lives in dry areas of the Caucasus and Central Asia. Spider silk is stronger than steel of the same thickness.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Araneus_diadematus_(Clerck%2C_1757).JPG?width=800"
+    },
+    {
+      "id": "scorpion",
+      "title": "Scorpion",
+      "description": "The venomous arachnid with pincers and a stinging tail.",
+      "content": "Scorpions are arachnids with a pair of pincers and a curved tail that ends in a venomous stinger. There are about 2,500 species, found in deserts, forests and mountains on every continent except Antarctica.\n\nScorpions are ancient animals that have existed for over 400 million years. They hunt at night, seizing insects and spiders with their pincers and using venom on larger prey. Under ultraviolet light they glow blue-green. Females give birth to live young, which ride on the mother's back for a while.\n\nOnly a small number of species have venom that is dangerous to people. Scorpions live in the semi-deserts of Azerbaijan and are shy, mostly hiding under stones during the day.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Scorpion_Photograph_By_Shantanu_Kuveskar.jpg?width=800"
+    },
+    {
+      "id": "dragonfly",
+      "title": "Dragonfly",
+      "description": "The fast aerial hunter that predates the dinosaurs.",
+      "content": "Dragonflies are insects with long bodies and two pairs of transparent wings that they can move independently, allowing them to hover, fly backwards and turn sharply. They have existed for about 300 million years.\n\nTheir large compound eyes contain up to 30,000 lenses, and they are among the most successful hunters in the animal world, catching over 90% of the prey they chase. They eat mosquitoes, flies and other insects in the air. Dragonflies can reach speeds of about 50 km/h.\n\nThe young, called nymphs, live underwater for months or years and are fierce predators as well, before climbing out and becoming adults. An ancient relative, Meganeura, had a wingspan of about 70 centimetres.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_grasshawk_(Neurothemis_fluctuans)_male_Phuket_2.jpg?width=800"
+    },
+    {
+      "id": "mosquito",
+      "title": "Mosquito",
+      "description": "The tiny insect that is the deadliest animal to humans.",
+      "content": "Mosquitoes are small flying insects, of which there are about 3,500 species. Only females bite, because they need the proteins in blood to develop their eggs, while both sexes feed on nectar.\n\nThey find people by detecting the carbon dioxide in our breath, body heat and smells. Females lay eggs in still water, and the larvae develop there before turning into adults. Mosquitoes spread diseases such as malaria, dengue and yellow fever, and this makes them the deadliest animal to humans, responsible for hundreds of thousands of deaths each year.\n\nEfforts to control them include draining standing water, bed nets and medicine. In 2023 the World Health Organization certified Azerbaijan as malaria-free. World Mosquito Day is on 20 August.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aedes_aegypti.jpg?width=800"
+    },
+    {
+      "id": "crab",
+      "title": "Crab",
+      "description": "The sideways-walking crustacean with claws.",
+      "content": "Crabs are crustaceans with a hard shell, ten legs and a pair of claws. There are about 6,000 species, found in oceans, fresh water and on land, and they walk sideways because of the way their legs are jointed.\n\nCrabs are covered by a hard exoskeleton, which they must shed in order to grow, a process called moulting; while the new shell hardens they hide. They eat algae, molluscs, worms and other animals, and they use their claws to fight, feed and signal to each other. Females carry thousands of eggs on their bodies.\n\nThe Japanese spider crab has a leg span of about 3.7 metres, the largest of any arthropod. Hermit crabs are not true crabs and live in borrowed shells. Crabs are an important food in many cultures.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cancer_pagurus.jpg?width=800"
+    },
+    {
+      "id": "starfish",
+      "title": "Starfish",
+      "description": "The sea star with no brain and arms that regrow.",
+      "content": "Starfish, or sea stars, are marine animals with a star-shaped body, usually with five arms, although some species have up to 40. There are about 2,000 species living in oceans from shallow pools to the deep sea.\n\nThey have no brain and no blood. Instead they have a water vascular system with hundreds of tiny tube feet that let them move and grip. They can regenerate lost arms, and some can grow an entire new body from a single arm.\n\nMany starfish are predators of mussels and clams: they pull the shell open, push their stomach out of their mouth and digest the prey outside the body. They are important in ecosystems, as some keep mussel populations under control.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Starfish_montage.png?width=800"
+    },
+    {
+      "id": "snail",
+      "title": "Snail",
+      "description": "The slow mollusc that carries its home.",
+      "content": "Snails are molluscs with a coiled shell that lives on land, in fresh water and in the sea. There are tens of thousands of species, and the giant African snail can grow to about 30 centimetres.\n\nA land snail moves on a muscular foot, gliding on a trail of slime that protects it from rough surfaces and helps it stick. It has tentacles with eyes on the tips of the longer pair. It feeds using a ribbon-like tongue called the radula, which is covered with thousands of tiny teeth.\n\nSnails retreat into their shells and seal them with mucus to survive dryness and cold. Most land snails are hermaphrodites, having both sexes. Snails are eaten as escargot in France and are used in cosmetics.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snail.jpg?width=800"
+    },
+    {
+      "id": "praying-mantis",
+      "title": "Praying Mantis",
+      "description": "The patient insect ambusher with folded forelegs.",
+      "content": "Praying mantises are insects named for the way they hold their front legs, folded as if in prayer. There are about 2,400 species, most of them in tropical regions, and some live in Azerbaijan and southern Europe.\n\nThey are ambush predators: a mantis stays motionless and camouflaged among leaves or flowers, then snaps its spiked forelegs to seize passing insects, and even small frogs or birds, in a fraction of a second. It is the only insect that can turn its head around almost 180 degrees and has stereo vision that helps it judge distance.\n\nSome species mimic flowers or leaves. In some species the female sometimes eats the male after mating, though this is less common in nature than in the laboratory. Females lay eggs in a foam case called an ootheca.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mantis_(European).jpg?width=800"
+    },
+    {
+      "id": "tyrannosaurus",
+      "title": "Tyrannosaurus rex",
+      "description": "The most famous predator of the dinosaur age.",
+      "content": "Tyrannosaurus rex was one of the largest meat-eating dinosaurs, living in western North America about 68 to 66 million years ago, just before the mass extinction that ended the dinosaurs. Its name means tyrant lizard king.\n\nIt was about 12 metres long and weighed around eight tonnes. Its huge skull, with teeth up to about 30 centimetres long including the root, could deliver one of the strongest bites of any land animal, crushing bone. Its arms were tiny, but it had powerful legs and a keen sense of smell.\n\nNearly complete skeletons, such as Sue, discovered in South Dakota in 1990 and displayed at the Field Museum in Chicago, have taught scientists about its growth and biology. Some scientists think that young tyrannosaurs had feathers.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus_Rex_Holotype.jpg?width=800"
+    },
+    {
+      "id": "mammoth",
+      "title": "Woolly Mammoth",
+      "description": "The furry elephant relative of the Ice Age.",
+      "content": "The woolly mammoth was a giant relative of modern elephants that lived in the cold tundra and steppes of Eurasia and North America during the Ice Age. It stood about three to four metres tall and had long, curved tusks, up to about four metres long.\n\nTo survive the cold, it had a thick layer of fat, small ears and a coat of long shaggy hair over a dense underfur. Mammoths ate grasses and sedges and lived in herds. Early humans hunted them and drew them in cave paintings.\n\nMost mammoths died out about 10,000 years ago as the climate warmed, but a small population survived on Wrangel Island until about 4,000 years ago. Frozen carcasses in Siberian permafrost, such as the calf Lyuba, have preserved skin and hair, and scientists study their DNA.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siegsdorfer_Mammut.jpg?width=800"
+    },
+    {
+      "id": "dodo",
+      "title": "Dodo",
+      "description": "The flightless bird that vanished within decades of its discovery.",
+      "content": "The dodo was a flightless bird that lived only on the island of Mauritius in the Indian Ocean. It was about a metre tall, weighed about 10 to 18 kilograms, and had a large hooked beak, stubby wings and small tail feathers. It was related to pigeons.\n\nSince it had no natural predators on the island, it had no fear of humans. Dutch sailors reached Mauritius in 1598, and within about 70 to 80 years the dodo was extinct, the last confirmed sighting being in 1662, although some accounts suggest it survived until the 1680s. Hunting, introduced animals such as pigs, rats and monkeys, and forest clearing all contributed.\n\nThe dodo became a symbol of extinction, and the phrase dead as a dodo comes from it. It also appears in Lewis Carroll's Alice's Adventures in Wonderland.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oxford_Dodo_display.jpg?width=800"
+    },
+    {
+      "id": "camouflage",
+      "title": "Camouflage",
+      "description": "How animals hide in plain sight.",
+      "content": "Camouflage is the way animals avoid being seen by blending in with their surroundings or looking like something else. It helps prey escape predators and helps predators approach prey.\n\nThere are many forms: cryptic colouring, as in the Arctic hare that turns white in winter; countershading, in which the back is darker than the belly, as in many fish; disruptive patterns that break up the outline, such as a leopard's spots; and mimicry, as in stick insects and leaf insects that resemble twigs or leaves.\n\nSome animals can change their appearance quickly: cuttlefish and octopuses alter their skin colour and texture, and chameleons and flounders also adjust their patterns. In the case of the peppered moth in industrial England, dark forms became common when soot darkened trees, a classic example of natural selection.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flower_flounder_in_Kona_may_2010.jpg?width=800"
+    },
+    {
+      "id": "animal-migration",
+      "title": "Animal Migration",
+      "description": "The great seasonal journeys of animals.",
+      "content": "Animal migration is the regular movement of animals from one region to another, usually in response to seasons, food or breeding. It occurs on land, in the air and in the sea.\n\nSome of the most impressive journeys are those of the Arctic tern, which flies from the Arctic to Antarctica and back, about 70,000 kilometres a year; wildebeest, of which over a million cross the Serengeti in search of grass; humpback whales, which move between polar feeding areas and tropical breeding waters; and salmon, which return to their home rivers.\n\nAzerbaijan lies on a major flyway between Europe, Asia and Africa, and millions of birds pass over the Caspian coast in spring and autumn. Migratory animals face threats from barriers, habitat loss and climate change, so protecting their routes requires international cooperation.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greater_white-fronted_goose_(32014381228).jpg?width=800"
+    },
+    {
+      "id": "echolocation",
+      "title": "Echolocation",
+      "description": "Seeing with sound, as bats and dolphins do.",
+      "content": "Echolocation is a method of sensing the surroundings by emitting sounds and listening to the echoes that return. The time and strength of the echo tell the animal how far away an object is, and its size and shape.\n\nBats use it to find insects in total darkness, sending out very high-pitched calls, often above the range of human hearing, and can detect a target as thin as a human hair. Toothed whales and dolphins produce clicks in the nasal passages and focus them through a fatty organ in the forehead called the melon.\n\nA few other animals, such as oilbirds and swiftlets, use it in caves, and some blind people can learn to use clicks to sense their surroundings. Human sonar and ultrasound imaging are based on the same principle.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Animal_echolocation.svg?width=800"
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "category": "space",
+  "articles": [
+    {
+      "id": "solar-system",
+      "title": "The Solar System",
+      "description": "The Sun and everything that orbits it.",
+      "content": "The Solar System consists of the Sun and everything bound to it by gravity, including eight planets, their moons, dwarf planets, asteroids and comets.\n\nIt formed about 4.6 billion years ago from a collapsing cloud of gas and dust. The four inner planets, Mercury, Venus, Earth and Mars, are small and rocky; the outer giants Jupiter and Saturn are mostly hydrogen and helium, while Uranus and Neptune are ice giants. The Sun holds 99.8% of the system's mass.\n\nBeyond Neptune lie the Kuiper Belt, home to Pluto, and the distant Oort Cloud. Voyager 1, launched in 1977, entered interstellar space in 2012.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solar_System_True_Color_EN.png?width=800"
+    },
+    {
+      "id": "sun",
+      "title": "The Sun",
+      "description": "The star at the heart of our Solar System.",
+      "content": "The Sun is a star, a huge ball of hot gas at the centre of the Solar System. It is about 1.39 million kilometres across, wide enough to hold about 1.3 million Earths, and contains 99.86% of the Solar System's mass. It is a yellow dwarf, a typical medium-sized star about 4.6 billion years old.\n\nIn its core, where the temperature is about 15 million °C, hydrogen nuclei fuse into helium, converting about four million tonnes of matter into energy every second. This energy takes thousands of years to reach the surface, which is about 5,500 °C, and then just over eight minutes to reach Earth as light.\n\nThe Sun has enough hydrogen to shine for another five billion years or so. Its magnetic activity creates sunspots and flares in an 11-year cycle. Never look directly at the Sun without proper eye protection.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sun_in_white_light.jpg?width=800"
+    },
+    {
+      "id": "mercury",
+      "title": "Mercury",
+      "description": "The smallest planet, closest to the Sun.",
+      "content": "Mercury is the smallest planet in the Solar System, only a little bigger than Earth's Moon, and the closest to the Sun, at an average distance of 58 million kilometres. It races around the Sun in 88 Earth days, the shortest year of any planet, but it rotates slowly, so a day from one sunrise to the next lasts about 176 Earth days.\n\nWith almost no atmosphere to hold heat, Mercury has the greatest temperature swings of any planet, from about 430 °C in the day to minus 180 °C at night. Its surface is covered with craters like the Moon's, such as the huge Caloris Basin. It has a large iron core, making up about 85% of its radius.\n\nOnly two spacecraft have orbited it: MESSENGER, from 2011 to 2015, and BepiColombo, a European-Japanese mission launched in 2018 and due to enter orbit in late 2026. MESSENGER found water ice in permanently shadowed craters near the poles.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercury_in_true_color.jpg?width=800"
+    },
+    {
+      "id": "venus",
+      "title": "Venus",
+      "description": "The hottest planet, wrapped in acid clouds.",
+      "content": "Venus is the second planet from the Sun and the hottest, with a surface temperature of about 465 °C, hot enough to melt lead. It is almost the same size as Earth, and is sometimes called Earth's twin, but it is a very different world.\n\nIts thick atmosphere, mostly carbon dioxide, creates a runaway greenhouse effect and has a pressure about 92 times that at Earth's surface. Clouds of sulphuric acid cover the planet. Venus rotates backward, slowly, so its day, about 243 Earth days, is longer than its year of 225 days.\n\nSeen as the bright evening or morning star, it is the brightest planet in our sky. Soviet Venera 7 made the first landing on another planet in 1970, surviving less than an hour. The Magellan spacecraft mapped it with radar in the early 1990s, and NASA and ESA plan new missions in the 2030s.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_from_Mariner_10.jpg?width=800"
+    },
+    {
+      "id": "moon",
+      "title": "The Moon",
+      "description": "Earth's only natural satellite.",
+      "content": "The Moon is Earth's only natural satellite, about a quarter of Earth's diameter, orbiting at an average distance of 384,000 kilometres. It is the fifth-largest moon in the Solar System.\n\nMost scientists think it formed about 4.5 billion years ago when a Mars-sized body struck the young Earth and the debris merged into the Moon. It has no significant atmosphere, so its surface is covered in craters. Its gravity causes ocean tides, and it always shows the same face to Earth because its rotation matches its orbit.\n\nNeil Armstrong and Buzz Aldrin landed on the Moon on 20 July 1969 during Apollo 11, and twelve people have walked on it in total. Ice has been found in permanently shadowed craters near the poles.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FullMoon2010.jpg?width=800"
+    },
+    {
+      "id": "mars",
+      "title": "Mars",
+      "description": "The fourth planet from the Sun, cold, dry and rust-red.",
+      "content": "Mars is a little over half the diameter of Earth and its thin atmosphere is mostly carbon dioxide.\n\nIron oxide dust gives the surface its familiar colour. The planet hosts Olympus Mons, the tallest volcano in the solar system, and Valles Marineris, a canyon system over 4,000 kilometres long. It has two small moons, Phobos and Deimos.\n\nA day on Mars lasts about 24 hours and 37 minutes, but a year takes 687 Earth days. Evidence shows that liquid water once flowed on its surface, and rovers such as Curiosity and Perseverance are searching for signs of ancient life. In 2021 the small helicopter Ingenuity made the first powered flight on another planet.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?width=800"
+    },
+    {
+      "id": "jupiter",
+      "title": "Jupiter",
+      "description": "The largest planet in the Solar System.",
+      "content": "Jupiter is the largest planet in the Solar System, more than 11 times Earth's diameter and with more than twice the mass of all the other planets combined.\n\nIt is a gas giant made mostly of hydrogen and helium. Its Great Red Spot is a storm larger than Earth that has raged for at least 150 years. Jupiter has more than 90 known moons, including Ganymede, the largest moon in the Solar System, and Europa, which hides a salty ocean beneath its ice and is a target in the search for life.\n\nA day there lasts only about ten hours. Missions to Jupiter include Galileo, Juno, which arrived in 2016, and Europa Clipper, launched in 2024.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jupiter_OPAL_2024.png?width=800"
+    },
+    {
+      "id": "saturn",
+      "title": "Saturn",
+      "description": "The ringed planet.",
+      "content": "Saturn is the sixth planet from the Sun and the second largest, about nine times the width of Earth. It is a gas giant made mostly of hydrogen and helium, and it is so light for its size that it would float in water, if there were an ocean big enough.\n\nIt is famous for its spectacular rings, made of billions of pieces of ice. Saturn has more than 200 known moons, including Titan, the second-largest moon in the Solar System, with a thick atmosphere, and Enceladus, which spouts water from its south pole. At the north pole there is a strange hexagon-shaped cloud pattern.\n\nA day on Saturn lasts about 10.7 hours, and a year about 29 Earth years. Winds reach 1,800 kilometres per hour. Galileo first saw the rings in 1610, and the Cassini spacecraft orbited Saturn from 2004 to 2017.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png?width=800"
+    },
+    {
+      "id": "uranus",
+      "title": "Uranus",
+      "description": "The ice giant that spins on its side.",
+      "content": "Uranus is the seventh planet from the Sun and an ice giant, about four times the width of Earth, made of water, methane and ammonia ices around a rocky core, under an atmosphere of hydrogen and helium. Methane gives it a pale blue-green colour.\n\nIt was discovered in 1781 by the astronomer William Herschel, the first planet found with a telescope. Uranus is tilted by about 98 degrees, so it spins on its side, and each pole gets 42 years of sunlight followed by 42 years of darkness during its 84-year orbit. It has 13 faint rings and 28 known moons, named after characters from Shakespeare and Pope.\n\nIts atmosphere is the coldest of any planet, at about minus 224 °C. Only one spacecraft has visited: Voyager 2, in 1986. Scientists have proposed a new mission to Uranus.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uranus_Voyager2_color_calibrated.png?width=800"
+    },
+    {
+      "id": "neptune",
+      "title": "Neptune",
+      "description": "The distant blue world of supersonic winds.",
+      "content": "Neptune is the eighth and farthest known planet from the Sun, an ice giant a little smaller than Uranus, about 4.5 billion kilometres from the Sun. Its rich blue colour is caused by methane in its atmosphere. One year on Neptune lasts about 165 Earth years.\n\nIts existence was predicted by mathematics: astronomers noticed odd movements in the orbit of Uranus, and in 1846 Urbain Le Verrier and John Couch Adams independently calculated where a new planet should be. The German astronomer Johann Galle found it the same night he received Le Verrier's letter.\n\nNeptune has the strongest winds in the Solar System, up to about 2,000 kilometres per hour. Its largest moon, Triton, orbits backward and is probably a captured object from the Kuiper Belt. Voyager 2 flew past Neptune in 1989.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neptune_Voyager2_color_calibrated.png?width=800"
+    },
+    {
+      "id": "pluto",
+      "title": "Pluto",
+      "description": "The famous dwarf planet at the edge of the Solar System.",
+      "content": "Pluto was discovered in 1930 by the American astronomer Clyde Tombaugh, and for 76 years it was counted as the ninth planet. In 2006 the International Astronomical Union reclassified it as a dwarf planet, because it has not cleared other objects from its orbit.\n\nIt is smaller than the Moon, about 2,377 kilometres across, and takes 248 Earth years to orbit the Sun. Its largest moon, Charon, is about half its size, so the two are sometimes described as a double system, and there are four smaller moons. Its surface temperature is about minus 230 °C.\n\nNASA's New Horizons spacecraft flew past Pluto on 14 July 2015 and found a surprisingly active world, with mountains of water ice, glaciers of nitrogen ice and a large heart-shaped plain named Tombaugh Regio.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pluto_in_True_Color_-_High-Res.png?width=800"
+    },
+    {
+      "id": "dwarf-planets",
+      "title": "Dwarf Planets",
+      "description": "Small worlds that are round but have not cleared their orbits.",
+      "content": "A dwarf planet is a body that orbits the Sun, is massive enough to be round, but has not cleared its orbit of other debris and is not a moon. The definition was set by the International Astronomical Union in 2006, when Pluto was reclassified.\n\nFive dwarf planets are officially recognised. Ceres, about 950 kilometres across, lies in the asteroid belt between Mars and Jupiter; it was discovered in 1801 and visited by NASA's Dawn spacecraft in 2015. The others are Pluto, Eris, Haumea and Makemake, all in the outer Solar System. Eris, found in 2005, is about the same size as Pluto and slightly more massive, and its discovery triggered the debate that led to the new definition.\n\nAstronomers think there may be hundreds of other objects in the outer Solar System that qualify.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ceres_-_RC3_-_Haulani_Crater_(22381131691).jpg?width=800"
+    },
+    {
+      "id": "asteroids",
+      "title": "Asteroids",
+      "description": "The rocky leftovers of the Solar System's formation.",
+      "content": "Asteroids are rocky or metallic bodies left over from the formation of the Solar System about 4.6 billion years ago. Most orbit in the main asteroid belt between Mars and Jupiter, where there are millions, though their total mass is only a few percent of the Moon's. The largest, Ceres, is now classed as a dwarf planet, and Vesta is the second largest.\n\nAsteroids range from tiny pebbles to bodies hundreds of kilometres across. Some, called near-Earth asteroids, cross our planet's path. Spacecraft have visited them: Japan's Hayabusa2 returned samples of Ryugu in 2020, and NASA's OSIRIS-REx returned samples of Bennu in 2023.\n\nAsteroids have hit Earth in the past, most famously the one that ended the dinosaurs 66 million years ago. In 2022 NASA's DART mission successfully changed the orbit of a small asteroid, Dimorphos, in a test of planetary defence.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/243_ida_crop.jpg?width=800"
+    },
+    {
+      "id": "comets",
+      "title": "Comets",
+      "description": "Icy bodies that grow glowing tails near the Sun.",
+      "content": "Comets are icy bodies left over from the formation of the Solar System, often described as dirty snowballs of ice, dust and rock a few kilometres wide.\n\nWhen a comet nears the Sun, heat vaporises its ice and forms a glowing cloud called the coma, and one or two tails that always point away from the Sun, pushed by sunlight and the solar wind. Short-period comets come from the Kuiper Belt and long-period ones from the distant Oort Cloud.\n\nHalley's Comet returns about every 76 years, last in 1986 and due again in 2061. In 2014 ESA's Rosetta mission placed a lander, Philae, on a comet.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Comet_Hale-Bopp_1995O1.jpg?width=800"
+    },
+    {
+      "id": "meteors-and-meteorites",
+      "title": "Meteors and Meteorites",
+      "description": "Shooting stars and space rocks that reach the ground.",
+      "content": "A meteoroid is a small piece of rock or metal in space, from a grain of dust to a boulder. When it enters Earth's atmosphere at high speed, it heats up and glows, creating a streak of light called a meteor, or shooting star. If a piece survives to reach the ground, it is called a meteorite.\n\nMost meteors are no bigger than a grain of sand and burn up completely. Meteorites are of three main kinds: stony, made of rock; iron, made of iron and nickel; and stony-iron. The largest known, the Hoba meteorite in Namibia, weighs about 60 tonnes and is still where it landed.\n\nIn 2013 a meteor about 20 metres across exploded over the Russian city of Chelyabinsk, its shock wave breaking windows and injuring about 1,500 people. Meteorites are valuable to scientists as pieces of the early Solar System.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Namibie_Hoba_Meteorite_05.JPG?width=800"
+    },
+    {
+      "id": "kuiper-belt",
+      "title": "The Kuiper Belt",
+      "description": "The icy region beyond Neptune.",
+      "content": "The Kuiper Belt is a vast, doughnut-shaped region of the outer Solar System, stretching from the orbit of Neptune, about 30 times the Earth-Sun distance, to about 50 times. It is filled with icy bodies, remnants from the Solar System's formation, and includes the dwarf planets Pluto, Haumea and Makemake.\n\nIt is named after the Dutch-American astronomer Gerard Kuiper, who discussed such a region in 1951, though the first object in it, apart from Pluto, was only found in 1992. Since then, thousands have been discovered. The belt is the source of many short-period comets.\n\nIn 2019 NASA's New Horizons spacecraft flew past Arrokoth, a small, snowman-shaped object in the belt, the most distant object ever explored up close. Arrokoth is thought to be a well-preserved relic of the earliest days of planet formation.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kuiper_belt_plot_objects_of_outer_solar_system.png?width=800"
+    },
+    {
+      "id": "oort-cloud",
+      "title": "The Oort Cloud",
+      "description": "The distant shell of icy bodies at the Solar System's edge.",
+      "content": "The Oort Cloud is a theoretical spherical shell of icy objects that is thought to surround the Solar System at enormous distances, from about 2,000 to perhaps 100,000 times the Earth-Sun distance, which is up to about one and a half light-years. It has never been observed directly.\n\nThe Dutch astronomer Jan Oort proposed it in 1950 to explain where long-period comets come from, since they arrive from all directions and have very long orbits. It may hold trillions of icy bodies, and passing stars can nudge some of them toward the Sun.\n\nThe cloud marks the edge of the Sun's gravitational influence. The Voyager 1 spacecraft, now about 24 billion kilometres away, will take about 300 years to reach its inner edge and tens of thousands of years to cross it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PIA17046_-_Voyager_1_Goes_Interstellar.jpg?width=800"
+    },
+    {
+      "id": "io",
+      "title": "Io",
+      "description": "The most volcanic world in the Solar System.",
+      "content": "Io is the innermost of the four large moons of Jupiter, discovered by Galileo in 1610, and slightly larger than Earth's Moon. It is the most volcanically active body in the Solar System, with hundreds of active volcanoes, some throwing lava fountains and plumes of sulphur hundreds of kilometres high.\n\nThe energy comes from tidal heating. Io is tugged by Jupiter's strong gravity and by the pull of the neighbouring moons Europa and Ganymede, so its interior is constantly squeezed and flexed, generating heat. Its surface is coloured yellow, orange and red by sulphur compounds and has no impact craters, because lava constantly covers them.\n\nThe volcanoes were discovered in 1979, when Voyager 1 photographed a plume, just before scientists had predicted that Io would be volcanic. NASA's Juno spacecraft made close passes in 2023 and 2024.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Io_highest_resolution_natural_color.png?width=800"
+    },
+    {
+      "id": "europa",
+      "title": "Europa",
+      "description": "The icy moon with a hidden ocean.",
+      "content": "Europa is one of Jupiter's four large moons, slightly smaller than Earth's Moon. Its surface is a smooth shell of water ice, crisscrossed with cracks and ridges, with very few craters, suggesting that it is young and geologically active.\n\nScientists think that beneath the ice, which is about 15 to 25 kilometres thick, lies a global ocean of salty liquid water containing about twice as much water as all of Earth's oceans. The heat comes from the tidal flexing caused by Jupiter's gravity. Observations by the Hubble Space Telescope suggest that plumes of water vapour may erupt from its surface.\n\nBecause it has liquid water, and probably chemical ingredients and energy, Europa is one of the most promising places to search for life beyond Earth. NASA's Europa Clipper, launched in October 2024, is due to arrive in 2030 and make dozens of close flybys.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Europa_-_Perijove_45_(cropped).png?width=800"
+    },
+    {
+      "id": "ganymede",
+      "title": "Ganymede",
+      "description": "The largest moon in the Solar System.",
+      "content": "Ganymede, a moon of Jupiter, is the largest moon in the Solar System, with a diameter of 5,268 kilometres, larger than the planet Mercury, though only about half as massive because it is made of rock and ice. It was discovered by Galileo in 1610.\n\nIt is the only moon known to have its own magnetic field, which produces auroras, and probably has a deep salty ocean beneath its icy crust, sandwiched between layers of ice, with more water than all of Earth's oceans. Its surface has both dark, ancient, cratered regions and lighter, grooved terrain.\n\nNASA's Juno spacecraft passed close to Ganymede in 2021. The European Space Agency's JUICE mission, launched in April 2023, is due to arrive at the Jupiter system in 2031 and later go into orbit around Ganymede, the first spacecraft to orbit a moon other than our own.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganymede_-_Perijove_34_Composite.png?width=800"
+    },
+    {
+      "id": "titan",
+      "title": "Titan",
+      "description": "Saturn's giant moon with lakes of methane.",
+      "content": "Titan is Saturn's largest moon and the second largest in the Solar System, bigger than the planet Mercury. It was discovered in 1655 by the Dutch astronomer Christiaan Huygens. It is the only moon with a thick atmosphere, mostly nitrogen, with a surface pressure about 1.5 times that on Earth, and a haze of orange smog.\n\nThe surface temperature is about minus 179 °C. At that temperature, methane and ethane behave as water does on Earth: they form clouds, rain, rivers and lakes, making Titan the only place besides Earth known to have liquid on its surface. Dunes of organic grains cover the equator, and water ice is as hard as rock.\n\nThe European probe Huygens, carried by the Cassini spacecraft, landed on Titan on 14 January 2005. NASA's Dragonfly, a rotorcraft that will fly from place to place on Titan, is planned for launch in 2028.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Titan_in_true_color_by_Kevin_M._Gill.jpg?width=800"
+    },
+    {
+      "id": "enceladus",
+      "title": "Enceladus",
+      "description": "The small moon that sprays water into space.",
+      "content": "Enceladus is a small, bright, icy moon of Saturn, only about 500 kilometres across. It reflects almost all the sunlight that falls on it, making its surface the whitest of any body in the Solar System.\n\nIn 2005 the Cassini spacecraft discovered geysers erupting from cracks near its south pole, called tiger stripes, shooting water vapour and ice grains into space. This material feeds Saturn's E ring. Cassini flew through the plumes and found salt, silica, and organic molecules, evidence of a global ocean of liquid water under the ice, heated from below, possibly by hydrothermal vents like those on Earth's sea floor. In 2023 scientists also detected phosphorus, an element essential to life, in the plumes.\n\nBecause it seems to have water, energy and the chemical building blocks, Enceladus is one of the most promising places to look for extraterrestrial life.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PIA17202_-_Approaching_Enceladus.jpg?width=800"
+    },
+    {
+      "id": "rings-of-saturn",
+      "title": "The Rings of Saturn",
+      "description": "The most spectacular ring system in the Solar System.",
+      "content": "Saturn's rings are the largest and brightest ring system of any planet. They are made of billions of pieces of mostly water ice, ranging from grains of dust to chunks as large as a house, all orbiting the planet. They stretch out to about 282,000 kilometres from Saturn, but are typically only about ten metres thick in places.\n\nGalileo first saw them in 1610 but could not make out what they were, calling them ears. In 1655 Christiaan Huygens realised that they are a ring, and in 1675 Giovanni Cassini noticed the dark gap in the rings that now carries his name. The main rings are labelled A, B and C.\n\nScientists debate how old the rings are: some think they are only about 100 million years old, while others believe they are much older. They are slowly losing material to Saturn and could disappear in a few hundred million years. In 2025, they appeared edge-on from Earth and nearly vanished from view.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PIA17172_Saturn_eclipse_mosaic_bright_crop.jpg?width=800"
+    },
+    {
+      "id": "olympus-mons",
+      "title": "Olympus Mons",
+      "description": "The tallest volcano in the Solar System.",
+      "content": "Olympus Mons is a giant shield volcano on Mars and the tallest known volcano in the Solar System. It rises about 22 kilometres above the surrounding plains, about two and a half times as high as Mount Everest, and is roughly 600 kilometres wide, about the size of France.\n\nIts slopes are very gentle, rising at only a few degrees, so a person standing on it would not see the summit. At the top is a huge caldera about 80 kilometres across. It formed from countless lava flows over billions of years, and grew so tall because Mars has weaker gravity and no moving tectonic plates to carry the volcano away from its source of magma.\n\nIt is thought to be dormant now, although some lava flows are only a few million years old. Mariner 9, arriving at Mars in 1971, first showed it rising above a global dust storm.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympus_Mons_-_ESA_Mars_Express_-_Flickr_-_Andrea_Luck.png?width=800"
+    },
+    {
+      "id": "great-red-spot",
+      "title": "Jupiter's Great Red Spot",
+      "description": "The giant storm that has raged for centuries.",
+      "content": "The Great Red Spot is a gigantic storm in Jupiter's southern hemisphere, the largest in the Solar System. It is an anticyclone, a high-pressure system that rotates counterclockwise, with winds of up to about 430 kilometres per hour around its edges.\n\nIt has been observed continuously since at least 1830, and possibly since the 1660s, when Giovanni Cassini described a spot on Jupiter, though it is not certain that it was the same one. In the 19th century it was about 40,000 kilometres wide; today it is about 16,000 kilometres across, still bigger than Earth, and it is slowly shrinking.\n\nIts red colour probably comes from chemicals in the clouds reacting to sunlight. In 2019 and 2021 NASA's Juno spacecraft measured that it extends about 300 to 500 kilometres deep into the planet's atmosphere.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jupiter_-_Great_Red_Spot_-_PJ7-60_61_62_-_Balanced_(49803032983).png?width=800"
+    },
+    {
+      "id": "stars",
+      "title": "Stars",
+      "description": "Giant balls of glowing gas that light up the universe.",
+      "content": "Stars are huge balls of hot plasma that shine because nuclear fusion in their cores converts hydrogen into helium. The Sun is the nearest star, and the next nearest, Proxima Centauri, is over four light-years away. The Milky Way alone has hundreds of billions of stars.\n\nStars come in different sizes, temperatures and colours. Hot stars are blue-white, with surface temperatures above 10,000 °C, while cooler ones are orange and red. Astronomers classify them into spectral types O, B, A, F, G, K and M, from hottest to coolest. Our Sun is a G-type star. Brightness depends on size and temperature, and the brightest star in our night sky is Sirius.\n\nOn a clear, dark night, about 4,000 to 5,000 stars are visible to the naked eye. Stars are born in clouds of gas and dust called nebulae, and many form in groups or clusters.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sun_in_white_light.jpg?width=800"
+    },
+    {
+      "id": "life-cycle-of-stars",
+      "title": "The Life Cycle of Stars",
+      "description": "How stars are born, live and die.",
+      "content": "A star begins in a cold cloud of gas and dust called a nebula. Gravity pulls a clump together into a hot, dense protostar, and when the core is hot enough for hydrogen fusion to begin, a true star is born. It then spends most of its life as a main-sequence star, like our Sun, which will shine for about ten billion years.\n\nHow a star ends depends on its mass. A star like the Sun swells into a red giant, sheds its outer layers as a glowing planetary nebula and leaves behind a small, dense white dwarf. A star more than about eight times heavier than the Sun burns out faster, in only millions of years, and dies in a huge explosion, a supernova, leaving a neutron star or a black hole.\n\nThe dying stars scatter heavy elements such as carbon, oxygen and iron into space. New stars and planets form from this material, so the atoms in our bodies were made in earlier generations of stars.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Triangle_of_everything_-_Stellar_Evolution.png?width=800"
+    },
+    {
+      "id": "red-giants",
+      "title": "Red Giants",
+      "description": "Swollen, cooler stars near the end of their lives.",
+      "content": "A red giant is a star in a late stage of its life, after it has used up the hydrogen in its core. The core contracts and heats up, and the outer layers swell to tens or hundreds of times their previous size, and cool, glowing red.\n\nWhen the Sun becomes a red giant in about five billion years, it will expand to swallow Mercury and Venus, and possibly Earth. Later the core will be hot enough to fuse helium into carbon and oxygen. Even bigger stars become red supergiants: Betelgeuse in the constellation Orion is one, so large that if it were at the Sun's position it would extend beyond the orbit of Mars.\n\nFamiliar red giants include Arcturus and Aldebaran. Eventually a red giant like the Sun throws off its outer layers, leaving a white dwarf.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/HR-diag-no-text-2.svg?width=800"
+    },
+    {
+      "id": "white-dwarfs",
+      "title": "White Dwarfs",
+      "description": "The dense cores left by stars like the Sun.",
+      "content": "A white dwarf is the small, hot, dense core that remains when a star like the Sun has exhausted its fuel and shed its outer layers. It has about the mass of the Sun packed into a volume similar to the Earth's, so a teaspoonful of it would weigh several tonnes.\n\nA white dwarf no longer produces energy by fusion. It shines only because it is still hot, and slowly cools over billions of years, eventually becoming a cold, dark black dwarf, though the universe is not yet old enough for any to exist. The first one discovered, in 1862, was Sirius B, the companion of the bright star Sirius.\n\nIn 1930 the Indian-American astrophysicist Subrahmanyan Chandrasekhar calculated that a white dwarf cannot be more massive than about 1.4 Suns, the Chandrasekhar limit, or it will collapse. About 97% of all stars will end as white dwarfs.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sirius_A_and_B_Hubble_photo.editted.PNG?width=800"
+    },
+    {
+      "id": "neutron-stars",
+      "title": "Neutron Stars",
+      "description": "The city-sized remnants of exploded stars.",
+      "content": "A neutron star is the collapsed core of a massive star that has exploded as a supernova. It contains more mass than the Sun, about 1.4 to 2 solar masses, squeezed into a ball only about 20 kilometres across, the size of a city. It is made almost entirely of neutrons and is the densest known object apart from black holes: a teaspoon of neutron star material would weigh about a billion tonnes.\n\nNeutron stars spin rapidly, up to hundreds of times per second, and have extremely strong magnetic fields. Those with the strongest fields are called magnetars. If a neutron star beams radiation as it rotates, we see it as a pulsar.\n\nIn 2017 astronomers detected gravitational waves from the collision of two neutron stars, along with a burst of light, showing that such mergers create heavy elements such as gold and platinum.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moving_heart_of_the_Crab_Nebula.jpg?width=800"
+    },
+    {
+      "id": "pulsars",
+      "title": "Pulsars",
+      "description": "The cosmic lighthouses that flash many times a second.",
+      "content": "A pulsar is a rapidly rotating neutron star that sends out beams of radio waves and other radiation from its magnetic poles. As it spins, the beams sweep across space like the light of a lighthouse, and if one points toward Earth we detect a regular pulse.\n\nThe first pulsar was discovered in 1967 by Jocelyn Bell Burnell, then a graduate student in Cambridge, who noticed a strange, regular signal in her radio telescope data. It was so regular that it was jokingly nicknamed LGM-1, for Little Green Men. Her supervisor Antony Hewish shared the Nobel Prize in 1974, a decision that many thought should have included her.\n\nThe pulses can be extremely regular, and the fastest pulsars spin hundreds of times a second. The Crab Pulsar spins 30 times per second. Astronomers use pulsars as precise clocks, and a map of pulsars was etched on plaques sent into space on the Pioneer probes.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PIA18848-PSRB1509-58-ChandraXRay-WiseIR-20141023.jpg?width=800"
+    },
+    {
+      "id": "supernovae",
+      "title": "Supernovae",
+      "description": "The explosions of dying stars.",
+      "content": "A supernova is the explosive death of a star, so bright that it can briefly outshine an entire galaxy. There are two main types. In a Type II supernova, a massive star runs out of fuel, its core collapses, and the outer layers are blown off. In a Type Ia supernova, a white dwarf in a double-star system pulls material from its companion until it explodes.\n\nChinese astronomers recorded a supernova in 1054 whose remains are the Crab Nebula. Other famous ones were seen by Tycho Brahe in 1572 and Johannes Kepler in 1604. The closest in modern times, SN 1987A, exploded in the Large Magellanic Cloud, a small neighbour galaxy.\n\nSupernovae create and scatter most of the heavy elements. Type Ia supernovae have a predictable brightness, so astronomers use them to measure distances, and their study led to the discovery of dark energy, which won the Nobel Prize in 2011.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SN1994D.jpg?width=800"
+    },
+    {
+      "id": "black-holes",
+      "title": "Black Holes",
+      "description": "Regions where gravity is so strong that nothing escapes.",
+      "content": "A black hole forms when matter collapses into a volume so small that its escape velocity exceeds the speed of light.\n\nThe boundary is called the event horizon. Stellar black holes form when massive stars collapse, while supermassive ones, millions or billions of times the Sun's mass, lie at the centre of most galaxies. In 2019 the Event Horizon Telescope published the first image of the shadow of a supermassive black hole, at the centre of the galaxy M87, and in 2022 it imaged Sagittarius A*, at the heart of our own galaxy.\n\nBlack holes cannot be seen directly but are detected by their effect on nearby stars and glowing gas. Stephen Hawking predicted that they slowly lose energy as radiation.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_hole_-_Messier_87_crop_max_res.jpg?width=800"
+    },
+    {
+      "id": "milky-way",
+      "title": "The Milky Way",
+      "description": "The galaxy that contains our Solar System.",
+      "content": "The Milky Way is the barred spiral galaxy that contains our Solar System, with an estimated 100 to 400 billion stars.\n\nIt is about 100,000 light-years across, and the Sun lies roughly 26,000 light-years from the centre, in one of the spiral arms, orbiting once every 220 to 250 million years. At the centre is a supermassive black hole, Sagittarius A*, about four million times the mass of the Sun.\n\nFrom Earth we see the galaxy as a pale band of light across the night sky, and the name comes from the Greek for milky circle. The nearest large galaxy, Andromeda, is heading toward us and will merge with the Milky Way in about four to five billion years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ESO-VLT-Laser-phot-33a-07.jpg?width=800"
+    },
+    {
+      "id": "andromeda-galaxy",
+      "title": "The Andromeda Galaxy",
+      "description": "Our nearest large galactic neighbour.",
+      "content": "The Andromeda Galaxy, also known as M31, is the nearest large galaxy to the Milky Way, about 2.5 million light-years away. It is a spiral galaxy about 220,000 light-years wide, larger than the Milky Way, with roughly a trillion stars. On a dark night it can be seen with the naked eye as a faint, fuzzy patch in the constellation Andromeda, making it the most distant object visible without a telescope.\n\nAstronomers long thought it was a nebula inside our own galaxy. In 1923 Edwin Hubble identified a special type of pulsating star in it, called a Cepheid variable, and used it to measure the distance, proving that Andromeda is a separate galaxy far beyond the Milky Way.\n\nAndromeda is moving toward us at about 110 kilometres per second. In roughly 4.5 billion years the two galaxies will collide and merge into a giant elliptical galaxy, sometimes called Milkomeda. Stars are so far apart that few will actually collide.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andromeda_Galaxy_2025.png?width=800"
+    },
+    {
+      "id": "galaxies",
+      "title": "Galaxies",
+      "description": "Vast islands of stars, gas and dark matter.",
+      "content": "A galaxy is a huge system of stars, gas, dust and dark matter, held together by gravity. Galaxies range from dwarfs with a few million stars to giants with a trillion or more. The observable universe is thought to contain hundreds of billions to a couple of trillion of them.\n\nEdwin Hubble classified galaxies by shape. Spiral galaxies, such as the Milky Way and Andromeda, have flat, rotating discs with curving arms. Elliptical galaxies are smooth, oval balls of older stars. Irregular galaxies have no regular shape. Most galaxies have a supermassive black hole at their centre.\n\nGalaxies are grouped in clusters and superclusters, connected in a cosmic web of filaments with huge voids between them. The Milky Way belongs to the Local Group, which includes Andromeda and about 80 smaller galaxies. Galaxies often collide and merge over billions of years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NGC_4414_(NASA-med).jpg?width=800"
+    },
+    {
+      "id": "nebulae",
+      "title": "Nebulae",
+      "description": "Clouds of gas and dust where stars are born and die.",
+      "content": "A nebula is a giant cloud of gas and dust in space. The word means cloud in Latin. Some nebulae are the birthplaces of stars, and others are the remains of dead ones.\n\nEmission nebulae glow because their gas is heated by nearby hot stars: the Orion Nebula, about 1,340 light-years away and visible to the naked eye, is a stellar nursery where new stars are forming. Reflection nebulae shine by scattering starlight, and dark nebulae block the light of stars behind them. The Hubble Space Telescope's 1995 image of the Pillars of Creation, in the Eagle Nebula, became one of the most famous space pictures, and the James Webb Space Telescope revisited them in 2022.\n\nPlanetary nebulae, such as the Ring Nebula, are shells of gas thrown off by dying Sun-like stars, and supernova remnants, such as the Crab Nebula, come from stellar explosions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trifid_Nebula_by_Deddy_Dayag.jpg?width=800"
+    },
+    {
+      "id": "constellations",
+      "title": "Constellations",
+      "description": "Patterns of stars that people have named for millennia.",
+      "content": "A constellation is a group of stars that appears to form a pattern in the night sky, which people have imagined as animals, heroes or objects. The stars in a constellation are usually at very different distances and have no real connection; they only look close from Earth.\n\nThe ancient Babylonians and Greeks named many. The astronomer Ptolemy listed 48 in the 2nd century, and in the 1920s the International Astronomical Union set the modern total at 88, covering the entire sky. Famous ones include Orion, Ursa Major, known in Azerbaijani as Böyük Ayı, containing the Big Dipper, Cassiopeia, and the Southern Cross, seen from the Southern Hemisphere.\n\nConstellations have long been used for navigation, and to keep track of the seasons, since different ones are visible at different times of year. The twelve constellations along the Sun's path are the zodiac, which are used in astrology, which is not a science.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Orion_constellation_-_Prodromus_astronomiae_1690_(5590584).jpg?width=800"
+    },
+    {
+      "id": "polaris",
+      "title": "Polaris",
+      "description": "The North Star that hardly moves in the sky.",
+      "content": "Polaris, the North Star, is the star that lies almost directly above Earth's North Pole, within about three-quarters of a degree. As the Earth rotates, every other star appears to wheel around it, while Polaris stays nearly fixed in the northern sky, so it has been used by travellers for navigation for centuries.\n\nIt is not the brightest star in the sky, only about the 48th brightest. To find it, you can follow the two pointer stars at the end of the bowl of the Big Dipper, in Ursa Major, and it marks the end of the handle of the Little Dipper, in Ursa Minor. Its height above the horizon equals your latitude in the Northern Hemisphere.\n\nPolaris is about 430 light-years away, a yellow supergiant that pulsates slightly, and is part of a triple star system. Because Earth's axis wobbles slowly over 26,000 years, other stars, such as Vega, will become the pole star in the future.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ursa_Minor_constellation_map.svg?width=800"
+    },
+    {
+      "id": "sirius",
+      "title": "Sirius",
+      "description": "The brightest star in the night sky.",
+      "content": "Sirius, also called the Dog Star, is the brightest star in the night sky, in the constellation Canis Major. It lies only 8.6 light-years away, one of our nearest neighbours, and shines about 25 times brighter than the Sun. It appears blue-white and often seems to twinkle with colours near the horizon.\n\nSirius is actually a double star. Its companion, Sirius B, a white dwarf about as massive as the Sun but the size of the Earth, was first seen in 1862. It is very faint next to the dazzling Sirius A.\n\nIn ancient Egypt, Sirius was called Sopdet, and its first appearance before dawn each year, in midsummer, coincided with the flooding of the Nile, so it was used to mark the calendar. The Romans associated the hot period after its rising with the dog days of summer.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Canis_Major_constellation_map.svg?width=800"
+    },
+    {
+      "id": "proxima-centauri",
+      "title": "Proxima Centauri",
+      "description": "The nearest star to the Sun.",
+      "content": "Proxima Centauri is the closest known star to the Sun, at a distance of 4.24 light-years, or about 40 trillion kilometres. It is a small, dim red dwarf, too faint to be seen with the naked eye, and is part of the Alpha Centauri system, which also includes two Sun-like stars, Alpha Centauri A and B.\n\nIn 2016 astronomers announced the discovery of a planet orbiting it, Proxima b, in the star's habitable zone, where liquid water could exist. It is roughly Earth-sized, but is bombarded by strong flares of radiation from the star. Two more planets have since been found.\n\nWith current technology it would take a spacecraft like Voyager about 75,000 years to get there. Projects such as Breakthrough Starshot have proposed sending tiny probes with light sails, pushed by powerful lasers, that could reach the system in about 20 years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg?width=800"
+    },
+    {
+      "id": "exoplanets",
+      "title": "Exoplanets",
+      "description": "Planets that orbit other stars.",
+      "content": "An exoplanet is a planet that orbits a star other than the Sun. The first ones were found around a pulsar in 1992, and in 1995 the Swiss astronomers Michel Mayor and Didier Queloz discovered 51 Pegasi b, the first around a Sun-like star, for which they received the Nobel Prize in 2019. Since then, more than 5,000 exoplanets have been confirmed.\n\nMost are found indirectly. In the transit method, astronomers watch for the slight dimming of a star as a planet passes in front of it, as NASA's Kepler space telescope did, launched in 2009. In the radial velocity method, they detect the tiny wobble the planet causes in its star.\n\nThe discoveries include hot Jupiters, giant planets orbiting very close to their stars, super-Earths and planets in the habitable zone. The TRAPPIST-1 system, 40 light-years away, has seven Earth-sized planets. The James Webb Space Telescope is now studying exoplanet atmospheres for signs of life.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hr8799_orbit_hd.gif?width=800"
+    },
+    {
+      "id": "habitable-zone",
+      "title": "The Habitable Zone",
+      "description": "The region around a star where liquid water can exist.",
+      "content": "The habitable zone, sometimes called the Goldilocks zone, is the region around a star where the temperature is neither too hot nor too cold for liquid water to exist on a planet's surface. Since water is essential for life as we know it, it is where astronomers look for life.\n\nFor the Sun it lies roughly between the orbits of Venus and Mars, with Earth well within it. The zone depends on the star: small, cool red dwarfs have zones close in, while hot, bright stars have zones farther out. Planets such as Proxima b and TRAPPIST-1e lie in the habitable zones of their stars.\n\nBeing in the zone does not guarantee that a planet is habitable: it also needs an atmosphere and other conditions. And life might exist outside the zone, for instance in the oceans beneath the ice of moons such as Europa and Enceladus, warmed by tidal heating.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MarsCuriosityRover-Drilling-Sol170%2B%2B-2.jpg?width=800"
+    },
+    {
+      "id": "big-bang",
+      "title": "The Big Bang",
+      "description": "The leading theory of how the universe began.",
+      "content": "The Big Bang is the leading scientific theory for how the universe began: about 13.8 billion years ago it expanded from an extremely hot, dense state, and it has been expanding and cooling ever since.\n\nThe theory rests on several observations. Edwin Hubble showed in 1929 that distant galaxies move away from us; the cosmic microwave background, faint radiation left over from when the universe was about 380,000 years old, was discovered in 1965; and the observed amounts of hydrogen and helium match predictions.\n\nThe Big Bang was not an explosion in space but an expansion of space itself. Scientists do not claim to know what, if anything, came before it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CMB_Timeline300_no_WMAP.jpg?width=800"
+    },
+    {
+      "id": "dark-matter",
+      "title": "Dark Matter",
+      "description": "The invisible substance that holds galaxies together.",
+      "content": "Dark matter is an invisible form of matter that does not give off or reflect light, but reveals itself through its gravity. It is thought to make up about 27% of the universe, compared with only about 5% for ordinary matter, and about 85% of all matter.\n\nIn 1933 Fritz Zwicky noticed that galaxies in the Coma Cluster were moving so fast that they should fly apart unless there was much more mass than could be seen. In the 1970s Vera Rubin measured how fast stars orbit in galaxies and found that the outer stars move as fast as the inner ones, which means that each galaxy is embedded in a huge halo of unseen matter. Gravitational lensing, in which mass bends light, also maps it.\n\nScientists do not yet know what it is. Candidates include new kinds of particles, such as WIMPs and axions. Experiments deep underground and at particle accelerators have so far not detected any directly.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WMAP_2012.png?width=800"
+    },
+    {
+      "id": "dark-energy",
+      "title": "Dark Energy",
+      "description": "The mysterious force speeding up the expansion of the universe.",
+      "content": "Dark energy is the name for the unknown cause of the accelerating expansion of the universe. It is thought to make up about 68% of the total energy of the universe.\n\nUntil 1998, astronomers expected that gravity would slow down the expansion of the universe. Then two teams studying distant Type Ia supernovae found that they were fainter than expected, meaning that the expansion is speeding up. Saul Perlmutter, Brian Schmidt and Adam Riess shared the Nobel Prize in Physics in 2011 for the discovery.\n\nEinstein had introduced a cosmological constant in his equations, a kind of energy of empty space, though he later abandoned it. It may be the explanation, or dark energy may be something that changes over time. The European Euclid space telescope, launched in 2023, and other surveys are mapping the universe to understand it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WMAP_2012.png?width=800"
+    },
+    {
+      "id": "cosmic-microwave-background",
+      "title": "The Cosmic Microwave Background",
+      "description": "The afterglow of the Big Bang.",
+      "content": "The cosmic microwave background, or CMB, is faint microwave radiation that fills the whole universe, the oldest light we can see. It was released about 380,000 years after the Big Bang, when the universe cooled enough for atoms to form and light could travel freely. Since then the expansion has stretched it to a temperature of just 2.725 kelvin above absolute zero.\n\nIt was discovered by accident in 1965 by Arno Penzias and Robert Wilson, who were trying to get rid of persistent noise in a radio antenna in New Jersey, and won the Nobel Prize in 1978. A small part of the static on an old analogue TV was this radiation.\n\nSatellites such as COBE, WMAP and Planck have mapped it in detail, showing tiny variations in temperature, which are the seeds of galaxies and clusters. These maps allow cosmologists to measure the age, shape and contents of the universe.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cosmic_Microwave_Background_(CMB).jpeg?width=800"
+    },
+    {
+      "id": "expanding-universe",
+      "title": "The Expanding Universe",
+      "description": "Why galaxies are moving away from each other.",
+      "content": "The universe is expanding: space itself is stretching, carrying galaxies away from each other. The Belgian priest and astronomer Georges Lemaître proposed this in 1927, and in 1929 Edwin Hubble showed that the farther away a galaxy is, the faster it recedes, a relationship called Hubble's law.\n\nAstronomers measure this by redshift: light from receding galaxies is stretched to longer, redder wavelengths. A useful picture is a loaf of raisin bread rising in the oven: as the dough expands, every raisin moves away from every other one, and the farther apart they are, the faster they separate. There is no centre of the expansion.\n\nThe current rate is about 70 kilometres per second for every megaparsec of distance, though different methods give slightly different values, a puzzle called the Hubble tension. Because of the expansion, the observable universe is about 93 billion light-years across, even though it is only 13.8 billion years old.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CMB_Timeline300_no_WMAP.jpg?width=800"
+    },
+    {
+      "id": "light-year",
+      "title": "The Light-Year",
+      "description": "The distance light travels in a year.",
+      "content": "A light-year is a unit of distance, not of time. It is the distance that light travels in one year in a vacuum: about 9.46 trillion kilometres, since light moves at about 300,000 kilometres per second.\n\nDistances in space are so vast that ordinary units are inconvenient. Light from the Moon takes about 1.3 seconds to reach us, and from the Sun about 8 minutes and 20 seconds. The nearest star, Proxima Centauri, is 4.24 light-years away, the Milky Way is about 100,000 light-years across, and the Andromeda Galaxy is about 2.5 million light-years away.\n\nBecause light takes time to travel, we see distant objects as they were in the past: the light of Andromeda left it 2.5 million years ago. In 1838 the astronomer Friedrich Bessel first measured the distance to a star, 61 Cygni. Professional astronomers often use another unit, the parsec, equal to about 3.26 light-years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/12lightyears.gif?width=800"
+    },
+    {
+      "id": "gravitational-waves",
+      "title": "Gravitational Waves",
+      "description": "Ripples in the fabric of space and time.",
+      "content": "Gravitational waves are ripples in the fabric of spacetime, produced by violent events such as the collision of black holes or neutron stars. Albert Einstein predicted them in 1916 as part of his general theory of relativity, but thought they would be too weak ever to be detected.\n\nOn 14 September 2015 the LIGO detectors in the United States picked up the first ones, from two black holes that merged about 1.3 billion light-years away. The signal was announced in February 2016 and the stretching of space it caused was smaller than the width of a proton across a four-kilometre detector. Rainer Weiss, Barry Barish and Kip Thorne received the Nobel Prize in 2017.\n\nIn 2017 detectors also caught waves from two colliding neutron stars, and telescopes saw the light from the explosion, opening the era of multi-messenger astronomy. Detectors such as Virgo in Italy and KAGRA in Japan have joined LIGO, and a space-based observatory, LISA, is planned for the 2030s.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Warped_Space_and_Time_Around_Colliding_Black_Holes_(Courtesy_Caltech-MIT-LIGO_Laboratory%2C_produced_by_SXS_project).webm?width=800"
+    },
+    {
+      "id": "sputnik",
+      "title": "Sputnik 1",
+      "description": "The first artificial satellite, launched in 1957.",
+      "content": "Sputnik 1 was the first artificial satellite, launched by the Soviet Union on 4 October 1957 from the Baikonur Cosmodrome in Kazakhstan. It was a polished metal sphere only 58 centimetres across, weighing about 83.6 kilograms, with four long antennas.\n\nIt orbited the Earth every 96 minutes, at a height of about 250 to 950 kilometres, and transmitted a simple beeping radio signal that amateur radio operators around the world could hear. The batteries lasted about three weeks, and the satellite burned up in the atmosphere in January 1958 after about 1,400 orbits.\n\nThe rocket was designed by a team led by the chief engineer Sergei Korolev. The launch surprised the West and started the Space Race between the Soviet Union and the United States. A month later Sputnik 2 carried the dog Laika into orbit, and in 1958 the United States created NASA.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B2_%D0%BC%D0%B8%D1%80%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8.jpg?width=800"
+    },
+    {
+      "id": "yuri-gagarin",
+      "title": "Yuri Gagarin",
+      "description": "The first human in space.",
+      "content": "Yuri Gagarin (1934–1968) was a Soviet cosmonaut who became the first human to travel into space. On 12 April 1961 he was launched aboard Vostok 1 from the Baikonur Cosmodrome and orbited the Earth once, in a flight lasting 108 minutes, at the age of 27.\n\nBorn in a village near Smolensk, the son of a carpenter, he trained as a foundry worker and then as an air force pilot before being chosen from among thousands of candidates. The capsule was controlled from the ground, and Gagarin ejected at a height of about seven kilometres and parachuted to Earth separately, landing in the Saratov region of Russia. Before launch he reportedly cried out a joyful word meaning Let's go.\n\nHe became a world hero. He died in 1968 in a training jet crash. The anniversary of his flight, 12 April, is celebrated as Cosmonautics Day in Russia, and since 2011 the United Nations has marked it as the International Day of Human Space Flight.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yuri_Gagarin_with_awards_(cropped)_2.jpg?width=800"
+    },
+    {
+      "id": "apollo-11",
+      "title": "Apollo 11",
+      "description": "The first landing of humans on the Moon.",
+      "content": "Apollo 11 was the NASA mission that landed the first people on the Moon. Commander Neil Armstrong, lunar module pilot Buzz Aldrin and command module pilot Michael Collins were launched on a Saturn V rocket from Florida on 16 July 1969.\n\nOn 20 July, Armstrong and Aldrin descended in the lunar module, called Eagle, and landed in the Sea of Tranquility, with only a few seconds of fuel left after Armstrong steered past a boulder-strewn area. About six hours later Armstrong became the first person to step onto the Moon, followed by Aldrin. Collins remained in orbit in the command module Columbia.\n\nThey spent about two and a half hours walking on the surface, planting a flag, setting up experiments and collecting about 21.5 kilograms of rock and soil. An estimated 600 million people watched on television. The crew splashed down in the Pacific on 24 July 1969.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_Man_on_the_Moon%2C_AS11-40-5903_(cropped).jpg?width=800"
+    },
+    {
+      "id": "apollo-program",
+      "title": "The Apollo Program",
+      "description": "NASA's programme to land people on the Moon.",
+      "content": "The Apollo programme was the NASA project that took humans to the Moon between 1968 and 1972. It was launched after President John F. Kennedy announced in 1961 the goal of landing a man on the Moon before the end of the decade. It cost about 25 billion dollars at the time, equivalent to over 250 billion today.\n\nIts huge Saturn V rocket, 110 metres tall, remains the most powerful rocket to have successfully flown. In January 1967 a fire during a ground test of Apollo 1 killed three astronauts. Apollo 8 in December 1968 was the first crewed flight around the Moon. Six missions, Apollo 11, 12, 14, 15, 16 and 17, landed on the Moon, and twelve people walked on its surface.\n\nApollo 13 in 1970 suffered an explosion and did not land, but the crew returned safely. The last mission, Apollo 17, in December 1972, was the last time humans left low Earth orbit. The astronauts brought back about 382 kilograms of lunar samples.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Apollo_program.svg?width=800"
+    },
+    {
+      "id": "valentina-tereshkova",
+      "title": "Valentina Tereshkova",
+      "description": "The first woman in space.",
+      "content": "Valentina Tereshkova (born 1937) is a Soviet cosmonaut who became the first woman to fly in space. On 16 June 1963 she was launched aboard Vostok 6, and orbited the Earth 48 times in nearly three days.\n\nBorn in a village on the Volga River, she worked in a textile factory and was an enthusiastic amateur parachutist, which helped her to be selected in 1962 from more than 400 applicants for a group of women cosmonauts. She spent about three days in orbit, and photographed the horizon, and during her flight she experienced nausea and fatigue but completed the mission. She landed by parachute.\n\nShe remains the only woman to have flown a solo space mission. The next woman in space, Svetlana Savitskaya, flew in 1982, and Sally Ride became the first American woman in space in 1983. Tereshkova later became a politician and was honoured widely.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Valentina_Tereshkova_(2024-02-29)_crop.jpg?width=800"
+    },
+    {
+      "id": "space-shuttle",
+      "title": "The Space Shuttle",
+      "description": "The world's first reusable spacecraft.",
+      "content": "The Space Shuttle was NASA's reusable spacecraft, used from 1981 to 2011. It took off like a rocket, with the help of a huge external fuel tank and two solid rocket boosters, orbited the Earth like a spacecraft and glided back to land on a runway like an aeroplane. It flew 135 missions with five orbiters: Columbia, Challenger, Discovery, Atlantis and Endeavour.\n\nThe shuttle carried satellites into orbit, launched the Hubble Space Telescope in 1990, serviced it on several later missions, ran science laboratories, and carried the components to build the International Space Station. It carried more than 350 people into space, including the first American woman, Sally Ride, in 1983.\n\nThe programme suffered two disasters: Challenger broke apart 73 seconds after launch on 28 January 1986, and Columbia was lost while returning to Earth on 1 February 2003, each killing seven crew members. The final flight, by Atlantis, took place in July 2011.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/STS120LaunchHiRes-edit1.jpg?width=800"
+    },
+    {
+      "id": "international-space-station",
+      "title": "International Space Station",
+      "description": "A laboratory that has orbited Earth with crews since 2000.",
+      "content": "The International Space Station is a large laboratory orbiting Earth at about 400 kilometres altitude, at roughly 28,000 km/h, circling the planet about 16 times a day.\n\nIts first module was launched in 1998, and it has been continuously inhabited since November 2000. It is a joint project of the space agencies of the United States, Russia, Europe, Japan and Canada, and it is about the size of a football pitch. Crews of usually seven live and work there, doing experiments in microgravity on biology, materials and medicine.\n\nIt is visible to the naked eye as a bright moving point after sunset, and it is planned to be retired around 2030.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg?width=800"
+    },
+    {
+      "id": "hubble-space-telescope",
+      "title": "The Hubble Space Telescope",
+      "description": "The orbiting telescope that transformed astronomy.",
+      "content": "The Hubble Space Telescope is a large telescope orbiting Earth at about 540 kilometres altitude, launched by NASA and ESA in 1990. Above the atmosphere, it sees without distortion.\n\nAfter a flaw in its main mirror was corrected by astronauts in 1993, Hubble produced images that changed astronomy. It helped pin down the age of the universe, helped confirm that cosmic expansion is accelerating, and captured the Hubble Deep Field, which shows thousands of galaxies in a tiny patch of sky.\n\nServiced five times by Space Shuttle crews, it is still working. In 2021 it was joined by the James Webb Space Telescope, which observes mostly in infrared light.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hubble_2009_close-up_2.jpg?width=800"
+    },
+    {
+      "id": "james-webb-space-telescope",
+      "title": "The James Webb Space Telescope",
+      "description": "The most powerful space telescope ever built.",
+      "content": "The James Webb Space Telescope, or JWST, is the largest and most powerful space telescope ever launched. It was launched on 25 December 2021 on an Ariane 5 rocket and is operated by NASA, the European Space Agency and the Canadian Space Agency. It cost about 10 billion dollars.\n\nWebb observes mainly in infrared light, which allows it to see through dust clouds and to detect the faint, stretched light of the earliest galaxies. Its main mirror is 6.5 metres wide, made of 18 gold-coated beryllium segments that unfolded in space, and it is shielded from the Sun by a five-layer sunshield about the size of a tennis court. It sits at a point called L2, about 1.5 million kilometres from Earth.\n\nIts first images were released on 12 July 2022. It has found galaxies that formed only a few hundred million years after the Big Bang, and it is studying the atmospheres of exoplanets, star-forming regions and the planets of our Solar System.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JWST_spacecraft_model_3.png?width=800"
+    },
+    {
+      "id": "voyager-program",
+      "title": "The Voyager Probes",
+      "description": "The spacecraft that visited the outer planets and left the Solar System.",
+      "content": "The two Voyager spacecraft were launched by NASA in 1977 to take advantage of a rare alignment of the outer planets that occurs about every 175 years. Voyager 2, launched on 20 August, and Voyager 1, launched on 5 September, made a grand tour of the giant planets.\n\nVoyager 1 flew past Jupiter and Saturn, and revealed active volcanoes on the moon Io. Voyager 2 is the only spacecraft to have visited Uranus, in 1986, and Neptune, in 1989. Voyager 1 entered interstellar space in 2012, and Voyager 2 in 2018. In 1990 Voyager 1 took the Pale Blue Dot photograph of Earth from about six billion kilometres away.\n\nEach carries a Golden Record with greetings in many languages, sounds of Earth and music, in case an alien civilisation finds it. Powered by radioactive generators, they are still sending data, and Voyager 1 is more than 24 billion kilometres from Earth, the farthest human-made object.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Voyager_probes_with_the_outer_worlds.jpg?width=800"
+    },
+    {
+      "id": "cassini-huygens",
+      "title": "Cassini–Huygens",
+      "description": "The mission to Saturn and Titan.",
+      "content": "Cassini–Huygens was a joint mission of NASA, the European Space Agency and the Italian space agency to explore Saturn and its moons. It was launched in 1997 and arrived at Saturn in 2004, and became the first spacecraft to orbit the planet.\n\nIn January 2005 the European probe Huygens separated from Cassini and landed on Titan, on 14 January, the first landing on a moon in the outer Solar System. It sent back images of a landscape with river-like channels. Cassini found geysers on Enceladus that spray water into space, lakes of liquid methane on Titan, and studied the rings and storms of Saturn.\n\nAfter 13 years of orbiting, and with its fuel almost gone, Cassini was deliberately sent on a final series of dives between Saturn and its rings, the Grand Finale, and it plunged into Saturn's atmosphere on 15 September 2017, in order to protect the moons that might harbour life.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cassini_Saturn_Orbit_Insertion.jpg?width=800"
+    },
+    {
+      "id": "mars-rovers",
+      "title": "The Mars Rovers",
+      "description": "Robotic geologists exploring the Red Planet.",
+      "content": "Mars rovers are robotic vehicles that drive across the surface of Mars, studying its rocks and searching for signs of past life. NASA landed the small Sojourner in 1997, and in 2004 the twin rovers Spirit and Opportunity, which found evidence of past liquid water. Opportunity lasted for 14 years, far longer than the planned three months.\n\nCuriosity, a car-sized rover, landed in Gale Crater on 6 August 2012 and showed that the area once had conditions that could support microbial life. Perseverance, which landed in Jezero Crater on 18 February 2021, is collecting rock samples in tubes to be returned to Earth in a future mission. It also carried the small helicopter Ingenuity, which made the first powered flight on another planet.\n\nChina's Zhurong rover landed in 2021. Rovers are powered by solar panels or nuclear batteries and are controlled from Earth, with signals taking between about 4 and 24 minutes to arrive.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Curiosity_Self-Portrait_at_'Big_Sky'_Drilling_Site.jpg?width=800"
+    },
+    {
+      "id": "new-horizons",
+      "title": "New Horizons",
+      "description": "The mission that flew past Pluto.",
+      "content": "New Horizons is a NASA spacecraft launched on 19 January 2006 to explore Pluto and the Kuiper Belt. Leaving Earth at about 58,000 kilometres per hour, it was the fastest spacecraft ever launched, and it passed the Moon in about nine hours.\n\nAfter a journey of more than nine years, it flew past Pluto on 14 July 2015, coming within about 12,500 kilometres. It revealed a surprisingly varied world with a heart-shaped plain of nitrogen ice, mountains of water ice as high as the Rockies, and a hazy blue atmosphere. It also surveyed Pluto's moon Charon.\n\nOn 1 January 2019 it flew past Arrokoth, a small object in the Kuiper Belt, the most distant object ever visited. The spacecraft carries some of the ashes of Clyde Tombaugh, who discovered Pluto. It is continuing outward into the outer Solar System.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/New_Horizons_spacecraft_model_1.png?width=800"
+    },
+    {
+      "id": "rosetta",
+      "title": "Rosetta and Philae",
+      "description": "The mission that landed on a comet.",
+      "content": "Rosetta was a European Space Agency spacecraft launched in 2004 to study a comet from close range. It was named after the Rosetta Stone, which helped decipher Egyptian hieroglyphs, since scientists hoped it would help decipher the origin of the Solar System. After a journey of ten years, it reached comet 67P/Churyumov–Gerasimenko in August 2014 and went into orbit around it.\n\nOn 12 November 2014 it released a small lander, Philae, which became the first probe to touch down on a comet. It bounced twice and ended up in a shadowy place, so its solar panels could not fully charge, but it managed to send data for about 60 hours.\n\nRosetta found that the comet's water differs from Earth's, and detected organic molecules, including amino acid glycine. The mission ended on 30 September 2016, when it was deliberately landed on the comet's surface.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosetta_spacecraft_model.png?width=800"
+    },
+    {
+      "id": "mir",
+      "title": "The Mir Space Station",
+      "description": "The first modular space station.",
+      "content": "Mir was a Soviet, and later Russian, space station that orbited Earth from 1986 to 2001. It was the first modular space station, built in stages from several sections launched separately and joined in orbit, and its name means both peace and world.\n\nIn its 15 years it hosted more than 100 people from 12 countries. The Russian doctor Valeri Polyakov set a record for the longest single stay in space, 437 days, from 1994 to 1995. In the 1990s the Shuttle–Mir programme, which included American shuttles docking with the station and US astronauts staying on Mir, built the cooperation that made the International Space Station possible.\n\nMir suffered a fire in 1997 and a collision with a cargo ship, but it kept working long beyond its planned life. It was deliberately brought down into the South Pacific on 23 March 2001.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?width=800"
+    },
+    {
+      "id": "tiangong",
+      "title": "Tiangong Space Station",
+      "description": "China's own space station.",
+      "content": "Tiangong, meaning heavenly palace, is China's space station, in low Earth orbit at about 340 to 450 kilometres. Its core module, Tianhe, was launched on 29 April 2021, and it was completed in 2022 with two laboratory modules, Wentian and Mengtian, forming a T-shape.\n\nChinese crews of three astronauts, called taikonauts, travel there aboard Shenzhou spacecraft and stay for about six months. China became the third country to independently send a human into space in 2003, when Yang Liwei orbited the Earth aboard Shenzhou 5. Tiangong is smaller than the International Space Station, about a quarter of its mass, but it is fully operational.\n\nExperiments include biology, materials science and fluid physics, and a space telescope is planned to fly close to the station. China has also invited other countries to conduct experiments there.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chinese_Tiangong_Space_Station.jpg?width=800"
+    },
+    {
+      "id": "spacex",
+      "title": "SpaceX",
+      "description": "The company that made rockets reusable.",
+      "content": "SpaceX, or Space Exploration Technologies, is an American aerospace company founded in 2002 by Elon Musk. In 2008 its Falcon 1 rocket became the first privately developed liquid-fuel rocket to reach orbit.\n\nIts main innovation is reusable rockets. In December 2015 a Falcon 9 first stage landed upright after launching a satellite, and since then boosters have been flown and landed many times, greatly reducing the cost of getting to space. In 2012 its Dragon capsule became the first commercial spacecraft to reach the International Space Station, and in 2020 Crew Dragon carried NASA astronauts into orbit, the first crewed launch from US soil since the shuttle.\n\nThe company also operates Starlink, a network of thousands of internet satellites, and is developing Starship, a giant fully reusable rocket meant for missions to the Moon and Mars. Its success has encouraged a wave of private space companies.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Starship_-_Flight_13_(Sunset).jpg?width=800"
+    },
+    {
+      "id": "artemis-program",
+      "title": "The Artemis Program",
+      "description": "NASA's plan to return humans to the Moon.",
+      "content": "Artemis is NASA's programme to return humans to the Moon, and eventually to prepare for missions to Mars. It is named after the twin sister of Apollo in Greek mythology. It aims to land the first woman and the first person of colour on the Moon, and to establish a long-term presence near the lunar south pole, where ice exists in permanently shadowed craters.\n\nThe programme uses the Space Launch System, a powerful rocket, and the Orion capsule. Artemis I, an uncrewed test flight around the Moon, took place in November and December 2022. Artemis II, the first crewed flight around the Moon, and Artemis III, the first crewed landing, are planned for the mid-2020s and later, with landers developed with private companies such as SpaceX and Blue Origin.\n\nNASA also plans a small space station in lunar orbit called Gateway. Other countries, including Europe, Japan and Canada, participate, and the Artemis Accords, first signed in 2020, set out principles for peaceful exploration.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Artemis_program_(solid_contrast_with_wordmark).svg?width=800"
+    },
+    {
+      "id": "mars-exploration",
+      "title": "Exploring Mars",
+      "description": "Sixty years of missions to the Red Planet.",
+      "content": "Mars has been the target of more missions than any other planet, and many have failed. The first successful flyby was NASA's Mariner 4 in 1965, which sent back 22 photos of a cratered surface. In 1971 Mariner 9 became the first spacecraft to orbit Mars, and in 1976 the Viking landers were the first to operate successfully on the surface.\n\nLater missions include rovers such as Curiosity and Perseverance, and orbiters such as NASA's MAVEN, the European Space Agency's Mars Express, and the Hope orbiter of the United Arab Emirates and China's Tianwen-1, both arrived in 2021. They have found that Mars once had rivers, lakes and perhaps an ocean, and that water ice remains under the surface.\n\nThe big question is whether life ever existed there. Plans for a mission to bring back the samples collected by Perseverance are being reworked. Longer-term, NASA and SpaceX have spoken about sending humans to Mars in the 2030s or later.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mars_2020_selfie_containing_both_perseverance_rover_and_ingenuity.gif?width=800"
+    },
+    {
+      "id": "astronauts",
+      "title": "Astronauts",
+      "description": "The people who travel into space.",
+      "content": "An astronaut is a person trained to travel in a spacecraft. The word comes from Greek words meaning star sailor. Russian ones are called cosmonauts, and Chinese ones taikonauts. About 700 people from more than 40 countries have flown in space.\n\nAstronauts are chosen from thousands of applicants, and usually have backgrounds in science, engineering, medicine or flying. Their training includes spacewalk practice in huge water tanks, flying jets, survival training, robotics and learning languages, since crews on the International Space Station are international.\n\nLong stays in space affect the body: without gravity, muscles weaken and bones lose about 1% of their density every month, so astronauts exercise for about two hours a day. Records are held by Valeri Polyakov, with 437 days in a single flight, and Oleg Kononenko, who has spent more than 1,000 days in space in total.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bruce_McCandless_II_during_EVA_in_1984.jpg?width=800"
+    },
+    {
+      "id": "rockets",
+      "title": "Rockets",
+      "description": "The engines that lift us into space.",
+      "content": "A rocket is a vehicle that moves by expelling hot gas at high speed. According to Newton's third law, the gas pushed down produces an equal push up. Unlike jet engines, rockets carry their own oxygen, so they work in the vacuum of space.\n\nThe Chinese used gunpowder rockets in the 13th century. In 1903 the Russian teacher Konstantin Tsiolkovsky worked out the basic mathematics of rocket flight, and in 1926 the American Robert Goddard launched the first liquid-fuel rocket. The German V-2 of World War II was the first long-range guided missile, and after the war rocket designers such as Sergei Korolev and Wernher von Braun led the way into space.\n\nTo reach orbit, a rocket must reach about 7.8 kilometres per second, and to escape Earth's gravity, 11.2. Because most of a rocket's mass is fuel, they are built in stages that are dropped when empty, though recent rockets can land and be reused.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soyuz_TMA-9_launch.jpg?width=800"
+    },
+    {
+      "id": "satellites",
+      "title": "Satellites",
+      "description": "Objects that orbit planets, from the Moon to space telescopes.",
+      "content": "A satellite is any object that orbits a larger one. The Moon is Earth's natural satellite, and there are also thousands of artificial ones. The first, Sputnik 1, was launched in 1957, and today there are more than 10,000 working satellites in orbit.\n\nThey serve many purposes: communications and television, navigation systems such as GPS, weather forecasting, observation of Earth's land, oceans and climate, and science, including space telescopes. Satellites orbit at different heights. Low Earth orbit, a few hundred kilometres up, is used for observation and the International Space Station, while at 35,786 kilometres above the equator, a satellite takes 24 hours to orbit and appears fixed over one spot.\n\nThe British writer Arthur C. Clarke proposed such geostationary communication satellites in 1945. In 1962 Telstar relayed the first live television across the Atlantic. Azerbaijan operates its own satellites, such as Azerspace-1, launched in 2013.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Two_3U_CubeSats.jpg?width=800"
+    },
+    {
+      "id": "radio-telescopes",
+      "title": "Radio Telescopes",
+      "description": "Listening to the universe with giant dishes.",
+      "content": "A radio telescope is an instrument, usually a large dish, that collects radio waves from objects in space. It lets astronomers see things that light telescopes cannot, such as cold gas, pulsars and the glow left by the Big Bang.\n\nRadio astronomy began in 1932, when the American engineer Karl Jansky, investigating static for Bell Laboratories, found radio noise coming from the centre of the Milky Way. In 1937 Grote Reber built the first dish telescope in his back garden. Radio telescopes discovered pulsars in 1967 and quasars, and the Cosmic Microwave Background in 1965.\n\nThe Arecibo dish in Puerto Rico, 305 metres wide, collapsed in 2020, and China's FAST, 500 metres across, opened in 2016 as the largest single-dish telescope. Arrays such as the Very Large Array in New Mexico and ALMA in Chile combine many dishes, and the Event Horizon Telescope links radio telescopes across the Earth to image black holes.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg?width=800"
+    },
+    {
+      "id": "space-debris",
+      "title": "Space Debris",
+      "description": "The growing cloud of junk around Earth.",
+      "content": "Space debris is the human-made junk that orbits the Earth: dead satellites, spent rocket stages, fragments from collisions and explosions, and even tiny flecks of paint. Space agencies track more than 30,000 objects bigger than about ten centimetres, and estimate that there are about a million pieces bigger than one centimetre.\n\nDebris travels at about seven to eight kilometres per second, so even a small piece can seriously damage a spacecraft. The International Space Station has to manoeuvre to avoid larger pieces, and its windows have been chipped by tiny fragments. In 2009 an American satellite and a defunct Russian one collided, and anti-satellite missile tests in 2007 and 2021 created thousands of new fragments.\n\nIn 1978 NASA scientist Donald Kessler warned that if the density of objects gets too high, collisions could set off a chain reaction, making some orbits unusable, called the Kessler syndrome. Solutions include deorbiting satellites at the end of their lives and missions to remove old ones.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Knight_Satellite_(cropped).jpg?width=800"
+    },
+    {
+      "id": "space-suits",
+      "title": "Space Suits",
+      "description": "A personal spacecraft for astronauts.",
+      "content": "A space suit is a protective garment that lets an astronaut survive in the vacuum of space. It supplies oxygen to breathe, maintains pressure on the body, controls temperature, and protects against tiny meteoroids and harsh radiation. Without a suit, in the vacuum, a person would lose consciousness within seconds.\n\nSpacesuits for spacewalks, such as the NASA extravehicular mobility unit used on the International Space Station, are like a small spacecraft with about a dozen layers, a hard upper torso, a helmet with a gold-coated visor to reflect the Sun's glare, and a life-support backpack. Underneath is a garment with tubes of cool water. It weighs about 127 kilograms on Earth and costs about 12 million dollars.\n\nThe first spacewalk was made by the Soviet cosmonaut Alexei Leonov on 18 March 1965, and Ed White made the first American one in June that year. A special orange suit is worn during launch and re-entry.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aldrin_Apollo_11_cropped.jpg?width=800"
+    },
+    {
+      "id": "solar-eclipse",
+      "title": "Solar Eclipses",
+      "description": "When the Moon covers the Sun.",
+      "content": "A solar eclipse happens when the Moon passes between the Sun and the Earth and casts its shadow on our planet. It is possible only at new moon, and it is a remarkable coincidence that the Sun is about 400 times wider than the Moon and also about 400 times farther away, so they look nearly the same size in our sky.\n\nIn a total eclipse, the Moon completely covers the Sun for up to about seven and a half minutes along a narrow path, only about 100 to 200 kilometres wide. The sky darkens, the temperature drops, birds fall silent and the Sun's faint outer atmosphere, the corona, appears as a glowing halo. Outside the path, observers see a partial eclipse. In an annular eclipse, the Moon is slightly too far away and leaves a bright ring.\n\nA total eclipse in 1919 provided the first test of Einstein's general relativity, when Arthur Eddington measured the bending of starlight. A total eclipse crossed Greenland, Iceland and Spain on 12 August 2026. Never look at the Sun without special eclipse glasses.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solar_eclipse_1999_4.jpg?width=800"
+    },
+    {
+      "id": "lunar-eclipse",
+      "title": "Lunar Eclipses",
+      "description": "When Earth's shadow falls on the Moon.",
+      "content": "A lunar eclipse occurs when the Earth passes between the Sun and the Moon, and the Moon moves into Earth's shadow. It can only happen at full moon, and unlike a solar eclipse, it can be seen from anywhere on the night side of the Earth, and is completely safe to watch.\n\nIn a total lunar eclipse, the Moon does not disappear but turns a coppery red, an effect nicknamed a blood moon. This happens because some sunlight is bent by Earth's atmosphere into the shadow, with the blue light scattered away, leaving mostly red. The total phase can last up to about 100 minutes.\n\nAncient astronomers, including Aristotle, noticed that Earth's shadow on the Moon is always round, which was evidence that the Earth is a sphere. In 1504 Christopher Columbus, stranded in Jamaica, used a predicted lunar eclipse to impress the local people, and to persuade them to keep supplying his crew.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lunar_eclipse_04-15-2014_by_R_Jay_GaBany.jpg?width=800"
+    },
+    {
+      "id": "moon-phases",
+      "title": "Phases of the Moon",
+      "description": "Why the Moon seems to change shape.",
+      "content": "The Moon does not produce its own light. It only reflects sunlight, and half of it is always lit. The phases we see depend on how much of the lit half faces the Earth as the Moon orbits us every 29.5 days. It is a common mistake to think the phases are caused by Earth's shadow, which happens only in a lunar eclipse.\n\nThe cycle begins with the new moon, when the lit side faces away from us and the Moon is nearly invisible. The crescent then grows, or waxes, through the first quarter, when half is visible, and the gibbous phase, to the full moon, when the whole face is lit. Then it wanes through the last quarter and back to a thin crescent.\n\nMany calendars have been based on the Moon. The Islamic calendar is lunar, and the start of months such as Ramadan is set by sighting the new crescent. The Moon always shows us the same face because of tidal locking.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Moon_Phase_Diagram_for_Simple_English_Wikipedia.GIF?width=800"
+    },
+    {
+      "id": "aurora",
+      "title": "The Northern Lights",
+      "description": "Curtains of coloured light in polar skies.",
+      "content": "The aurora borealis, or northern lights, and its southern counterpart, the aurora australis, are displays of shimmering green, red, pink and purple light in the sky at high latitudes. They are caused by charged particles from the Sun, carried by the solar wind, that are funnelled by Earth's magnetic field toward the poles.\n\nWhen the particles collide with gases in the upper atmosphere, they make them glow. Oxygen produces the common green light at about 100 to 300 kilometres, and red at higher altitudes, while nitrogen gives blue and purple. The brightest displays occur when the Sun is active, after a solar storm.\n\nThe lights are best seen in a ring around the magnetic poles, in places such as northern Norway, Iceland, Canada, Alaska and Antarctica. During a great storm in May 2024, they were seen unusually far south, and during the Carrington Event of 1859 they were seen close to the tropics. Aurorae also occur on Jupiter and Saturn.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg?width=800"
+    },
+    {
+      "id": "solar-wind",
+      "title": "The Solar Wind",
+      "description": "The stream of particles blowing from the Sun.",
+      "content": "The solar wind is a continuous stream of charged particles, mostly protons and electrons, flowing outward from the Sun's outer atmosphere, the corona, at speeds of 400 to 800 kilometres per second. It carries the Sun's magnetic field into space and creates a huge bubble around the Solar System called the heliosphere.\n\nThe American physicist Eugene Parker predicted its existence in 1958, and it was confirmed by spacecraft in the early 1960s. The wind is what pushes the tails of comets to point away from the Sun. Earth is protected by its magnetic field, the magnetosphere, which deflects most of the particles, though some flow in near the poles to create the aurora.\n\nStrong bursts of solar wind can cause geomagnetic storms that disturb satellites, radio signals and power grids. NASA's Parker Solar Probe, launched in 2018, in 2021 became the first spacecraft to fly through the Sun's corona.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solar_wind_flow.gif?width=800"
+    },
+    {
+      "id": "sunspots",
+      "title": "Sunspots",
+      "description": "Dark, cooler patches on the Sun's surface.",
+      "content": "Sunspots are dark patches on the surface of the Sun, which appear dark only because they are cooler, about 3,500 °C compared with the 5,500 °C of the surrounding surface. They are caused by intense magnetic fields that block the flow of heat from the inside, and they can be larger than the Earth.\n\nChinese astronomers recorded them more than two thousand years ago, and in 1610 and 1611 Galileo and others studied them with telescopes. The number of sunspots rises and falls in a cycle of about 11 years, and the Sun's activity, including flares and eruptions, follows the same rhythm. The latest cycle, number 25, reached its peak around 2024 and 2025.\n\nBetween 1645 and 1715, the so-called Maunder Minimum, almost no sunspots appeared, and this coincided with some of the coldest decades of the Little Ice Age in Europe. Sunspots should only be observed with proper solar filters or by projecting the image.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sunspots_1302_Sep_2011_by_NASA.jpg?width=800"
+    },
+    {
+      "id": "solar-flares",
+      "title": "Solar Flares",
+      "description": "The Sun's sudden bursts of energy.",
+      "content": "A solar flare is a sudden and intense burst of radiation from the Sun's surface, caused by the release of magnetic energy near sunspots. Flares are ranked by strength as classes A, B, C, M and X, with X the strongest. They are often accompanied by a coronal mass ejection, a huge cloud of plasma thrown into space.\n\nThe first flare was observed in 1859 by the English astronomer Richard Carrington, who saw a brilliant flash in a sunspot group. A day later a powerful geomagnetic storm, the Carrington Event, set telegraph systems on fire and produced auroras seen close to the equator.\n\nToday a similar storm could damage satellites and power grids. In March 1989 a solar storm blacked out the Canadian province of Quebec for nine hours. In May 2024 the strongest storm in about twenty years produced auroras far from the poles. Space weather forecasters at agencies like NOAA monitor the Sun to warn of such events, and to protect astronauts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/X_Class_Solar_Flare_Sends_%E2%80%98Shockwaves%E2%80%99_on_The_Sun_(6819094556).jpg?width=800"
+    },
+    {
+      "id": "meteor-showers",
+      "title": "Meteor Showers",
+      "description": "Nights when the sky is full of shooting stars.",
+      "content": "A meteor shower is an event in which many meteors appear to radiate from one point in the sky, called the radiant. They happen when Earth passes through the stream of dust and small particles left behind by a comet or, less often, an asteroid. The particles burn up in the atmosphere at about 20 to 70 kilometres per second.\n\nShowers are named after the constellation in which the radiant lies. The Perseids, from the comet Swift–Tuttle, peak around 11 to 13 August and are among the most popular, with up to about 60 or more meteors an hour. The Geminids, in mid-December, come from the asteroid Phaethon, and the Leonids in November produced spectacular storms in 1833 and 1966.\n\nNo equipment is needed to watch. The best time is after midnight, away from city lights, lying on your back and allowing your eyes about 20 minutes to adjust to the dark.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meteor_shower_in_the_Chilean_Desert_(annotated)_(potw2227b).jpg?width=800"
+    },
+    {
+      "id": "halleys-comet",
+      "title": "Halley's Comet",
+      "description": "The most famous comet, returning every 76 years.",
+      "content": "Halley's Comet is the most famous comet, and the only one visible to the naked eye that returns within a human lifetime, about every 75 to 76 years. Its nucleus is a dark, potato-shaped chunk of ice and dust about 15 kilometres long.\n\nIt is named after the English astronomer Edmond Halley, who noticed in 1705 that comets seen in 1531, 1607 and 1682 were probably the same object and predicted that it would come back in 1758. It did, confirming Newton's ideas about gravity, though Halley did not live to see it. Records of its appearances go back to at least 240 BCE, in Chinese chronicles, and it is shown on the Bayeux Tapestry, from 1066.\n\nIn 1986 a fleet of spacecraft, including the European Giotto probe, studied it up close. It last passed the Sun that year, and will return in July 2061. Mark Twain was born in 1835 during one visit and died in 1910 during the next.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lspn_comet_halley.jpg?width=800"
+    },
+    {
+      "id": "impact-events",
+      "title": "Asteroid Impacts",
+      "description": "When space rocks hit planets.",
+      "content": "Impact events are collisions between asteroids or comets and planets or moons. They have shaped every solid body in the Solar System: the craters on the Moon are the scars of them, and the Moon itself probably formed from a giant impact on the young Earth.\n\nOn Earth, about 190 impact craters have been confirmed, though erosion and oceans have erased many. The famous Meteor Crater in Arizona is about 1.2 kilometres wide, made about 50,000 years ago. The Chicxulub crater, in Mexico, about 150 kilometres wide, was created 66 million years ago by an asteroid about 10 kilometres across, which caused the mass extinction that killed the non-bird dinosaurs.\n\nSmall impacts are common, such as the Chelyabinsk meteor in 2013, but big ones are rare. Astronomers survey the sky for near-Earth objects, and in 2022 NASA's DART spacecraft successfully struck the asteroid Dimorphos and altered its orbit, the first test of defending Earth.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tunguska_Ereignis-1.jpg?width=800"
+    },
+    {
+      "id": "tunguska-event",
+      "title": "The Tunguska Event",
+      "description": "The mysterious 1908 explosion over Siberia.",
+      "content": "On the morning of 30 June 1908 a huge explosion occurred in the sky over the remote Tunguska region of Siberia, in Russia. It released energy equal to about 5 to 15 megatons of TNT, hundreds of times the power of the Hiroshima bomb, and flattened about 80 million trees over an area of about 2,150 square kilometres.\n\nPeople hundreds of kilometres away saw a fireball and felt the shock wave, and the night skies over Europe glowed for days. Because the region was remote, the first scientific expedition, led by Leonid Kulik, reached the site only in 1927. To their surprise they found no crater, only fallen trees radiating outward from the centre, with a few standing upright at the centre.\n\nMost scientists conclude that a stony asteroid, about 50 to 60 metres across, exploded in the air at a height of about five to ten kilometres, before hitting the ground. Asteroid Day, on 30 June, commemorates the event and raises awareness of asteroid impacts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tunguska_Ereignis-1.jpg?width=800"
+    },
+    {
+      "id": "astronomy",
+      "title": "Astronomy",
+      "description": "The oldest science, the study of the sky.",
+      "content": "Astronomy is the scientific study of celestial objects, such as stars, planets, comets and galaxies, and of the universe as a whole. It is one of the oldest sciences: people have tracked the movements of the Sun, Moon and stars since prehistory, to make calendars, to know when to plant and harvest, and to navigate.\n\nThe Babylonians recorded eclipses, the Greeks built geometric models of the heavens, and Ptolemy's Almagest, from about 150 CE, dominated for over a thousand years. Islamic astronomers, such as those at the Maragha and Samarkand observatories, refined the observations. In 1609 Galileo turned the newly invented telescope to the sky and changed astronomy for ever.\n\nModern astronomy is split into branches such as astrophysics, planetary science and cosmology, and uses telescopes on the ground and in space, observing across radio waves to gamma rays. Astronomy is different from astrology, which claims that the positions of stars affect people's lives, and has no scientific support.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Titan_in_front_of_the_ring_and_Saturn.jpg?width=800"
+    },
+    {
+      "id": "nicolaus-copernicus",
+      "title": "Nicolaus Copernicus",
+      "description": "The astronomer who put the Sun at the centre.",
+      "content": "Nicolaus Copernicus (1473–1543) was a Polish astronomer and canon of the cathedral of Frombork. He studied in Kraków, Bologna and Padua and worked as a church administrator and physician, but his passion was the sky.\n\nFor nearly 1,400 years people had accepted the model of the Greek astronomer Ptolemy, in which the Earth is at the centre of the universe. Copernicus proposed instead that the Sun is at the centre and that the Earth and other planets orbit it, and that the Earth also rotates once a day. This explained in a simple way why planets sometimes seem to move backward in the sky, an effect called retrograde motion.\n\nHis book De revolutionibus orbium coelestium was published in 1543, and legend says he was given a copy on his deathbed. The idea was slow to be accepted, but it triggered the Copernican Revolution, and led to the work of Kepler, Galileo and Newton.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikolaus_Kopernikus_MOT.jpg?width=800"
+    },
+    {
+      "id": "johannes-kepler",
+      "title": "Johannes Kepler",
+      "description": "The astronomer who discovered the laws of planetary motion.",
+      "content": "Johannes Kepler (1571–1630) was a German astronomer and mathematician. He worked as an assistant to the Danish astronomer Tycho Brahe, who had the most precise naked-eye observations of his time, and inherited his data on Brahe's death in 1601.\n\nStudying the orbit of Mars, Kepler found in 1609 that planets move in ellipses, not circles, with the Sun at one focus, and that a planet moves faster when it is closer to the Sun. In 1619 he showed that the square of the time a planet takes to orbit is proportional to the cube of its distance from the Sun. These three laws of planetary motion later helped Newton develop his theory of gravity.\n\nKepler also wrote about optics, observed the supernova of 1604 and wrote Somnium, an early work of science fiction about a trip to the Moon. NASA's Kepler space telescope, launched in 2009, discovered thousands of exoplanets and was named in his honour.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JKepler.jpg?width=800"
+    },
+    {
+      "id": "carl-sagan",
+      "title": "Carl Sagan",
+      "description": "The astronomer who brought the cosmos to millions.",
+      "content": "Carl Sagan (1934–1996) was an American astronomer, author and science communicator. He was a professor at Cornell University and worked with NASA on planetary missions, including Mariner, Viking and Voyager. His research showed that the high temperature of Venus is caused by a runaway greenhouse effect.\n\nHis television series Cosmos, broadcast in 1980, was watched by hundreds of millions of people in dozens of countries. He wrote many books, including The Dragons of Eden, which won the Pulitzer Prize in 1978, and the novel Contact, which was made into a film. He helped design the Golden Record and the plaques carried by the Voyager and Pioneer spacecraft.\n\nIn 1990 he asked NASA to turn Voyager 1's camera around to take a picture of the Earth from about six billion kilometres away, and the image, called the Pale Blue Dot, inspired his reflections on the fragility of our world. He also championed the search for extraterrestrial intelligence and warned about nuclear war.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Sagan_Planetary_Society.JPG?width=800"
+    },
+    {
+      "id": "ulugh-beg",
+      "title": "Ulugh Beg",
+      "description": "The ruler-astronomer of Samarkand.",
+      "content": "Ulugh Beg (1394–1449) was a Timurid ruler and one of the most important astronomers of the 15th century. The grandson of the conqueror Timur, he governed Samarkand, in present-day Uzbekistan, and turned it into a centre of science. He built a madrasa there and gathered leading mathematicians and astronomers.\n\nIn the 1420s he constructed a great observatory, whose main instrument was a giant sextant with a radius of about 40 metres, buried in a trench in the ground, one of the largest ever built. With it he and his team measured the positions of stars with unprecedented accuracy. In 1437 they completed the Zij-i Sultani, a star catalogue of 1,018 stars, the first major catalogue since Ptolemy.\n\nThey also measured the length of the sidereal year to within about a minute of the modern value. Ulugh Beg was killed in 1449 in a power struggle instigated by his own son, and the observatory was destroyed. Its remains were rediscovered in 1908.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ulugh_Beg%2C_Timurid_painting_1425-50.jpg?width=800"
+    },
+    {
+      "id": "nasir-al-din-tusi",
+      "title": "Nasir al-Din al-Tusi",
+      "description": "The astronomer of the Maragha Observatory.",
+      "content": "Nasir al-Din al-Tusi (1201–1274) was a Persian polymath, born in Tus, in present-day Iran. He worked as a scholar and adviser, and when the Mongol leader Hulagu Khan conquered Persia, al-Tusi became his trusted counsellor.\n\nWith Hulagu's support, he founded the Maragha Observatory, begun in 1259, in the town of Maragha in the region of Azerbaijan, which was the most advanced astronomical institution of its time. It had large instruments, a library said to hold about 400,000 volumes, and attracted scholars from as far as China. The team compiled the Zij-i Ilkhani, astronomical tables that were used for centuries.\n\nAl-Tusi devised a geometric device now called the Tusi couple, which generates straight-line motion from two circular motions and was later used by Copernicus in his model of the planets. He also developed trigonometry as a separate branch of mathematics and wrote on ethics, logic and philosophy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nasir_al-Din_Tusi.jpg?width=800"
+    },
+    {
+      "id": "shamakhi-observatory",
+      "title": "The Shamakhi Astrophysical Observatory",
+      "description": "Azerbaijan's main observatory, named after Nasreddin Tusi.",
+      "content": "The Shamakhi Astrophysical Observatory is the main astronomical observatory of Azerbaijan. It stands in the Pirgulu area, near the town of Shamakhi, at an altitude of about 1,400 metres in the mountains of the Greater Caucasus, where the air is clear and dark. It is named after Nasreddin Tusi, the medieval scholar of the Maragha Observatory.\n\nThe observatory was founded in the late 1950s and opened in 1960. Its most important instrument is a two-metre telescope made by Carl Zeiss Jena, installed in 1966, which is one of the largest in the Caucasus region. Scientists there study stars, the Sun, nebulae and galaxies, and take part in international projects.\n\nThe observatory is part of the Azerbaijan National Academy of Sciences. Shamakhi itself was the capital of the Shirvanshahs for centuries, and the mountain setting makes the area one of the best places in the country for stargazing.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shamakhi_observatory.jpg?width=800"
+    },
+    {
+      "id": "azercosmos",
+      "title": "Azerbaijan in Space",
+      "description": "Azerbaijan's satellites and space industry.",
+      "content": "Azerbaijan entered the space age in 2013, when its first telecommunications satellite, Azerspace-1, was launched on 7 February from Kourou, in French Guiana, on an Ariane 5 rocket. The satellite is placed in geostationary orbit at 46 degrees east and provides television, internet and data services to Europe, Central Asia and Africa.\n\nThe satellite operator Azercosmos was established in 2010 to manage the country's space activities. In 2014 it launched Azersky, an Earth observation satellite that takes high-resolution images used for mapping, agriculture, environmental monitoring and disaster management. A second communications satellite, Azerspace-2, was launched in 2018.\n\nAzerbaijan is one of the few countries in the South Caucasus with its own satellites. The country also has a strong scientific tradition in astronomy, from the medieval Maragha observatory to the modern Shamakhi Astrophysical Observatory."
+    },
+    {
+      "id": "observatories",
+      "title": "Observatories",
+      "description": "The places where we look at the sky.",
+      "content": "An observatory is a place equipped for observing the sky. The earliest were monuments that tracked the Sun: the Nabta Playa stones in Egypt, Stonehenge in England and the Caracol tower at Chichén Itzá in Mexico. In the Islamic world the great observatories of Maragha, founded in 1259, and Samarkand, in the 1420s, measured the stars with huge instruments.\n\nIn 1576 Tycho Brahe built his observatory Uraniborg on an island near Copenhagen, and in 1675 the Royal Observatory at Greenwich was founded to help sailors find their longitude. In the 19th and 20th centuries astronomers built large telescopes on mountains, away from the glare of cities and above much of the atmosphere.\n\nToday the best sites include Mauna Kea in Hawaii, at about 4,200 metres, and the Atacama Desert in Chile, where the European Southern Observatory operates the Very Large Telescope and is building the Extremely Large Telescope, with a 39-metre mirror. Space observatories such as Hubble and Webb avoid the atmosphere altogether.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal_observatory_Greenwich.JPG?width=800"
+    },
+    {
+      "id": "fermi-paradox",
+      "title": "The Fermi Paradox",
+      "description": "If aliens exist, where is everybody?",
+      "content": "The Fermi paradox is the contradiction between the high estimated likelihood of extraterrestrial civilisations and the total lack of evidence for them. It is named after the physicist Enrico Fermi, who in 1950, in a lunchtime conversation at Los Alamos, is said to have asked where everybody is.\n\nThe reasoning goes like this: there are hundreds of billions of stars in our galaxy, many with planets, and the galaxy is over ten billion years old. That would be enough time for a civilisation to colonise it, even at a slow pace, yet we see no signs. The Drake equation, formulated by Frank Drake in 1961, is a way to estimate the number of civilisations by multiplying factors such as the rate of star formation and the fraction of planets where life arises.\n\nProposed answers include that life is extremely rare, that intelligence rarely evolves, that civilisations destroy themselves, that interstellar distances are too great, that they are hiding, or that we simply have not looked hard enough. Another idea is the Great Filter, a difficult step that few species pass.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Enrico_Fermi_1943-49.jpg?width=800"
+    },
+    {
+      "id": "seti",
+      "title": "The Search for Extraterrestrial Intelligence",
+      "description": "Listening for signals from other civilisations.",
+      "content": "SETI, the Search for Extraterrestrial Intelligence, is the scientific effort to find evidence of intelligent life beyond Earth, by listening for radio signals or looking for laser flashes. It began in 1960, when Frank Drake pointed a radio telescope in West Virginia at two nearby stars in Project Ozma.\n\nScientists often search near 1,420 megahertz, the frequency of hydrogen, the most common element in the universe, which any technological species might know about. In 1974 astronomers sent the Arecibo message, a short radio signal describing humans, toward a distant star cluster. In 1977 the Big Ear telescope in Ohio detected a strong 72-second signal, which astronomer Jerry Ehman circled on the printout and marked Wow!, and it has never been repeated or explained.\n\nFrom 1999 to 2020 the SETI@home project used volunteers' home computers to analyse data. In 2015 the Breakthrough Listen initiative began a 10-year, 100-million-dollar search. So far no confirmed signal has been found.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arecibo_Observatory_Aerial_View.jpg?width=800"
+    },
+    {
+      "id": "space-tourism",
+      "title": "Space Tourism",
+      "description": "When ordinary people fly to space.",
+      "content": "Space tourism is space travel for recreation. The first paying visitor was the American businessman Dennis Tito, who in 2001 spent about a week on the International Space Station on a Russian Soyuz, for a reported 20 million dollars. Several others followed over the next years.\n\nIn 2021 a new wave of suborbital flights began. On 11 July 2021 Richard Branson flew on Virgin Galactic's SpaceShipTwo, and on 20 July Jeff Bezos flew on Blue Origin's New Shepard, which takes passengers just above the boundary of space for a few minutes of weightlessness. In September 2021 SpaceX's Inspiration4 mission carried the first all-civilian crew into orbit for three days.\n\nCosts are still high, from hundreds of thousands to tens of millions of dollars. Companies such as Axiom Space organise private missions to the International Space Station. Critics point to the pollution and risks, and supporters say that it could bring down the costs of space travel.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Toyohiro-Akiyama-First-Japanese-Person-in-Space-1990.png?width=800"
+    },
+    {
+      "id": "gravity-assist",
+      "title": "Gravity Assists",
+      "description": "Using a planet's gravity as a slingshot.",
+      "content": "A gravity assist, or slingshot, is a manoeuvre in which a spacecraft uses the gravity of a planet or moon to change its speed and direction, without using extra fuel. As the spacecraft flies past, it borrows a tiny amount of the planet's orbital energy, and the planet's motion changes by an immeasurably small amount.\n\nThe technique is essential for exploring the outer Solar System because rockets cannot carry enough fuel. It was worked out in the 1960s, in part by the young mathematician Michael Minovitch, and first used by Mariner 10, which in 1974 flew past Venus on its way to Mercury. The Voyager probes used the alignment of the outer planets in the late 1970s to fly from Jupiter to Saturn to Uranus and Neptune.\n\nThe Cassini spacecraft flew past Venus twice, then Earth and Jupiter, to gain enough speed to reach Saturn, and the European mission BepiColombo used gravity assists to reach Mercury.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Animation_of_Voyager_1_trajectory.gif?width=800"
+    },
+    {
+      "id": "weightlessness",
+      "title": "Weightlessness",
+      "description": "Why astronauts float in space.",
+      "content": "Astronauts on the International Space Station float, but not because there is no gravity there: at that height, Earth's gravity is still about 90% as strong as on the surface. They float because the station and everything in it is in continuous free fall, falling around the Earth and moving sideways so fast that it never hits the ground. This condition is called microgravity.\n\nIt has strange effects. Liquids form floating spheres, flames burn in a round, blue shape, and there is no up or down. Without gravity, body fluids shift toward the head, giving astronauts puffy faces and a stuffy nose, and about half of them feel space sickness at first. The spine lengthens, making them a few centimetres taller.\n\nLong-term, muscles weaken and bones lose about 1% of their density each month, so astronauts exercise about two hours a day. Scientists study these effects to keep travellers healthy on long missions, and to learn about diseases such as osteoporosis. You can feel brief weightlessness during parabolic aircraft flights, nicknamed the vomit comet.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Foale_ZeroG.jpg?width=800"
+    }
+  ]
+}

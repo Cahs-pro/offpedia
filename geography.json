@@ -1,0 +1,704 @@
+{
+  "category": "geography",
+  "articles": [
+    {
+      "id": "earth",
+      "title": "Planet Earth",
+      "description": "Our home, the only known world with life.",
+      "content": "Earth is the third planet from the Sun and the only place in the universe known to support life. It formed about 4.54 billion years ago, has a diameter of about 12,742 kilometres, and orbits the Sun once every 365.25 days while rotating on its axis every 24 hours.\n\nAbout 71% of its surface is covered by water and 29% by land. Its atmosphere is roughly 78% nitrogen and 21% oxygen, and it protects life from harmful radiation and keeps temperatures mild. A magnetic field generated in the liquid outer core shields the planet from the solar wind.\n\nEarth's axis is tilted by about 23.5 degrees, which causes the seasons. It has one natural satellite, the Moon, whose gravity creates ocean tides. Geography is the study of this planet's surface, its people and the ways they interact.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Meteosat-12-fci-march-equinox-2025-noon.jpg?width=800"
+    },
+    {
+      "id": "africa",
+      "title": "Africa",
+      "description": "The second-largest continent, cradle of humankind.",
+      "content": "Africa is the second-largest continent, with an area of about 30.3 million square kilometres, and is home to about 1.5 billion people in 54 countries. The equator runs through the middle, so it has rainforests near the centre and deserts in the north and south.\n\nIts major features include the Sahara, the world's largest hot desert, the Nile and Congo rivers, Lake Victoria, Mount Kilimanjaro and the Great Rift Valley. It has savannas full of wildlife such as elephants, lions and giraffes. The oldest fossils of modern humans have been found in Africa, so it is called the cradle of humankind.\n\nMore than 2,000 languages are spoken across the continent, and its cultures include the ancient civilisations of Egypt, Aksum and Mali. Africa has the youngest population of any continent.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Africa_(orthographic_projection).svg?width=800"
+    },
+    {
+      "id": "asia",
+      "title": "Asia",
+      "description": "The largest and most populous continent.",
+      "content": "Asia is the largest continent, with an area of about 44.6 million square kilometres, and it is home to about 4.7 billion people, roughly 60% of the world's population. It stretches from the Arctic Ocean in the north to the tropics in the south.\n\nIt has the highest and lowest points on land: Mount Everest, at 8,849 metres, and the shore of the Dead Sea, about 430 metres below sea level. Siberia, the Gobi Desert, the Tibetan Plateau and the great rivers such as the Yangtze, Ganges and Mekong are among its features. The boundary with Europe is usually placed along the Ural Mountains and the Caucasus.\n\nThe world's earliest civilisations, in Mesopotamia, India and China, arose here, as did the major religions of Judaism, Christianity, Islam, Hinduism and Buddhism. Today it includes some of the largest economies and cities.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asia_(orthographic_projection)_without_New_Guinea.svg?width=800"
+    },
+    {
+      "id": "europe",
+      "title": "Europe",
+      "description": "A small continent with a long coastline and a rich history.",
+      "content": "Europe is the second-smallest continent by area, about 10.2 million square kilometres, but has a population of about 750 million in about 44 countries. It is really the western part of the huge landmass of Eurasia, bordered by the Arctic Ocean, the Atlantic, the Mediterranean and the Black Sea.\n\nIts landscape includes the Alps, the Pyrenees and the Carpathians, big rivers such as the Volga and Danube, and many peninsulas, such as the Iberian, Italian and Scandinavian, giving it a very long coastline. Mount Elbrus in the Caucasus, at 5,642 metres, is its highest peak.\n\nEurope was the home of Ancient Greece and Rome, of the Renaissance and of the Industrial Revolution. The European Union, founded on the idea of peace and cooperation, includes 27 countries. Hundreds of languages and cultures live side by side in this compact continent.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Europe_orthographic_Caucasus_Urals_boundary_(with_borders).svg?width=800"
+    },
+    {
+      "id": "north-america",
+      "title": "North America",
+      "description": "The continent from the Arctic to the Caribbean.",
+      "content": "North America is the third-largest continent, with an area of about 24.7 million square kilometres and a population of about 580 million. It includes Canada, the United States and Mexico, together with Central America and the Caribbean islands, and Greenland.\n\nIts geography is varied: the Rocky Mountains run down its western side, the Great Plains and the Mississippi River cross the middle, and the Great Lakes hold about a fifth of the world's surface fresh water. Denali in Alaska, at 6,190 metres, is its highest peak, and Death Valley in California is one of the hottest places on Earth.\n\nIndigenous peoples such as the Inuit, Cree, Navajo and the Maya and Aztec civilisations lived here long before European settlers arrived from the 16th century. The continent is home to many of the world's leading economies.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Location_North_America.svg?width=800"
+    },
+    {
+      "id": "south-america",
+      "title": "South America",
+      "description": "The continent of the Amazon and the Andes.",
+      "content": "South America is the fourth-largest continent, with an area of about 17.8 million square kilometres, and has about 440 million inhabitants in 12 independent countries. It is connected to North America by the narrow Isthmus of Panama.\n\nThe Andes, the longest mountain range on land, run along its west coast. The Amazon River carries more water than any other river and flows through the world's largest rainforest. Other features include the Atacama Desert, Patagonia, Lake Titicaca and Angel Falls, the highest waterfall on Earth.\n\nBefore Europeans arrived, the Inca built a great empire in the Andes. Today Spanish and Portuguese are the main languages, and Brazil alone covers nearly half of the continent. The region is known for its biodiversity, football and music.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/South_America_(orthographic_projection).svg?width=800"
+    },
+    {
+      "id": "oceania",
+      "title": "Oceania",
+      "description": "The region of Australia, New Zealand and the Pacific islands.",
+      "content": "Oceania is a region in the Pacific Ocean that includes Australia, New Zealand, Papua New Guinea and thousands of islands grouped into Melanesia, Micronesia and Polynesia. It is often counted as the smallest continent, with about 8.5 million square kilometres of land and a population of about 45 million.\n\nAustralia makes up most of the land. The region includes the Great Barrier Reef, the world's largest coral reef system, and countries such as Fiji, Samoa and Tonga. Some islands are volcanic, while others are low coral atolls that are threatened by rising sea levels.\n\nPolynesian navigators sailed thousands of kilometres across the Pacific using the stars, currents and waves, settling islands as far as Hawaii, Easter Island and New Zealand. The region is known for unique wildlife such as kangaroos, kiwis and birds-of-paradise.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Oceania_(centered_orthographic_projection).svg?width=800"
+    },
+    {
+      "id": "antarctica",
+      "title": "Antarctica",
+      "description": "The frozen continent at the bottom of the world.",
+      "content": "Antarctica is the fifth-largest continent, covering about 14.2 million square kilometres around the South Pole. About 98% of it is covered by an ice sheet, on average about two kilometres thick, that holds most of the world's fresh water, about two thirds of it.\n\nIt is the coldest, windiest and driest continent: the lowest temperature ever measured, minus 89.2 °C, was recorded at Vostok Station in 1983. Its tallest peak is Vinson Massif, at 4,892 metres. There is no permanent population, only scientists who stay at research stations. Penguins, seals and whales live along its coast.\n\nThe Antarctic Treaty, signed in 1959, reserves the continent for peaceful scientific research and bans military activity. Roald Amundsen reached the South Pole on 14 December 1911.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Antarctica_(orthographic_projection).svg?width=800"
+    },
+    {
+      "id": "arctic",
+      "title": "The Arctic",
+      "description": "The polar region around the North Pole.",
+      "content": "The Arctic is the region around the North Pole. Unlike Antarctica, it is mostly a frozen ocean, the Arctic Ocean, surrounded by the northern parts of Canada, Alaska, Greenland, Scandinavia and Russia.\n\nIt has a long, dark and extremely cold winter, with polar night when the sun does not rise for weeks, and a short summer with the midnight sun. The northern lights, or aurora borealis, often light the sky. The tundra supports reindeer, Arctic foxes and musk oxen, and polar bears hunt seals on the sea ice.\n\nIndigenous peoples such as the Inuit, Sámi and Nenets have lived here for thousands of years. The Arctic is warming about three to four times faster than the global average, and the loss of sea ice is opening new shipping routes and threatening wildlife.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arctic_(orthographic_projection_with_highlights).svg?width=800"
+    },
+    {
+      "id": "pacific-ocean",
+      "title": "Pacific Ocean",
+      "description": "The largest and deepest ocean on Earth.",
+      "content": "The Pacific Ocean is the largest and deepest ocean, covering about 165 million square kilometres, which is more than all of the land on Earth combined.\n\nIt stretches from the Arctic in the north to the Southern Ocean in the south, between Asia and Australia in the west and the Americas in the east. Its deepest point, the Challenger Deep in the Mariana Trench, lies almost 11,000 metres below the surface.\n\nThe Pacific is ringed by the Ring of Fire, where most of the world's earthquakes and volcanoes occur. Ferdinand Magellan named it the peaceful sea in 1520, and thousands of islands, from Hawaii to Fiji, lie within it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pacific_Ocean_-_en.png?width=800"
+    },
+    {
+      "id": "atlantic-ocean",
+      "title": "Atlantic Ocean",
+      "description": "The ocean between the Americas and Europe and Africa.",
+      "content": "The Atlantic is the second-largest ocean, with an area of about 85 million square kilometres, separating the Americas from Europe and Africa. Its name comes from the Greek Titan Atlas.\n\nAlong its middle runs the Mid-Atlantic Ridge, an underwater mountain range where two tectonic plates are moving apart, so the ocean is widening by about 2.5 centimetres a year. The Puerto Rico Trench is its deepest point, at more than 8,000 metres. The Gulf Stream, a warm current, carries heat toward Europe and keeps its winters mild.\n\nThe Sargasso Sea, named for floating seaweed, is a region without shores. The Atlantic was crossed by Columbus in 1492 and has been a key trade route ever since. The liner Titanic sank in the North Atlantic in 1912.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atlantic_Ocean_-_en.png?width=800"
+    },
+    {
+      "id": "indian-ocean",
+      "title": "Indian Ocean",
+      "description": "The warm ocean of monsoons and ancient trade.",
+      "content": "The Indian Ocean is the third-largest ocean, with an area of about 70 million square kilometres, lying between Africa, Asia and Australia. It is the warmest of the oceans, and its northern part is closed off by land, which is why its currents reverse with the seasons.\n\nThe seasonal winds called monsoons, which bring vital rains to South Asia, are linked to it. For thousands of years sailors in dhows used the monsoon winds to trade between East Africa, Arabia, India and Southeast Asia. Its deepest point is in the Java Trench, about 7,290 metres deep.\n\nThe ocean contains Madagascar, the Maldives, Sri Lanka and the Seychelles, and gives access to the Red Sea and the Persian Gulf. The 2004 Indian Ocean tsunami was one of the deadliest natural disasters in history.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Ocean-CIA_WFB_Map.png?width=800"
+    },
+    {
+      "id": "arctic-ocean",
+      "title": "Arctic Ocean",
+      "description": "The smallest and shallowest ocean.",
+      "content": "The Arctic Ocean is the smallest and shallowest of the world's oceans, with an area of about 14 million square kilometres and an average depth of about 1,000 metres. It surrounds the North Pole and is largely covered by sea ice.\n\nThe ice is thickest in winter and shrinks in summer. Over recent decades the summer ice has shrunk dramatically because of global warming, opening routes such as the Northwest Passage and the Northern Sea Route to ships. Its deepest point is about 5,500 metres.\n\nPolar bears, walruses, narwhals and seals live here, and tiny plankton in the cold water support the food web. Coastal Arctic communities have lived from the sea for thousands of years, and the region is also rich in oil, gas and minerals.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arctic_Ocean_-_en.png?width=800"
+    },
+    {
+      "id": "southern-ocean",
+      "title": "Southern Ocean",
+      "description": "The ocean that encircles Antarctica.",
+      "content": "The Southern Ocean surrounds Antarctica and is generally defined as the water south of 60° south latitude. It was officially recognised by the International Hydrographic Organization in 2000, and National Geographic began to show it as the world's fifth ocean in 2021.\n\nIt is dominated by the Antarctic Circumpolar Current, the largest ocean current in the world, which flows clockwise around Antarctica, linking the Atlantic, Pacific and Indian oceans. Strong winds and huge waves make it one of the stormiest places on Earth, and sailors call the latitudes the Roaring Forties, Furious Fifties and Screaming Sixties.\n\nThe cold, nutrient-rich water supports huge numbers of krill, which feed whales, seals, penguins and seabirds. Icebergs break from Antarctic glaciers and drift into the ocean.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Location_Southern_Ocean.svg?width=800"
+    },
+    {
+      "id": "equator",
+      "title": "The Equator",
+      "description": "The imaginary line that circles Earth at zero degrees latitude.",
+      "content": "The equator is the imaginary line around the middle of Earth at 0° latitude, halfway between the North and South poles. It divides the planet into the Northern and Southern hemispheres and is about 40,075 kilometres long.\n\nIt passes through 13 countries, including Ecuador, Colombia, Brazil, Gabon, Kenya, Uganda, the Democratic Republic of the Congo, Indonesia and the Maldives. Near the equator days and nights are almost equal in length all year, and the sun is nearly overhead at noon. Climates are hot and humid, with rainforests such as the Amazon and Congo.\n\nBecause Earth spins, it bulges slightly at the equator, and its diameter there is about 43 kilometres greater than from pole to pole. The country Ecuador is named after it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Solstice_revolving_earth.gif?width=800"
+    },
+    {
+      "id": "latitude-longitude",
+      "title": "Latitude and Longitude",
+      "description": "The grid of lines that pins down every place on Earth.",
+      "content": "Latitude and longitude form a grid of imaginary lines that let us describe any place on Earth exactly. Latitude measures how far north or south of the equator a place is, from 0° to 90°, and longitude measures how far east or west of the Prime Meridian, from 0° to 180°.\n\nThe Prime Meridian, at 0° longitude, passes through Greenwich, in London, and was agreed on at an international conference in Washington in 1884. Lines of latitude are also called parallels, and lines of longitude are called meridians. Each degree is divided into 60 minutes and each minute into 60 seconds.\n\nFor example, Baku lies at about 40.4° north and 49.9° east. Satellite navigation systems such as GPS use these coordinates, and the idea goes back to the Greek scholar Ptolemy and his maps of the 2nd century.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FedStats_Lat_long.svg?width=800"
+    },
+    {
+      "id": "map",
+      "title": "Maps",
+      "description": "The art and science of showing the world on paper and screens.",
+      "content": "A map is a picture of an area showing its features, such as land, water, roads and borders, in a smaller size. Mapmakers, called cartographers, use scales, symbols and colours to help people find their way and understand places.\n\nOne of the oldest known world maps is a Babylonian clay tablet from about the 6th century BCE. Ptolemy's maps influenced the Greek and Islamic worlds, and the Ottoman admiral Piri Reis drew a famous world map in 1513. In 1569 Gerardus Mercator created a projection that helped sailors navigate but enlarges areas near the poles.\n\nBecause the Earth is a sphere, a flat map always distorts something, such as area, shape or distance. Today digital maps such as Google Maps and geographic information systems (GIS) combine satellite images with data to guide people and plan cities.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/World_Map_1689.JPG?width=800"
+    },
+    {
+      "id": "compass",
+      "title": "The Compass",
+      "description": "The instrument that showed sailors the way.",
+      "content": "A compass is a navigation instrument with a magnetised needle that swings to align with Earth's magnetic field, pointing to the magnetic north pole. It shows direction on land, sea and in the air, whatever the weather or time of day.\n\nThe magnetic compass was invented in China, where lodestone, a naturally magnetic mineral, was used for divination by the Han dynasty and later for navigation, around the 11th century. It reached Europe and the Islamic world by the 12th century and helped make ocean voyages possible during the Age of Discovery.\n\nMagnetic north is not the same as true, or geographic, north, and the difference is called declination. Modern gyrocompasses and GPS have taken over on ships and planes, but the magnetic compass is still used as a reliable backup.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2016_Busola.JPG?width=800"
+    },
+    {
+      "id": "time-zones",
+      "title": "Time Zones",
+      "description": "How the world shares the sun's clock.",
+      "content": "Time zones are regions that follow the same standard time. Because the Earth turns 360 degrees in 24 hours, the world is divided roughly into 24 zones, each about 15 degrees of longitude wide, so that noon occurs near the time the sun is highest.\n\nBefore the 1880s each town kept its own local solar time, but the spread of railways made standard time necessary. In 1884 Greenwich in London became the reference point, known as Greenwich Mean Time and now as Coordinated Universal Time (UTC). The International Date Line, in the Pacific, marks where the date changes.\n\nSome countries choose unusual zones: China uses a single zone across its vast territory, Russia has eleven, and Nepal's time is 45 minutes off a whole hour. Azerbaijan uses UTC+4.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/World_Time_Zones_Map.svg?width=800"
+    },
+    {
+      "id": "seasons",
+      "title": "The Seasons",
+      "description": "Why the year has spring, summer, autumn and winter.",
+      "content": "The seasons are caused by the tilt of Earth's axis, about 23.5 degrees, as it travels around the Sun, and not by distance from the Sun. When the northern hemisphere is tilted toward the Sun, it receives more direct light and has summer, while the southern hemisphere has winter.\n\nTwo solstices and two equinoxes mark the turning points. At the equinoxes, around 20 March and 22 September, day and night are nearly equal everywhere, and the March equinox is when Novruz is celebrated. At the summer solstice, the days are longest.\n\nNear the equator there is little variation in temperature, and the year is divided into rainy and dry seasons instead. Near the poles there are months of continuous daylight in summer and darkness in winter.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChangingSeasons_NH_01.png?width=800"
+    },
+    {
+      "id": "plate-tectonics",
+      "title": "Plate Tectonics",
+      "description": "The slow drift of the plates that carry continents and ocean floors.",
+      "content": "Earth's outer shell is broken into rigid plates that move a few centimetres per year over the hotter, softer mantle beneath, about as fast as fingernails grow. There are about 15 major and minor plates, the largest being the Pacific Plate.\n\nWhere plates pull apart, new crust forms, as along the Mid-Atlantic Ridge. Where they collide, mountains rise, as when India met Asia to create the Himalayas, or one plate slides beneath another in a subduction zone, causing volcanoes and deep ocean trenches. Where they slide past each other, as along the San Andreas Fault in California, earthquakes are common.\n\nThe theory brought together evidence from fossils, magnetism and the shape of the continents. It grew from Alfred Wegener's idea of continental drift in 1912 and became widely accepted in the 1960s.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tectonic_plates_(2022).svg?width=800"
+    },
+    {
+      "id": "pangaea",
+      "title": "Pangaea",
+      "description": "The supercontinent that broke apart to form today's continents.",
+      "content": "Pangaea was a supercontinent that existed about 335 to 175 million years ago, when almost all of Earth's land was joined in one giant mass, surrounded by a single ocean called Panthalassa. The name comes from Greek words meaning all the land.\n\nThe German scientist Alfred Wegener proposed in 1912 that the continents had once fitted together. He pointed to matching coastlines of South America and Africa, and to identical fossils, such as the reptile Mesosaurus and the plant Glossopteris, found on continents now separated by oceans.\n\nAround 200 million years ago Pangaea began to split into two parts, Laurasia in the north and Gondwana in the south, which then broke apart into the continents we know. Scientists predict that the continents will one day merge again into a new supercontinent in about 250 million years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mollweide_Paleographic_Map_of_Earth%2C_225_Ma_(Norian_Age).png?width=800"
+    },
+    {
+      "id": "earth-layers",
+      "title": "The Layers of the Earth",
+      "description": "The crust, mantle and core beneath our feet.",
+      "content": "Earth has four main layers. The outer layer is the crust, a thin rocky shell about 5 to 10 kilometres thick under the oceans and 30 to 70 kilometres under the continents. Beneath it is the mantle, about 2,900 kilometres thick, made of hot, slowly flowing rock.\n\nAt the centre is the core. The outer core, about 2,200 kilometres thick, is liquid iron and nickel, and its movement creates Earth's magnetic field. The inner core, a solid ball of iron and nickel with a radius of about 1,220 kilometres, has a temperature of about 5,400 °C, as hot as the surface of the Sun.\n\nScientists learn about the interior by studying seismic waves from earthquakes. The deepest hole ever drilled, the Kola Superdeep Borehole in Russia, reached only about 12 kilometres, less than a fifth of the way through the crust in places.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Earth_cutaway.png?width=800"
+    },
+    {
+      "id": "rocks-and-minerals",
+      "title": "Rocks and Minerals",
+      "description": "The materials that make up Earth's solid surface.",
+      "content": "Rocks are natural solid materials made of one or more minerals, which are naturally occurring inorganic substances with a specific chemical makeup, such as quartz, feldspar and calcite. Rocks form the crust of the Earth and are grouped into three main types.\n\nIgneous rocks, such as granite and basalt, form when molten magma or lava cools and hardens. Sedimentary rocks, such as sandstone and limestone, form from layers of sediment pressed together over time, and they often contain fossils. Metamorphic rocks, such as marble and slate, form when heat and pressure change existing rocks.\n\nOver millions of years, rocks are transformed from one type to another in a process called the rock cycle. The oldest known rocks, in Canada, are about four billion years old. Limestone from the Absheron Peninsula has long been used to build the houses and palaces of Baku.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marsh_Butte_and_Geikie_Peak%2C_Grand_Canyon.jpg?width=800"
+    },
+    {
+      "id": "soil",
+      "title": "Soil",
+      "description": "The thin living skin of the land.",
+      "content": "Soil is the loose top layer of the Earth's surface, made from a mix of tiny bits of rock, decaying organic matter, water and air. It is the medium in which most plants grow and so supports most life on land.\n\nSoil forms very slowly, as rocks are weathered by wind, water and ice and mixed with the remains of plants and animals: it can take hundreds or even thousands of years to make a single centimetre. It is arranged in layers called horizons. Sand, silt and clay are the mineral parts, and the amount of each decides the soil's texture.\n\nA handful of healthy soil contains billions of bacteria, fungi and other organisms. Rich black soils called chernozem, found in Ukraine and Russia, are among the most fertile in the world. Erosion, overgrazing and poor farming can destroy soil far faster than it forms.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Stagnogley.JPG?width=800"
+    },
+    {
+      "id": "mount-everest",
+      "title": "Mount Everest",
+      "description": "The highest mountain above sea level.",
+      "content": "Mount Everest is the highest mountain above sea level, on the border between Nepal and the Tibet region of China, in the Himalayas. Its height was officially recognised in 2020 as 8,848.86 metres.\n\nIt is called Sagarmatha in Nepali and Chomolungma in Tibetan. The British surveyor Sir George Everest, after whom it was named in 1865, never saw it himself. Edmund Hillary and Tenzing Norgay made the first confirmed ascent on 29 May 1953, and since then thousands of climbers have followed, most using two routes, from Nepal and from Tibet.\n\nAbove about 8,000 metres lies the so-called death zone, where oxygen is so thin that the human body cannot acclimatise. The mountain is still rising by a few millimetres a year as the Indian plate pushes into Asia.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg?width=800"
+    },
+    {
+      "id": "himalayas",
+      "title": "The Himalayas",
+      "description": "The highest mountain range on Earth.",
+      "content": "The Himalayas are the world's highest mountain range, stretching about 2,400 kilometres across Pakistan, India, Nepal, Bhutan and China. They contain many of the highest peaks on Earth, including Everest and Kangchenjunga.\n\nThe range formed some 50 million years ago when the Indian plate collided with the Eurasian plate, and it is still growing. Marine fossils found at high altitude show that the rocks once lay under the sea. The Himalayas act as a climate barrier, blocking cold air from the north and forcing the monsoon rains onto the Indian side.\n\nIts glaciers feed major rivers such as the Ganges, Indus and Brahmaputra, which supply water to hundreds of millions of people. The name comes from Sanskrit words meaning abode of snow, and the mountains are sacred in Hinduism and Buddhism.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg?width=800"
+    },
+    {
+      "id": "alps",
+      "title": "The Alps",
+      "description": "Europe's great mountain range at the heart of the continent.",
+      "content": "The Alps are the largest mountain range in Europe, forming an arc about 1,200 kilometres long across eight countries: France, Switzerland, Italy, Austria, Germany, Liechtenstein, Slovenia and Monaco. Mont Blanc, on the French-Italian border, is the highest peak, at about 4,800 metres.\n\nThe Alps formed as the African plate pushed into the Eurasian plate. Glaciers, including the Aletsch Glacier, the longest in the Alps at about 23 kilometres, shaped the valleys and peaks such as the Matterhorn. The mountains are the source of major rivers, including the Rhine and the Rhône.\n\nThey are famous for skiing, hiking and mountaineering, and millions of tourists visit each year. In 1991 the body of Ötzi, a man who died about 5,300 years ago, was discovered preserved in ice in the Alps.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alps_2007-03-13_10.10UTC_1px-250m.jpg?width=800"
+    },
+    {
+      "id": "andes",
+      "title": "The Andes",
+      "description": "The longest mountain range on land.",
+      "content": "The Andes are the longest continental mountain range in the world, running about 7,000 kilometres along the west coast of South America through seven countries: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile and Argentina.\n\nThey formed as the Nazca plate slid beneath the South American plate. The highest peak is Aconcagua in Argentina, at 6,961 metres, the highest mountain outside Asia. The range has many volcanoes, including Ojos del Salado, the highest active volcano, and high plateaus such as the Altiplano.\n\nThe Inca built their empire in the Andes, and Machu Picchu is among their achievements. The mountains are the source of potatoes and quinoa, and are home to llamas, alpacas and the Andean condor. The Amazon begins as streams in these mountains.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panoramic_view_Andes-Chile.jpg?width=800"
+    },
+    {
+      "id": "rocky-mountains",
+      "title": "The Rocky Mountains",
+      "description": "The great mountain backbone of western North America.",
+      "content": "The Rocky Mountains, or Rockies, stretch for about 4,800 kilometres from British Columbia in Canada to New Mexico in the United States. The highest peak is Mount Elbert in Colorado, at 4,401 metres.\n\nThe range was formed by tectonic uplift between about 80 and 55 million years ago. The Continental Divide runs along its crest and determines whether rivers flow to the Atlantic or Pacific. The Rockies contain famous parks including Yellowstone, the world's first national park, established in 1872, and Banff and Glacier.\n\nThe mountains were home to Indigenous peoples for thousands of years and were a barrier to pioneers heading west. Their forests and meadows shelter grizzly bears, elk, bighorn sheep and wolves, and gold and silver rushes shaped the history of the region.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_sun_rises_over_the_T.A._Moulton_barn.jpg?width=800"
+    },
+    {
+      "id": "caucasus-mountains",
+      "title": "The Caucasus Mountains",
+      "description": "The mountain range between the Black and Caspian seas.",
+      "content": "The Caucasus Mountains lie between the Black Sea and the Caspian Sea and are made up of two ranges: the Greater Caucasus in the north, stretching about 1,200 kilometres, and the Lesser Caucasus in the south. They are often seen as the boundary between Europe and Asia.\n\nMount Elbrus in Russia, at 5,642 metres, is the highest peak, followed by Mount Kazbek in Georgia. In Azerbaijan the highest is Bazarduzu, at 4,466 metres. Other peaks include Shahdag, with ski resorts, and the villages of Khinalig, among the highest permanently inhabited settlements in Europe.\n\nThe region has extraordinary diversity: dozens of ethnic groups and languages, and forests and alpine meadows with wild goats, brown bears and leopards. In Greek myth, the Titan Prometheus was chained to the Caucasus for giving fire to humans.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Elbrus_view_on_the_mountains.jpg?width=800"
+    },
+    {
+      "id": "mount-kilimanjaro",
+      "title": "Mount Kilimanjaro",
+      "description": "Africa's highest peak, rising from the savanna.",
+      "content": "Mount Kilimanjaro is the highest mountain in Africa, rising to 5,895 metres at Uhuru Peak, in north-eastern Tanzania near the border with Kenya. It is the highest free-standing mountain in the world, rising alone from the plains.\n\nIt is a dormant volcano with three cones: Kibo, the highest, Mawenzi and Shira. Climbers pass through five ecological zones on the way up, from farmland and rainforest to moorland, alpine desert and an icy summit. Because no technical climbing skills are needed on the main routes, it is a popular goal for trekkers.\n\nThe mountain's glaciers have shrunk dramatically over the past century and may vanish in the coming decades. The first recorded ascent was in 1889 by Hans Meyer and Ludwig Purtscheller. Its snowy peak looks over the wildlife of Amboseli National Park.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kilimanjaro_from_Amboseli.jpg?width=800"
+    },
+    {
+      "id": "mount-fuji",
+      "title": "Mount Fuji",
+      "description": "Japan's sacred, snow-capped volcano.",
+      "content": "Mount Fuji is the highest mountain in Japan, at 3,776 metres, and one of the most recognisable volcanoes in the world thanks to its almost perfectly symmetrical cone. It lies on the island of Honshu, about 100 kilometres south-west of Tokyo.\n\nIt is an active volcano, although its last eruption was in 1707. Snow covers the summit for much of the year, and on clear days it can be seen from Tokyo. The mountain has been sacred in Shinto and Buddhist tradition for centuries, and thousands of pilgrims climb it in July and August.\n\nMount Fuji has inspired many artists, including Hokusai in his series Thirty-six Views of Mount Fuji, which includes The Great Wave. It was named a UNESCO World Heritage Site in 2013, as a cultural landscape.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg?width=800"
+    },
+    {
+      "id": "volcanoes",
+      "title": "Volcanoes",
+      "description": "Openings in Earth's crust where molten rock escapes.",
+      "content": "A volcano is an opening in Earth's crust through which molten rock, ash and gas escape from below. Magma that reaches the surface is called lava.\n\nVolcanoes form mostly where tectonic plates meet or over hot spots, and about three quarters of the world's active volcanoes lie around the Pacific Ring of Fire. Types include broad shield volcanoes such as Mauna Loa and steep stratovolcanoes such as Mount Fuji.\n\nEruptions can be devastating: Vesuvius buried Pompeii in 79 CE, and Tambora in 1815 caused the year without a summer. Yet volcanic soil is very fertile. Scientists monitor volcanoes with seismometers and gas sensors to warn people about eruptions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Augustine_volcano_Jan_24_2006_-_Cyrus_Read.jpg?width=800"
+    },
+    {
+      "id": "earthquakes",
+      "title": "Earthquakes",
+      "description": "Sudden shaking of the ground caused by moving faults.",
+      "content": "An earthquake is a sudden shaking of the ground caused by the release of stress along a fault in Earth's crust. Most occur at boundaries between tectonic plates.\n\nThe point underground where rupture begins is the focus, and the point directly above it is the epicentre. Seismographs record the waves, and magnitude is now commonly measured on the moment magnitude scale, which replaced the Richter scale for large events. Each step up the scale means about 32 times more energy released.\n\nThe strongest recorded earthquake was the 1960 Valdivia quake in Chile, of magnitude 9.5. Earthquakes can trigger tsunamis, as in the Indian Ocean in 2004. Buildings designed to flex, and knowing to drop, cover and hold on, save lives.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Quake_epicenters_1963-98.png?width=800"
+    },
+    {
+      "id": "tsunami",
+      "title": "Tsunami",
+      "description": "Giant waves caused by underwater disturbances.",
+      "content": "A tsunami is a series of enormous ocean waves caused by a sudden movement of the sea floor, most often from an underwater earthquake but also by volcanic eruptions or landslides. The word is Japanese and means harbour wave.\n\nIn deep water a tsunami can travel as fast as a jet plane, about 800 kilometres per hour, and rise only a little above the surface. As it reaches shallow water near the coast, it slows down and grows into a wall of water that can be many metres high, and may flood far inland.\n\nThe 2004 Indian Ocean tsunami killed about 230,000 people in more than a dozen countries, and the 2011 Tōhoku tsunami in Japan caused about 18,000 deaths and damaged the Fukushima nuclear plant. Warning systems, sea walls and evacuation drills now help protect coasts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2004-tsunami.jpg?width=800"
+    },
+    {
+      "id": "grand-canyon",
+      "title": "The Grand Canyon",
+      "description": "A mile-deep gorge carved by the Colorado River.",
+      "content": "The Grand Canyon in Arizona is one of the most spectacular gorges on Earth, about 446 kilometres long, up to 29 kilometres wide and more than 1.6 kilometres deep. It was carved by the Colorado River over the last five to six million years.\n\nThe rock walls show layers of sediment that record nearly two billion years of Earth's history, with colours ranging from red and orange to purple. Fossils in the layers tell of ancient seas and deserts. The canyon has been home to Native American peoples such as the Havasupai for centuries.\n\nThe canyon was made a national park in 1919 and a UNESCO World Heritage Site in 1979. About six million people visit each year to hike, raft the river and look at the views from the rim.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Canyon_River_Tree_(165872763).jpeg?width=800"
+    },
+    {
+      "id": "caves",
+      "title": "Caves",
+      "description": "Underground chambers shaped by water, lava and sea.",
+      "content": "A cave is a natural hollow in the ground large enough for a person to enter. Most are formed in limestone, where slightly acidic rainwater slowly dissolves the rock, creating a landscape called karst, but caves also form from lava tubes, sea waves and glaciers.\n\nIn many caves, dripping water deposits minerals to build stalactites hanging from the ceiling and stalagmites rising from the floor. Mammoth Cave in Kentucky is the longest known cave system, with more than 680 kilometres of passages. Sơn Đoòng in Vietnam is the world's largest cave passage, and Veryovkina in Georgia is the deepest known.\n\nPeople have used caves for shelter and art for tens of thousands of years, as in Lascaux in France. In Azerbaijan, Azykh Cave holds some of the oldest traces of human habitation in the Caucasus, and the caves of Gobustan preserve rock art.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lechuguilla_Cave_Pearlsian_Gulf.jpg?width=800"
+    },
+    {
+      "id": "glaciers",
+      "title": "Glaciers",
+      "description": "Slow rivers of ice that shape the land.",
+      "content": "A glacier is a large mass of ice that forms on land from compressed snow over many years and slowly flows downhill under its own weight. Glaciers cover about 10% of Earth's land and hold most of its fresh water.\n\nAs they move, glaciers carve the landscape, creating U-shaped valleys, sharp peaks and, where they reach the sea, fjords. They also carry rock debris, which is dropped as moraines when the ice melts. Some, such as the Lambert Glacier in Antarctica, are hundreds of kilometres long, while the Perito Moreno glacier in Argentina is famous for its huge ice walls.\n\nMost glaciers around the world are retreating because of global warming, adding to sea-level rise and threatening water supplies for people who depend on them. Small glaciers remain on the peaks of the Greater Caucasus, including in Azerbaijan.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Geikie_Plateau_Glacier.JPG?width=800"
+    },
+    {
+      "id": "ice-sheets",
+      "title": "Ice Sheets",
+      "description": "The vast ice caps of Antarctica and Greenland.",
+      "content": "An ice sheet is a mass of glacial ice covering more than 50,000 square kilometres. Today there are two: the Antarctic Ice Sheet and the Greenland Ice Sheet, and together they contain about two thirds of the fresh water on Earth.\n\nThe Antarctic Ice Sheet covers about 14 million square kilometres and is up to nearly 5 kilometres thick. If it melted completely, global sea levels would rise by about 58 metres. Greenland's ice sheet would raise the seas by about 7 metres.\n\nScientists drill cores from the ice to read past climates from trapped air bubbles, going back about 800,000 years. Both ice sheets are now losing mass because of a warming climate, which is one of the main causes of rising seas.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Antarctica_6400px_from_Blue_Marble.jpg?width=800"
+    },
+    {
+      "id": "tibetan-plateau",
+      "title": "The Tibetan Plateau",
+      "description": "The Roof of the World.",
+      "content": "The Tibetan Plateau is the highest and largest plateau in the world, covering about 2.5 million square kilometres in Tibet, Qinghai and neighbouring parts of China, with an average elevation of more than 4,500 metres. It is often called the Roof of the World.\n\nThe plateau was raised by the collision of India with Asia, which also formed the Himalayas on its southern edge. It has more glacier ice than anywhere else outside the polar regions and is called the Third Pole. It is the source of major rivers such as the Yangtze, Yellow, Mekong, Indus and Brahmaputra, which supply water to about two billion people.\n\nThe climate is cold and dry, and the thin air means little oxygen. Yaks graze on its grasslands, and its people, including Tibetan herders, have adapted to the altitude. Lhasa, at about 3,650 metres, is one of the highest cities.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Himalaya_composite.jpg?width=800"
+    },
+    {
+      "id": "great-rift-valley",
+      "title": "The Great Rift Valley",
+      "description": "The crack in the crust where Africa is splitting.",
+      "content": "The Great Rift Valley is a long system of valleys, escarpments and lakes that stretches about 6,000 kilometres from the Jordan Valley and Red Sea in the north through East Africa to Mozambique. It marks a place where the Earth's crust is slowly being pulled apart.\n\nIn East Africa the African plate is dividing into two, the Nubian and Somali plates, at a rate of a few millimetres a year. Over millions of years a new ocean may form there. The rift is dotted with volcanoes, such as Kilimanjaro nearby, and lakes, including Lake Tanganyika, the deepest lake in Africa.\n\nThe valley has yielded some of the most important fossils of early humans, for instance in Olduvai Gorge and the Afar region, which is why East Africa is called the cradle of humankind. The Afar Depression is one of the hottest places on Earth.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tectonical_map_of_East_Africa.png?width=800"
+    },
+    {
+      "id": "mud-volcanoes",
+      "title": "Mud Volcanoes",
+      "description": "Bubbling cones of mud, a signature of Azerbaijan.",
+      "content": "Mud volcanoes are cone-shaped landforms formed when mud, water and gases such as methane are forced up from deep underground. Unlike real volcanoes, they usually erupt cold mud, though the escaping gas can sometimes catch fire.\n\nAzerbaijan has nearly half of the world's mud volcanoes, several hundred of them, especially around Gobustan and the Absheron Peninsula and under the Caspian Sea. They vary from small bubbling pools a few centimetres tall to large cones several hundred metres high. Powerful eruptions can throw flames high into the air and even form new islands in the sea.\n\nThey form in places where thick layers of sediment and oil and gas deposits lie under pressure, which is why they are often found in oil-rich regions. People visit Gobustan and Dashgil to see them, and locals use the mud, which is said to have healing properties.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gobustan_State_Reserve_04.png?width=800"
+    },
+    {
+      "id": "islands",
+      "title": "Islands",
+      "description": "Land surrounded by water on all sides.",
+      "content": "An island is a piece of land surrounded by water. There are two main types: continental islands, which were once connected to a continent, such as Great Britain and Madagascar, and oceanic islands, which rise from the sea floor, often as volcanoes or coral reefs, such as Hawaii and Iceland.\n\nThe largest island is Greenland, at about 2.16 million square kilometres, followed by New Guinea and Borneo. Australia is considered a continent rather than an island. Some island groups, called archipelagos, contain thousands of islands, as in Indonesia and the Philippines.\n\nBecause they are isolated, islands often have unique wildlife, like the lemurs of Madagascar, but their species are especially vulnerable to extinction. Many low-lying islands, such as the Maldives, are threatened by rising sea levels.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hawaje-NoRedLine.jpg?width=800"
+    },
+    {
+      "id": "galapagos-islands",
+      "title": "The Galápagos Islands",
+      "description": "The volcanic islands that inspired the theory of evolution.",
+      "content": "The Galápagos Islands are a group of volcanic islands in the Pacific Ocean, about 1,000 kilometres west of Ecuador, straddling the equator. The archipelago has 13 main islands and many smaller ones and belongs to Ecuador.\n\nThe islands rose from the sea floor over a hot spot, and their isolation allowed unique species to evolve. Charles Darwin visited in 1835 and noticed differences among finches and tortoises from island to island, an observation that helped him develop the theory of evolution by natural selection.\n\nFamous wildlife includes giant tortoises, marine iguanas, the only lizards that feed in the sea, and blue-footed boobies. The Galápagos was among the first UNESCO World Heritage Sites, inscribed in 1978. Visitors are strictly regulated to protect the fragile ecosystem.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lobo_marino_(Zalophus_californianus_wollebaeki)%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG?width=800"
+    },
+    {
+      "id": "coral-reefs",
+      "title": "Coral Reefs",
+      "description": "The rainforests of the sea.",
+      "content": "Coral reefs are underwater structures built by colonies of tiny animals called coral polyps, which secrete hard skeletons of calcium carbonate. Over thousands of years these accumulate into reefs, mostly in warm, shallow, clear tropical seas.\n\nReefs cover less than 1% of the ocean floor but support about a quarter of all marine species. Corals live in partnership with algae called zooxanthellae, which give them their colour and food. The Great Barrier Reef off Australia, about 2,300 kilometres long, is the largest coral reef system and can be seen from space.\n\nReefs protect coasts from storms and provide food and jobs for millions of people. When the sea gets too warm, corals expel their algae and turn white in what is called bleaching. Rising temperatures, pollution and overfishing threaten reefs worldwide.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_Linckia_Starfish.JPG?width=800"
+    },
+    {
+      "id": "waterfalls",
+      "title": "Waterfalls",
+      "description": "Rivers that plunge over cliffs.",
+      "content": "A waterfall forms where a river flows over a steep drop, often at a band of hard rock lying over softer rock that is worn away more quickly. Over time the falls slowly retreat upstream.\n\nThe highest uninterrupted waterfall is Angel Falls in Venezuela, at 979 metres. Victoria Falls, on the border of Zambia and Zimbabwe, is known locally as Mosi-oa-Tunya, the smoke that thunders, and is more than a kilometre wide. Niagara Falls, between Canada and the United States, and Iguazu Falls, between Argentina and Brazil, are among the most visited.\n\nWaterfalls can be harnessed for hydroelectric power and attract many tourists. Some, like the frozen falls in cold regions, become spectacular ice formations in winter.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cascada_Dynjandi%2C_Vestfir%C3%B0ir%2C_Islandia%2C_2014-08-14%2C_DD_136-138_HDR.JPG?width=800"
+    },
+    {
+      "id": "fjords",
+      "title": "Fjords",
+      "description": "Deep sea inlets carved by glaciers.",
+      "content": "A fjord is a long, narrow, deep inlet of the sea with steep sides, formed when a glacier carved a valley during an ice age and the sea flooded it after the ice melted. The word comes from Norwegian.\n\nNorway is the most famous for fjords, such as Sognefjord, about 205 kilometres long and over 1,300 metres deep, and the Geirangerfjord, a UNESCO World Heritage Site since 2005. Fjords are also found in New Zealand, where Milford Sound is a highlight, and in Chile, Greenland, Alaska and Canada.\n\nTheir deep, sheltered waters make excellent harbours, and waterfalls often cascade down their cliffs. They are popular for cruises and kayaking, and the salt water and fresh water layers support unusual marine life.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Geirangerfjord_(6-2007).jpg?width=800"
+    },
+    {
+      "id": "river-deltas",
+      "title": "River Deltas",
+      "description": "Fertile land built where rivers meet the sea.",
+      "content": "A river delta forms where a river slows down and drops the sediment it carries as it flows into a sea or lake. The sediment builds up into new land that often splits the river into many channels. The name comes from the Greek letter delta, because the Nile Delta is triangular.\n\nDeltas are among the most fertile and densely populated places, as in the Nile, Ganges–Brahmaputra, Mekong and Mississippi deltas. The Ganges–Brahmaputra delta in India and Bangladesh is the largest in the world. The Volga Delta, with hundreds of channels flowing into the Caspian Sea, is the largest in Europe, and the Kura also builds a delta on the Caspian.\n\nDeltas are rich in wildlife, especially birds and fish, but many are sinking because dams trap sediment and sea levels are rising.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lena_River_Delta_-_Landsat_2000.jpg?width=800"
+    },
+    {
+      "id": "mount-ararat",
+      "title": "Mount Ararat",
+      "description": "The snow-capped volcano near the borders of Turkey, Iran, Armenia and Nakhchivan.",
+      "content": "Mount Ararat is a snow-capped dormant volcano in eastern Turkey, close to the borders with Iran, Armenia and Azerbaijan's Nakhchivan. Its highest peak, Great Ararat, is 5,137 metres, the highest point in Turkey, and it stands beside a smaller peak, Little Ararat, about 3,900 metres high.\n\nIn the Bible, Noah's Ark is said to have come to rest on the mountains of Ararat, and the story has inspired many expeditions searching for its remains, though none has found evidence. The mountain is a national symbol for Armenians, and it can be seen on a clear day from Yerevan, about 50 kilometres away.\n\nThe first recorded modern ascent was in 1829 by Friedrich Parrot, a German scientist. Glaciers cover the summit, and the surrounding area is a national park.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Ararat_and_the_Yerevan_skyline_in_spring_(50mm).jpg?width=800"
+    },
+    {
+      "id": "amazon-river",
+      "title": "The Amazon River",
+      "description": "The river that carries more water than any other.",
+      "content": "The Amazon is the largest river in the world by volume, carrying about a fifth of all the fresh water that flows into the oceans. It rises in the Andes of Peru and flows about 6,400 kilometres across Brazil to the Atlantic Ocean.\n\nIts basin covers around seven million square kilometres and holds the world's largest rainforest, home to roughly ten percent of known species. It has more than a thousand tributaries, some of them among the biggest rivers in their own right. Pink river dolphins, piranhas, anacondas and giant otters live in its waters.\n\nAt its mouth the river is more than 200 kilometres wide in the rainy season. The forest stores huge amounts of carbon and is threatened by deforestation for farming and logging.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon_River_ESA387332.jpg?width=800"
+    },
+    {
+      "id": "nile",
+      "title": "The Nile",
+      "description": "The long river that made ancient Egypt possible.",
+      "content": "The Nile is one of the longest rivers in the world, about 6,650 kilometres, flowing north through eleven countries to the Mediterranean Sea. Its two main branches are the White Nile, rising in the region of the African Great Lakes, and the Blue Nile, from Ethiopia, which meet at Khartoum in Sudan.\n\nBefore dams, the annual flood deposited fertile silt that made ancient Egyptian agriculture possible, and the river was the highway of the pharaohs. Most of Egypt's population lives close to the river and its delta.\n\nThe Aswan High Dam, completed in 1970, now controls the flood and produces electricity. The Grand Ethiopian Renaissance Dam on the Blue Nile, completed in the 2020s, has been the subject of discussion between Ethiopia, Sudan and Egypt about how the water should be shared.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beautiful_nature_along_Nile_River_01.jpg?width=800"
+    },
+    {
+      "id": "yangtze-river",
+      "title": "The Yangtze River",
+      "description": "Asia's longest river and China's lifeline.",
+      "content": "The Yangtze is the longest river in Asia and the third-longest in the world, at about 6,300 kilometres. It rises on the Tibetan Plateau and flows east through central China to the East China Sea near Shanghai.\n\nAbout a third of China's population lives in its basin, and it is the country's most important waterway, with cities such as Chongqing, Wuhan, Nanjing and Shanghai along its banks. The Three Gorges Dam, completed in 2006, is the largest hydroelectric power station in the world.\n\nThe river is home to unusual animals, such as the Chinese sturgeon and the Yangtze finless porpoise, and the baiji dolphin was declared functionally extinct in 2006. Rice is grown extensively in the fertile lowlands, and the Yangtze features in Chinese poetry and art.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dusk_on_the_Yangtze_River.jpg?width=800"
+    },
+    {
+      "id": "mississippi-river",
+      "title": "The Mississippi River",
+      "description": "The great river of the American heartland.",
+      "content": "The Mississippi is the main river of the United States, flowing about 3,700 kilometres from Lake Itasca in Minnesota to the Gulf of Mexico. With its tributary the Missouri, it forms one of the longest river systems in the world, and it drains parts of 31 states.\n\nIts name comes from an Ojibwe word meaning great river. Steamboats made it a highway of trade in the 19th century, and the novels of Mark Twain, such as Tom Sawyer and Huckleberry Finn, are set along its banks. Cities such as St Louis, Memphis and New Orleans grew up beside it.\n\nThe river builds a huge delta in Louisiana, but the wetlands there are shrinking. Levees have been built to control floods, such as the great flood of 1927. The Mississippi is also associated with the birth of blues and jazz music.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Efmo_View_from_Fire_Point.jpg?width=800"
+    },
+    {
+      "id": "danube",
+      "title": "The Danube",
+      "description": "Europe's international river.",
+      "content": "The Danube is the second-longest river in Europe, at about 2,850 kilometres, flowing from the Black Forest in Germany to the Black Sea. It passes through or along the borders of ten countries, more than any other river in the world: Germany, Austria, Slovakia, Hungary, Croatia, Serbia, Romania, Bulgaria, Moldova and Ukraine.\n\nFour capitals lie on its banks: Vienna, Bratislava, Budapest and Belgrade. The river was the northern frontier of the Roman Empire and has long been a trade route. Johann Strauss II composed the waltz The Blue Danube in 1866.\n\nThe Iron Gates gorge on the border of Serbia and Romania is one of the river's most dramatic stretches. The Danube Delta in Romania is a huge wetland with over 300 species of birds, and is a UNESCO World Heritage Site.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_(28493220635).jpg?width=800"
+    },
+    {
+      "id": "volga-river",
+      "title": "The Volga",
+      "description": "Europe's longest river and the heart of Russia.",
+      "content": "The Volga is the longest river in Europe, about 3,530 kilometres, flowing from the Valdai Hills north-west of Moscow to the Caspian Sea. It is the heart of European Russia, with more than a third of the country's population living in its basin.\n\nMajor cities on its banks include Tver, Nizhny Novgorod, Kazan, Samara, Volgograd and Astrakhan. The river is regulated by a series of dams and reservoirs that produce electricity and enable shipping, and canals link it with the Don, Moscow and the Baltic and White seas.\n\nThe Volga Delta, near Astrakhan, has around 500 channels and is a haven for birds and fish, including sturgeon. The Volga provides most of the Caspian's inflow. In Russian culture it is called Mother Volga and features in songs and paintings, such as Ilya Repin's Barge Haulers on the Volga.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yaroslavl._Volga_River._Cathedral_of_the_Dormition_P5212700_2200.jpg?width=800"
+    },
+    {
+      "id": "kura-river",
+      "title": "The Kura River",
+      "description": "The main river of Azerbaijan and the South Caucasus.",
+      "content": "The Kura is the longest river in the South Caucasus, at about 1,515 kilometres. It rises in north-eastern Turkey, flows through Georgia, where it passes Tbilisi, and then through Azerbaijan, before emptying into the Caspian Sea.\n\nIn Azerbaijan the river crosses the Kura–Aras Lowland and is fed by tributaries, most importantly the Aras. The Mingachevir Reservoir, created by a dam in 1953, is the largest lake in the Caucasus and supplies power and irrigation. Cities such as Mingachevir, Sabirabad and Salyan lie in its valley.\n\nThe Kura's waters are used to irrigate cotton, grain, vegetables and orchards, while its delta and floodplain forests shelter fish and birds. It was once the spawning ground for sturgeon, whose numbers have dropped because of dams and pollution."
+    },
+    {
+      "id": "aras-river",
+      "title": "The Aras River",
+      "description": "The river that marks borders in the South Caucasus.",
+      "content": "The Aras, or Araz, is a river in the South Caucasus, about 1,070 kilometres long. It rises in the highlands of eastern Turkey, and it forms the border between Turkey and Armenia, then between Armenia and Iran, and between Azerbaijan and Iran, before joining the Kura in Azerbaijan.\n\nThe Aras is the largest tributary of the Kura and flows through the Kura–Aras Lowland. It is fed by mountain snow and has been used for irrigation and power for centuries, and dams such as the Khudafarin and Giz Galasi hydroelectric projects were built jointly by Azerbaijan and Iran.\n\nIts valley has been a route for people and armies since antiquity, and the fertile plains along the river grow cotton, wheat, fruit and vegetables. Historic bridges, such as the Khudafarin bridges, cross it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jolfa-Aras2.jpg?width=800"
+    },
+    {
+      "id": "caspian-sea",
+      "title": "The Caspian Sea",
+      "description": "The largest inland body of water on Earth.",
+      "content": "The Caspian Sea is bordered by Azerbaijan, Iran, Kazakhstan, Russia and Turkmenistan. It covers about 371,000 square kilometres and its surface lies roughly 28 metres below global sea level.\n\nAlthough it is called a sea, it has no outlet to the ocean, and its water is far less salty than seawater. Most of its inflow comes from the Volga River. The northern part is shallow, while the southern part is deep, reaching about 1,000 metres.\n\nThe Caspian is home to the Caspian seal and to sturgeon, the source of caviar, and oil has been extracted near Baku since the 19th century. Its water level has changed many times in history, and in recent years it has been falling.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caspian_Sea_from_orbit.jpg?width=800"
+    },
+    {
+      "id": "black-sea",
+      "title": "The Black Sea",
+      "description": "The inland sea between Europe and Asia.",
+      "content": "The Black Sea is an inland sea between south-eastern Europe, the Caucasus and Anatolia, covering about 436,000 square kilometres, with a maximum depth of about 2,200 metres. It is bordered by Turkey, Bulgaria, Romania, Ukraine, Russia and Georgia.\n\nIt connects to the Mediterranean through the Bosphorus, the Sea of Marmara and the Dardanelles. Large rivers such as the Danube and Dnieper flow into it, so the surface water is less salty than the ocean. Below about 150 metres, the water contains almost no oxygen, which preserves ancient shipwrecks in extraordinary condition.\n\nPorts such as Odesa, Constanța, Varna, Trabzon and Batumi have handled trade for thousands of years. Its coasts are popular with tourists, and fishing, grain shipping and gas and oil are important to the economies around it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Danube_Spills_into_the_Black_Sea.jpg?width=800"
+    },
+    {
+      "id": "mediterranean-sea",
+      "title": "The Mediterranean Sea",
+      "description": "The sea at the centre of ancient civilisations.",
+      "content": "The Mediterranean is a sea between Europe, Africa and Asia, with an area of about 2.5 million square kilometres. It connects to the Atlantic through the narrow Strait of Gibraltar and to the Red Sea by the Suez Canal, and about 21 countries have a coast on it.\n\nIts name means in the middle of the land. The Egyptians, Phoenicians, Greeks and Romans built civilisations on its shores, and the sea was the main route of trade and ideas. Its deepest point, the Calypso Deep near Greece, is about 5,267 metres. Sicily, Sardinia, Crete and Cyprus are among its large islands.\n\nThe region has a Mediterranean climate, with hot dry summers and mild wet winters, which supports olives, grapes and citrus. It is one of the world's top tourist regions, but suffers from pollution and overfishing.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mediterranean_Sea_16.61811E_38.99124N.jpg?width=800"
+    },
+    {
+      "id": "dead-sea",
+      "title": "The Dead Sea",
+      "description": "The salt lake where people float.",
+      "content": "The Dead Sea is a salt lake between Jordan to the east and Israel and the West Bank to the west. Its shoreline is about 430 metres below sea level, the lowest point of land on Earth.\n\nIts water is about ten times saltier than the ocean, with a salinity of about 34%, so dense that swimmers float easily without effort and no fish or plants can live there, hence the name. The mineral-rich mud and water have been used for skincare and healing since ancient times, and the sea is also a source of potash.\n\nThe Dead Sea is shrinking at about a metre a year, because the water of the Jordan River that feeds it is diverted for irrigation and other uses. Sinkholes have opened along its shores. Plans exist to pipe water in from the Red Sea.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dead_Sea_beach_00.JPG?width=800"
+    },
+    {
+      "id": "lake-baikal",
+      "title": "Lake Baikal",
+      "description": "The deepest and oldest lake on Earth.",
+      "content": "Lake Baikal in southern Siberia is the deepest lake in the world, at 1,642 metres, and the oldest, at about 25 million years. It is a crescent-shaped rift lake about 636 kilometres long, and it holds about 20% of the world's unfrozen surface fresh water.\n\nThe water is so clear that you can see down to 40 metres in places. Baikal is home to more than 1,700 species of plants and animals, over two thirds of them found nowhere else, including the Baikal seal, or nerpa, the world's only freshwater seal.\n\nIn winter the lake freezes to a thickness of about a metre, and people drive across it. It was inscribed as a UNESCO World Heritage Site in 1996. Around it live the Buryat people, and the Trans-Siberian Railway passes along its southern shore.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baikal.A2001296.0420.250m-NASA.jpg?width=800"
+    },
+    {
+      "id": "lake-victoria",
+      "title": "Lake Victoria",
+      "description": "Africa's largest lake and the source of the White Nile.",
+      "content": "Lake Victoria is the largest lake in Africa and the largest tropical lake in the world, with an area of about 68,800 square kilometres. It is shared by Uganda, Kenya and Tanzania and is fairly shallow, with an average depth of about 40 metres.\n\nThe British explorer John Hanning Speke named it after Queen Victoria in 1858, after he identified it as the source of the Nile. The White Nile flows out from the lake at Jinja in Uganda. Millions of people live around the lake and depend on its fishing.\n\nThe lake once contained hundreds of species of cichlid fish found nowhere else, but many were lost after the Nile perch was introduced in the 1950s. Pollution and water hyacinth also threaten it. Fishing towns and islands dot its shores.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISS042-E-263206_-_View_of_Earth.jpg?width=800"
+    },
+    {
+      "id": "great-lakes",
+      "title": "The Great Lakes",
+      "description": "North America's inland freshwater seas.",
+      "content": "The Great Lakes are a chain of five huge freshwater lakes on the border of Canada and the United States: Superior, Michigan, Huron, Erie and Ontario. Together they hold about a fifth of the world's surface fresh water. Students remember the names with the word HOMES.\n\nLake Superior is the largest freshwater lake in the world by surface area, at about 82,000 square kilometres. The lakes were carved by glaciers in the last ice age, and they are so large that they have waves, tides and weather of their own. Water flows from Superior to Ontario, and Niagara Falls lies between Erie and Ontario.\n\nCities such as Chicago, Toronto, Detroit and Cleveland grew on their shores. The St Lawrence Seaway, opened in 1959, allows ocean-going ships to sail from the Atlantic deep into the continent. The lakes are threatened by pollution and invasive species.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Lakes%2C_No_Clouds_(4968915002)_Brighter.jpg?width=800"
+    },
+    {
+      "id": "aral-sea",
+      "title": "The Aral Sea",
+      "description": "A vanished sea and a warning about water use.",
+      "content": "The Aral Sea, between Kazakhstan and Uzbekistan, was once the fourth-largest lake in the world, at about 68,000 square kilometres, supporting fishing towns and a thriving ecosystem. It is now a fraction of its former size.\n\nIn the 1960s the Soviet Union diverted the Amu Darya and Syr Darya rivers, which fed the sea, to irrigate cotton and other crops in the desert. The lake shrank by more than 90%, leaving fishing boats stranded in the sand, and the exposed lake bed blows toxic dust, harming the health of nearby people.\n\nThe Kazakh part, the North Aral Sea, has been partly restored since a dam was built in 2005, and fish have returned. The Aral Sea is often called one of the worst environmental disasters of the 20th century.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aral_Sea_1964_vs._August_25%2C_2026.png?width=800"
+    },
+    {
+      "id": "sahara",
+      "title": "The Sahara Desert",
+      "description": "The largest hot desert in the world.",
+      "content": "The Sahara is the largest hot desert in the world, covering about 9 million square kilometres across North Africa, an area similar to that of the United States or China.\n\nOnly a fraction is sand dunes; much of it is rocky plateau, gravel plains and mountains, such as the Tibesti and Ahaggar ranges. Temperatures can pass 45 °C by day and drop sharply at night. Oases such as Siwa provide water for settlements.\n\nAround 6,000 to 11,000 years ago the region was green, with lakes and grasslands, as rock paintings of cattle and swimmers show. Wind carries Saharan dust across the Atlantic, where it fertilises the Amazon.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahara_real_color.jpg?width=800"
+    },
+    {
+      "id": "gobi-desert",
+      "title": "The Gobi Desert",
+      "description": "The cold desert of Mongolia and northern China.",
+      "content": "The Gobi is a large desert region in northern China and southern Mongolia, covering about 1.3 million square kilometres. It is a cold desert, with winter temperatures as low as minus 40 °C and summer highs above 40 °C, and most of it is rocky ground and gravel rather than sand dunes.\n\nThe Gobi is a rich source of fossils. In the 1920s the American explorer Roy Chapman Andrews discovered the first known dinosaur eggs there, and the region has produced skeletons of Velociraptor and Protoceratops. Wild Bactrian camels, snow leopards and Gobi bears live in its hardy landscape.\n\nNomadic herders still cross the desert with their camels and sheep. The Gobi was on the Silk Road, and it is expanding because of overgrazing and climate change, which affects nearby areas, including Beijing.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gobi_Desert.jpg?width=800"
+    },
+    {
+      "id": "atacama-desert",
+      "title": "The Atacama Desert",
+      "description": "The driest non-polar place on Earth.",
+      "content": "The Atacama Desert in northern Chile is the driest non-polar desert in the world. It stretches about 1,000 kilometres along the Pacific coast, between the Andes and the ocean, and some weather stations there have never recorded any rain.\n\nThe desert is dry because of the rain shadow of the Andes and the cold Humboldt Current offshore. Its high altitude and cloudless skies make it one of the best places in the world for astronomy, and the ALMA observatory, at about 5,000 metres, is located here. Some parts resemble Mars, and NASA tests equipment there.\n\nDespite the dryness, the Atacama supports flamingos in salt lakes, hardy plants and, after rare rains, a desert bloom of flowers. It is rich in copper and lithium, and its Valle de la Luna is a popular sight.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atacama.png?width=800"
+    },
+    {
+      "id": "arabian-desert",
+      "title": "The Arabian Desert",
+      "description": "The vast desert of the Arabian Peninsula.",
+      "content": "The Arabian Desert is a vast desert region covering most of the Arabian Peninsula, about 2.3 million square kilometres, in Saudi Arabia, Yemen, Oman, the United Arab Emirates, Qatar, Kuwait, Jordan and Iraq. It is the largest desert in Asia.\n\nIts heart is the Rub' al Khali, or Empty Quarter, one of the world's largest sand deserts, with dunes that can reach about 250 metres high. Summer temperatures can exceed 50 °C, and rain is rare and irregular. Oases with date palms were the stopping places of camel caravans.\n\nThe Bedouin, nomadic people who herded camels, sheep and goats, adapted to this environment for centuries. Beneath the sand lie some of the world's largest oil and gas reserves, which transformed the countries of the region in the 20th century.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arabian_Desert_-_panoramio.jpg?width=800"
+    },
+    {
+      "id": "amazon-rainforest",
+      "title": "The Amazon Rainforest",
+      "description": "The largest tropical rainforest on Earth.",
+      "content": "The Amazon rainforest covers about 5.5 million square kilometres in the Amazon basin, shared by nine countries, of which Brazil holds about 60%. It is the largest tropical rainforest in the world and home to roughly ten percent of all known species.\n\nScientists estimate it has about 390 billion trees and thousands of species of birds, fish and mammals, such as jaguars, sloths and river dolphins. The dense canopy creates its own weather, releasing huge amounts of water vapour, and the forest stores large amounts of carbon.\n\nAbout 400 Indigenous groups live in the Amazon, some in isolation. Roughly a fifth of the forest has been cleared for cattle ranching, farming and logging, and scientists warn that if too much is lost, parts could change into savanna, a tipping point.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amazon17_(5641020319).jpg?width=800"
+    },
+    {
+      "id": "taiga",
+      "title": "The Taiga",
+      "description": "The vast northern forest of conifers.",
+      "content": "The taiga, or boreal forest, is the largest land biome on Earth, a belt of coniferous forest that circles the northern part of the world across Canada, Alaska, Scandinavia and Russia. The name is a Russian word.\n\nThe main trees are spruce, pine, fir and larch, which have needle-shaped leaves and a conical shape that helps shed snow. Winters are long and bitterly cold, and summers are short and mild. Beneath many areas lies permafrost, permanently frozen ground.\n\nAnimals include wolves, lynx, brown bears, moose and many birds, and the forest is a key stopover for migrating songbirds. The taiga stores huge amounts of carbon in its trees and peaty soils, and fires and warming are increasingly affecting it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jack_London_Lake_by_bartosh.jpg?width=800"
+    },
+    {
+      "id": "tundra",
+      "title": "The Tundra",
+      "description": "The cold, treeless land of the far north.",
+      "content": "Tundra is a cold, treeless landscape found in the Arctic and on high mountains. The soil beneath the surface remains frozen all year round, called permafrost, so trees cannot put down deep roots.\n\nThe vegetation is made up of low plants such as mosses, lichens, sedges and dwarf shrubs, and growing seasons last only about 50 to 60 days. Animals adapted to the cold include caribou, called reindeer in Eurasia, Arctic foxes, musk oxen, lemmings and snowy owls. In summer, millions of birds arrive to nest.\n\nThe thawing of permafrost because of warming releases large amounts of carbon dioxide and methane, worsening climate change. Alpine tundra, found above the tree line on mountains, exists in the Caucasus too.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greenland_scoresby-sydkapp2_hg.jpg?width=800"
+    },
+    {
+      "id": "savanna",
+      "title": "The Savanna",
+      "description": "Tropical grassland with scattered trees.",
+      "content": "A savanna is a tropical grassland with scattered trees and shrubs, where rainfall is seasonal, with a wet season and a long dry season. Savannas cover about a fifth of Earth's land surface, mostly in Africa, but also in South America, India and Australia.\n\nFire is a natural part of the system, clearing dead grass and helping new growth, and the trees, such as acacias and baobabs, are adapted to drought and burning. The African savanna supports huge herds of herbivores, including wildebeest, zebras and elephants, and predators such as lions, cheetahs and hyenas.\n\nThe Serengeti in Tanzania and the Masai Mara in Kenya are the most famous. Savannas are threatened by farming, overgrazing and the loss of wildlife.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tarangire-Natpark800600.jpg?width=800"
+    },
+    {
+      "id": "hyrcanian-forests",
+      "title": "The Hyrcanian Forests",
+      "description": "An ancient forest along the southern shore of the Caspian Sea.",
+      "content": "The Hyrcanian forests are a belt of temperate broadleaf forest stretching along the southern coast of the Caspian Sea, from Azerbaijan's Talysh Mountains through northern Iran. They are also known as the Caspian forests.\n\nThey are remnants of forests that covered much of the region about 25 to 50 million years ago, before the ice ages, and they survived because of the mild, humid climate that the Caspian and the mountains create. Trees include Persian ironwood, oak, hornbeam and the giant Caucasian wingnut, and many plants are found nowhere else.\n\nThe forests shelter leopards, brown bears, wolves and many birds. UNESCO has recognised parts of the Hyrcanian forests as World Heritage. In Azerbaijan they are protected in Hirkan National Park, and logging and development are the main threats.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/3615554_%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1_%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D8%AC%D8%A7%D8%AF%D9%87_%D9%87%D8%A7%DB%8C_%D9%BE%D8%A7%DB%8C%DB%8C%D8%B2%DB%8C_%D8%AC%D9%86%DA%AF%D9%84_%D9%87%D8%A7%DB%8C_%D9%87%DB%8C%D8%B1%DA%A9%D8%A7%D9%86%DB%8C.jpg?width=800"
+    },
+    {
+      "id": "climate-zones",
+      "title": "Climate Zones",
+      "description": "Regions of Earth with similar long-term weather.",
+      "content": "Climate zones are broad regions of Earth that share similar long-term patterns of temperature and rainfall. A simple model divides the world by latitude into tropical, temperate and polar zones.\n\nThe widely used Köppen system, created by Wladimir Köppen around 1900, refines this into five main groups: tropical, dry, temperate, continental and polar, further divided by seasonal rainfall. Rainforests and savannas belong to the tropical group, deserts and steppes to the dry group, and ice caps and tundra to the polar group.\n\nClimate is shaped by latitude, altitude, distance from the sea and ocean currents. Azerbaijan is often said to have nine of the world's eleven climate types within its small territory, from the dry steppes of the Kura lowland to the humid subtropics of Lankaran and the alpine cold of the Caucasus.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koppen-Geiger_Map_v2_World_1991%E2%80%932020.svg?width=800"
+    },
+    {
+      "id": "weather",
+      "title": "Weather",
+      "description": "The state of the atmosphere from day to day.",
+      "content": "Weather is the condition of the atmosphere at a particular place and time, including temperature, humidity, wind, cloud and precipitation. Climate, in contrast, is the average of weather over many years.\n\nWeather is driven by the Sun's heating of Earth unevenly, which creates differences in air pressure and moves air as wind. When warm and cold air masses meet, they form fronts that often bring clouds and rain. Meteorologists forecast weather using satellites, radar, weather balloons and powerful computer models, which have made forecasts for a few days ahead quite reliable.\n\nBaku is known as the City of Winds: the cold northerly khazri and the warm southerly gilavar are its famous winds. The Beaufort scale, invented in 1805, rates wind strength by its effects on land and sea.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg?width=800"
+    },
+    {
+      "id": "monsoon",
+      "title": "Monsoons",
+      "description": "The seasonal winds that bring life-giving rains.",
+      "content": "A monsoon is a seasonal reversal of the prevailing winds that brings a wet season and a dry season. It is caused by the land heating and cooling faster than the ocean. In summer, hot land draws in moist air from the sea, which rises and produces heavy rain.\n\nThe South Asian monsoon, from about June to September, brings about 70% to 80% of India's yearly rain and is essential for farming. Farmers, cities and economies wait for its arrival. Places in north-east India such as Mawsynram and Cherrapunji are among the wettest on Earth. Monsoons also affect East Asia, West Africa and northern Australia.\n\nA weak monsoon can cause drought and hunger, while a very strong one can cause floods and landslides. Scientists study how climate change will affect these vital rains.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monsoon_clouds_near_Nagercoil.jpg?width=800"
+    },
+    {
+      "id": "tropical-cyclones",
+      "title": "Hurricanes and Typhoons",
+      "description": "Giant rotating storms born over warm oceans.",
+      "content": "Tropical cyclones are huge rotating storms with a calm centre called the eye, strong winds and torrential rain. They are called hurricanes in the Atlantic and north-eastern Pacific, typhoons in the north-western Pacific and cyclones in the Indian Ocean and South Pacific.\n\nThey form over warm ocean water, above about 26.5 °C, which supplies the energy. A storm is classed as a hurricane when winds reach at least 119 km/h, and the Saffir–Simpson scale rates them from category 1 to 5. Most of the deaths come from storm surge, the wall of seawater pushed onto the coast, and from flooding.\n\nThe deadliest was the 1970 Bhola cyclone in Bangladesh, which killed hundreds of thousands. Hurricane Katrina devastated New Orleans in 2005. Storms weaken over land or cold water, and forecasts and warnings save many lives.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg?width=800"
+    },
+    {
+      "id": "el-nino",
+      "title": "El Niño and La Niña",
+      "description": "The Pacific climate swings that affect weather worldwide.",
+      "content": "El Niño is a periodic warming of the surface waters of the central and eastern tropical Pacific Ocean, occurring every two to seven years. Its opposite, a cooling phase, is called La Niña. Together they are known as the El Niño–Southern Oscillation, or ENSO.\n\nNormally, trade winds blow warm water westward across the Pacific. During El Niño, these winds weaken, and warm water spreads east toward South America. This shifts rainfall patterns worldwide: it can bring floods to Peru and Ecuador, and drought to Indonesia, Australia and southern Africa, and it often makes global temperatures higher.\n\nThe name means the Christ child in Spanish, because Peruvian fishermen noticed the warm current around Christmas. Forecasting these events helps farmers, governments and disaster agencies prepare.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NOAA_Nino.jpg?width=800"
+    },
+    {
+      "id": "climate-change",
+      "title": "Climate Change",
+      "description": "The long-term warming of the planet and its consequences.",
+      "content": "Climate change refers to long-term shifts in temperatures and weather patterns. Since the 1800s the main driver has been human activity, mostly burning coal, oil and gas, which releases greenhouse gases such as carbon dioxide that trap heat in the atmosphere.\n\nThe concentration of carbon dioxide has risen from about 280 parts per million before the Industrial Revolution to more than 420 today, and the global average temperature has increased by about 1.1 to 1.2 °C. The effects include melting glaciers and ice sheets, sea levels that have risen about 20 centimetres since 1900, more intense heat waves, droughts, floods and storms.\n\nThe 2015 Paris Agreement aims to limit warming to well below 2 °C, and ideally 1.5 °C. Solutions include renewable energy, energy efficiency and protecting forests. Azerbaijan hosted the UN climate conference COP29 in Baku in November 2024.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Change_in_Average_Temperature_With_Fahrenheit.svg?width=800"
+    },
+    {
+      "id": "ozone-layer",
+      "title": "The Ozone Layer",
+      "description": "The shield that blocks harmful ultraviolet rays.",
+      "content": "The ozone layer is a region of the stratosphere, about 15 to 35 kilometres above Earth, containing a high concentration of ozone, a form of oxygen with three atoms. It absorbs most of the Sun's harmful ultraviolet-B radiation, which can cause skin cancer and damage crops and plankton.\n\nIn the 1970s and 1980s scientists found that man-made chemicals called chlorofluorocarbons (CFCs), used in refrigerators and spray cans, were destroying ozone. In 1985 researchers reported a thinning of the layer over Antarctica, the so-called ozone hole.\n\nThe world responded with the Montreal Protocol of 1987, which phased out CFCs, and it is considered one of the most successful environmental treaties. The layer is slowly recovering and is expected to return to 1980 levels over Antarctica by about the 2060s. The International Day for the Preservation of the Ozone Layer is 16 September.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISS041-E-105277_-_View_of_the_Northern_Territory.jpg?width=800"
+    },
+    {
+      "id": "biodiversity",
+      "title": "Biodiversity",
+      "description": "The variety of life on Earth.",
+      "content": "Biodiversity is the variety of all living things on Earth, including species, the genetic differences within them and the ecosystems they form. Scientists have described about 1.2 million species, but estimate that there may be about 8 million or more, most of them insects, microbes and deep-sea creatures.\n\nBiodiversity is richest in the tropics, in rainforests and coral reefs, and in biodiversity hotspots, regions with many unique species that are under threat. The Caucasus, including Azerbaijan, is recognised as one of these global hotspots, thanks to its varied mountains, forests and wetlands.\n\nHealthy ecosystems provide clean water, pollination, fertile soil and climate regulation. Species are now disappearing many times faster than the natural rate, mainly because of habitat loss, overexploitation, pollution, invasive species and climate change. National parks and protected areas help conserve nature.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fungi_of_Saskatchewan.JPG?width=800"
+    },
+    {
+      "id": "world-population",
+      "title": "World Population",
+      "description": "How many people live on Earth.",
+      "content": "The world's population reached 8 billion in November 2022. It took until about 1804 to reach the first billion, but only 12 or so years for each additional billion in recent decades, growing to 7 billion in 2011.\n\nIndia and China are the most populous countries, each with more than 1.4 billion people, followed by the United States, Indonesia and Pakistan. Around 60% of humans live in Asia, and Africa has the fastest-growing population. The population is unevenly spread: large areas such as deserts and polar regions are almost empty, and river valleys and coasts are crowded.\n\nGrowth is slowing as families become smaller, and the United Nations projects a peak of about 10.3 billion in the 2080s. Many countries in East Asia and Europe now have ageing populations, while others have a very young one.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/World_Population_Prospects.svg?width=800"
+    },
+    {
+      "id": "urbanization",
+      "title": "Urbanisation",
+      "description": "The growth of cities and the shift from countryside to town.",
+      "content": "Urbanisation is the increase in the share of people living in towns and cities. In 1800 only about 3% of people lived in cities, but today more than half of humanity does, and the United Nations expects about two thirds to be urban by 2050.\n\nPeople move to cities in search of jobs, education and services. The largest city area in the world is Tokyo, with more than 35 million people, followed by Delhi, Shanghai and Cairo. Cities with more than 10 million are called megacities. Urban areas cover only about 3% of the land but produce most of the world's economic output.\n\nFast growth can create problems, including slums, traffic, pollution and pressure on water and housing. Well-planned cities can be more efficient, with public transport, green spaces and shared services. Baku, with more than two million people, is the largest city in the Caucasus.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Canton_Tower_20220626.jpg?width=800"
+    },
+    {
+      "id": "human-migration",
+      "title": "Human Migration",
+      "description": "The movements of people across the planet.",
+      "content": "Human migration is the movement of people from one place to another, temporarily or permanently. It has shaped history since early humans first spread out of Africa some 70,000 years ago and settled every continent.\n\nMigration is caused by push factors, such as war, poverty or disasters, and pull factors, such as jobs, safety or family. In the 19th century about 50 million Europeans moved to the Americas and elsewhere. Traders and pilgrims along the Silk Road also spread goods, religions and ideas.\n\nToday about 280 million people, roughly 3.6% of the world's population, live in a country other than the one in which they were born. Migrants send money home, called remittances, that support families and economies. Diasporas, such as the Azerbaijani communities around the world, keep links with their homelands.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Annual_Net_Migration_Rate_2015%E2%80%932020.svg?width=800"
+    },
+    {
+      "id": "petroleum",
+      "title": "Petroleum",
+      "description": "The oil that powered the modern world.",
+      "content": "Petroleum, or crude oil, is a fossil fuel formed over millions of years from the remains of tiny marine plants and animals buried under layers of sediment. It is refined into petrol, diesel, jet fuel, plastics and thousands of other products.\n\nBaku is one of the oldest oil-producing regions in the world: the first industrial oil well was drilled at Bibi-Heybat in 1846, well before the well in Pennsylvania in 1859. By 1900 Baku produced about half of the world's oil, drawing entrepreneurs such as the Nobel brothers. Today Azerbaijan's offshore fields in the Caspian, such as Azeri–Chirag–Gunashli, are important, and the Baku–Tbilisi–Ceyhan pipeline, opened in 2006, carries oil to the Mediterranean.\n\nOil made some countries very wealthy, and OPEC, founded in 1960, coordinates producers. But burning oil releases carbon dioxide, so the world is moving toward cleaner energy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Petroleum_sample.jpg?width=800"
+    },
+    {
+      "id": "renewable-energy",
+      "title": "Renewable Energy",
+      "description": "Power from the sun, wind, water and heat of the Earth.",
+      "content": "Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, flowing water, geothermal heat and plant matter. Unlike fossil fuels, they produce little or no greenhouse gas when generating electricity.\n\nHydropower is the largest renewable source, while wind and solar are the fastest-growing and their costs have fallen dramatically. Renewables now produce roughly 30% of the world's electricity. Iceland gets almost all its power from geothermal and hydro sources, and Denmark generates a large share of its electricity from wind.\n\nChallenges include storing energy when the sun does not shine and the wind does not blow, and upgrading power grids. Azerbaijan, with strong winds on the Absheron Peninsula and the Caspian and plenty of sunshine, is developing wind and solar projects, such as the Garadagh solar power plant, opened in 2023.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Andasol_Guadix_4.jpg?width=800"
+    },
+    {
+      "id": "agriculture",
+      "title": "Agriculture",
+      "description": "Farming, the foundation of civilisation.",
+      "content": "Agriculture is the practice of growing crops and raising animals for food, fibre and other products. It began about 12,000 years ago in the Fertile Crescent of the Middle East, where people domesticated wheat, barley, sheep and goats, and it led to settled villages and, eventually, cities.\n\nFarming later developed independently in China, with rice, in Mesoamerica, with maize, and in the Andes, with potatoes. About 38% of the world's land is used for agriculture, and it employs roughly a quarter of the world's workers. Irrigation, machinery, fertilisers and the Green Revolution of the 1960s, led by Norman Borlaug, greatly increased yields.\n\nModern farming faces the challenge of feeding a growing population while protecting soil, water and biodiversity. In Azerbaijan, farmers grow cotton, wheat, tea in the Lankaran region, fruits such as pomegranates and persimmons, and hazelnuts, which are an important export.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PivotWithDrops.JPG?width=800"
+    },
+    {
+      "id": "water-cycle",
+      "title": "The Water Cycle",
+      "description": "The endless journey of water around the planet.",
+      "content": "The water cycle is the continuous movement of water on, above and below the surface of the Earth. It is powered by the Sun's energy and by gravity.\n\nWater evaporates from oceans, lakes and rivers and is released by plants through transpiration. As the vapour rises and cools, it condenses into clouds, and eventually falls as rain, snow or hail, called precipitation. The water then flows over the land as rivers, soaks into the ground as groundwater, or freezes in glaciers, before returning to the sea.\n\nAbout 97% of Earth's water is salty ocean water, and of the 3% that is fresh, most is locked in ice, leaving only a tiny fraction easily available in rivers, lakes and groundwater. The same water has been recycled for billions of years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USGS_WaterCycle_English_ONLINE_20221013.png?width=800"
+    },
+    {
+      "id": "absheron-peninsula",
+      "title": "The Absheron Peninsula",
+      "description": "The windswept Caspian peninsula of Baku and the eternal fires.",
+      "content": "The Absheron Peninsula is a narrow peninsula about 60 kilometres long that projects from the Caucasus into the Caspian Sea. Baku, the capital of Azerbaijan, and the city of Sumgait are located on it, and about a third of the country's population lives there.\n\nThe landscape is dry and windswept, with a semi-desert climate, salt lakes and low hills. Oil has seeped from the ground here for thousands of years, and mud volcanoes and natural gas vents are common. This is the origin of the fires that gave the name Land of Fire: the Ateshgah temple in Surakhani was a place of worship for fire-worshippers, and at Yanar Dag a hillside has burned continuously for decades.\n\nAbsheron has ancient fortresses, such as those in Mardakan, and sandy beaches along the sea. Its oil derricks and wind farms symbolise the region's past and future energy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISS057-E-36_-_View_of_the_Absheron_Peninsula_in_Azerbaijan.jpg?width=800"
+    },
+    {
+      "id": "mount-bazarduzu",
+      "title": "Mount Bazarduzu",
+      "description": "The highest peak of Azerbaijan.",
+      "content": "Mount Bazarduzu, also spelt Bazardüzü, is the highest peak in Azerbaijan, at 4,466 metres. It lies in the Greater Caucasus on the border with Russia's republic of Dagestan and is the country's most famous mountain.\n\nThe name means market square. Its steep slopes are covered by snow and small glaciers for much of the year, and climbers reach the summit in summer. It is near the ski resorts of Shahdag and Tufandag, which have made the mountain region a popular destination.\n\nThe surrounding areas hold Alpine meadows, and villages such as Khinalig and Laza, home to distinct communities with their own languages. Wild goats and brown bears live in the Caucasus.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bazarduzu_detail.JPG?width=800"
+    },
+    {
+      "id": "lake-goygol",
+      "title": "Lake Goygol",
+      "description": "The blue mountain lake formed by an earthquake.",
+      "content": "Lake Goygol, which means blue lake, is a mountain lake in western Azerbaijan, near the city of Goygol, in the Lesser Caucasus. It is surrounded by pine and beech forests and is one of the most beautiful spots in the country.\n\nThe lake was formed in 1139 when a powerful earthquake caused a huge landslide from Mount Kapaz that blocked the Ağsu river valley. The water rose behind the natural dam, drowning the valley and creating several lakes. Goygol is the largest of them and was named a national park in 2008.\n\nIn the 19th century German settlers founded the village of Helenendorf, now Goygol, nearby and made wine there. Today visitors come for the lake, hiking trails and the fresh mountain air.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake_G%C3%B6yg%C3%B6l.jpg?width=800"
+    },
+    {
+      "id": "mingachevir-reservoir",
+      "title": "The Mingachevir Reservoir",
+      "description": "The Sea of Mingachevir, the biggest lake in the Caucasus.",
+      "content": "The Mingachevir Reservoir is the largest artificial lake in Azerbaijan and the South Caucasus, and it is often called the Sea of Mingachevir. It was created on the Kura River in 1953 by a large dam built beside the city of Mingachevir.\n\nThe reservoir covers about 600 square kilometres and holds around 16 cubic kilometres of water. It feeds the Mingachevir hydroelectric power station, the largest in the region, and water from it irrigates thousands of hectares of farmland in the dry Kura-Aras Lowland.\n\nThe lake is also used for fishing and recreation, with beaches on its shores. It has played a large role in the development of the region, but dams such as this one changed the natural flow of the Kura and affect migrating fish such as sturgeon.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mingachevir_Reservoir%2C_Azerbaijan.JPG?width=800"
+    },
+    {
+      "id": "nakhchivan",
+      "title": "Nakhchivan",
+      "description": "Azerbaijan's mountainous exclave.",
+      "content": "Nakhchivan is an autonomous republic of Azerbaijan, separated from the rest of the country by a strip of Armenian territory. It has an area of about 5,500 square kilometres and a population of around 460,000, and borders Armenia, Iran and Turkey. Its capital is the city of Nakhchivan.\n\nThe land is mountainous and dry, with the Zangezur and Daralayaz ranges and a peak of about 3,900 metres, Mount Kapıjik. The Aras River flows along the border. The region is one of the oldest inhabited places in the Caucasus, and legend says that the Prophet Noah's tomb is in the city.\n\nHistoric sites include the Momine Khatun Mausoleum, built in 1186, and Alinja Castle. The Duzdag salt mine, with its underground salt caves, is used to treat asthma and other breathing problems.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nakhchivan_Autonomous_Republic_of_Azerbaijan.svg?width=800"
+    },
+    {
+      "id": "lankaran-lowland",
+      "title": "The Lankaran Lowland",
+      "description": "Azerbaijan's humid subtropical south.",
+      "content": "The Lankaran Lowland is a narrow coastal plain in south-eastern Azerbaijan, between the Caspian Sea and the Talysh Mountains, along the border with Iran. It has a humid subtropical climate, the wettest in the country, and receives more than 1,000 millimetres of rain a year.\n\nThe mild, wet weather allows the growing of tea, citrus fruit, rice, vegetables and early spring crops that are not grown elsewhere in the country. Tea has been cultivated there since the early 20th century. The region's capital is the city of Lankaran, and the Talysh people, who have their own language, live here.\n\nThe slopes of the Talysh Mountains are covered by Hyrcanian forests, a survivor from ancient times, in Hirkan National Park. Its warm mineral springs and beaches attract visitors.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Azerbaijan_1995_CIA_map.jpg?width=800"
+    },
+    {
+      "id": "kura-aras-lowland",
+      "title": "The Kura–Aras Lowland",
+      "description": "The largest plain in Azerbaijan.",
+      "content": "The Kura–Aras Lowland is the largest plain in Azerbaijan, in the centre and south-east of the country, between the Greater and Lesser Caucasus and the Caspian Sea. It is formed by the sediment deposited by the Kura and Aras rivers, and includes the Mil, Mugan and Shirvan plains.\n\nParts of the lowland lie below sea level, since the Caspian itself is 28 metres below the ocean. The climate is dry, with hot summers and mild winters, so irrigation is essential. Cotton, grain, vegetables and fruit are grown there, and the winter pastures were used for centuries by herders who moved their flocks down from the mountains.\n\nThe Shirvan National Park, in the lowland, protects the goitered gazelle, or jeyran, and thousands of migratory birds winter in its wetlands. The region holds the main cities of Sabirabad, Salyan and Imishli.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Topo_map_AZ_AM_en.png?width=800"
+    },
+    {
+      "id": "bosphorus",
+      "title": "The Bosphorus",
+      "description": "The strait that divides Istanbul and Europe from Asia.",
+      "content": "The Bosphorus is a narrow strait in Turkey, about 31 kilometres long, that connects the Black Sea to the Sea of Marmara and separates the European and Asian parts of Istanbul. At its narrowest it is only about 700 metres wide.\n\nIt is one of the world's busiest and trickiest waterways, and along with the Dardanelles is the only route from the Black Sea to the Mediterranean. The Montreux Convention of 1936 governs passage through the straits. Three suspension bridges span the Bosphorus, and a railway tunnel, Marmaray, runs beneath it.\n\nThe strait's shores are lined with palaces, such as Dolmabahçe, old wooden mansions called yalıs, fortresses and mosques. Ferries carry commuters between continents. The city of Byzantium, later Constantinople, grew here because of its control of the passage.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Turkish_Strait_disambig.svg?width=800"
+    },
+    {
+      "id": "suez-canal",
+      "title": "The Suez Canal",
+      "description": "The shortcut between the Mediterranean and the Red Sea.",
+      "content": "The Suez Canal is an artificial waterway in Egypt, about 193 kilometres long, that connects the Mediterranean Sea at Port Said with the Red Sea at Suez. It was built by the French diplomat Ferdinand de Lesseps and opened in 1869.\n\nIt allows ships to travel between Europe and Asia without sailing around Africa, saving about 7,000 kilometres on the trip between London and Mumbai. It has no locks, since the Mediterranean and Red Sea are at nearly the same level. About 12% of world trade passes through it, and Egypt earns large sums in tolls.\n\nIn 2015 a new parallel channel was opened to allow two-way traffic on part of the route. In 2021 the container ship Ever Given ran aground and blocked the canal for six days, showing how important it is to global shipping.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Iss016e019375.jpg?width=800"
+    },
+    {
+      "id": "strait-of-gibraltar",
+      "title": "The Strait of Gibraltar",
+      "description": "The gateway between the Atlantic and the Mediterranean.",
+      "content": "The Strait of Gibraltar is a narrow channel between the southern tip of Spain and the northern coast of Morocco, connecting the Atlantic Ocean with the Mediterranean Sea. At its narrowest it is only about 14 kilometres wide.\n\nOn its northern side rises the Rock of Gibraltar, a British territory, and on the African side Jebel Musa. In ancient times these were known as the Pillars of Hercules and marked the edge of the known world. The Phoenicians, Greeks and Romans all sailed through the strait.\n\nHundreds of ships pass through every day, and ferries cross between Europe and Africa. Water flows in from the Atlantic at the surface and out as a saltier deep current, and migrating birds and whales use the strait. Engineers have long proposed a tunnel or bridge across it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/STS059-238-074_Strait_of_Gibraltar.jpg?width=800"
+    }
+  ]
+}

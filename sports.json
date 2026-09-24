@@ -1,0 +1,697 @@
+{
+  "category": "sports",
+  "articles": [
+    {
+      "id": "football",
+      "title": "Football",
+      "description": "The world's most widely played team sport.",
+      "content": "Association football is played by two teams of eleven on a rectangular pitch, with the goalkeeper the only player allowed to handle the ball in open play.\n\nThe modern rules were codified in England in 1863, and FIFA, the sport's world governing body, was founded in Paris in 1904. Hundreds of millions of people play the game, from professional leagues to street matches, and stars such as Pelé, Diego Maradona, Lionel Messi and Cristiano Ronaldo have become global icons.\n\nThe FIFA World Cup, first held in 1930, is now the most watched sporting event on the planet.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Football_in_Bloomington%2C_Indiana%2C_1995.jpg?width=800"
+    },
+    {
+      "id": "basketball",
+      "title": "Basketball",
+      "description": "A fast team sport where players shoot at a raised hoop.",
+      "content": "Basketball was invented in 1891 by James Naismith, a teacher in Springfield, Massachusetts, who first used peach baskets as goals.\n\nTwo teams of five players try to score by shooting the ball through a hoop 3.05 metres above the floor. Players advance the ball by passing and dribbling, and shots are worth two points, three points from beyond the arc, or one point for a free throw.\n\nBasketball has been an Olympic sport since 1936. The American NBA, formed in 1946, is the best-known professional league, and players such as Michael Jordan helped make the sport popular worldwide.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_(2751923597).jpg?width=800"
+    },
+    {
+      "id": "tennis",
+      "title": "Tennis",
+      "description": "A racket sport played on a court over a net.",
+      "content": "Tennis is a racket sport played by two players or two teams of two on a rectangular court divided by a net.\n\nIt evolved from the medieval French game jeu de paume, and modern lawn tennis was developed in England in the 1870s. Points are counted as 15, 30 and 40, and a player wins a game by taking four points, with at least a two-point lead.\n\nThe four Grand Slam tournaments are the Australian Open, the French Open, Wimbledon and the US Open. Roger Federer, Rafael Nadal and Novak Djokovic each won 20 or more Grand Slam singles titles, an extraordinary era of the sport.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2013_Australian_Open_-_Guillaume_Rufin.jpg?width=800"
+    },
+    {
+      "id": "cricket",
+      "title": "Cricket",
+      "description": "The bat-and-ball game of Test matches and the Ashes.",
+      "content": "Cricket is a bat-and-ball game played between two teams of eleven players. A bowler delivers the ball to a batter who defends a wicket of three stumps, and the batting team scores runs by running between the wickets or hitting boundaries. It began in south-east England in the 16th century and spread with the British Empire.\n\nThe first official Test match, the longest format, lasting up to five days, was played between Australia and England in Melbourne in 1877. One-day cricket began in the 1960s and 1970s, and the shorter Twenty20 format, introduced in England in 2003, made the game faster and more popular. The Cricket World Cup started in 1975.\n\nCricket is followed by well over a billion fans, especially in India, Pakistan, Australia, England and the Caribbean. The Indian Premier League, founded in 2008, is one of the richest sports leagues in the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pollock_to_Hussey.jpg?width=800"
+    },
+    {
+      "id": "rugby",
+      "title": "Rugby",
+      "description": "The game of tackles and tries, in two codes.",
+      "content": "Rugby is a contact team sport played with an oval ball. There are two main codes: rugby union, with 15 players on each side, and rugby league, with 13. Players score a try, worth five points in union, by grounding the ball over the opponent's line, and can then attempt a conversion kick.\n\nThe sport takes its name from Rugby School in England, where, according to legend, a pupil named William Webb Ellis picked up the ball and ran with it in 1823, though historians doubt the story. The Rugby Football Union was founded in 1871, and the Rugby World Cup began in 1987.\n\nThe Six Nations is the great annual tournament in Europe, and New Zealand's All Blacks, who perform the Māori war dance called the haka before matches, are among the most successful teams in any sport. South Africa, France, England and Ireland are other strong sides.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2014_Women's_Six_Nations_Championship_-_France_Italy_(51).jpg?width=800"
+    },
+    {
+      "id": "baseball",
+      "title": "Baseball",
+      "description": "America's pastime, played with bat, ball and glove.",
+      "content": "Baseball is a bat-and-ball game played by two teams of nine players over nine innings. A pitcher throws the ball to a batter, who tries to hit it and run around four bases to score a run. The team with the most runs at the end wins.\n\nModern baseball developed in the United States in the 19th century, and Major League Baseball, whose championship is the World Series, is the top professional league. Babe Ruth was the sport's first great star in the 1920s. In 1947 Jackie Robinson broke the colour barrier by playing for the Brooklyn Dodgers, and his number, 42, is retired across the league.\n\nThe game is hugely popular in the United States, Japan, South Korea, Cuba, the Dominican Republic and Venezuela. Shohei Ohtani of Japan has become one of the sport's biggest stars. Baseball has appeared at the Olympics in several editions, including Tokyo 2020.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg?width=800"
+    },
+    {
+      "id": "volleyball",
+      "title": "Volleyball",
+      "description": "A net game of spikes, blocks and rallies.",
+      "content": "Volleyball is a team sport in which two teams of six players are separated by a high net and try to send the ball over it so that it touches the floor on the opponent's side. Each team may touch the ball up to three times before returning it.\n\nThe game was invented in 1895 by William G. Morgan, a physical education instructor in Holyoke, Massachusetts, as a gentler alternative to basketball, and was originally called mintonette. It became an Olympic sport in 1964, and the beach version, played by two-person teams on sand, was added in 1996.\n\nA match is played in sets, won by the first team to reach 25 points. Skills include serving, passing, setting, spiking and blocking. Volleyball is very popular in Brazil, Italy, Poland, Japan and the United States, and in Azerbaijan, where women's club teams have had success in European competitions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brasil_vence_a_Fran%C3%A7a_no_v%C3%B4lei_masculino_1037987-15.08.2016_ffz-6369.jpg?width=800"
+    },
+    {
+      "id": "handball",
+      "title": "Handball",
+      "description": "A fast-paced team game of throwing and scoring.",
+      "content": "Handball is a team sport in which two teams of seven players, six court players and a goalkeeper, pass a ball with their hands and try to throw it into the opponent's goal. Players may take only three steps while holding the ball and may not dribble more than once without moving.\n\nThe modern game developed in northern Europe, in Denmark, Sweden and Germany, at the end of the 19th century. Outdoor handball was played at the 1936 Berlin Olympics, and the indoor game became an Olympic sport for men in 1972 and for women in 1976. Matches are fast and physical, with scoring of 25 to 35 goals per team common.\n\nHandball is especially popular in Europe: Denmark, France, Germany, Spain, Sweden and Norway dominate the men's and women's competitions. The sport is played in schools and clubs across the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SAP_Arena_Handball_ausverkauft.jpg?width=800"
+    },
+    {
+      "id": "ice-hockey",
+      "title": "Ice Hockey",
+      "description": "The fast, physical game on ice.",
+      "content": "Ice hockey is a team sport played on ice by two teams of six players, who use sticks to shoot a rubber disc, the puck, into the opponent's net. Puck speeds can reach over 150 kilometres per hour, and skaters move at up to 40 kilometres per hour.\n\nThe first organised indoor game was played in Montreal, Canada, in 1875. The Stanley Cup, first awarded in 1893, is the oldest professional sports trophy in North America, and the National Hockey League was founded in 1917. Ice hockey has been in the Olympics since 1920 and in the Winter Games since 1924.\n\nThe sport is most popular in Canada, the United States, Russia, Sweden, Finland and the Czech Republic. Players wear protective equipment, and the game is known for its speed, skill and physical tackles called body checks. Wayne Gretzky is regarded as the greatest player ever.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_(33744033514).jpg?width=800"
+    },
+    {
+      "id": "golf",
+      "title": "Golf",
+      "description": "A game of precision played on courses over 18 holes.",
+      "content": "Golf is a sport in which players use clubs to hit a small ball into a series of holes on a course in as few strokes as possible. A standard round has 18 holes, played over grass, sand bunkers, water hazards and greens, with the lowest total score winning.\n\nThe game originated in Scotland in the 15th century, and the Old Course at St Andrews, where 18 holes became the standard in 1764, is called the home of golf. The oldest of the four major championships, the Open Championship, was first held in 1860. The others are the Masters, the US Open and the PGA Championship.\n\nThe dimples on a golf ball help it fly farther. Golf was in the Olympics in 1900 and 1904, and returned in 2016. Golfers such as Jack Nicklaus, Tiger Woods and Rory McIlroy have become household names.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Golfer_swing.jpg?width=800"
+    },
+    {
+      "id": "table-tennis",
+      "title": "Table Tennis",
+      "description": "The lightning-fast game of the small white ball.",
+      "content": "Table tennis, or ping-pong, is a racket sport in which two players or pairs hit a lightweight ball back and forth across a table divided by a net. It began in England in the 1880s as a parlour game played with books as nets, and the name ping-pong imitated the sound of the ball.\n\nThe International Table Tennis Federation was founded in 1926. The sport became Olympic in 1988 in Seoul. The ball is 40 millimetres across and weighs only 2.7 grams, and top players can make it spin at more than 100 revolutions per second, and hit it at speeds over 100 kilometres per hour.\n\nIt demands very fast reflexes and skill, and is played by hundreds of millions of people. China has dominated at the highest level for decades, and the sport is called the national sport there. It is also played in schools, cafés and parks around the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mondial_Ping_-_Men's_Singles_-_Round_4_-_Kenta_Matsudaira-Vladimir_Samsonov_-_57.jpg?width=800"
+    },
+    {
+      "id": "badminton",
+      "title": "Badminton",
+      "description": "The racket sport of the shuttlecock.",
+      "content": "Badminton is a racket sport in which players hit a feathered or plastic shuttlecock across a high net. Singles and doubles are played, and matches are won by taking two out of three games to 21 points.\n\nThe name comes from Badminton House, in England, where the game was popularised in the 1870s, but it descends from older games such as battledore and shuttlecock, played in Asia, Greece and India. The shuttlecock is very light, about five grams, but is decelerated quickly by the air, so rallies demand quick movement and reflexes.\n\nSmash speeds are the fastest of any racket sport: the record, by a Malaysian player, is over 490 kilometres per hour. Badminton has been an Olympic sport since 1992, and it is especially popular in China, Indonesia, Malaysia, Denmark, Japan and India.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympics_2012_Mixed_Doubles_Final.jpg?width=800"
+    },
+    {
+      "id": "athletics",
+      "title": "Athletics",
+      "description": "Running, jumping and throwing, the core of the Olympics.",
+      "content": "Athletics, called track and field in North America, is a group of sports based on running, jumping and throwing, along with race walking and combined events. It is the heart of the Olympic Games and has roots in the ancient Greek Games of Olympia.\n\nThe main events include sprints, such as the 100 metres, middle and long-distance races up to the marathon, hurdles and relays, on the track; and the long jump, triple jump, high jump, pole vault, shot put, discus, hammer and javelin in the field. The decathlon for men and heptathlon for women combine many events.\n\nWorld Athletics is the governing body, and the top circuit is the Diamond League. Records include Usain Bolt's 100 metres time of 9.58 seconds, set in 2009. Athletics is simple and universal: all it needs is a place to run.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MNSTATE.jpg?width=800"
+    },
+    {
+      "id": "swimming",
+      "title": "Swimming",
+      "description": "Moving through water using arms and legs, for sport and health.",
+      "content": "Swimming is moving through water using the arms and legs, both as a recreation and as one of the most popular competitive sports.\n\nThe four competitive strokes are freestyle, backstroke, breaststroke and butterfly, and the individual medley combines all four. Olympic pools are 50 metres long. Swimming has been part of the modern Olympics since 1896.\n\nAmerican swimmer Michael Phelps won 23 Olympic gold medals, more than any other athlete in history. Swimming is a full-body, low-impact exercise, and learning to swim is also an important safety skill.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Depart4x100.jpg?width=800"
+    },
+    {
+      "id": "gymnastics",
+      "title": "Gymnastics",
+      "description": "Strength, flexibility and grace on apparatus.",
+      "content": "Gymnastics is a sport that tests strength, flexibility, balance and coordination. The name comes from the Greek word gymnos, meaning naked, because ancient Greek athletes trained without clothes. It has been part of every modern Olympics since 1896.\n\nArtistic gymnastics has events on the floor, vault, uneven bars, balance beam, rings, pommel horse, parallel bars and high bar. Rhythmic gymnastics combines dance with the use of hoops, balls, ribbons, clubs and ropes, and trampoline and acrobatic gymnastics are also popular. Routines are scored for difficulty and execution.\n\nAt the 1976 Montreal Olympics the Romanian gymnast Nadia Comăneci, aged 14, scored the first perfect 10 in Olympic gymnastics. Simone Biles of the United States is the most decorated gymnast of all time. Baku's National Gymnastics Arena hosts major international competitions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ESTADOS_UNIDOS_LEVAM_OURO_NA_GIN%C3%81STICA_FEMININA_POR_EQUIPES_DOS_JOGOS_OL%C3%8DMPICOS_RIO_2016_(28849586476).jpg?width=800"
+    },
+    {
+      "id": "cycling",
+      "title": "Cycling",
+      "description": "Racing on two wheels, from roads to velodromes.",
+      "content": "Cycling as a sport includes road racing, track racing on banked velodromes, mountain biking, BMX and cyclo-cross. It began soon after the invention of the bicycle, and the first recorded race took place in 1868 in Paris. Cycling has been part of every modern Olympics since 1896, and the International Cycling Union was founded in 1900.\n\nThe greatest event is the Tour de France, first held in 1903, and the other two Grand Tours are the Giro d'Italia and the Vuelta a España. Riders in the peloton save energy by riding in the slipstream of others, and teams protect their leaders. Legends include Eddy Merckx, who won the Tour five times, and Jacques Anquetil.\n\nCycling demands exceptional endurance: riders in a mountain stage may climb the equivalent of Everest in a day. It is also the most efficient way to travel on human power.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cycliste_%C3%A0_place_d'Italie-Paris_crop.jpg?width=800"
+    },
+    {
+      "id": "boxing",
+      "title": "Boxing",
+      "description": "A combat sport of punches thrown by gloved fighters.",
+      "content": "Boxing is a combat sport in which two fighters wearing padded gloves punch each other over a series of timed rounds.\n\nIt dates back to ancient Greece, and modern rules are based on the Marquess of Queensberry rules of 1867. Fighters compete in weight classes, and a bout is won by knockout or by the judges' scoring. Boxing has been an Olympic sport since 1904.\n\nMuhammad Ali, who won the world heavyweight title three times, is widely regarded as one of the greatest boxers and cultural figures of the 20th century. Footwork, defence and stamina matter as much as power.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Boxing_Tournament_in_Aid_of_King_George's_Fund_For_Sailors_at_the_Royal_Naval_Air_Station%2C_Henstridge%2C_Somerset%2C_July_1945_A29806.jpg?width=800"
+    },
+    {
+      "id": "wrestling",
+      "title": "Wrestling",
+      "description": "One of the oldest sports, decided by throws and pins.",
+      "content": "Wrestling is one of the oldest sports, shown in prehistoric cave art and Egyptian tomb paintings, and it was part of the ancient Olympic Games.\n\nOlympic wrestling has two main styles: freestyle, in which wrestlers may use their legs to attack, and Greco-Roman, in which holds below the waist are forbidden. A wrestler wins by pinning the opponent's shoulders to the mat or by scoring more points. Women's freestyle wrestling joined the Olympics in 2004.\n\nMany countries have traditional forms, such as güləş in Azerbaijan, Turkish oil wrestling and Japanese sumo. Azerbaijani wrestlers have won Olympic medals, including gold at the Rio 2016 Games.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wrestling_at_the_2016_Summer_Olympics%2C_Gazyumov_vs_Andriitsev_6.jpg?width=800"
+    },
+    {
+      "id": "judo",
+      "title": "Judo",
+      "description": "The gentle way of throws and holds.",
+      "content": "Judo, meaning the gentle way in Japanese, is a martial art and combat sport created in 1882 by Jigoro Kano, who combined techniques from older jujutsu schools. Its principle is to use an opponent's strength and balance against them, rather than to oppose force with force.\n\nCompetitors, called judoka, wear a white or blue uniform, the judogi, and try to throw their opponent on the back, hold them down, or force a submission by choke or armlock. A perfect throw scores ippon, a full point, and wins the match immediately. Belts show rank, from white to black.\n\nJudo became an Olympic sport for men in 1964, in Tokyo, and for women in 1992. It is popular in Japan, France, Georgia, Brazil and Azerbaijan, whose Elnur Mammadli won Olympic gold in the 73 kg class at London 2012.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jigoro_Kano_and_Kyuzo_Mifune_(restoration).jpg?width=800"
+    },
+    {
+      "id": "karate",
+      "title": "Karate",
+      "description": "The empty-hand martial art of Okinawa.",
+      "content": "Karate, meaning empty hand in Japanese, is a martial art that uses punches, kicks, knee and elbow strikes and open-hand techniques. It developed on the island of Okinawa, blending local fighting methods with Chinese martial arts, and was brought to mainland Japan in 1922 by Gichin Funakoshi.\n\nPractice has two main forms: kata, sets of movements against imaginary opponents, and kumite, or sparring. Students progress through coloured belts up to black. Traditional karate also stresses discipline, respect and character development.\n\nKarate made its Olympic debut at the Tokyo Games, held in 2021. The World Karate Federation organises competitions in many countries, and Azerbaijani karate athletes such as Rafael Aghayev have won world and European titles.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hanashiro_Chomo.jpg?width=800"
+    },
+    {
+      "id": "taekwondo",
+      "title": "Taekwondo",
+      "description": "The Korean art of kicking.",
+      "content": "Taekwondo is a Korean martial art and combat sport that is best known for its high, fast and spectacular kicks. The name means the way of the foot and the fist.\n\nModern taekwondo was formalised in the 1950s and 1960s in South Korea, drawing on Korean fighting traditions as well as karate. It spread rapidly around the world. Competitors, wearing electronic protective gear, score points for kicks and punches to the body and head. Students learn patterns called poomsae, and rise through coloured belts to black.\n\nIt became a full Olympic sport at Sydney 2000, and Paralympic sport in 2020. The World Taekwondo federation governs the sport, which is practised by tens of millions of people in more than 200 countries, as a sport, for fitness and for self-defence.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg?width=800"
+    },
+    {
+      "id": "weightlifting",
+      "title": "Weightlifting",
+      "description": "The test of raw strength and technique.",
+      "content": "Weightlifting is a sport in which athletes lift a barbell loaded with weights in two competition lifts. In the snatch, the bar is lifted from the floor to overhead in one movement, and in the clean and jerk it is first lifted to the shoulders and then thrust overhead. The heaviest total of the two lifts wins.\n\nLifting of heavy stones and weights is as old as history, and weightlifting was part of the first modern Olympics in 1896. Women competed for the first time at the 2000 Sydney Games. There are weight classes, and each athlete has three attempts at each lift.\n\nTechnique, speed and flexibility matter as much as strength: the world's best lifters can lift more than three times their body weight overhead. The sport has been dominated at times by Bulgaria, Turkey, China, Iran and Russia, and doping has been a major problem.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TwoDumbbells.JPG?width=800"
+    },
+    {
+      "id": "chess",
+      "title": "Chess",
+      "description": "A strategy game of perfect information played on 64 squares.",
+      "content": "Chess grew out of the Indian game chaturanga and reached Europe through Persia and the Islamic world.\n\nEach player starts with 16 pieces, and the goal is to checkmate the opponent's king. The first official World Chess Championship was played in 1886, and FIDE, the international federation, was founded in 1924. In 1997 the computer Deep Blue defeated world champion Garry Kasparov, who was born in Baku.\n\nThere are more possible chess games than there are atoms in the observable universe, which is why strong play still depends on judgement and pattern recognition rather than brute calculation alone. Azerbaijan is a chess nation, with grandmasters such as Teimour Radjabov and Shakhriyar Mamedyarov.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChessSet.jpg?width=800"
+    },
+    {
+      "id": "formula-1",
+      "title": "Formula 1",
+      "description": "The pinnacle of single-seater motor racing.",
+      "content": "Formula 1 is the top class of single-seater motor racing, with a World Championship held since 1950.\n\nTeams build their own cars, which can exceed 350 km/h and use hybrid power units. A season consists of about two dozen Grands Prix around the world, and points for each race decide both the drivers' and the constructors' championships.\n\nMichael Schumacher and Lewis Hamilton each won seven world titles. Baku has hosted a Grand Prix on its city circuit since 2016, famous for its long straight beside the Caspian Sea and the narrow streets of the old city.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2010_Malaysian_GP_opening_lap.jpg?width=800"
+    },
+    {
+      "id": "skiing",
+      "title": "Skiing",
+      "description": "Gliding down snowy slopes and across white plains.",
+      "content": "Skiing is a sport and means of travel on snow using skis fixed to the feet. Rock carvings and old skis found in Scandinavia and Russia show that people have skied for at least 5,000 years, and the word ski comes from Norwegian.\n\nModern skiing has many forms. Alpine skiing, or downhill skiing, includes downhill, slalom and giant slalom, cross-country skiing is a test of endurance, and ski jumping, freestyle skiing and biathlon are other Olympic disciplines. Snowboarding, which developed in the 1960s and 1970s, is a related sport. Skiing has featured in the Winter Olympics since the first Games in 1924.\n\nNorway, Austria, Switzerland, France and the United States are leading skiing nations. In Azerbaijan, the resorts at Shahdag and Tufandag in the Greater Caucasus, opened in the 2010s, offer skiing for visitors."
+    },
+    {
+      "id": "olympic-games",
+      "title": "The Olympic Games",
+      "description": "The world's foremost international multi-sport event.",
+      "content": "The Olympic Games are the leading international sports event, held every four years in summer and winter editions.\n\nThe ancient Games began at Olympia in Greece in 776 BCE and were dedicated to Zeus. Pierre de Coubertin revived them, and the first modern Games took place in Athens in 1896. The five interlocking rings represent the five inhabited continents, and the Olympic motto is Faster, Higher, Stronger, later joined by Together.\n\nAthletes from around 200 countries take part. Azerbaijan first competed as an independent nation at the 1996 Atlanta Games, and Baku hosted the first European Games in 2015.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympic_rings_without_rims.svg?width=800"
+    },
+    {
+      "id": "winter-olympics",
+      "title": "The Winter Olympics",
+      "description": "Snow and ice sports on the world's biggest stage.",
+      "content": "The Winter Olympics are a multi-sport event for winter sports, held every four years. The first Winter Games took place in Chamonix, France, in 1924, and since 1994 they have alternated with the Summer Games so that each is held every two years.\n\nEvents include skiing, ski jumping, biathlon, bobsled, luge, skeleton, figure skating, speed skating, ice hockey, curling and, since 1998, snowboarding. The Games favour countries with cold climates and mountains, and Norway has won the most medals in Winter Olympic history.\n\nSome countries with little snow have sent memorable teams, such as the Jamaican bobsled team, which first competed in 1988 and inspired the film Cool Runnings. The 2022 Games in Beijing made China the first country to host both a Summer and a Winter Olympics.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Milan_Cortina_2026_Cauldron_and_Arco_della_Pace_01.jpg?width=800"
+    },
+    {
+      "id": "paralympic-games",
+      "title": "The Paralympic Games",
+      "description": "Elite sport for athletes with disabilities.",
+      "content": "The Paralympic Games are the leading international multi-sport event for athletes with a range of physical, visual and intellectual disabilities. Their roots go back to 1948, when the doctor Ludwig Guttmann organised a sports competition for wounded soldiers in Stoke Mandeville, England, on the same day as the London Olympics opening.\n\nThe first Games officially called the Paralympics took place in Rome in 1960, with 400 athletes from 23 countries, and since Seoul 1988 they have been held in the same city as the Olympics, shortly afterward, using the same venues. Sports include athletics, swimming, wheelchair basketball, sitting volleyball, para-cycling and goalball, a game for visually impaired players who use a bell inside the ball.\n\nAthletes are grouped into classes based on the nature and degree of their impairment, so that competition is fair. The Games have grown into one of the largest sporting events in the world, showcasing extraordinary skill and determination.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/IPC_logo_(2019).svg?width=800"
+    },
+    {
+      "id": "fifa-world-cup",
+      "title": "The FIFA World Cup",
+      "description": "The international football tournament held every four years.",
+      "content": "The FIFA World Cup is the international football championship for men's national teams, held every four years since 1930, when Uruguay hosted the first tournament and won it.\n\nBrazil has won a record five titles, while Germany and Italy have four each. Argentina, led by Lionel Messi, won the 2022 tournament in Qatar, its third title. The finals were expanded from 32 teams to 48 in 2026, which was hosted jointly by the United States, Canada and Mexico.\n\nThe tournament is watched by billions of people, and the trophy is one of the most recognisable in sport."
+    },
+    {
+      "id": "uefa-champions-league",
+      "title": "The UEFA Champions League",
+      "description": "European club football's top prize.",
+      "content": "The UEFA Champions League is the premier club football competition in Europe, contested each season by the continent's top teams. It grew out of the European Cup, first held in 1955–56 and won by Real Madrid, which took the trophy in each of the competition's first five years.\n\nThe competition was reorganised and renamed the Champions League in 1992. Clubs qualify by finishing near the top of their national league, and the tournament runs from autumn to a final in late May or early June, watched by hundreds of millions around the world. Real Madrid has won the most titles by far, followed by clubs such as AC Milan, Bayern Munich, Liverpool and Barcelona.\n\nThe competition's distinctive anthem, based on Handel's Zadok the Priest, is played before every match. It is widely regarded as the highest level of club football in the world."
+    },
+    {
+      "id": "rugby-world-cup",
+      "title": "The Rugby World Cup",
+      "description": "The premier international rugby union tournament.",
+      "content": "The Rugby World Cup is the top international championship in rugby union, held every four years since the first tournament in 1987, co-hosted by New Zealand and Australia and won by the All Blacks.\n\nNew Zealand has won the trophy, the Webb Ellis Cup, three times, along with South Africa, which also has three titles, most recently in 2023, and Australia and England have won it once each. The tournament brings together 20 national teams and is one of the most watched sporting events in the world.\n\nThe New Zealand team's performance of the haka, a traditional Māori challenge, before each match has become one of the most recognisable rituals in world sport. The tournament has helped spread the popularity of rugby beyond its traditional strongholds in Europe, Oceania and southern Africa.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rugby_World_Cup_footer_logo_(post-2023).svg?width=800"
+    },
+    {
+      "id": "cricket-world-cup",
+      "title": "The Cricket World Cup",
+      "description": "The premier one-day international cricket tournament.",
+      "content": "The Cricket World Cup is the top international championship of one-day cricket, held every four years since the first tournament in England in 1975. Matches are played in the one-day format, in which each team bats for a set number of overs, usually 50.\n\nThe West Indies won the first two tournaments, and since then Australia has been the most successful team, with six titles. India has hosted or co-hosted the tournament several times and won it in 1983, 2011 and 2023, drawing enormous crowds and television audiences in a country where cricket is closely followed.\n\nThere is also a Twenty20 World Cup, in the shorter and faster format of the game, held since 2007, which has helped grow the sport's popularity, including in countries such as the United States, where it was co-hosted in 2024.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cricket_pictogram.svg?width=800"
+    },
+    {
+      "id": "tour-de-france",
+      "title": "The Tour de France",
+      "description": "Cycling's most famous race.",
+      "content": "The Tour de France is the oldest and most prestigious of cycling's three Grand Tours, first held in 1903 to boost sales of the newspaper L'Auto. It takes place every July and covers about 3,500 kilometres over 21 days of racing, called stages, with a few rest days, mostly across France, though the route sometimes passes through neighbouring countries.\n\nStages include flat sprints, mountain climbs in the Alps and Pyrenees, and individual time trials. The overall leader wears the yellow jersey, a tradition dating from 1919 and chosen to match the paper on which L'Auto was printed. Other jerseys mark the best sprinter, the best climber and the best young rider.\n\nEddy Merckx and four other riders have each won the race five times. The race finishes on the Champs-Élysées in Paris. A separate Tour de France Femmes for women began in 1955 in an early form and was revived in its modern shape in 2022.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tour_de_France_logo_(black_background).svg?width=800"
+    },
+    {
+      "id": "americas-cup",
+      "title": "The America's Cup",
+      "description": "The oldest trophy in international sport.",
+      "content": "The America's Cup is a trophy awarded in match-race sailing between two yachts, and it is the oldest active trophy in international sport, first won in 1851 by the schooner America in a race around the Isle of Wight in England.\n\nFor 132 years, the New York Yacht Club successfully defended the trophy, the longest winning streak in sports history, until Australia II won it in 1983. Since then the Cup has been held by teams from the United States, New Zealand, Switzerland and elsewhere.\n\nModern races are sailed in high-tech catamarans and foiling monohulls that can travel faster than the wind, reaching speeds of over 50 knots. Teams spend years and vast sums designing boats and training crews for a competition that combines sailing skill, engineering and strategy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_America's_Cup.jpg?width=800"
+    },
+    {
+      "id": "super-bowl",
+      "title": "The Super Bowl",
+      "description": "The championship game of American football.",
+      "content": "The Super Bowl is the annual championship game of the National Football League, the top professional American football league in the United States, first played in 1967 to decide a champion between the NFL and the rival American Football League, which merged with it in 1970.\n\nIt is one of the most watched annual sporting events in the world, regularly drawing more than 100 million viewers in the United States alone, and its half-time show features some of the biggest names in music. Advertisers pay enormous sums for commercial slots during the broadcast.\n\nThe Kansas City Chiefs, New England Patriots, Pittsburgh Steelers and San Francisco 49ers are among the teams with the most Super Bowl titles. The trophy awarded to the winning team, the Vince Lombardi Trophy, is named after the legendary coach who won the first two Super Bowls with the Green Bay Packers.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Super_Bowl_rings_on_display.jpg?width=800"
+    },
+    {
+      "id": "wimbledon",
+      "title": "Wimbledon",
+      "description": "Tennis's oldest and most prestigious tournament.",
+      "content": "The Wimbledon Championships are the oldest tennis tournament in the world, first held in 1877 at the All England Club in London. It is one of the four Grand Slam events and the only one still played on grass courts, which favour a fast, attacking style of play.\n\nWimbledon maintains traditions found nowhere else in tennis: players are required to wear predominantly white clothing, and strawberries and cream are a famous part of the spectator experience. The tournament runs for two weeks each summer, and its main show courts, Centre Court and Court No. 1, have retractable roofs to allow play to continue in rain.\n\nPlayers such as Martina Navratilova, Roger Federer, Serena Williams and Novak Djokovic have won multiple titles there, and lifting the trophy at Wimbledon is considered one of the greatest achievements in tennis."
+    },
+    {
+      "id": "marathon",
+      "title": "The Marathon",
+      "description": "The 42.195-kilometre test of endurance.",
+      "content": "The marathon is a long-distance running race of 42.195 kilometres, or 26.2 miles. Its name comes from the legend of Pheidippides, a Greek messenger said to have run from the battlefield of Marathon to Athens in 490 BCE to announce a victory over the Persians, before collapsing and dying.\n\nThe event was included in the first modern Olympics in 1896, and the exact distance of 42.195 kilometres was fixed at the 1908 London Olympics, reportedly so the race could finish in front of the royal box. Major city marathons in Boston, held since 1897, London, New York, Berlin, Chicago and Tokyo, together known as the World Marathon Majors, attract tens of thousands of runners each.\n\nThe men's world record is under two hours and one minute, and the women's under two hours and eleven minutes. Marathons are run by elite athletes and amateurs alike, and completing one is a common personal goal for recreational runners.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BSK_CSOB_MARATON046_(33791445325).jpg?width=800"
+    },
+    {
+      "id": "e-sports",
+      "title": "Esports",
+      "description": "Competitive video gaming as professional sport.",
+      "content": "Esports is competitive video gaming played at a professional or semi-professional level, in games such as League of Legends, Dota 2, Counter-Strike and Fortnite. Organised competitions date back to at least 1972, with a small tournament for the game Spacewar at Stanford University, but the industry grew enormously from the 2000s with the rise of the internet and live streaming.\n\nProfessional players train for many hours a day, much like traditional athletes, and top teams have coaches, analysts and sponsors. Major tournaments offer millions of dollars in prize money and are watched by tens of millions of viewers online, and some, such as The International for Dota 2, fill large arenas.\n\nSome countries, including South Korea, treat esports much like traditional sport, with dedicated television channels and national teams. Esports is now included in some multi-sport events, such as the Asian Games, and its status as an Olympic sport has been debated.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LGD_Gaming_at_the_2015_LPL_Summer_Finals.jpg?width=800"
+    },
+    {
+      "id": "nascar",
+      "title": "NASCAR",
+      "description": "American stock car racing.",
+      "content": "NASCAR, the National Association for Stock Car Auto Racing, is the top stock car racing series in the United States, founded in 1948 in Daytona Beach, Florida. It grew partly out of the culture of drivers in the southeastern United States, some of whom had experience outrunning police during Prohibition.\n\nIts cars, although built for racing, resemble ordinary road cars in shape, unlike the open-wheel single-seaters of Formula 1. Races take place mostly on oval tracks, where cars run close together at high speed, often in large packs, which makes close racing and dramatic crashes common. The Daytona 500, held every February, is the series' most prestigious race.\n\nNASCAR is especially popular in the southern United States and has a passionate fan base. Its championship, the Cup Series, crowns a champion at the end of each season based on points earned across the year's races."
+    },
+    {
+      "id": "commonwealth-games",
+      "title": "The Commonwealth Games",
+      "description": "The multi-sport event of the Commonwealth nations.",
+      "content": "The Commonwealth Games are a multi-sport event held every four years among athletes from the Commonwealth of Nations, a group of mostly former British colonies and territories. The first Games, then called the British Empire Games, were held in Hamilton, Canada, in 1930.\n\nThe Games include sports familiar from the Olympics, such as athletics and swimming, as well as some less common internationally, like lawn bowls and netball. Because they draw from a smaller pool of countries than the Olympics, they offer a chance for athletes from smaller nations to compete on a major stage, and they are sometimes called the friendly games for their relatively relaxed atmosphere.\n\nEngland, Australia and Canada have traditionally won the most medals. The Games have occasionally faced difficulty finding hosts because of the high cost of staging them."
+    },
+    {
+      "id": "winter-x-games",
+      "title": "Extreme Sports and the X Games",
+      "description": "Skateboarding, snowboarding and freestyle sports go mainstream.",
+      "content": "The X Games are an annual multi-sport event, organised by the American sports network ESPN since 1995, showcasing extreme sports such as skateboarding, BMX, snowboarding, freestyle skiing and motocross. A separate Winter X Games began in 1997.\n\nThe event helped bring sports that began as countercultural street and mountain pastimes into the mainstream, with dedicated television coverage, sponsorship and professional circuits. Skateboarding, long associated with the X Games, made its Olympic debut at the Tokyo 2020 Games, alongside sport climbing and surfing, part of a wider effort to attract younger audiences to the Olympics.\n\nCompetitors in these sports perform tricks that are judged for difficulty and style, unlike traditional timed or scored sports, which has required new approaches to judging and broadcasting.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/X_Games_logo.svg?width=800"
+    },
+    {
+      "id": "doping-in-sport",
+      "title": "Doping in Sport",
+      "description": "The ongoing fight against performance-enhancing drugs.",
+      "content": "Doping is the use of banned performance-enhancing substances or methods by athletes to gain an unfair advantage. Common banned substances include anabolic steroids, which build muscle, and erythropoietin, or EPO, which boosts the blood's oxygen-carrying capacity, useful in endurance sports such as cycling.\n\nDoping scandals have shaken major sports repeatedly: the cyclist Lance Armstrong was stripped of his seven Tour de France titles in 2012 after admitting to systematic doping, and a state-sponsored doping programme in Russia led to bans and stripped medals across multiple Olympic Games in the 2010s.\n\nThe World Anti-Doping Agency, founded in 1999, coordinates testing and sets the rules followed by most international sports federations. Athletes are tested both in and out of competition, and testing methods continue to be refined as new substances and methods of evading detection are developed."
+    },
+    {
+      "id": "referees-and-officiating",
+      "title": "Referees and Sports Officiating",
+      "description": "The people who enforce the rules of the game.",
+      "content": "A referee, umpire or judge is an official responsible for enforcing the rules of a sport and making decisions during competition. Different sports use different titles: football and rugby have referees, cricket and tennis have umpires, and gymnastics and diving use panels of judges who score performance.\n\nOfficiating has always been a difficult and sometimes controversial job, since split-second decisions can change the outcome of a match. Technology has increasingly been used to assist officials: instant replay, goal-line technology in football, introduced widely after 2012, the video assistant referee (VAR) system, adopted globally from 2018, and Hawk-Eye ball-tracking in tennis and cricket all aim to reduce errors.\n\nDespite these tools, officiating remains a subject of debate among players, coaches and fans, and governing bodies continue to train and assess referees to maintain consistency and fairness across competitions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Referee_hockey_ahl_2004.jpg?width=800"
+    },
+    {
+      "id": "sports-medicine",
+      "title": "Sports Medicine",
+      "description": "The science of keeping athletes healthy and performing.",
+      "content": "Sports medicine is the branch of medicine focused on the prevention, diagnosis and treatment of injuries related to sport and exercise, as well as improving athletic performance. It brings together doctors, physiotherapists, nutritionists and other specialists who work with athletes at all levels.\n\nCommon areas of focus include the treatment of injuries such as torn ligaments, fractures and concussions, the rehabilitation of athletes after surgery, and research into training methods, nutrition and recovery. Advances in imaging, such as MRI scans, and in surgical techniques have transformed how injuries such as torn knee ligaments are treated, often allowing elite athletes to return to competition faster and more safely than in the past.\n\nGrowing awareness of the long-term risks of repeated head injuries, particularly in contact sports such as American football, boxing and rugby, has led to stricter concussion protocols and changed rules in several sports.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_secouristes_transportant_un_jouer_bless%C3%A9_sur_uns_civi%C3%A8re.jpg?width=800"
+    },
+    {
+      "id": "stadiums",
+      "title": "Stadiums",
+      "description": "The great arenas that host sporting spectacles.",
+      "content": "A stadium is a large structure built to host sporting events and other spectacles in front of an audience. The word comes from the ancient Greek stadion, a unit of length and the name for the footrace held at Olympia, and stone stadiums were built across the ancient Greek and Roman world, including the Colosseum in Rome, completed in 80 CE, which could hold tens of thousands of spectators for gladiator contests.\n\nModern stadiums range from local community grounds to enormous venues such as the Rungrado 1st of May Stadium in Pyongyang, North Korea, with a capacity of over 110,000, one of the largest in the world. Many modern stadiums are designed to be multi-purpose, hosting concerts and other events alongside sport, and increasingly incorporate retractable roofs, energy-efficient design and improved accessibility.\n\nBaku's Olympic Stadium, opened in 2015 for the first European Games, has since hosted major football finals, showing how such venues can put cities on the international sporting map.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Narendra_Modi_Stadium_view_from_the_gallery.jpg?width=800"
+    },
+    {
+      "id": "archery",
+      "title": "Archery",
+      "description": "The ancient art of the bow, now an Olympic sport.",
+      "content": "Archery is the sport of shooting arrows with a bow at a target, one of the oldest skills in human history, used for hunting and warfare for tens of thousands of years before it became a sport. Competitive archery developed in England from the 16th century, once bows were no longer needed as weapons of war.\n\nModern Olympic archery uses recurve bows and is shot at a target 70 metres away, with the highest score awarded for hitting the small gold centre. Compound bows, which use a system of pulleys and cables to make the bow easier to hold at full draw, are used in some other competitions but not currently in the Olympics.\n\nArchery has been part of the Olympics on and off since 1900, and became a permanent fixture from 1972. South Korea has dominated Olympic archery for decades, and the sport requires exceptional focus, steady technique and mental control under pressure.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ArcheryGermanyEarly1980s-2.jpg?width=800"
+    },
+    {
+      "id": "fencing",
+      "title": "Fencing",
+      "description": "The elegant Olympic sport of swordplay.",
+      "content": "Fencing is a combat sport in which two competitors fight with swords, scoring points by touching their opponent according to the rules of the weapon used. It developed from historical duelling and swordsmanship, and became a regulated sport in the 19th century, with the first World Championships held in 1921.\n\nThere are three weapons: foil and épée, in which only the point of the blade can score, and sabre, in which cuts with the edge also count. Modern competitions use electronic scoring systems that register a valid touch instantly, since the action is far too fast for the eye to follow reliably.\n\nFencing has been part of every modern Olympics since the first Games in 1896, one of very few sports to have that distinction. Hungary, Italy, France and Russia have traditionally been strong fencing nations, though the sport is now practised competitively worldwide.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Final_Trophee_Monal_2012_n08.jpg?width=800"
+    },
+    {
+      "id": "surfing",
+      "title": "Surfing",
+      "description": "Riding ocean waves on a board.",
+      "content": "Surfing is the sport of riding a wave, usually while standing on a board, toward the shore. It has ancient roots in Polynesia, particularly in Hawaii, where it held deep cultural and even religious significance long before European contact, and the Hawaiian swimmer Duke Kahanamoku helped popularise it internationally in the early 20th century.\n\nModern competitive surfing involves riders being judged on the difficulty, style and flow of the manoeuvres they perform while riding a wave within a set time. Surf breaks around the world, such as Pipeline in Hawaii, Jeffreys Bay in South Africa and Teahupoo in Tahiti, are famous for producing powerful, high-quality waves that attract the best surfers.\n\nSurfing made its Olympic debut at the Tokyo 2020 Games, held in 2021, with competition taking place in the ocean rather than a purpose-built venue, reflecting the sport's deep connection to natural coastal environments.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mavericks_Surf_Contest_2010b.jpg?width=800"
+    },
+    {
+      "id": "climbing",
+      "title": "Sport Climbing",
+      "description": "Scaling walls and rock faces for speed and skill.",
+      "content": "Sport climbing is a discipline in which climbers ascend routes on artificial walls or natural rock faces, typically protected by pre-placed bolts and ropes for safety. It grew out of traditional mountaineering and rock climbing but developed its own competitive formats from the 1980s onward.\n\nOlympic competition includes three disciplines: speed climbing, in which two climbers race up an identical standardised wall as fast as possible; bouldering, in which climbers attempt short, difficult routes without ropes, over a padded floor; and lead climbing, in which climbers try to reach as high as possible on a longer route within a time limit.\n\nSport climbing made its Olympic debut at the Tokyo 2020 Games. The sport demands a combination of strength, flexibility, technique and problem-solving, since climbers must read and plan a route, known as working out the beta, before or while attempting it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam_Ondra_climbing_Silence_9c_by_PAVEL_BLAZEK_3.jpg?width=800"
+    },
+    {
+      "id": "equestrian-sports",
+      "title": "Equestrian Sports",
+      "description": "Competitive riding, from dressage to show jumping.",
+      "content": "Equestrian sports involve horses and riders competing together, and they are unusual among Olympic sports in that men and women compete directly against each other in the same events. The three Olympic disciplines are dressage, in which horse and rider perform a precise sequence of movements judged for grace and precision, show jumping, in which the pair must clear a course of obstacles without knocking them down, and eventing, which combines dressage, jumping and a cross-country course.\n\nBeyond the Olympics, popular equestrian sports include horse racing, one of the oldest spectator sports, with events such as the Kentucky Derby and Royal Ascot, and polo, in which mounted players use mallets to hit a ball, a sport with ancient roots in Central Asia and Persia.\n\nAzerbaijan has a long tradition of horsemanship, reflected in its national breed, the Karabakh horse, and in the traditional equestrian game chovgan, recognised by UNESCO as intangible cultural heritage.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Horse_riding_in_coca_cola_arena_-_melbourne_show_2005.jpg?width=800"
+    },
+    {
+      "id": "sumo-wrestling",
+      "title": "Sumo Wrestling",
+      "description": "Japan's ancient sport of ritual and strength.",
+      "content": "Sumo is a form of full-contact wrestling that originated in Japan and carries deep cultural and religious significance, with roots connected to Shinto rituals performed to entertain the gods and ensure good harvests. It has been practised for well over a thousand years.\n\nTwo wrestlers, called rikishi, face off in a circular ring called a dohyō, and a match is won by forcing the opponent out of the ring or making any part of their body other than the soles of the feet touch the ground. Bouts are often extremely short, sometimes lasting only a few seconds, though the elaborate pre-match rituals, including salt throwing to purify the ring, can take much longer.\n\nProfessional sumo wrestlers, particularly those who reach the highest rank of yokozuna, are treated as celebrities in Japan and follow a strict traditional lifestyle governed by the Japan Sumo Association, including how they dress, eat and wear their hair even outside competition.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asashoryu_fight_Jan08.JPG?width=800"
+    },
+    {
+      "id": "darts",
+      "title": "Darts",
+      "description": "The pub game that became a major professional sport.",
+      "content": "Darts is a game in which players throw small pointed missiles at a circular target, or dartboard, marked with numbered segments. It evolved from a pastime in British pubs, where soldiers are said to have thrown short arrows at the base of wine barrels, into a codified competitive sport in the 20th century.\n\nThe standard game, 501, requires players to reduce a starting score of 501 to exactly zero, with the final dart required to land in a double segment. The board's layout, with numbers seemingly placed at random around the circle, was actually designed in the 1890s to punish inaccuracy, since high and low numbers sit next to each other.\n\nSince the 1970s darts has grown into a significant professional sport, particularly popular in Britain and the Netherlands, with major tournaments broadcast on television and players competing in front of large, enthusiastic crowds that sing and chant during matches.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Darts_in_a_dartboard.jpg?width=800"
+    },
+    {
+      "id": "snooker",
+      "title": "Snooker",
+      "description": "The precision cue sport of the green baize table.",
+      "content": "Snooker is a cue sport played on a large rectangular table covered in green cloth, called baize, with six pockets. Players use a cue to strike a white ball, aiming to pot a sequence of coloured balls in a particular order to score points, with the player scoring the most points over a match winning.\n\nThe game was devised by British army officers stationed in India in the 1870s, combining elements of earlier billiards games. It became a major televised sport in Britain from the 1970s, when the arrival of colour television allowed viewers to follow the different coloured balls clearly for the first time, greatly boosting its popularity.\n\nThe World Snooker Championship, held annually at the Crucible Theatre in Sheffield, England, since 1977, is the sport's most prestigious event. Snooker rewards extraordinary precision, positional play and the ability to plan several shots ahead, and has attracted growing interest in China in recent decades.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Snooker_table_selby.JPG?width=800"
+    },
+    {
+      "id": "curling",
+      "title": "Curling",
+      "description": "The strategic ice sport of stones and sweeping.",
+      "content": "Curling is a team sport played on ice, in which players slide heavy, polished granite stones toward a circular target, called the house, while teammates sweep the ice in front of the stone with brooms to influence its speed and path. It is sometimes described as chess on ice because of the strategic depth involved in each shot.\n\nThe sport originated in Scotland in the 16th century, where it was played on frozen ponds and lochs, and much of its terminology, such as calling the target the house and describing a well-placed shot as a guard, remains distinctly Scottish. Curling became a full Olympic sport at the 1998 Nagano Winter Games.\n\nTeams of four take turns delivering stones, and matches are decided over multiple rounds called ends. Countries with strong winter sporting traditions, including Canada, Scotland, Sweden and Switzerland, have historically dominated international competition.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Curling%2C_overall_view_of_the_Tim_Hortons_Brier_venue_-_Edmonton%2C_Canada.jpg?width=800"
+    },
+    {
+      "id": "triathlon",
+      "title": "Triathlon",
+      "description": "Swim, bike, run, in a single gruelling race.",
+      "content": "Triathlon is an endurance sport that combines three disciplines completed in immediate succession: swimming, cycling and running, with the time between each event, spent changing equipment, called a transition and included in the total race time. The modern sport developed in California in the 1970s, drawing together athletes from swimming, cycling and running backgrounds.\n\nThe most famous long-distance event is the Ironman triathlon, first held in Hawaii in 1978, which consists of a 3.86-kilometre swim, a 180.25-kilometre bike ride and a full marathon run of 42.195 kilometres, all completed back to back, typically taking elite athletes over eight hours to finish.\n\nThe Olympic-distance triathlon, shorter than the Ironman, became an Olympic sport at the Sydney 2000 Games. Triathlon demands not only fitness across three very different disciplines but also careful pacing and nutrition strategy over what can be a very long and physically demanding event.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paris2024_-_Triathlon_-_02_-_Pont_Alexandre_III.jpg?width=800"
+    },
+    {
+      "id": "rowing",
+      "title": "Rowing",
+      "description": "The sport of propelling boats with oars.",
+      "content": "Rowing is a sport in which competitors race boats propelled by the power of their oars, either alone in single sculls or in crews of up to eight rowers, sometimes assisted by a coxswain who steers and calls the rhythm. The sport has ancient roots as a means of transport and warfare, but developed as a competitive activity in England in the 18th and 19th centuries.\n\nThe Oxford and Cambridge Boat Race, first held in 1829 and rowed annually on the River Thames in London, is one of the oldest continuing sporting rivalries in the world and remains a major event in British sporting culture. Rowing has been part of the Olympics since 1900.\n\nRowing demands extraordinary aerobic endurance combined with explosive power, since a race, typically over 2,000 metres, requires an intense, sustained effort lasting several minutes, often described by athletes and coaches as one of the most physically punishing efforts in sport.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Rowing_Crew_at_Henley_2004_-2.JPG?width=800"
+    },
+    {
+      "id": "canoeing-and-kayaking",
+      "title": "Canoeing and Kayaking",
+      "description": "Paddling sports of sprint and whitewater.",
+      "content": "Canoeing and kayaking are paddling sports using narrow boats propelled by human power, with the key difference that a canoe is paddled with a single-bladed paddle, often from a kneeling position, while a kayak uses a double-bladed paddle and is usually paddled while seated with legs extended. Both craft have ancient origins as means of transport and hunting among indigenous peoples in North America, the Arctic and elsewhere.\n\nCompetitive disciplines include sprint racing on flat water over set distances, and whitewater slalom, in which paddlers navigate a course of gates on a fast-flowing, turbulent river, requiring precise control and quick decision-making as the water pushes the boat unpredictably.\n\nBoth sprint canoeing and whitewater slalom have been part of the Olympic programme since the mid-20th century, and the sports are especially popular in countries with extensive river and lake systems, such as Hungary, Germany and the Nordic countries.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Finale_C1_200_m_f%C3%A9minin_Jeux_Olympiques_Paris_2024.jpg?width=800"
+    },
+    {
+      "id": "squash",
+      "title": "Squash",
+      "description": "The fast indoor racket sport played off the walls.",
+      "content": "Squash is a racket sport played by two players in an enclosed four-walled court, in which players take turns hitting a small rubber ball against the front wall, using the side and back walls as well to create varied and unpredictable angles of play. It developed from a simpler game played by pupils at Harrow School in England in the 19th century.\n\nMatches are fast-paced and physically demanding, since the enclosed court means the ball rarely goes out of play and rallies can be long, requiring excellent fitness, agility and quick reactions in a confined space shared closely with an opponent.\n\nDespite repeated campaigns by the sport's governing bodies, squash has not yet been included in the Olympic programme, a source of ongoing frustration for the squash community, though it is set to make its Olympic debut at the Los Angeles 2028 Games.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Semifinal_Squash_SM_2021.jpg?width=800"
+    },
+    {
+      "id": "field-hockey",
+      "title": "Field Hockey",
+      "description": "The stick-and-ball game played on grass or turf.",
+      "content": "Field hockey is a team sport in which two teams of eleven players use curved sticks to hit a small hard ball, attempting to score by hitting it into the opposing team's goal. Games resembling hockey have been played for thousands of years in various forms across many cultures, but the modern rules were codified in England in the 19th century.\n\nUnlike ice hockey, field hockey is played on grass or, increasingly at the elite level, on artificial turf pitches that are specially watered to allow the ball to move faster and more predictably. The sport has been part of the Olympics since 1908 for men and 1980 for women.\n\nField hockey is especially popular and competitively strong in countries including India, Pakistan, the Netherlands, Germany, Australia and Argentina, with India having a particularly storied Olympic history in the sport during the mid-20th century.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Match_Hockey_Grande_Bretagne_x_Espagne_Jeux_Olympiques_2024_Terrain_1_Stade_Yves_Manoir_-_Colombes_(FR92)_-_2024-07-27_-_28.jpg?width=800"
+    },
+    {
+      "id": "olympic-legends",
+      "title": "Legendary Olympians",
+      "description": "Athletes whose feats defined the Games.",
+      "content": "Certain athletes have become legendary through extraordinary performances across multiple Olympic Games. The American swimmer Michael Phelps holds the record for most Olympic medals of any athlete, with 28 in total, including 23 golds, won across four Games from 2004 to 2016, a level of dominance unmatched in Olympic history.\n\nThe Jamaican sprinter Usain Bolt won gold in the 100 metres, 200 metres and 4x100 metres relay at three consecutive Olympics, from 2008 to 2016, and set world records that have stood for well over a decade. The Finnish long-distance runner Paavo Nurmi, known as the Flying Finn, won nine gold medals in the 1920s, often in gruelling multi-event schedules within a single day.\n\nGymnast Simone Biles of the United States and swimmer Katie Ledecky have similarly redefined what is considered possible in their sports in more recent Olympic history, combining technical mastery with sustained dominance over their competitors across multiple Games.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phelps_Rio_2016_(1).jpg?width=800"
+    },
+    {
+      "id": "maradona-and-pele",
+      "title": "Pelé and Maradona",
+      "description": "Two players often named the greatest in football history.",
+      "content": "Pelé, born Edson Arantes do Nascimento in Brazil in 1940, and Diego Maradona, born in Argentina in 1960, are widely regarded as two of the greatest footballers of all time, though comparing them across different eras remains a matter of passionate debate among fans.\n\nPelé won three World Cups with Brazil, in 1958, 1962 and 1970, becoming a global icon of the sport at a remarkably young age and later serving as an ambassador for football worldwide until his death in 2022. Maradona led Argentina to World Cup victory in 1986, a tournament in which he scored the famous Hand of God goal and, minutes later, a goal often voted the greatest in World Cup history, dribbling past several England players.\n\nBoth players transcended football to become cultural symbols in their home countries, and their rivalry in the eyes of fans continues to shape debates about greatness in the sport, especially as later stars such as Lionel Messi and Cristiano Ronaldo entered the conversation.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Argentina_celebrando_copa_(cropped).jpg?width=800"
+    },
+    {
+      "id": "garry-kasparov",
+      "title": "Garry Kasparov",
+      "description": "The Baku-born chess champion who faced a computer.",
+      "content": "Garry Kasparov, born in Baku, Azerbaijan, in 1963, became the youngest ever undisputed World Chess Champion in 1985, at the age of 22, and went on to dominate the sport for the better part of two decades, holding the world number one ranking for a remarkable 255 months.\n\nHe is perhaps best known outside the chess world for his matches against IBM's chess-playing computer Deep Blue. He won their first match in 1996, but lost the celebrated rematch in 1997, becoming the first reigning world champion to lose a match to a computer under standard tournament conditions, an event widely seen as a milestone in the history of artificial intelligence.\n\nAfter retiring from professional chess in 2005, Kasparov became involved in politics and pro-democracy activism in Russia, and has continued to write and speak about chess strategy, technology and world affairs. He remains one of the sport's most influential and widely recognised figures.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Garri_Kasparow_(18776605665)_(cropped)_2.jpg?width=800"
+    },
+    {
+      "id": "shahriyar-mamedyarov",
+      "title": "Shahriyar Mammadyarov and Azerbaijani Chess",
+      "description": "Azerbaijan's grandmasters on the world stage.",
+      "content": "Azerbaijan has established itself as one of the strongest chess nations in the world, producing a number of grandmasters who have competed at the highest levels of the sport. Shahriyar Mammadyarov, born in 1985, became a grandmaster at just 15 years old and has ranked among the world's top players for years, competing in the elite Candidates Tournament, which decides the challenger for the World Chess Championship.\n\nTeimour Radjabov, another leading Azerbaijani grandmaster, became a grandmaster at 14 and famously defeated the legendary Garry Kasparov in a tournament game in 2003 while still a teenager, a result that drew international attention to Azerbaijan's rising chess talent.\n\nThe Azerbaijani national team has won multiple medals at the Chess Olympiad, the biennial team world championship, and Baku has hosted major international tournaments, reflecting the country's deep and continuing investment in chess as both sport and cultural tradition.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shakhriyar_Mamedyarov_in_August_2026.jpg?width=800"
+    },
+    {
+      "id": "azerbaijan-at-the-olympics",
+      "title": "Azerbaijan at the Olympics",
+      "description": "The country's Olympic history since independence.",
+      "content": "Azerbaijan first competed as an independent nation at the 1996 Atlanta Summer Olympics, having previously competed as part of the Soviet Union. Since then the country has built a strong Olympic tradition, particularly in combat sports such as wrestling, judo, taekwondo and boxing, where physical strength and technical skill developed through long domestic sporting traditions have translated into international success.\n\nAzerbaijani athletes have won Olympic medals at every Summer Games since 1996, with wrestling producing some of the country's most celebrated champions. The national team has steadily increased its medal count over successive Games as investment in sports infrastructure and coaching has grown.\n\nBaku's hosting of the inaugural European Games in 2015, a new multi-sport event for European nations, was seen as a significant statement of the country's ambitions in international sport, alongside its hosting of a Formula 1 Grand Prix since 2016 and various world championships in individual sports.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Azerbaijan.svg?width=800"
+    },
+    {
+      "id": "sports-nutrition",
+      "title": "Sports Nutrition",
+      "description": "Fuelling the body for training and competition.",
+      "content": "Sports nutrition is the study and practice of how diet affects athletic training, performance and recovery. It has become an increasingly specialised field, with elite athletes often working closely with dietitians and nutritionists who plan meals and supplements to match the specific demands of their sport and training schedule.\n\nEndurance athletes, such as marathon runners and cyclists, typically require diets rich in carbohydrates to fuel long efforts, and often practise techniques such as carbohydrate loading before major events to maximise the energy stored in their muscles. Strength and power athletes generally require higher protein intake to support muscle repair and growth following intense training sessions.\n\nProper hydration, timing of meals around training, and careful attention to recovery nutrition, particularly in the hours immediately after intense exercise, are now considered essential elements of a professional athlete's preparation, reflecting a shift from viewing nutrition as an afterthought to treating it as a core part of athletic performance.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sport_balls.svg?width=800"
+    },
+    {
+      "id": "sports-psychology",
+      "title": "Sports Psychology",
+      "description": "The mental side of athletic performance.",
+      "content": "Sports psychology is the study of how psychological factors affect athletic performance, and how participation in sport affects psychological wellbeing. It has grown into a well-established professional field, with many elite teams and individual athletes now employing sports psychologists as a standard part of their support staff.\n\nKey areas of focus include managing anxiety and pressure before and during competition, building confidence and motivation, maintaining focus and concentration under distraction, and helping athletes cope with the psychological demands of injury, setbacks and intense public scrutiny, particularly for athletes competing at the highest levels with significant media attention.\n\nTechniques commonly used include visualisation, in which athletes mentally rehearse successful performance, goal-setting frameworks that break long-term ambitions into achievable steps, and mindfulness-based approaches to help athletes remain present and composed during high-pressure moments in competition.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Greek_uc_psi_icon.svg?width=800"
+    },
+    {
+      "id": "sports-broadcasting",
+      "title": "Sports Broadcasting",
+      "description": "How television and streaming transformed sport.",
+      "content": "The broadcasting of sporting events, first by radio and later by television, has fundamentally transformed the economics and global reach of professional sport over the past century. Early sports broadcasts on radio in the 1920s allowed fans who could not attend in person to follow events live for the first time, and the first live television broadcast of a sporting event took place in Germany during the 1936 Berlin Olympics.\n\nTelevision rights have since become an enormous source of revenue for major leagues and events, often now exceeding ticket sales and merchandising combined, and have driven significant changes to how sports are scheduled and structured to maximise viewership in key markets around the world.\n\nIn recent years, streaming services have begun to challenge traditional broadcasters for the rights to major sporting events, and technologies such as high-definition replay, multiple camera angles and real-time statistics have transformed the viewing experience for fans watching from home.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Olympic_Swimming_Marathon_(7769099394).jpg?width=800"
+    },
+    {
+      "id": "sports-sponsorship",
+      "title": "Sponsorship in Sport",
+      "description": "How brands became part of the games we watch.",
+      "content": "Sponsorship, in which companies pay to associate their brand with a sports team, event or athlete, has become one of the largest sources of revenue in professional sport, alongside broadcasting rights and ticket sales. Early sponsorship arrangements in the 19th and early 20th centuries were often modest, but the practice expanded enormously from the 1970s and 1980s onward as sport became a global television phenomenon.\n\nMajor global brands now pay enormous sums to have their logos appear on team jerseys, stadium advertising boards, and athletes' equipment, and top individual athletes can earn far more from personal sponsorship and endorsement deals than from prize money or salaries alone.\n\nThe Olympic Games maintain a longstanding and highly selective global sponsorship programme, in which a limited number of major companies pay substantial fees for exclusive marketing rights associated with the Games, reflecting the enormous commercial value that Olympic association is considered to carry worldwide.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ricky_stenhouse_jr._(46902710255).jpg?width=800"
+    },
+    {
+      "id": "american-football",
+      "title": "American Football",
+      "description": "The high-contact sport of downs, touchdowns and the gridiron.",
+      "content": "American football is a team sport played by two teams of eleven players on a rectangular field marked with yard lines, giving it the nickname the gridiron. The team in possession of the oval ball tries to advance it down the field in a series of attempts called downs, scoring points mainly by carrying or passing the ball into the opponent's end zone for a touchdown.\n\nThe sport evolved from rugby and association football in American colleges during the late 19th century, gradually developing its own distinct rules, including the forward pass, which was legalised in 1906 and transformed the game into the fast, strategic sport played today. Players wear extensive protective equipment, including helmets and padding, because of the sport's high level of physical contact.\n\nThe National Football League, founded in 1920, is by far the most popular and highest-earning professional sports league in the United States, and its championship game, the Super Bowl, is one of the most watched annual sporting events in the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg?width=800"
+    },
+    {
+      "id": "netball",
+      "title": "Netball",
+      "description": "The fast, non-contact court sport popular in Commonwealth nations.",
+      "content": "Netball is a team sport, closely related historically to basketball, played by two teams of seven players who try to score goals by shooting the ball through a raised hoop. It developed from early versions of women's basketball in England and the United States in the late 19th century and became especially popular across the British Empire and later the Commonwealth of Nations.\n\nUnlike basketball, netball does not allow dribbling, and players are restricted to specific areas of the court depending on their playing position, which is marked clearly on their uniform. Contact is not allowed, and players must stand at least a certain distance from an opponent holding the ball, making it a fast, non-contact sport built on quick passing and precise positioning.\n\nNetball is played predominantly by women and is especially popular in Australia, New Zealand, England, Jamaica and several African nations. The Netball World Cup, held every four years, is the sport's premier international competition.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MalawiFijiNetball.jpg?width=800"
+    },
+    {
+      "id": "water-polo",
+      "title": "Water Polo",
+      "description": "The demanding team sport played in the pool.",
+      "content": "Water polo is a team sport played in a swimming pool, combining elements of swimming, handball and wrestling. Two teams of seven players, including a goalkeeper, try to throw a ball into the opposing team's goal while treading water for the entire match, since players are not permitted to touch the bottom of the pool.\n\nThe sport developed in Britain and other parts of Europe in the mid-to-late 19th century, originally played more as a rugby-like contest in rivers and lakes before evolving into the pool-based sport known today. It has been part of the Olympic programme since 1900 for men, making it one of the oldest team sports at the Games, and for women since 2000.\n\nWater polo demands exceptional swimming fitness combined with upper body strength, since players must be able to tread water at speed, throw accurately and defend physically, often out of sight of officials, all while staying afloat for the duration of a match.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WaterPolo.JPG?width=800"
+    },
+    {
+      "id": "biathlon",
+      "title": "Biathlon",
+      "description": "The winter sport combining cross-country skiing and rifle shooting.",
+      "content": "Biathlon is a winter sport that combines cross-country skiing with rifle shooting, an unusual pairing that has its roots in military and hunting traditions of Scandinavia, where skiing was historically essential for winter travel and soldiers trained in combined skiing and marksmanship skills.\n\nIn competition, athletes ski a demanding cross-country course, stopping periodically at a shooting range to fire at small targets from either a standing or prone position. Missing a target typically results in a time penalty or an extra distance to ski, meaning that competitors must manage the difficult balance between skiing fast enough to raise their heart rate and remaining calm and steady enough to shoot accurately.\n\nBiathlon became a full Olympic sport at the 1960 Squaw Valley Winter Games, and it has traditionally been dominated by Nordic and Central European nations such as Norway, Germany, France and Russia, drawing large and passionate crowds at events held throughout the winter season in Europe.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Biathlon_Schalke.jpg?width=800"
+    },
+    {
+      "id": "figure-skating",
+      "title": "Figure Skating",
+      "description": "The artistic ice sport of jumps, spins and choreography.",
+      "content": "Figure skating is a sport performed on ice skates in which competitors perform choreographed routines that combine athletic elements, such as jumps and spins, with artistic presentation set to music. It developed in the 19th century, particularly in Europe and North America, as ice skating moved from a purely recreational and transportation activity toward a codified competitive discipline.\n\nOlympic disciplines include men's and women's singles, pairs skating, and ice dance, which places greater emphasis on dance-like choreography and closer partnership between skaters than the more jump-focused pairs discipline. Figure skating has been part of the Olympics since 1908, making it, along with ice hockey, one of the earliest winter sports included in the Games, even before a separate Winter Olympics existed.\n\nScoring blends technical difficulty, such as the number of rotations in a jump, with artistic components including choreography, interpretation of the music and overall performance quality, judged by a panel using a detailed points system.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Team_Les_Supreme_Free_Skate_at_the_2026_ISU_Synchronized_Skating_World_Championships_01.jpg?width=800"
+    },
+    {
+      "id": "speed-skating",
+      "title": "Speed Skating",
+      "description": "Racing on ice at high velocity.",
+      "content": "Speed skating is a competitive sport in which skaters race each other around an oval ice track, aiming to complete a set distance in the fastest time. It developed in the Netherlands and other parts of northern Europe, where frozen canals and lakes made ice skating a practical and popular winter activity long before it became an organised sport.\n\nThere are two main Olympic formats: long track speed skating, in which pairs of skaters race against the clock on a large 400-metre oval, and short track speed skating, held on a smaller indoor rink where multiple skaters race directly against each other simultaneously, making close contact, tactical positioning and occasional collisions a notable feature of the sport.\n\nSpeed skating has been part of the Winter Olympics since the first Games in 1924, and short track was added in 1992. The Netherlands has traditionally dominated long track speed skating, while South Korea and China have been particularly strong in short track events.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paulien_van_Deutekom_(08-12-2007).jpg?width=800"
+    },
+    {
+      "id": "bobsled",
+      "title": "Bobsled",
+      "description": "Hurtling down an icy track at extreme speed.",
+      "content": "Bobsled, also known as bobsleigh, is a winter sport in which teams of two or four athletes race a specially designed sled down a steep, twisting, ice-covered track, reaching speeds of well over 130 kilometres per hour on the fastest sections. The sport developed in Switzerland in the late 19th century, evolving from simpler sledding activities into an engineered, highly technical pursuit.\n\nCompetitors begin each run by sprinting and pushing the sled to build initial momentum before jumping in, and the pilot then steers the sled through a series of curves using ropes or a steering mechanism, requiring split-second reactions as the sled accelerates rapidly down the icy chute.\n\nBobsled has been part of the Winter Olympics since the very first Games in 1924. The Jamaican national bobsled team, which first competed at the 1988 Calgary Games despite the country's tropical climate, became internationally famous and inspired the popular film Cool Runnings, helping to broaden interest in the sport beyond traditional winter nations.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Two-man_bobsleigh%2C_2014_winter_Olympics%2C_Jamaica.jpg?width=800"
+    },
+    {
+      "id": "modern-pentathlon",
+      "title": "Modern Pentathlon",
+      "description": "The five-discipline sport created for Olympic soldiers.",
+      "content": "Modern pentathlon is a multi-discipline sport combining fencing, swimming, equestrian show jumping, and a combined event of pistol shooting and cross-country running known as the laser run. It was created specifically for the 1912 Stockholm Olympics by Pierre de Coubertin, the founder of the modern Olympic Games, who designed it to test the range of skills that a 19th-century cavalry officer might need if stranded behind enemy lines: riding an unfamiliar horse, fighting with a sword, shooting, swimming across a river and running to safety.\n\nThe sport has remained part of the Olympic programme continuously since its introduction, though its format has evolved over time, and the equestrian discipline, in which athletes ride an unfamiliar horse assigned to them shortly before competing, has generated debate and led to planned changes to the sport's format after the Paris 2024 Olympics.\n\nModern pentathlon demands an unusually broad range of athletic skills, since few other sports require competitors to master disciplines as different as fencing, swimming, riding and shooting all within a single competition.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JO_PARIS_2024_PENTATHLON_MODERNE_MENS_PARC_DU_CHATEAU_DE_VERSAILLES_-_53915892043.jpg?width=800"
+    },
+    {
+      "id": "ultramarathon",
+      "title": "Ultramarathons",
+      "description": "Races that go beyond the traditional marathon distance.",
+      "content": "An ultramarathon is any footrace longer than the traditional marathon distance of 42.195 kilometres. Distances vary widely, from around 50 kilometres up to multi-day races covering hundreds of kilometres, and some events are measured not by distance but by a fixed time limit, such as 24 hours, with competitors covering as much ground as possible within that period.\n\nMany ultramarathons take place on demanding trail and mountain terrain rather than roads, adding navigation, significant elevation changes and unpredictable weather conditions to the physical challenge of covering such extreme distances. Famous events include the Western States Endurance Run in California, one of the oldest 100-mile trail races, and the Marathon des Sables, a multi-day self-supported race across the Sahara Desert in which competitors carry their own food and supplies.\n\nThe sport has grown considerably in popularity since the late 20th century, attracting both elite endurance athletes and dedicated amateur runners drawn to the extreme physical and mental challenge of racing far beyond conventional marathon distances.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sahara_Race_2011.jpg?width=800"
+    },
+    {
+      "id": "sailing",
+      "title": "Sailing (Sport)",
+      "description": "Competitive racing under wind power.",
+      "content": "Sailing as a competitive sport involves racing boats propelled by wind power around a set course, typically marked by buoys, with competitors needing to read wind conditions, currents and the positions of rival boats to choose the fastest possible route. Sailing has been part of the Olympic programme since 1900, and boat classes used in competition range from small single-handed dinghies to larger multi-crewed keelboats.\n\nCompetitive sailing demands a distinctive combination of physical fitness, technical boat-handling skill and tactical decision-making, since racing tactics can involve deliberately positioning a boat to block or disrupt a rival's wind, alongside the more straightforward goal of simply sailing the course as quickly as possible.\n\nBeyond Olympic sailing, offshore and ocean racing events, such as the Vendée Globe, a solo non-stop round-the-world race, and the America's Cup, test sailors over vastly longer distances and durations, often lasting weeks or months and requiring extraordinary endurance, self-sufficiency and technical expertise from competitors.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mar%C3%ADa_Jos%C3%A9_Poncell_2024.jpg?width=800"
+    },
+    {
+      "id": "mountaineering",
+      "title": "Mountaineering",
+      "description": "The sport and art of climbing mountains.",
+      "content": "Mountaineering is the sport and skill of climbing mountains, combining physical endurance, technical climbing ability and careful risk management in often extreme and unpredictable environments. While ascending high peaks for practical or exploratory reasons has ancient roots in many cultures, mountaineering as a distinct sport is generally considered to have begun in the European Alps in the 18th and 19th centuries.\n\nModern mountaineering encompasses a wide range of activities, from relatively accessible hiking-based ascents on well-established routes to extremely technical climbs requiring ropes, ice axes, crampons and advanced skills in navigating glaciers, steep rock faces and unstable snow and ice conditions at high altitude, where thinner air adds significant physical strain.\n\nHigh-altitude mountaineering on peaks such as Mount Everest has attracted growing numbers of climbers since Edmund Hillary and Tenzing Norgay's historic first ascent in 1953, though the sport carries serious inherent risks, and questions about overcrowding, environmental impact and safety on the world's highest peaks remain the subject of ongoing debate within the climbing community.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/M_Rainier.jpg?width=800"
+    },
+    {
+      "id": "skateboarding",
+      "title": "Skateboarding",
+      "description": "From street culture to Olympic sport.",
+      "content": "Skateboarding is a sport and recreational activity in which participants ride and perform tricks on a board mounted on four wheels. It emerged in California in the late 1950s and 1960s, initially among surfers looking for a way to practise surfing-style manoeuvres on land when ocean waves were not available, gradually developing its own distinct culture, terminology and progression of tricks.\n\nThe sport traditionally developed largely outside formal organised competition, closely tied to street culture, skate parks and a strong do-it-yourself ethos, which for decades made many in the skateboarding community somewhat ambivalent about its eventual inclusion in mainstream organised sport structures.\n\nSkateboarding made its Olympic debut at the Tokyo 2020 Games, held in 2021, competing in both street and park disciplines, as part of a broader effort by Olympic organisers to attract younger audiences by including sports with strong roots in youth and urban culture.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BackSmithGrind.jpg?width=800"
+    },
+    {
+      "id": "breaking",
+      "title": "Breaking (Breakdancing)",
+      "description": "The dance sport that reached the Olympic stage.",
+      "content": "Breaking, commonly known as breakdancing, is an athletic style of street dance that emerged as part of hip-hop culture in the Bronx, New York, in the 1970s, alongside DJing, rapping and graffiti art, and is traditionally considered one of hip-hop's four foundational elements.\n\nCompetitive breaking, in which dancers, known as b-boys and b-girls, face off in structured battles judged on creativity, technique, musicality and originality, developed its own competitive circuit over subsequent decades, with dancers combining acrobatic power moves, intricate footwork and freezes, in which a dancer holds a striking pose, often upside down or in an unusual balance.\n\nBreaking made its Olympic debut at the Paris 2024 Games, marking the first time a dance-based discipline had been included as a medal sport at the Olympics, reflecting the same push toward including youth-oriented, culturally rooted sports that also brought skateboarding and sport climbing into the Olympic programme.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dancesport_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Mixed_Team_%E2%80%93_Battle_for_3rd_Place_(53).jpeg?width=800"
+    },
+    {
+      "id": "horse-racing",
+      "title": "Horse Racing",
+      "description": "One of the oldest spectator sports in the world.",
+      "content": "Horse racing, in which horses ridden by jockeys compete over a set distance, is one of the oldest organised spectator sports in the world, with archaeological and historical evidence of organised racing found in ancient civilisations including Greece, Rome and across Central Asia, where horsemanship held deep cultural significance.\n\nModern thoroughbred flat racing traces much of its organisational structure to England, where formal rules and the tracking of horse pedigrees developed from the 17th and 18th centuries onward, eventually producing famous annual events such as the Kentucky Derby in the United States, first run in 1875, and Royal Ascot in England, attended by British royalty since the early 18th century.\n\nBeyond flat racing, other forms include steeplechase racing, in which horses jump obstacles over the course, and harness racing, in which a horse pulls a driver in a light cart at a controlled trot or pace, each with its own dedicated following in different countries around the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GGF_Race5.jpg?width=800"
+    },
+    {
+      "id": "polo",
+      "title": "Polo",
+      "description": "The ancient mounted ball game of Central Asia.",
+      "content": "Polo is a team sport played on horseback, in which mounted players use long-handled mallets to strike a ball and attempt to score goals, one of the oldest team sports still played today. Its roots trace back over two thousand years to Central Asia and Persia, where it is believed to have originated as a form of cavalry training before becoming a sport enjoyed by nobility across the region.\n\nThe sport spread widely across Asia over the centuries, including into the Indian subcontinent, where it was later encountered and adopted by British colonists in the 19th century, who helped codify modern rules and spread the sport to Europe, the Americas and beyond.\n\nA related and much older Central Asian and Caucasian game, chovgan, still played traditionally in Azerbaijan, shares many similarities with polo and reflects the deep, ancient regional roots that mounted ball games have across this part of the world, a heritage recognised internationally through cultural preservation efforts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Varsity_Polo_2013.jpg?width=800"
+    },
+    {
+      "id": "chovgan",
+      "title": "Chovgan",
+      "description": "Azerbaijan's traditional horseback ball game.",
+      "content": "Chovgan is a traditional equestrian team sport from Azerbaijan, in which mounted players use long mallets to strike a ball and score goals against an opposing team, closely related to the broader family of mounted ball games, including polo, that developed across Central Asia, Persia and the Caucasus over many centuries.\n\nThe game has deep historical roots in Azerbaijani and wider Caucasian culture, historically associated with training in horsemanship, coordination and courage, and it was traditionally played in the Karabakh region, an area also renowned for producing the Karabakh horse, a breed particularly prized for its agility and endurance, qualities well suited to the fast, close-contact nature of the game.\n\nUNESCO inscribed chovgan, traditional Karabakh horse-riding game in the Republic of Azerbaijan, on its Representative List of the Intangible Cultural Heritage of Humanity in 2013, recognising its cultural significance, and Azerbaijan has worked in subsequent years to help preserve and revive the tradition through dedicated tournaments and cultural events.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polo_game.jpg?width=800"
+    },
+    {
+      "id": "mixed-martial-arts",
+      "title": "Mixed Martial Arts",
+      "description": "The full-contact combat sport combining multiple disciplines.",
+      "content": "Mixed martial arts, commonly abbreviated as MMA, is a full-contact combat sport that allows competitors to use techniques drawn from a wide range of fighting disciplines, including boxing, wrestling, judo, Brazilian jiu-jitsu and Muay Thai, fought both standing and on the ground within a single unified rule set.\n\nThe sport's modern form is often traced to the first Ultimate Fighting Championship event, held in the United States in 1993, which was initially promoted as a contest to determine which traditional martial art was most effective in a real fight, pitting practitioners of different disciplines directly against one another with comparatively few rules.\n\nOver subsequent decades the sport developed far more comprehensive safety rules, weight classes and regulatory oversight similar to other combat sports such as boxing, and it has grown into one of the fastest-growing sports worldwide, with organisations such as the UFC drawing large global television and streaming audiences for its events.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/UFC_131_Carwin_vs._JDS.jpg?width=800"
+    },
+    {
+      "id": "rally-racing",
+      "title": "Rally Racing",
+      "description": "Motorsport competition on closed public roads.",
+      "content": "Rally racing, or rallying, is a form of motorsport in which competitors drive modified road-legal or specially built cars over a course made up of closed public or forest roads, typically racing against the clock individually rather than directly against other competitors on the track at the same time, unlike most other forms of racing.\n\nA driver is usually accompanied by a co-driver, who reads detailed pre-recorded notes describing the upcoming twists, jumps and hazards of the route, allowing the driver to anticipate the road ahead at high speed even on unfamiliar terrain, since rally stages often cross varied and challenging surfaces including gravel, tarmac, snow and ice depending on the location and season.\n\nThe World Rally Championship, established in 1973, is the sport's premier international series, featuring events held in a wide variety of countries and terrains, and rallying has historically produced some of motorsport's most demanding tests of both driver skill and vehicle durability under punishing conditions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Petter_Solberg_-_2006_Cyprus_Rally.jpg?width=800"
+    },
+    {
+      "id": "paragliding",
+      "title": "Paragliding",
+      "description": "Free flight with a fabric wing.",
+      "content": "Paragliding is an adventure sport and form of free flight in which a pilot is suspended in a harness beneath a large fabric wing, similar in principle to a parachute but specifically designed to generate lift and allow sustained, controlled flight rather than simply descending. The sport developed from parachuting in the 1970s and 1980s as pilots and designers refined wing shapes specifically to allow gliding and soaring flight from mountainsides and hills.\n\nPilots launch typically by running down a slope until the wing inflates and generates enough lift to carry them into the air, and skilled paraglider pilots can use rising air currents, known as thermals, to gain altitude and remain airborne for extended periods, sometimes travelling considerable cross-country distances entirely under the power of the wind and rising air alone.\n\nParagliding equipment is comparatively lightweight, compact and portable compared with other forms of powered or unpowered flight, which has helped make the sport increasingly accessible to enthusiasts around the world, including in mountainous regions well suited to launching, such as parts of the Caucasus.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paragliding_1350361.jpg?width=800"
+    },
+    {
+      "id": "motocross",
+      "title": "Motocross",
+      "description": "Off-road motorcycle racing over rough terrain.",
+      "content": "Motocross is a form of off-road motorcycle racing conducted on natural or purpose-built dirt tracks featuring jumps, sharp turns and rough, often changing terrain designed to test both the rider's skill and the durability of the specially built motorcycles used in competition. The sport traces its origins to motorcycle trials and scrambling races held in Britain in the early 20th century.\n\nRaces typically involve multiple riders competing simultaneously on the same track, requiring not only speed but also the ability to navigate closely alongside competitors over demanding jumps and rough surfaces, making close contact and occasional collisions a recognised part of the sport's inherent risk and appeal.\n\nMotocross has grown into a significant global sport with major professional championships, including the FIM Motocross World Championship, and has also inspired related disciplines such as supercross, held in large indoor stadiums on artificially constructed dirt courses, and freestyle motocross, which emphasises aerial tricks over pure racing speed.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mundial_de_motocross.JPG?width=800"
+    },
+    {
+      "id": "lionel-messi",
+      "title": "Lionel Messi",
+      "description": "The Argentine forward regarded as one of football's all-time greats.",
+      "content": "Lionel Messi, born in Rosario, Argentina, in 1987, is widely considered one of the greatest footballers in the history of the sport, celebrated for his close ball control, vision and remarkable consistency in scoring and creating goals over an unusually long career at the highest level.\n\nHe spent the majority of his career at Barcelona, where he rose through the club's famous youth academy after moving to Spain as a child to receive treatment for a growth hormone condition, and went on to win numerous domestic and European titles while repeatedly breaking individual scoring records and winning the Ballon d'Or, awarded annually to the world's best player, more times than any other player in history.\n\nAfter moving to Paris Saint-Germain and later Inter Miami in the United States, Messi achieved the one major honour that had eluded him for years, leading Argentina to victory at the 2022 FIFA World Cup in Qatar, a triumph widely regarded as the crowning achievement of an extraordinary career.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?width=800"
+    },
+    {
+      "id": "cristiano-ronaldo",
+      "title": "Cristiano Ronaldo",
+      "description": "The Portuguese forward known for his goal-scoring records.",
+      "content": "Cristiano Ronaldo, born on the Portuguese island of Madeira in 1985, is one of the most successful and recognisable footballers in the history of the sport, known for his combination of athleticism, powerful finishing and remarkable longevity at the top level of the game well into his late thirties.\n\nHe rose to international prominence at Manchester United before moving to Real Madrid, where he became the club's all-time leading goalscorer and won multiple European Champions League titles, later playing for Juventus in Italy before returning to Manchester United and eventually moving to Saudi Arabia's Al Nassr, extending his career and drawing significant international attention to football in the region.\n\nRonaldo has won the Ballon d'Or on multiple occasions and holds numerous individual scoring records at both club and international level, including becoming the leading goalscorer in men's international football history with Portugal, and his long-running rivalry with Lionel Messi is often considered one of the defining storylines of modern football.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg?width=800"
+    },
+    {
+      "id": "serena-williams",
+      "title": "Serena Williams",
+      "description": "The American player who dominated women's tennis for two decades.",
+      "content": "Serena Williams, born in the United States in 1981, is widely regarded as one of the greatest tennis players in history, having won 23 Grand Slam singles titles during a professional career that spanned more than two decades, a period in which she and her sister Venus Williams transformed the sport's visibility and popularity.\n\nTrained from a young age by her father, Richard Williams, alongside her sister Venus in Compton, California, Serena turned professional in 1995 and went on to dominate women's tennis with a powerful serve and aggressive playing style, winning major titles across all four Grand Slam tournaments multiple times and holding the world number one ranking for extended periods throughout her career.\n\nBeyond her playing achievements, Williams became an influential cultural figure, using her platform to speak on issues including gender and racial equality in sport, and she continued competing at an elite level well into motherhood, announcing her retirement from professional tennis in 2022 after a career that redefined expectations for longevity and dominance in the sport.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Serena-Smiling-2020.png?width=800"
+    },
+    {
+      "id": "michael-jordan",
+      "title": "Michael Jordan",
+      "description": "The basketball player who redefined the sport's global appeal.",
+      "content": "Michael Jordan, born in the United States in 1963, is widely regarded as one of the greatest basketball players in history and a figure whose influence extended far beyond the sport itself, helping to transform basketball into a genuinely global phenomenon during his playing career with the Chicago Bulls.\n\nJordan led the Bulls to six NBA championships during the 1990s, earning numerous individual awards along the way, and became renowned for his competitive intensity, scoring ability and clutch performances in high-pressure moments, cementing his reputation as one of the sport's defining figures of the era.\n\nHis partnership with the sportswear company Nike, which launched the enormously successful Air Jordan sneaker line in 1984, is often credited with transforming the relationship between professional athletes and consumer brands, establishing a model of athlete endorsement and commercial influence that shaped how sports marketing developed in the decades that followed.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michael_Jordan_in_2014.jpg?width=800"
+    },
+    {
+      "id": "muhammad-ali",
+      "title": "Muhammad Ali",
+      "description": "The boxer known as much for his words as his fists.",
+      "content": "Muhammad Ali, born Cassius Clay in the United States in 1942, was a heavyweight boxer widely regarded as one of the greatest athletes of the 20th century, known both for his exceptional speed and skill in the ring and for his outspoken personality and social and political activism outside it.\n\nHe won Olympic gold as a light heavyweight in 1960 before turning professional, later winning the world heavyweight title three separate times, a feat previously unmatched. His refusal to be drafted into the United States military during the Vietnam War, on religious and moral grounds after converting to Islam and changing his name, led to him being stripped of his boxing titles for several years, a decision widely seen in retrospect as unjust.\n\nAli's fights, including legendary bouts known as the Rumble in the Jungle and the Thrilla in Manila, became cultural touchstones, and his combination of athletic brilliance, verbal wit and willingness to take unpopular political stands made him one of the most influential sporting figures of his era, extending his legacy well beyond boxing itself.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Muhammad_Ali_NYWTS.jpg?width=800"
+    },
+    {
+      "id": "lebron-james",
+      "title": "LeBron James",
+      "description": "The basketball star known for extraordinary career longevity.",
+      "content": "LeBron James, born in the United States in 1984, is widely regarded as one of the greatest basketball players in history, notable both for his combination of size, skill and basketball intelligence and for an unusually long career sustained at an elite level well into his late thirties and beyond.\n\nJames entered the NBA directly from high school in 2003 amid enormous media anticipation and went on to win multiple championships across stints with several different teams, including the Cleveland Cavaliers, Miami Heat and Los Angeles Lakers, becoming the league's all-time leading scorer, surpassing a record that had stood for decades.\n\nBeyond basketball, James has been an influential and outspoken figure on social and political issues, invested in education initiatives in his hometown of Akron, Ohio, and built a significant media and business portfolio, reflecting a broader trend of modern elite athletes expanding their influence well beyond their sport.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LeBron_James_(51959977144)_(cropped2).jpg?width=800"
+    },
+    {
+      "id": "simone-biles",
+      "title": "Simone Biles",
+      "description": "The gymnast who redefined the limits of the sport.",
+      "content": "Simone Biles, born in the United States in 1997, is widely regarded as the greatest gymnast in history, having won an unprecedented number of world and Olympic medals while performing skills of such difficulty that several have been named after her in the sport's official scoring code, since she was the first gymnast ever to successfully complete them in competition.\n\nRaised by her grandparents after a childhood marked by early instability, Biles rose through the American gymnastics system to dominate international competition from the mid-2010s onward, combining exceptional power, precision and consistency across all four women's Olympic apparatus.\n\nAt the Tokyo 2020 Olympics, Biles withdrew from several events citing mental health concerns and a phenomenon known in gymnastics as the twisties, in which a gymnast temporarily loses spatial awareness mid-air, a decision that was widely praised for drawing attention to athlete mental health, and she returned to further Olympic success at the Paris 2024 Games.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Simone_Biles_National_Team_2024.jpg?width=800"
+    },
+    {
+      "id": "roger-federer",
+      "title": "Roger Federer",
+      "description": "The Swiss player celebrated for his graceful playing style.",
+      "content": "Roger Federer, born in Switzerland in 1981, is widely regarded as one of the greatest tennis players in history, celebrated in particular for the elegance and apparent effortlessness of his playing style, which combined precise technique with remarkable court coverage and shot-making.\n\nFederer won 20 Grand Slam singles titles over the course of his career and held the world number one ranking for a record total number of weeks, establishing a long rivalry with fellow greats Rafael Nadal and Novak Djokovic that came to define men's tennis for much of the 2000s and 2010s, with matches between the three widely regarded among the finest in the sport's history.\n\nKnown for his sportsmanship and popularity with fans around the world, Federer announced his retirement from professional tennis in 2022, and he has remained involved in the sport through business ventures, philanthropy focused on education in Africa, and his continued presence at major tennis events as a widely respected elder statesman of the game.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roger_Federer_2015_(cropped).jpg?width=800"
+    },
+    {
+      "id": "sports-equipment-technology",
+      "title": "Sports Equipment and Technology",
+      "description": "How innovation has changed how athletes compete.",
+      "content": "Advances in materials science and engineering have transformed sporting equipment over the past century, often significantly changing how sports are played and what levels of performance are achievable. Lightweight carbon fibre has replaced wood and metal in equipment ranging from tennis racket frames and bicycle wheels to Formula 1 car bodies, allowing for stronger yet lighter designs than earlier materials permitted.\n\nIn some cases, equipment innovation has proven so effective that governing bodies have chosen to restrict or ban certain technologies to preserve fair and consistent competition: full-body polyurethane swimsuits, which reduced drag and contributed to a wave of broken world records at the 2008 Beijing Olympics, were subsequently banned from competitive swimming from 2010 onward.\n\nWearable technology, including heart rate monitors, GPS trackers and, increasingly, sensors embedded directly in equipment, now allows athletes and coaches to gather detailed real-time data on performance and physical exertion during both training and competition, reflecting a broader shift toward data-driven approaches across many different sports.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Casco_Voltors.jpg?width=800"
+    },
+    {
+      "id": "world-records",
+      "title": "World Records in Sport",
+      "description": "The pursuit of the fastest, highest and strongest.",
+      "content": "A world record in sport is an officially recognised best performance ever achieved in a given event, typically verified and maintained by the relevant international governing body for that sport. Some of the most closely followed world records include those in athletics events such as the 100 metres sprint and the marathon, where even small improvements attract significant public and media attention.\n\nRecords are broken through a combination of factors, including advances in training science, nutrition and equipment technology, improved competition conditions such as purpose-built tracks and pacing strategies, and, occasionally, genuinely exceptional individual athletic talent, making it often difficult to separate how much of a record-breaking performance reflects the athlete versus the surrounding conditions.\n\nSome world records have proven remarkably durable, standing for many years or even decades, while others in certain events are broken repeatedly within relatively short periods, and governing bodies maintain strict verification procedures, including drug testing, to ensure that record-breaking performances are considered legitimate."
+    },
+    {
+      "id": "youth-sports",
+      "title": "Youth Sports",
+      "description": "How children and teenagers get involved in organised sport.",
+      "content": "Youth sports refer to organised athletic activities for children and teenagers, ranging from informal community and school-based programmes to highly structured competitive leagues and, increasingly in some sports, early specialised development pathways aimed at identifying and nurturing future elite athletes from a young age.\n\nParticipation in youth sports is widely associated with a range of physical and social benefits for children, including improved fitness, motor skill development, teamwork and discipline, though researchers and coaches have raised growing concerns in recent decades about the risks of early sport specialisation, including burnout and higher rates of overuse injuries among young athletes who focus intensively on a single sport too early.\n\nMany national sports federations and Olympic bodies now run dedicated youth development programmes, and events such as the Youth Olympic Games, first held in 2010, have been created specifically to give talented young athletes early experience of major international competition in a setting designed with their development in mind.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ChineseAthleticsTeam-YOGAsianQualifier-Singapore-20100525.jpg?width=800"
+    },
+    {
+      "id": "amateur-sport",
+      "title": "Amateur Sport",
+      "description": "Sport for its own sake, outside professional competition.",
+      "content": "Amateur sport refers to athletic competition undertaken primarily for enjoyment, personal fitness or love of the activity itself, rather than as a paid profession, though the boundary between amateur and professional sport has shifted considerably over the history of organised competition. The ancient Olympic Games were originally intended purely for amateur competitors, and this ideal strongly shaped the modern Olympic movement founded by Pierre de Coubertin in the late 19th century.\n\nFor much of the 20th century, many major sports, including Olympic competition itself, maintained strict rules barring professional athletes from taking part, though these restrictions were gradually relaxed from the 1970s and 1980s onward as the distinction became increasingly difficult to enforce and as sponsorship revenue transformed the finances of even nominally amateur competitors.\n\nToday, amateur sport continues to thrive at community, school and recreational levels worldwide, providing the broad participatory base from which professional and Olympic-level athletes are often eventually drawn, even as elite competition itself has become almost entirely professionalised across most major sports.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beach_volleyball-Huntington_Beach-California_3.jpg?width=800"
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "category": "countries",
+  "articles": [
+    {
+      "id": "azerbaijan",
+      "title": "Azerbaijan",
+      "description": "A country on the western shore of the Caspian Sea.",
+      "content": "Azerbaijan lies where Eastern Europe meets Western Asia, with the Caucasus mountains to the north and the Caspian Sea to the east. It borders Russia, Georgia, Armenia, Iran and Turkey, and its exclave of Nakhchivan is separated from the rest of the country.\n\nIts capital, Baku, sits on a bay of the Caspian and is one of the lowest-lying capital cities in the world. Natural gas seeps have burned in the hills for centuries, which is one explanation for the name Land of Fire. Oil was produced near Baku on an industrial scale from the 19th century, and it remains central to the economy.\n\nAzerbaijan has a population of about 10 million and regained its independence on 18 October 1991. Its official language is Azerbaijani, its currency is the manat, and its heritage includes the walled Old City of Baku and the ancient rock carvings of Gobustan, both UNESCO World Heritage Sites.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Azerbaijan.svg?width=800"
+    },
+    {
+      "id": "turkey",
+      "title": "Turkey",
+      "description": "A country bridging Europe and Asia.",
+      "content": "Türkiye, or Turkey, lies mostly in Anatolia in Western Asia, with a small part in south-eastern Europe. Its capital is Ankara, but its largest city, Istanbul, spans both Europe and Asia across the Bosphorus.\n\nThe country has about 85 million people and is bordered by the Black Sea, the Aegean and the Mediterranean. The Republic was founded in 1923 by Mustafa Kemal Atatürk after the fall of the Ottoman Empire. The official language is Turkish and the currency is the lira. Its highest peak is Mount Ararat, at 5,137 metres.\n\nTürkiye is home to ancient sites such as Ephesus, Troy and Göbekli Tepe, and to the unusual rock landscapes of Cappadocia. Its cuisine, including kebabs, baklava and Turkish tea and coffee, is loved around the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Turkey.svg?width=800"
+    },
+    {
+      "id": "georgia",
+      "title": "Georgia",
+      "description": "A Caucasian country of mountains, wine and an ancient alphabet.",
+      "content": "Georgia is a country in the South Caucasus, on the eastern shore of the Black Sea, between Russia to the north and Azerbaijan, Armenia and Turkey to the south. Its capital, Tbilisi, lies in the Kura valley, and the population is about 3.7 million.\n\nThe Georgian language has its own unique alphabet and belongs to a family found nowhere else. Christianity became the state religion in the 4th century. Georgia is one of the oldest wine-making regions in the world, where wine has been fermented in clay vessels called qvevri for about 8,000 years, a tradition recognised by UNESCO in 2013.\n\nThe Greater Caucasus range, with Mount Kazbek and the towers of Svaneti, forms the northern border. Georgia regained independence in 1991, and its currency is the lari. Its cuisine, including khachapuri cheese bread and khinkali dumplings, is popular across the region.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Georgia.svg?width=800"
+    },
+    {
+      "id": "armenia",
+      "title": "Armenia",
+      "description": "A landlocked highland country with an ancient Christian heritage.",
+      "content": "Armenia is a landlocked country in the South Caucasus, with its capital in Yerevan and a population of about three million. It is a mountainous country, and its highest peak is Mount Aragats, at 4,090 metres.\n\nArmenian has its own alphabet, created by Mesrop Mashtots in about 405 CE. Armenia is often said to be the first state to adopt Christianity as its state religion, in 301 CE. Its landscape includes Lake Sevan, one of the largest high-altitude freshwater lakes in the world, and medieval monasteries such as Geghard and Haghpat.\n\nThe currency is the dram. Armenian culture is known for its music, including the duduk, a double-reed instrument recognised by UNESCO in 2005, for brandy and for its ancient tradition of stone carving in cross-stones called khachkars.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Armenia.svg?width=800"
+    },
+    {
+      "id": "iran",
+      "title": "Iran",
+      "description": "The land of ancient Persia.",
+      "content": "Iran is a large country in Western Asia, with its capital in Tehran and a population of about 90 million. It borders the Caspian Sea in the north and the Persian Gulf in the south, and it is dominated by high mountain ranges such as the Zagros and the Alborz, where Mount Damavand rises to 5,610 metres.\n\nPersian, or Farsi, is the official language, and Azerbaijani is spoken by a large minority in the north-west, around the city of Tabriz. The Achaemenid Empire, founded by Cyrus the Great in about 550 BCE, was one of the largest of the ancient world, and its ceremonial capital, Persepolis, still stands in ruins.\n\nIranian culture has given the world poetry by Hafez, Rumi and Ferdowsi, exquisite carpets, and the festival of Nowruz. Isfahan's Naqsh-e Jahan Square is a masterpiece of Islamic architecture. The currency is the rial.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Iran_(official).svg?width=800"
+    },
+    {
+      "id": "iraq",
+      "title": "Iraq",
+      "description": "The land between two rivers, cradle of civilisation.",
+      "content": "Iraq is a country in Western Asia with its capital in Baghdad and a population of about 45 million. Its heartland is the plain between the Tigris and Euphrates rivers, known in ancient times as Mesopotamia, meaning land between the rivers.\n\nMesopotamia is called a cradle of civilisation: the Sumerians invented cuneiform writing there about 5,000 years ago, and later empires of Akkad, Babylon and Assyria built great cities, including Ur, with its famous ziggurat, and Babylon. Baghdad was founded in 762 by the Abbasid caliph al-Mansur and became a centre of learning at the House of Wisdom.\n\nArabic and Kurdish are the official languages, and the currency is the dinar. Iraq has some of the world's largest oil reserves, and the holy cities of Najaf and Karbala attract millions of pilgrims every year.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Iraq.svg?width=800"
+    },
+    {
+      "id": "saudi-arabia",
+      "title": "Saudi Arabia",
+      "description": "The kingdom that holds Islam's two holiest cities.",
+      "content": "Saudi Arabia occupies most of the Arabian Peninsula, an area of about 2.15 million square kilometres, with its capital in Riyadh and a population of about 35 million. Much of the land is desert, including the vast Rub' al Khali, or Empty Quarter, one of the largest sand deserts in the world.\n\nMecca and Medina, the holiest cities of Islam, are in the western region of Hejaz, and millions of Muslims make the pilgrimage, or Hajj, each year. The Kingdom was unified in 1932 by King Abdulaziz Ibn Saud. Arabic is the official language and the currency is the riyal.\n\nOil, discovered in 1938, made the country one of the world's largest petroleum exporters. Its programme called Vision 2030 aims to diversify the economy, and it has opened sites such as Hegra, a UNESCO World Heritage Site, to tourism.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Saudi_Arabia.svg?width=800"
+    },
+    {
+      "id": "united-arab-emirates",
+      "title": "United Arab Emirates",
+      "description": "A federation of seven emirates on the Persian Gulf.",
+      "content": "The United Arab Emirates, or UAE, is a federation of seven emirates on the south-eastern coast of the Arabian Peninsula: Abu Dhabi, Dubai, Sharjah, Ajman, Umm al-Quwain, Ras al-Khaimah and Fujairah. It was formed in 1971, and its capital is Abu Dhabi.\n\nThe country has about 10 million inhabitants, most of whom are expatriates from around the world. Arabic is the official language and the currency is the dirham. Oil made the country wealthy, but Dubai in particular has become a global hub for trade, aviation and tourism.\n\nDubai's Burj Khalifa, at 828 metres, is the tallest building in the world. Abu Dhabi is home to the Sheikh Zayed Grand Mosque and the Louvre Abu Dhabi. The Emirates also invest in space exploration: in 2021 the Hope probe reached Mars.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_Arab_Emirates.svg?width=800"
+    },
+    {
+      "id": "qatar",
+      "title": "Qatar",
+      "description": "A small, wealthy peninsula that hosted the 2022 World Cup.",
+      "content": "Qatar is a small country on a peninsula that juts into the Persian Gulf, with an area of about 11,600 square kilometres and a population of about three million, most of whom are expatriates. Its capital is Doha, and it has land borders only with Saudi Arabia.\n\nQatar gained independence from Britain in 1971. Its huge natural gas reserves made it one of the world's richest countries per person. Arabic is the official language and the currency is the riyal. The broadcaster Al Jazeera was launched in Doha in 1996.\n\nIn 2022 Qatar became the first Middle Eastern country to host the FIFA World Cup. Doha also has the Museum of Islamic Art, designed by I. M. Pei, and the Souq Waqif, a traditional market.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Qatar.svg?width=800"
+    },
+    {
+      "id": "kuwait",
+      "title": "Kuwait",
+      "description": "A small oil-rich state at the head of the Persian Gulf.",
+      "content": "Kuwait is a small country at the north-western end of the Persian Gulf, with an area of about 17,800 square kilometres and a population of about 4.3 million. Its capital, Kuwait City, is on a bay, and much of the country is flat desert.\n\nIt became independent from Britain in 1961. Arabic is the official language, and its currency, the dinar, has one of the highest values in the world. Kuwait sits on about 6% of the world's known oil reserves, and oil provides most of its income.\n\nIn 1990 Iraq invaded Kuwait, and it was liberated in 1991 by an international coalition. Landmarks include the Kuwait Towers, which store water, and the Grand Mosque. Pearl diving was the main industry before oil.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Kuwait.svg?width=800"
+    },
+    {
+      "id": "jordan",
+      "title": "Jordan",
+      "description": "The desert kingdom of Petra and the Dead Sea.",
+      "content": "Jordan is a kingdom in the Middle East, with its capital in Amman and a population of about 11 million. Arabic is the official language and the currency is the dinar. It gained independence from Britain in 1946.\n\nThe country is famous for Petra, the rose-red city carved into sandstone cliffs by the Nabataeans over 2,000 years ago, which was named one of the New Seven Wonders of the World in 2007. Wadi Rum, a dramatic desert valley, and the Roman city of Jerash are also popular sights.\n\nJordan's western border runs along the Dead Sea, whose shore, about 430 metres below sea level, is the lowest point on land on Earth. The port of Aqaba gives Jordan access to the Red Sea, where divers explore coral reefs.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Jordan.svg?width=800"
+    },
+    {
+      "id": "lebanon",
+      "title": "Lebanon",
+      "description": "A Mediterranean country with cedars and ancient ports.",
+      "content": "Lebanon is a small country on the eastern shore of the Mediterranean, with its capital in Beirut and a population of about five million. A narrow coastal plain rises to the Mount Lebanon range, and the cedar tree on its flag is a national symbol.\n\nAncient Phoenician city-states such as Byblos, Tyre and Sidon were centres of sea trade about 3,000 years ago, and the Phoenicians spread an early alphabet across the Mediterranean. Baalbek has some of the best-preserved Roman temples in the world and is a UNESCO World Heritage Site.\n\nArabic is the official language, and French and English are widely used. The population includes many different religious communities. Lebanese cuisine, with hummus, tabbouleh and kibbeh, is celebrated worldwide, and the country has a large diaspora.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Lebanon.svg?width=800"
+    },
+    {
+      "id": "kazakhstan",
+      "title": "Kazakhstan",
+      "description": "The world's largest landlocked country, in the Central Asian steppe.",
+      "content": "Kazakhstan is the ninth-largest country in the world, with an area of about 2.7 million square kilometres, and the largest landlocked country. Its capital is Astana, and the population is about 20 million. Kazakh and Russian are widely used.\n\nMost of the land is steppe, semi-desert and desert, with the Altai and Tian Shan mountains in the east and south. It borders the Caspian Sea in the west. Kazakhstan has been a homeland of nomadic herders for millennia, and the yurt and horse are still symbols of its culture. Its currency is the tenge.\n\nThe country declared independence in 1991. The Baikonur Cosmodrome, where Yuri Gagarin was launched into space in 1961, is in Kazakhstan. Its economy relies on oil, gas, uranium and minerals, and Almaty is its largest city.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Kazakhstan.svg?width=800"
+    },
+    {
+      "id": "uzbekistan",
+      "title": "Uzbekistan",
+      "description": "The land of Samarkand, Bukhara and the Silk Road.",
+      "content": "Uzbekistan is a country in Central Asia with its capital in Tashkent and a population of about 36 million, the largest in the region. It is one of only two doubly landlocked countries in the world, meaning that all its neighbours are also landlocked.\n\nThe country is home to the Silk Road cities of Samarkand, Bukhara and Khiva, with blue-tiled mosques and madrasas such as the Registan. Samarkand was the capital of the conqueror Amir Timur, known as Tamerlane, in the 14th century. Uzbek is the official language and the currency is the som.\n\nUzbekistan became independent in 1991. It is a major producer of cotton, and irrigation for cotton fields helped drain the Aral Sea, one of the great environmental disasters of the 20th century. Its cuisine is known for plov, samsa and bread from clay ovens.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Uzbekistan.svg?width=800"
+    },
+    {
+      "id": "turkmenistan",
+      "title": "Turkmenistan",
+      "description": "The desert country with the burning gas crater.",
+      "content": "Turkmenistan is a country in Central Asia on the eastern shore of the Caspian Sea, with its capital in Ashgabat and a population of about seven million. About 70% of the land is covered by the Karakum Desert.\n\nThe country is known for its rich natural gas reserves and for the Darvaza gas crater, nicknamed the Door to Hell, a burning pit in the desert that has been alight for decades. Turkmen carpets are famous for their deep red colours, and the Akhal-Teke, a slim golden horse, is a national symbol.\n\nTurkmenistan became independent in 1991, and the United Nations recognised its permanent neutrality in 1995. The currency is the manat. The ancient ruins of Merv, once one of the largest cities in the world, are a UNESCO World Heritage Site.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Turkmenistan.svg?width=800"
+    },
+    {
+      "id": "kyrgyzstan",
+      "title": "Kyrgyzstan",
+      "description": "The mountain country of nomads and the Manas epic.",
+      "content": "Kyrgyzstan is a mountainous country in Central Asia, with its capital in Bishkek and a population of about seven million. The Tian Shan mountains cover most of the land, and about 90% of the country lies above 1,500 metres.\n\nIts most famous natural feature is Lake Issyk-Kul, one of the largest mountain lakes in the world, which never freezes despite the cold. Kyrgyz nomadic traditions live on in the yurt, horse games such as kok-boru, and the epic of Manas, one of the longest poems in the world, which is recognised by UNESCO.\n\nKyrgyz and Russian are official languages, and the currency is the som. Kyrgyzstan became independent in 1991. Herding, farming and gold mining are important, and many visitors come for trekking and horse riding in summer.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Kyrgyzstan.svg?width=800"
+    },
+    {
+      "id": "tajikistan",
+      "title": "Tajikistan",
+      "description": "The country of the Pamir mountains.",
+      "content": "Tajikistan is a landlocked country in Central Asia with its capital in Dushanbe and a population of about 10 million. About 93% of the land is mountainous, and the Pamir range in the east, sometimes called the Roof of the World, has peaks over 7,000 metres, including Ismoil Somoni Peak at 7,495 metres.\n\nThe Fedchenko Glacier, about 77 kilometres long, is one of the longest glaciers outside the polar regions. Tajik is a form of Persian, unlike the Turkic languages of the neighbouring countries, and the country's history is tied to the Persian world and the Silk Road. Its currency is the somoni.\n\nTajikistan became independent in 1991. Hydropower from its rivers is a major resource, and the Rogun Dam is planned to be among the tallest in the world. Its mountains attract trekkers and climbers.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Tajikistan.svg?width=800"
+    },
+    {
+      "id": "afghanistan",
+      "title": "Afghanistan",
+      "description": "A mountainous crossroads of Central and South Asia.",
+      "content": "Afghanistan is a landlocked country in Central and South Asia, with its capital in Kabul and a population of about 40 million. It is dominated by the Hindu Kush mountains, with deserts in the south-west and fertile valleys in the north.\n\nFor thousands of years it was a crossroads of trade and empires, from the Persians and Alexander the Great to the Silk Road caravans, which left a cultural mix. Dari and Pashto are the main languages, and the currency is the afghani. The giant Buddha statues at Bamiyan, carved in the 6th century, were destroyed in 2001.\n\nAfghan culture is known for its poetry, carpets, fruit such as pomegranates and grapes, and the horseback sport of buzkashi. The blue lakes of Band-e Amir were the country's first national park.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Taliban.svg?width=800"
+    },
+    {
+      "id": "pakistan",
+      "title": "Pakistan",
+      "description": "A South Asian country with a great river valley civilisation.",
+      "content": "Pakistan is a country in South Asia with a population of about 240 million, making it the fifth most populous in the world. Its capital is Islamabad, and its largest city is Karachi. It became independent on 14 August 1947, when British India was partitioned.\n\nThe Indus River runs through the country and gave rise to the Indus Valley Civilisation, whose cities such as Mohenjo-daro were built about 4,500 years ago. In the north the Karakoram range contains K2, at 8,611 metres the second-highest mountain in the world. Urdu and English are the official languages, and the currency is the rupee.\n\nPakistan is famous for its cuisine, Sufi music, truck art and cricket, and won the Cricket World Cup in 1992. Its varied landscapes range from the beaches of the Arabian Sea to high mountain valleys such as Hunza.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Pakistan.svg?width=800"
+    },
+    {
+      "id": "india",
+      "title": "India",
+      "description": "The world's most populous country and birthplace of many traditions.",
+      "content": "India is a country in South Asia and one of the most populous in the world, with more than 1.4 billion people. Its capital is New Delhi and its largest cities include Mumbai and Delhi. It is the seventh-largest country by area, with landscapes from the Himalayas to tropical beaches.\n\nIt gained independence from British rule on 15 August 1947 and is the world's largest democracy. Hindi and English are the main official languages, and the constitution recognises 22 more. The decimal number system and the concept of zero developed in ancient India, and so did the game that became chess.\n\nThe Taj Mahal, built in the 17th century, is its best-known monument, and the Ganges is its holiest river. The country is home to Hinduism, Buddhism, Jainism and Sikhism, and cricket and Bollywood films are loved across the nation."
+    },
+    {
+      "id": "bangladesh",
+      "title": "Bangladesh",
+      "description": "A river-delta country and the home of the Bengali language.",
+      "content": "Bangladesh is a country in South Asia, on the delta formed by the Ganges, Brahmaputra and Meghna rivers, with its capital in Dhaka and a population of about 170 million in an area smaller than the US state of Illinois. It is one of the most densely populated countries on Earth.\n\nThe official language is Bengali. The Language Movement of 21 February 1952, when students were killed protesting for Bengali to be recognised, is remembered as International Mother Language Day. Bangladesh became independent in 1971, and its currency is the taka.\n\nThe Sundarbans, the largest mangrove forest in the world, shelter the Bengal tiger, and Cox's Bazar has one of the longest natural sea beaches on Earth. The country is a major garment exporter, and its lowlands are prone to floods and cyclones.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Bangladesh.svg?width=800"
+    },
+    {
+      "id": "nepal",
+      "title": "Nepal",
+      "description": "The Himalayan home of Everest and the birthplace of Buddha.",
+      "content": "Nepal is a landlocked country in the Himalayas between China and India, with its capital in Kathmandu and a population of about 30 million. It contains eight of the world's fourteen mountains higher than 8,000 metres, including Mount Everest, called Sagarmatha in Nepali.\n\nThe country is the birthplace of Siddhartha Gautama, the Buddha, who was born in Lumbini about 2,500 years ago. Hinduism and Buddhism live side by side, and temples fill the Kathmandu Valley. Nepal's flag is the only national flag in the world that is not a rectangle. Nepali is the official language and the currency is the rupee.\n\nThe Sherpa people are renowned mountain guides, and the Gurkhas are famous soldiers. Trekking routes such as the Annapurna Circuit bring visitors from across the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_Nepal.svg?width=800"
+    },
+    {
+      "id": "sri-lanka",
+      "title": "Sri Lanka",
+      "description": "The teardrop island of tea, elephants and ancient kingdoms.",
+      "content": "Sri Lanka is an island nation in the Indian Ocean, just south-east of India, with a population of about 22 million. Its commercial capital is Colombo, and the legislative capital is Sri Jayawardenepura Kotte. Sinhala and Tamil are the official languages, and the currency is the rupee.\n\nThe island was known as Ceylon until 1972 and gained independence from Britain in 1948. Ceylon tea, grown in the central highlands, is famous worldwide, and the island is also known for cinnamon, gemstones and elephants. It has ancient sites such as the rock fortress of Sigiriya and the sacred city of Anuradhapura.\n\nSri Lanka's beaches, tea plantations and national parks, such as Yala, where leopards live, attract many visitors. Buddhism has been part of the island's culture for more than two thousand years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Sri_Lanka.svg?width=800"
+    },
+    {
+      "id": "mongolia",
+      "title": "Mongolia",
+      "description": "The land of the steppe, nomads and Genghis Khan.",
+      "content": "Mongolia is a landlocked country between Russia and China, with its capital in Ulaanbaatar and a population of about 3.4 million, giving it one of the lowest population densities in the world. Its vast landscape includes grassy steppe, mountains and the Gobi Desert.\n\nIn 1206 Genghis Khan united the Mongol tribes and founded the Mongol Empire, which became the largest contiguous land empire in history. Today many Mongolians still live as nomadic herders, moving with their sheep, goats, horses and camels and living in round tents called gers. The currency is the tögrög.\n\nThe Naadam festival, held every July, features the traditional sports of wrestling, archery and horse racing and is recognised by UNESCO. Throat singing, in which one singer produces two notes at once, is another famed tradition.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Mongolia.svg?width=800"
+    },
+    {
+      "id": "china",
+      "title": "China",
+      "description": "The world's most populous country with an ancient civilisation.",
+      "content": "China is a country in East Asia with about 1.4 billion people, and its capital is Beijing. It is the world's fourth-largest country by area, at about 9.6 million square kilometres, and has one of the oldest continuous civilisations.\n\nThe Chinese are credited with inventing papermaking, printing, the compass and gunpowder. The Great Wall was built and rebuilt over many centuries to protect the northern frontier, and the Terracotta Army near Xi'an guards the tomb of the first emperor, Qin Shi Huang. The Yellow and Yangtze rivers have shaped its history. The main language is Mandarin, and the currency is the yuan.\n\nIn recent decades China has become the world's second-largest economy, a major manufacturer and the operator of the world's largest high-speed rail network. Its landscapes range from the Gobi Desert to the Tibetan Plateau, and it is the home of the giant panda.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_People's_Republic_of_China.svg?width=800"
+    },
+    {
+      "id": "japan",
+      "title": "Japan",
+      "description": "An archipelago of thousands of islands in the western Pacific.",
+      "content": "Japan consists of nearly 7,000 islands, of which Honshu, Hokkaido, Kyushu and Shikoku are the largest. It is divided into 47 prefectures, and the official language is Japanese, written in a mix of kanji and two syllabic scripts.\n\nAbout three quarters of the land is mountainous, so most of the population of roughly 125 million lives on narrow coastal plains. The country sits on the Pacific Ring of Fire and experiences frequent earthquakes. Its highest peak, Mount Fuji, rises 3,776 metres and is a symbol of the nation. The currency is the yen.\n\nThe capital is Tokyo, one of the largest cities in the world. Japan is known for its bullet trains, which began running in 1964, for advanced electronics and cars, for anime and manga, and for traditions such as the tea ceremony and the cherry-blossom festivals each spring."
+    },
+    {
+      "id": "south-korea",
+      "title": "South Korea",
+      "description": "The peninsula nation of K-pop, technology and kimchi.",
+      "content": "South Korea occupies the southern half of the Korean Peninsula in East Asia, with its capital in Seoul and a population of about 52 million. The Han River flows through Seoul, whose metropolitan area is home to about half the country's people.\n\nThe Korean alphabet, Hangul, was created under King Sejong in 1443 and is praised for its logic. The currency is the won. After the Korean War (1950–1953), the country rose from poverty to become a leading economy, with global companies such as Samsung and Hyundai. Seoul hosted the Summer Olympics in 1988.\n\nKorean culture has spread worldwide through K-pop, television dramas and films such as Parasite, which won the Oscar for Best Picture in 2020. Its cuisine, with kimchi, bibimbap and barbecue, is popular, and the tradition of kimjang, making kimchi together, is recognised by UNESCO.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_South_Korea.svg?width=800"
+    },
+    {
+      "id": "thailand",
+      "title": "Thailand",
+      "description": "The Land of Smiles, known for temples, beaches and food.",
+      "content": "Thailand is a country in Southeast Asia with its capital in Bangkok and a population of about 70 million. Its landscape ranges from northern mountains and central rice plains to tropical islands such as Phuket and Koh Samui in the south. It was called Siam until 1939.\n\nThailand is the only Southeast Asian country that was never colonised by a European power. It is a constitutional monarchy, and the majority of Thais are Buddhists, with golden temples called wats found in every town. The language is Thai and the currency is the baht.\n\nThai cuisine, with tom yum soup, pad thai and green curry, is loved around the world. Songkran, the Thai New Year in April, is celebrated with water fights, and the ancient city of Ayutthaya, once the capital, is a UNESCO World Heritage Site.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Thailand.svg?width=800"
+    },
+    {
+      "id": "vietnam",
+      "title": "Vietnam",
+      "description": "A long S-shaped country of rice fields, bays and rich history.",
+      "content": "Vietnam is a country in Southeast Asia stretching along the coast of the South China Sea, with its capital in Hanoi and a population of about 100 million. The largest city is Ho Chi Minh City, in the south, near the fertile Mekong Delta.\n\nThe Vietnamese language is written in the Latin-based script quoc ngu, introduced by missionaries in the 17th century. The currency is the dong. After the Vietnam War, the country was reunified in 1976. Since the economic reforms called Doi Moi, in 1986, Vietnam has become a fast-growing economy and a leading exporter of coffee and rice.\n\nHa Long Bay, with thousands of limestone islands, is a UNESCO World Heritage Site, and the old trading town of Hoi An is known for its lanterns. Vietnamese food, especially pho noodle soup and banh mi sandwiches, is enjoyed worldwide.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Vietnam.svg?width=800"
+    },
+    {
+      "id": "indonesia",
+      "title": "Indonesia",
+      "description": "The world's largest island nation, spread over 17,000 islands.",
+      "content": "Indonesia is an archipelago of more than 17,000 islands between the Indian and Pacific oceans, with a population of about 280 million, the fourth-largest in the world. The capital, Jakarta, is on Java, the most populous island, and a new capital called Nusantara is being built on Borneo.\n\nThe country has more than 700 languages, and the national language is Bahasa Indonesia. It has the largest Muslim population of any country, and the currency is the rupiah. It became independent from the Netherlands in 1945.\n\nIndonesia lies on the Ring of Fire and has about 130 active volcanoes. It is famous for the temple of Borobudur, the beaches of Bali, and Komodo dragons. Spices such as nutmeg and cloves from the Maluku Islands once drew traders from around the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Indonesia.svg?width=800"
+    },
+    {
+      "id": "philippines",
+      "title": "Philippines",
+      "description": "An archipelago of more than 7,000 islands in Southeast Asia.",
+      "content": "The Philippines is an archipelago of more than 7,000 islands in the western Pacific, with its capital in Manila and a population of about 115 million. The main island groups are Luzon, the Visayas and Mindanao. Filipino and English are the official languages, and the currency is the peso.\n\nThe islands were a Spanish colony from 1565 to 1898, then came under the United States, and became independent in 1946. As a result, the country is mainly Catholic, and Spanish-influenced names and customs are common. It is one of the few countries in Asia with a Catholic majority.\n\nThe Philippines lies in the typhoon belt and on the Ring of Fire. It is known for the Banaue Rice Terraces, the near-perfect cone of Mayon Volcano, and the Chocolate Hills. Filipino workers abroad send home money that is a major part of the economy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Philippines.svg?width=800"
+    },
+    {
+      "id": "malaysia",
+      "title": "Malaysia",
+      "description": "A multicultural country split between the Malay Peninsula and Borneo.",
+      "content": "Malaysia is a country in Southeast Asia made up of two parts, Peninsular Malaysia and the states of Sabah and Sarawak on the island of Borneo, separated by the South China Sea. Its capital is Kuala Lumpur, and the population is about 34 million.\n\nThe country is a federation of states, and each year, one of the hereditary Malay sultans serves as the king in rotation. Malay is the national language, and the currency is the ringgit. Its people include Malays, Chinese, Indians and many indigenous groups, and this is reflected in its festivals and food. It gained independence from Britain in 1957.\n\nThe Petronas Twin Towers in Kuala Lumpur, 452 metres tall, were the tallest buildings in the world from 1998 to 2004. Malaysia's rainforests are among the oldest in the world, home to orangutans and hornbills.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Malaysia.svg?width=800"
+    },
+    {
+      "id": "singapore",
+      "title": "Singapore",
+      "description": "A prosperous island city-state at the tip of the Malay Peninsula.",
+      "content": "Singapore is an island city-state in Southeast Asia, just north of the equator, with a population of about 5.9 million on an area of only about 730 square kilometres. It is one of the most densely populated countries in the world.\n\nIt became independent in 1965 after separating from Malaysia, under its first prime minister Lee Kuan Yew, and grew from a small port into a major financial and trading hub. It has four official languages: English, Malay, Mandarin and Tamil. The currency is the Singapore dollar.\n\nThe Port of Singapore is one of the busiest in the world, and Changi Airport is regularly rated among the best. The city is known for cleanliness, gardens such as Gardens by the Bay, and hawker centres serving cheap and varied food, a tradition that UNESCO recognised in 2020.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Singapore.svg?width=800"
+    },
+    {
+      "id": "russia",
+      "title": "Russia",
+      "description": "The largest country on Earth, spanning eleven time zones.",
+      "content": "Russia is the largest country in the world, covering about 17 million square kilometres across Eastern Europe and northern Asia and spanning eleven time zones. Its capital is Moscow and its population is about 144 million.\n\nIt contains Lake Baikal, the world's deepest lake, and the Trans-Siberian Railway, at about 9,300 kilometres the longest railway line in the world. Its territory includes vast forests, tundra and mountain ranges such as the Urals and the Caucasus, where Mount Elbrus, at 5,642 metres, is the highest peak in Europe.\n\nRussia launched the first artificial satellite, Sputnik, in 1957, and Yuri Gagarin became the first person in space in 1961. The country has a rich literary and musical tradition, including Tolstoy, Dostoevsky and Tchaikovsky. The official language is Russian, and the currency is the ruble."
+    },
+    {
+      "id": "ukraine",
+      "title": "Ukraine",
+      "description": "Europe's largest country entirely within the continent.",
+      "content": "Ukraine is a country in Eastern Europe, the largest entirely within Europe, with an area of about 600,000 square kilometres. Its capital is Kyiv, on the Dnieper River. Before 2022 it had a population of about 41 million. Ukrainian is the official language, and the currency is the hryvnia.\n\nMuch of the country is fertile plain covered with chernozem, the black soil that made Ukraine known as the breadbasket of Europe. It has the Carpathian Mountains in the west and a coast on the Black Sea and Sea of Azov. Kyiv has been an important city for over a thousand years and is home to St Sophia's Cathedral, a UNESCO World Heritage Site.\n\nUkraine became independent in 1991. The Chornobyl nuclear disaster of 1986 occurred there. Since Russia's invasion in 2022, the country has been affected by war, which has caused great loss and displacement.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ukraine.svg?width=800"
+    },
+    {
+      "id": "belarus",
+      "title": "Belarus",
+      "description": "A landlocked country of forests, lakes and castles.",
+      "content": "Belarus is a landlocked country in Eastern Europe with its capital in Minsk and a population of about nine million. It is a flat land with forests, marshes and thousands of lakes. Belarusian and Russian are the official languages, and the currency is the Belarusian ruble.\n\nThe Białowieża Forest, which Belarus shares with Poland, is one of the last remnants of the ancient primeval forest that once covered the European plain, and it is home to the European bison. It is a UNESCO World Heritage Site. The medieval Mir Castle and Nesvizh Castle are also on the World Heritage List.\n\nBelarus became independent in 1991 after the dissolution of the Soviet Union. The country was heavily affected by the fallout from the Chornobyl disaster in 1986. Its cuisine centres on potatoes, including the pancakes called draniki.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Belarus.svg?width=800"
+    },
+    {
+      "id": "poland",
+      "title": "Poland",
+      "description": "A Central European country with a resilient history and culture.",
+      "content": "Poland is a country in Central Europe with its capital in Warsaw and a population of about 37 million. It has a Baltic Sea coast in the north, lowlands in the centre and the Tatra Mountains in the south. Polish is the official language, and the currency is the złoty.\n\nPoland has a long history as a kingdom and later as a large commonwealth with Lithuania. Its notable figures include the astronomer Nicolaus Copernicus, the scientist Marie Curie, the composer Frédéric Chopin and Pope John Paul II. Kraków, with its old town and Wawel Castle, is a UNESCO World Heritage city.\n\nDuring World War II Poland suffered greatly, and Warsaw was rebuilt after being almost destroyed. The country joined the European Union in 2004. Polish specialities include pierogi dumplings, and the Baltic coast is famous for amber."
+    },
+    {
+      "id": "germany",
+      "title": "Germany",
+      "description": "Europe's largest economy, at the heart of the continent.",
+      "content": "Germany is a federal republic of 16 states in central Europe, with its capital in Berlin and a population of about 84 million. Its landscapes include the Alps in the south, the Rhine valley, the Black Forest and the North Sea and Baltic coasts.\n\nThe country was divided into East and West after World War II and reunified on 3 October 1990. Germany gave the world the printing press of Johannes Gutenberg, the music of Bach and Beethoven and the physics of Albert Einstein. The language is German and the currency is the euro.\n\nIt is Europe's largest economy, famous for cars, machinery and engineering. Traditions such as Oktoberfest in Munich, along with castles, forests and the Rhine valley, attract millions of visitors. The country has about 1,500 breweries and a strong tradition of bread baking."
+    },
+    {
+      "id": "france",
+      "title": "France",
+      "description": "The most visited country in the world, known for art and cuisine.",
+      "content": "France is a country in Western Europe with a population of about 68 million, and its capital is Paris. It has coastlines on the Atlantic, the English Channel and the Mediterranean and includes the Alps, whose highest peak, Mont Blanc, is the highest in Western Europe. It is regularly the most visited country in the world.\n\nThe Eiffel Tower, completed in 1889, and the Louvre, the world's most visited museum, are among its landmarks. France was the centre of the Enlightenment and the French Revolution, and French was once the international language of diplomacy. The currency is the euro.\n\nFrench cuisine, wine and cheese are internationally famous, and the country is also known for fashion, cinema and its regions such as Provence, Normandy and the Alps. The Tour de France cycling race has been held since 1903."
+    },
+    {
+      "id": "united-kingdom",
+      "title": "United Kingdom",
+      "description": "The island nation of England, Scotland, Wales and Northern Ireland.",
+      "content": "The United Kingdom consists of four nations: England, Scotland, Wales and Northern Ireland. Its capital is London, and its population is about 68 million. English is the main language, with Welsh, Scottish Gaelic and Irish also spoken, and the currency is the pound sterling.\n\nThe UK was the birthplace of the Industrial Revolution in the 18th century and once ruled the largest empire in history. It is a constitutional monarchy with a parliament that dates back to the Middle Ages. Its writers include Shakespeare, Dickens and Jane Austen, and its scientists include Isaac Newton and Charles Darwin.\n\nBritish culture has given the world football, tea, the Beatles and the Premier League. Landmarks such as Big Ben, Edinburgh Castle and Stonehenge attract millions of visitors. The country left the European Union in 2020.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_Kingdom_(1-2).svg?width=800"
+    },
+    {
+      "id": "italy",
+      "title": "Italy",
+      "description": "The boot-shaped home of Rome, the Renaissance and la dolce vita.",
+      "content": "Italy is a country in southern Europe shaped like a boot, extending into the Mediterranean, with its capital in Rome and a population of about 59 million. It includes the islands of Sicily and Sardinia, and the independent enclaves of Vatican City and San Marino lie within its territory.\n\nThe country was the centre of the Roman Empire and later of the Renaissance, and its cities, including Florence, Venice, Milan and Naples, are full of art and architecture. The language is Italian, and the currency is the euro. It has one of the largest numbers of UNESCO World Heritage Sites of any country.\n\nItalian cuisine, with pasta, pizza and gelato, is a favourite worldwide, and Italian fashion and design are influential. Mount Vesuvius near Naples and Etna in Sicily are active volcanoes."
+    },
+    {
+      "id": "spain",
+      "title": "Spain",
+      "description": "A sunny country of flamenco, art and diverse regions.",
+      "content": "Spain is a country in south-western Europe, occupying most of the Iberian Peninsula, with its capital in Madrid and a population of about 48 million. Its territory includes the Balearic and Canary Islands. Spanish is the official language, with Catalan, Basque and Galician spoken as co-official languages in their regions. The currency is the euro.\n\nFor nearly 800 years parts of Spain were under Muslim rule, leaving monuments such as the Alhambra in Granada and the Mezquita of Córdoba. In 1492 Spanish support for Christopher Columbus began a period of empire in the Americas. Today Spanish is spoken by hundreds of millions of people worldwide.\n\nSpain is famous for flamenco, tapas, painters such as Picasso, Dalí and Goya, and Gaudí's Sagrada Família in Barcelona. Its football clubs, including Real Madrid and Barcelona, have global fans, and the country won the World Cup in 2010.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Kingdom_of_Spain.svg?width=800"
+    },
+    {
+      "id": "portugal",
+      "title": "Portugal",
+      "description": "The Atlantic country that led the Age of Discovery.",
+      "content": "Portugal is a country on the western edge of the Iberian Peninsula, with its capital in Lisbon and a population of about 10 million. It also includes the Atlantic archipelagos of the Azores and Madeira. Portuguese is the official language, and the currency is the euro.\n\nIn the 15th and 16th centuries Portuguese navigators, encouraged by Prince Henry the Navigator, explored the coast of Africa, and in 1498 Vasco da Gama reached India by sea. Portugal built an empire that included Brazil, and Portuguese is now spoken by about 260 million people around the world.\n\nThe country has one of the oldest borders in Europe. Fado, a melancholic style of music, is recognised by UNESCO, and the cuisine is known for salted cod, custard tarts called pastéis de nata and port wine from the Douro Valley. Portugal is also the world's leading producer of cork.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Portugal_(official).svg?width=800"
+    },
+    {
+      "id": "netherlands",
+      "title": "Netherlands",
+      "description": "A low-lying country of canals, windmills and bicycles.",
+      "content": "The Netherlands is a country in north-western Europe, with its capital in Amsterdam and its government in The Hague, and a population of about 18 million. About a third of the land lies below sea level and is protected by dikes and dunes, part of a system of water defences called the Delta Works.\n\nDutch is the official language and the currency is the euro. In the 17th century, the Dutch Golden Age brought great wealth from trade, as well as art by painters such as Rembrandt and Vermeer. Vincent van Gogh was born in the country in 1853.\n\nThe Netherlands is known for tulips, cheese, windmills and cycling; there are more bicycles than people. The port of Rotterdam is the largest in Europe. The Kinderdijk windmills are a UNESCO World Heritage Site.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Netherlands.svg?width=800"
+    },
+    {
+      "id": "belgium",
+      "title": "Belgium",
+      "description": "The small country at the crossroads of Europe.",
+      "content": "Belgium is a small country in Western Europe, with its capital in Brussels and a population of about 11.8 million. It has three official languages: Dutch, French and German, and the currency is the euro. Brussels is the headquarters of the European Union and of NATO.\n\nThe country became independent in 1830. It is known for medieval cities such as Bruges and Ghent and for the Battle of Waterloo, fought near Brussels in 1815, which ended Napoleon's rule. The country is divided into Flanders, Wallonia and the Brussels region.\n\nBelgium is famous for chocolate, waffles, fries and hundreds of types of beer, whose culture is recognised by UNESCO. Its comics tradition has given the world Tintin, created by Hergé, and the Smurfs.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Belgium.svg?width=800"
+    },
+    {
+      "id": "switzerland",
+      "title": "Switzerland",
+      "description": "The neutral Alpine country of watches, chocolate and banking.",
+      "content": "Switzerland is a landlocked country in Central Europe dominated by the Alps and the Jura mountains, with its capital in Bern and a population of about nine million. It has four national languages: German, French, Italian and Romansh. The currency is the Swiss franc.\n\nThe country has followed a policy of neutrality since 1815 and is known for direct democracy, in which citizens vote often on laws. It is home to many international organisations in Geneva, including the Red Cross, founded there in 1863, and CERN, the physics laboratory where the World Wide Web was invented.\n\nSwiss watches, chocolate and cheese are world famous, and the Matterhorn, 4,478 metres high, is one of the best-known mountains. The Swiss are also known for precision engineering and the banking industry.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Switzerland_(Pantone).svg?width=800"
+    },
+    {
+      "id": "austria",
+      "title": "Austria",
+      "description": "The Alpine home of Mozart, waltzes and coffee houses.",
+      "content": "Austria is a landlocked country in Central Europe with its capital in Vienna and a population of about nine million. Most of the country is covered by the Alps, making it a leading destination for skiing. German is the official language, and the currency is the euro.\n\nFor centuries Vienna was the capital of the Habsburg Empire, one of the great powers of Europe, and later the centre of Austria-Hungary. The city was home to Mozart, Beethoven, Schubert and Strauss and to Sigmund Freud. Vienna's coffee house culture is recognised by UNESCO.\n\nAustria became neutral in 1955. Salzburg, Mozart's birthplace, and the setting of The Sound of Music, is known for its baroque architecture, and the Schönbrunn Palace in Vienna is one of the grandest imperial residences.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Austria.svg?width=800"
+    },
+    {
+      "id": "greece",
+      "title": "Greece",
+      "description": "The cradle of democracy, philosophy and the Olympic Games.",
+      "content": "Greece is a country in south-eastern Europe with its capital in Athens and a population of about 10 million. It has a long coastline and about 6,000 islands and islets, of which only around 227 are inhabited. Mount Olympus, at 2,917 metres, is the highest peak and was believed to be the home of the gods.\n\nAncient Greece gave the world democracy, the Olympic Games, drama and philosophy through thinkers such as Socrates, Plato and Aristotle. The Parthenon on the Acropolis in Athens is a symbol of that era. Greek is the official language, and the currency is the euro.\n\nModern Greece became independent from the Ottoman Empire in 1830. The country is famous for whitewashed island villages, olives, feta cheese and the Orthodox Christian tradition, and tourism is a major industry.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Greece.svg?width=800"
+    },
+    {
+      "id": "czechia",
+      "title": "Czechia",
+      "description": "The heart of Europe, with Prague's fairytale skyline.",
+      "content": "Czechia, also called the Czech Republic, is a landlocked country in Central Europe with its capital in Prague and a population of about 10.9 million. It consists of the historic regions of Bohemia, Moravia and part of Silesia. Czech is the official language, and the currency is the koruna.\n\nPrague, called the city of a hundred spires, has a medieval Old Town, Prague Castle and the Charles Bridge. Its astronomical clock has been ticking since 1410, and Charles University, founded in 1348, is one of the oldest universities in Europe. The writer Franz Kafka lived and worked in the city.\n\nCzechoslovakia was created in 1918, and in 1989 the Velvet Revolution ended communist rule peacefully. The country split into Czechia and Slovakia in 1993. Czechs drink more beer per person than any other nation, and the town of Plzeň gave the world Pilsner beer.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Czech_Republic.svg?width=800"
+    },
+    {
+      "id": "hungary",
+      "title": "Hungary",
+      "description": "A Central European country of the Danube, thermal baths and Magyar heritage.",
+      "content": "Hungary is a landlocked country in Central Europe with its capital in Budapest and a population of about 9.6 million. The Danube flows through the middle of Budapest, dividing the hilly Buda side from the flat Pest side. The currency is the forint.\n\nHungarian, or Magyar, is unrelated to most European languages and belongs to the Uralic family, together with Finnish and Estonian. The Magyar tribes arrived in the Carpathian Basin about 1,100 years ago, and Hungary later became part of the Austro-Hungarian Empire. The country joined the European Union in 2004.\n\nBudapest is known for its thermal baths, the ornate Parliament building and its cafés. Hungarians invented the Rubik's Cube, in 1974, and the ballpoint pen. The cuisine is famous for goulash and paprika, and the composer Franz Liszt was born in Hungary.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Hungary.svg?width=800"
+    },
+    {
+      "id": "romania",
+      "title": "Romania",
+      "description": "The Carpathian country of Transylvania and painted monasteries.",
+      "content": "Romania is a country in south-eastern Europe with its capital in Bucharest and a population of about 19 million. The Carpathian Mountains curve through the centre, and the Danube ends in a vast delta on the Black Sea, one of the best-preserved wetlands in Europe and a UNESCO World Heritage Site.\n\nRomanian is a Romance language, descended from Latin, and the currency is the leu. The country gained full independence in 1877 and joined the European Union in 2007. The region of Transylvania is known for medieval towns and castles such as Bran Castle, which is linked to the legend of Dracula, inspired in part by the 15th-century ruler Vlad the Impaler.\n\nIn Bucovina the painted monasteries have colourful frescoes on their outer walls. Romania's traditions include folk music, woodcarving and rich cuisine, with dishes such as sarmale, cabbage rolls, and mămăligă, a cornmeal porridge.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Romania.svg?width=800"
+    },
+    {
+      "id": "bulgaria",
+      "title": "Bulgaria",
+      "description": "A Balkan country of roses, yoghurt and the Cyrillic script.",
+      "content": "Bulgaria is a country in south-eastern Europe on the Black Sea, with its capital in Sofia and a population of about 6.5 million. The Balkan Mountains run through the middle, and the Rila range in the south-west contains Musala, the highest peak in the Balkans, at 2,925 metres.\n\nBulgarian is written in the Cyrillic alphabet, which was developed in the First Bulgarian Empire in the 9th and 10th centuries by followers of Saints Cyril and Methodius. The country was home to the ancient Thracians, whose golden treasures are famous, and later part of the Ottoman Empire until 1878.\n\nThe Rose Valley produces most of the world's rose oil, used in perfumes. Yoghurt is a Bulgarian speciality, and the bacterium that makes it, Lactobacillus bulgaricus, was named after the country. Rila Monastery, founded in the 10th century, is a UNESCO World Heritage Site.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Bulgaria.svg?width=800"
+    },
+    {
+      "id": "serbia",
+      "title": "Serbia",
+      "description": "A Balkan country at the meeting of the Danube and the Sava.",
+      "content": "Serbia is a landlocked country in south-eastern Europe with its capital in Belgrade, at the confluence of the Sava and the Danube, and a population of about 6.7 million. The north is a fertile plain, while the south has mountains. Serbian is the official language and is written in both Cyrillic and Latin scripts. The currency is the dinar.\n\nBelgrade is one of the oldest cities in Europe, and its Kalemegdan fortress overlooks the rivers. In the Middle Ages, Serbia was a powerful kingdom and later part of the Ottoman Empire. It became part of Yugoslavia in the 20th century and has been independent since 2006.\n\nThe inventor Nikola Tesla was of Serbian origin, born in the Austrian Empire in what is now Croatia. The tennis player Novak Djokovic is Serbian, and the country is a major producer of raspberries. Belgrade's nightlife and the Exit festival are well known.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Serbia.svg?width=800"
+    },
+    {
+      "id": "croatia",
+      "title": "Croatia",
+      "description": "A Balkan country with an island-studded Adriatic coast.",
+      "content": "Croatia is a country in Central and south-eastern Europe with its capital in Zagreb and a population of about 3.9 million. Its long Adriatic coast has more than a thousand islands, and it has been a member of the European Union since 2013 and of the euro area since 2023.\n\nThe walled city of Dubrovnik and Diocletian's Palace in Split, built as a Roman emperor's retirement home, are among the highlights of the coast. Plitvice Lakes National Park, with its terraced turquoise lakes and waterfalls, is a UNESCO World Heritage Site. Croatian is the official language.\n\nThe necktie is said to descend from scarves worn by Croatian soldiers in the 17th century, and the inventor Nikola Tesla was born in Smiljan, in what is now Croatia. Croatia finished second at the 2018 FIFA World Cup, and the cuisine mixes Mediterranean and Central European traditions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Croatia.svg?width=800"
+    },
+    {
+      "id": "sweden",
+      "title": "Sweden",
+      "description": "A Scandinavian country of forests, lakes and innovation.",
+      "content": "Sweden is a Scandinavian country in Northern Europe with its capital in Stockholm and a population of about 10.5 million. Much of it is covered by forests and lakes, and the far north lies within the Arctic Circle, with the midnight sun in summer and northern lights in winter. Swedish is the official language, and the currency is the krona.\n\nIn the Viking Age, Swedish traders travelled along rivers into Russia. Sweden was a great power in the 17th century and has been at peace since 1814. The inventor Alfred Nobel established the Nobel Prizes, first awarded in 1901, and the ceremonies take place in Stockholm each December.\n\nSwedish companies include IKEA, Volvo and Spotify, and the pop group ABBA brought the country worldwide fame. Swedes have a tradition of fika, a coffee break with cake, and a strong belief in gender equality and outdoor life. Sweden joined NATO in 2024."
+    },
+    {
+      "id": "norway",
+      "title": "Norway",
+      "description": "The land of fjords, the midnight sun and the Vikings.",
+      "content": "Norway is a Scandinavian country in Northern Europe with its capital in Oslo and a population of about 5.6 million. Its long, deeply cut coastline has spectacular fjords such as Geirangerfjord and Nærøyfjord, both UNESCO World Heritage Sites. Norwegian is the official language, and the currency is the krone.\n\nNorway was the homeland of the Vikings, who sailed across the North Atlantic to Iceland, Greenland and North America about a thousand years ago. In 1911 Roald Amundsen led the first expedition to reach the South Pole. The Nobel Peace Prize is awarded every year in Oslo.\n\nThe discovery of oil in the North Sea in 1969 made the country wealthy, and its sovereign wealth fund is one of the largest in the world. Norway is not a member of the European Union. Skiing originated here, and northern lights can be seen in the north.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Norway.svg?width=800"
+    },
+    {
+      "id": "denmark",
+      "title": "Denmark",
+      "description": "A low-lying Nordic country of cycling, design and hygge.",
+      "content": "Denmark is a Nordic country in Northern Europe with its capital in Copenhagen and a population of about six million. It consists of the Jutland peninsula and hundreds of islands, and its territory also includes Greenland and the Faroe Islands, which have wide self-government. Danish is the official language, and the currency is the krone.\n\nThe Danes were part of the Viking world, and the Danish monarchy is one of the oldest in the world. The fairy-tale writer Hans Christian Andersen was born in Odense in 1805. LEGO, the toy company, was founded in the town of Billund in 1932.\n\nDenmark is known for cycling, wind energy, design and the concept of hygge, a cosy feeling of comfort and togetherness. Copenhagen's Tivoli Gardens, opened in 1843, is one of the world's oldest amusement parks, and the Little Mermaid statue is a landmark.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Denmark.svg?width=800"
+    },
+    {
+      "id": "finland",
+      "title": "Finland",
+      "description": "The land of a thousand lakes and saunas.",
+      "content": "Finland is a Nordic country in Northern Europe with its capital in Helsinki and a population of about 5.6 million. It has about 188,000 lakes and vast forests, and part of the country lies north of the Arctic Circle in Lapland, where the northern lights are visible. Finnish and Swedish are the official languages, and the currency is the euro.\n\nFinland was part of Sweden and then of Russia before it became independent in 1917. It is famous for its education system, for the phone company Nokia, and for saunas, of which there are about three million, roughly one for every two people. The Moomins, created by Tove Jansson, are beloved characters.\n\nRovaniemi in Lapland calls itself the home of Santa Claus. Finland joined NATO in 2023 and has repeatedly been ranked among the happiest countries in the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Finland.svg?width=800"
+    },
+    {
+      "id": "iceland",
+      "title": "Iceland",
+      "description": "The island of fire and ice in the North Atlantic.",
+      "content": "Iceland is an island nation in the North Atlantic, just south of the Arctic Circle, with its capital in Reykjavik and a population of about 390,000. It sits on the Mid-Atlantic Ridge, where two tectonic plates are pulling apart, so it has many volcanoes, geysers and hot springs, as well as glaciers covering about 10% of the land.\n\nSettled by Norse Vikings around 870, Iceland founded the Althing in 930, one of the oldest parliaments in the world. The medieval Icelandic sagas are a treasure of world literature. The language is Icelandic, which has changed little since Viking times, and the currency is the króna.\n\nAlmost all of the country's electricity and heating come from geothermal and hydroelectric sources. The word geyser comes from Geysir, a hot spring in Iceland. The country has no army, and it is a popular destination for seeing the northern lights.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Iceland.svg?width=800"
+    },
+    {
+      "id": "ireland",
+      "title": "Ireland",
+      "description": "The Emerald Isle of folklore, music and literature.",
+      "content": "Ireland, officially the Republic of Ireland, occupies about five-sixths of the island of Ireland, with its capital in Dublin and a population of about 5.3 million. Northern Ireland, the rest of the island, is part of the United Kingdom. The languages are Irish and English, and the currency is the euro.\n\nThe country gained independence from Britain in 1922. Its landscape of green fields and rugged coasts includes the Cliffs of Moher, which rise about 214 metres above the Atlantic. Newgrange, a passage tomb built around 3200 BCE, predates the Egyptian pyramids.\n\nIrish writers such as James Joyce, Oscar Wilde, W. B. Yeats and Samuel Beckett have shaped world literature. The country is famous for traditional music, St Patrick's Day, on 17 March, and Guinness stout, and the shamrock is its national symbol.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg?width=800"
+    },
+    {
+      "id": "egypt",
+      "title": "Egypt",
+      "description": "The land of the pharaohs, the Nile and the pyramids.",
+      "content": "Egypt is a country in North Africa and the Middle East with its capital in Cairo and a population of about 110 million. Most of the land is desert, and nearly all of its people live along the Nile, which flows northward to a delta on the Mediterranean. Arabic is the official language, and the currency is the pound.\n\nAncient Egypt is one of the world's oldest civilisations. The Great Pyramid of Giza, built about 4,500 years ago, is the only one of the Seven Wonders of the Ancient World that still stands. Luxor and Karnak contain vast temples and the Valley of the Kings, where Tutankhamun's tomb was discovered in 1922.\n\nThe Suez Canal, opened in 1869, links the Mediterranean and the Red Sea and is one of the world's most important shipping routes. Alexandria, founded by Alexander the Great, was home to a famous ancient library, and Sinai and the Red Sea coast are popular for diving.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Egypt.svg?width=800"
+    },
+    {
+      "id": "morocco",
+      "title": "Morocco",
+      "description": "The North African kingdom of medinas, mountains and mint tea.",
+      "content": "Morocco is a kingdom in north-western Africa, with coasts on both the Atlantic Ocean and the Mediterranean Sea. Its capital is Rabat, and its largest city is Casablanca. The population is about 37 million. Arabic and Berber, or Amazigh, are the official languages, and the currency is the dirham.\n\nThe country is crossed by the Atlas Mountains and touches the Sahara in the south. Marrakech, with its old medina and Jemaa el-Fnaa square, is a highlight, and the city of Fez has the University of al-Qarawiyyin, founded in 859, regarded as the oldest continuously operating university in the world.\n\nMoroccan cuisine features couscous, tagines and mint tea. The national football team became the first African side to reach the World Cup semi-finals, in 2022. The blue city of Chefchaouen is a popular tourist spot.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Morocco.svg?width=800"
+    },
+    {
+      "id": "algeria",
+      "title": "Algeria",
+      "description": "Africa's largest country, dominated by the Sahara.",
+      "content": "Algeria is the largest country in Africa, with an area of about 2.38 million square kilometres, and lies on the Mediterranean coast in North Africa. Its capital is Algiers, and its population is about 46 million. Arabic and Berber (Tamazight) are the official languages, and the currency is the dinar.\n\nAbout 80% of the country is covered by the Sahara. The Tassili n'Ajjer plateau has thousands of prehistoric rock paintings and engravings, some thousands of years old. Roman cities such as Timgad and Djémila show that the region was once an important part of the Roman Empire.\n\nAlgeria gained independence from France in 1962 after a long war. The Casbah of Algiers is a UNESCO World Heritage Site, and oil and natural gas are the main exports.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Algeria.svg?width=800"
+    },
+    {
+      "id": "tunisia",
+      "title": "Tunisia",
+      "description": "A North African country with ancient Carthage and Sahara dunes.",
+      "content": "Tunisia is the smallest country in North Africa, with its capital in Tunis, on the Mediterranean, and a population of about 12 million. Arabic is the official language, and the currency is the dinar. It gained independence from France in 1956.\n\nNear Tunis lie the ruins of Carthage, founded by Phoenician settlers, traditionally in 814 BCE, which became a great naval power under leaders such as Hannibal, who crossed the Alps with elephants to attack Rome. The Romans destroyed the city in 146 BCE. The amphitheatre at El Djem is one of the best-preserved Roman monuments in Africa.\n\nThe blue-and-white village of Sidi Bou Said, the island of Djerba and the Sahara dunes are popular sights. The desert scenes of the Star Wars film series were partly shot in Tunisia. In 2010–2011 the protests that began there started what is known as the Arab Spring.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Tunisia.svg?width=800"
+    },
+    {
+      "id": "south-africa",
+      "title": "South Africa",
+      "description": "The Rainbow Nation at the southern tip of Africa.",
+      "content": "South Africa is a country at the southern end of Africa with a population of about 62 million. It has three capitals: Pretoria, the seat of government, Cape Town, the seat of parliament, and Bloemfontein, the seat of the judiciary. It has 12 official languages, and the currency is the rand.\n\nFor much of the 20th century, the country was ruled under apartheid, a system of racial segregation. It ended in 1994, when Nelson Mandela, who had spent 27 years in prison, became the first Black president after the country's first democratic elections. The nation is known as the Rainbow Nation for its diversity.\n\nIts landscapes include Table Mountain in Cape Town and Kruger National Park, where lions, elephants and rhinos live. The country has rich gold and diamond deposits. It hosted the 2010 FIFA World Cup and has won the Rugby World Cup several times.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_South_Africa.svg?width=800"
+    },
+    {
+      "id": "nigeria",
+      "title": "Nigeria",
+      "description": "Africa's most populous country and a cultural powerhouse.",
+      "content": "Nigeria is a country in West Africa and the most populous in Africa, with about 230 million people. Its capital is Abuja, and its largest city is Lagos, one of the biggest cities on the continent. English is the official language, and the currency is the naira. It gained independence from Britain in 1960.\n\nThe country has more than 250 ethnic groups, of which the largest are the Hausa, Yoruba and Igbo. The Niger and Benue rivers meet in central Nigeria, and the south has rainforests and a delta, while the north is dry savanna. Oil is the main export.\n\nNigerian culture has an enormous global reach: Nollywood is one of the largest film industries in the world, Afrobeats has become a worldwide music genre, and the writer Wole Soyinka won the Nobel Prize in Literature in 1986.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Nigeria.svg?width=800"
+    },
+    {
+      "id": "ethiopia",
+      "title": "Ethiopia",
+      "description": "An ancient highland country and the home of coffee.",
+      "content": "Ethiopia is a landlocked country in the Horn of Africa with its capital in Addis Ababa and a population of about 130 million, the second-largest in Africa. Amharic is the official working language, and the currency is the birr. Much of the country is highland, cut by the Great Rift Valley.\n\nIt is one of the oldest countries in the world and, apart from a brief Italian occupation from 1936 to 1941, was never colonised. The ancient kingdom of Aksum was a major power, and Lalibela has 11 churches carved from solid rock. Ethiopia uses its own calendar with 13 months, which is about seven to eight years behind the Gregorian one.\n\nCoffee is said to have originated in Ethiopia, and the coffee ceremony is an important tradition. The fossil Lucy, a 3.2-million-year-old skeleton of a human ancestor, was found there in 1974. Addis Ababa is the headquarters of the African Union.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ethiopia.svg?width=800"
+    },
+    {
+      "id": "kenya",
+      "title": "Kenya",
+      "description": "The East African land of safaris and long-distance runners.",
+      "content": "Kenya is a country in East Africa with its capital in Nairobi and a population of about 55 million. English and Swahili are the official languages, and the currency is the shilling. It gained independence from Britain in 1963.\n\nThe Great Rift Valley crosses the country, and Mount Kenya, at 5,199 metres, is the second-highest mountain in Africa. The Maasai Mara National Reserve hosts the great migration, when over a million wildebeest and zebras cross the plains and the Mara River. Safaris are a leading source of income.\n\nKenya is famous for its long-distance runners, many of whom come from the Kalenjin people of the highlands, and for tea and coffee. Its Swahili coast has historic towns such as Lamu, a UNESCO World Heritage Site.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Kenya.svg?width=800"
+    },
+    {
+      "id": "ghana",
+      "title": "Ghana",
+      "description": "The first sub-Saharan African country to win independence.",
+      "content": "Ghana is a country in West Africa on the Gulf of Guinea, with its capital in Accra and a population of about 34 million. English is the official language, and the currency is the cedi. The former Gold Coast, named for its gold, it was the first sub-Saharan country to gain independence from colonial rule, in 1957, under Kwame Nkrumah.\n\nCocoa is a major export, and Lake Volta, created by the Akosombo Dam, is one of the largest artificial lakes in the world. The Ashanti kingdom, with its capital at Kumasi, was a powerful state, and kente cloth, woven in bright patterns, is a symbol of Ghanaian culture.\n\nForts such as Cape Coast Castle bear witness to the Atlantic slave trade. Ghana's national football team is nicknamed the Black Stars, and the country is admired for its democratic stability in the region.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ghana.svg?width=800"
+    },
+    {
+      "id": "tanzania",
+      "title": "Tanzania",
+      "description": "The home of Kilimanjaro, the Serengeti and Zanzibar.",
+      "content": "Tanzania is a country in East Africa with its capital in Dodoma and its largest city in Dar es Salaam, and a population of about 65 million. Swahili and English are the official languages, and the currency is the shilling. The country was formed in 1964 by the union of Tanganyika and the island of Zanzibar.\n\nMount Kilimanjaro, at 5,895 metres, is the highest mountain in Africa. The Serengeti and the Ngorongoro Crater are among the best places in the world to see wildlife, including lions, elephants and the annual wildebeest migration. Olduvai Gorge has yielded some of the most important fossils of early humans.\n\nZanzibar, off the coast, is known for its spice plantations, its Swahili culture and Stone Town, a UNESCO World Heritage Site. Tanzania has more than 120 ethnic groups.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Tanzania.svg?width=800"
+    },
+    {
+      "id": "senegal",
+      "title": "Senegal",
+      "description": "The westernmost country of mainland Africa, known for teranga.",
+      "content": "Senegal is a country in West Africa on the Atlantic coast, with its capital in Dakar and a population of about 18 million. Dakar is on the Cape Verde Peninsula, the westernmost point of mainland Africa. French is the official language, and Wolof is widely spoken. The currency is the West African CFA franc, and it gained independence from France in 1960.\n\nThe country is known for teranga, the Wolof word for hospitality, and for its music, including the singer Youssou N'Dour and the mbalax rhythm. Gorée Island, a UNESCO World Heritage Site, is a memorial to the Atlantic slave trade.\n\nLake Retba, near Dakar, has pink water because of algae and is a source of salt. The national dish is thieboudienne, fish with rice and vegetables, and the Dakar Rally once finished in the capital.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Senegal.svg?width=800"
+    },
+    {
+      "id": "madagascar",
+      "title": "Madagascar",
+      "description": "The giant island of lemurs and baobabs.",
+      "content": "Madagascar is an island nation in the Indian Ocean off the south-east coast of Africa, and it is the fourth-largest island in the world. The capital is Antananarivo, and the population is about 30 million. Malagasy and French are the official languages, and the currency is the ariary.\n\nThe island split from the African mainland about 160 million years ago, and its wildlife evolved in isolation: roughly 90% of its species are found nowhere else, including more than 100 kinds of lemurs. The Avenue of the Baobabs, a road lined with giant baobab trees, is one of its most famous sights.\n\nThe first settlers came by sea from Southeast Asia, from what is now Borneo, about 1,500 years ago, so the Malagasy language is related to Indonesian languages. Madagascar produces most of the world's vanilla, but its forests are under threat.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madagascar_(centered_orthographic_projection).svg?width=800"
+    },
+    {
+      "id": "dr-congo",
+      "title": "Democratic Republic of the Congo",
+      "description": "Africa's second-largest country, with a vast rainforest.",
+      "content": "The Democratic Republic of the Congo is the second-largest country in Africa, with its capital in Kinshasa and a population of about 100 million. French is the official language, alongside national languages such as Lingala and Swahili. The currency is the Congolese franc. It gained independence from Belgium in 1960.\n\nThe Congo River, the deepest in the world and second-longest in Africa, flows through the country, and the surrounding basin has the second-largest rainforest on Earth, home to gorillas, bonobos and okapis. Virunga National Park protects mountain gorillas and active volcanoes.\n\nThe country holds huge mineral wealth, including cobalt, copper and coltan, which are essential to modern electronics. It has more than 200 ethnic groups, and Congolese rumba, a lively music style, was recognised by UNESCO in 2021. Parts of the east have long suffered from conflict.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Democratic_Republic_of_the_Congo.svg?width=800"
+    },
+    {
+      "id": "uganda",
+      "title": "Uganda",
+      "description": "The Pearl of Africa, with mountain gorillas and the source of the Nile.",
+      "content": "Uganda is a landlocked country in East Africa with its capital in Kampala and a population of about 48 million. English and Swahili are the official languages, and the currency is the shilling. It gained independence from Britain in 1962. Winston Churchill famously called it the Pearl of Africa.\n\nLake Victoria, the largest lake in Africa, borders Uganda, and the White Nile begins at Jinja. Bwindi Impenetrable Forest is home to about half of the world's remaining mountain gorillas, and visitors come to trek to see them. The Rwenzori Mountains, known as the Mountains of the Moon, have glaciers on the equator.\n\nUganda has one of the youngest populations in the world. Its cuisine includes matoke, cooked green bananas, and the rolex, a street snack of eggs rolled in chapati.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Uganda.svg?width=800"
+    },
+    {
+      "id": "lithuania",
+      "title": "Lithuania",
+      "description": "A Baltic country with a medieval empire and a strong sense of identity.",
+      "content": "Lithuania is the largest of the three Baltic states, on the Baltic Sea, with its capital in Vilnius and a population of about 2.9 million. Lithuanian is one of the oldest living Indo-European languages, and the currency is the euro. The country joined the European Union and NATO in 2004.\n\nIn the Middle Ages the Grand Duchy of Lithuania was one of the largest states in Europe, stretching from the Baltic to the Black Sea. In 1990, Lithuania became the first Soviet republic to declare independence, on 11 March, and the freedom was recognised in 1991.\n\nVilnius has one of the largest surviving medieval old towns in Northern Europe. Other landmarks include Trakai Castle, on an island in a lake, and the Hill of Crosses, a pilgrimage site with hundreds of thousands of crosses. Basketball is the most popular sport, and Lithuanian amber jewellery is famous.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Lithuania.svg?width=800"
+    },
+    {
+      "id": "united-states",
+      "title": "United States",
+      "description": "A federal republic of 50 states in North America.",
+      "content": "The United States of America is a federal republic of 50 states, with its capital in Washington, D.C. It has a population of about 340 million and is one of the largest countries in the world by area. Two states lie apart from the mainland: Alaska in the north-west and the island state of Hawaii in the Pacific.\n\nThe country declared independence from Britain in 1776 and adopted its Constitution in 1787. English is the most widely spoken language, though the country has no official national language at the federal level, and the currency is the dollar. Its geography ranges from the Rocky Mountains and the Grand Canyon to the Great Plains and the Florida coast.\n\nThe United States has the world's largest economy and is a leader in technology, science, film and music. New York is its largest city and a major centre for finance and culture. Jazz, rock and roll and Hollywood films all grew up here, and NASA's Apollo programme put people on the Moon in 1969.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_States_(DDD-F-416E_specifications).svg?width=800"
+    },
+    {
+      "id": "canada",
+      "title": "Canada",
+      "description": "The vast northern country of lakes, forests and two official languages.",
+      "content": "Canada is the second-largest country in the world by area, about 10 million square kilometres, with its capital in Ottawa and a population of about 41 million. It has ten provinces and three territories, and its largest city is Toronto. English and French are the official languages, and the currency is the Canadian dollar.\n\nIt has the longest coastline of any country and more lakes than any other country. Landscapes include the Rocky Mountains, Niagara Falls, the boreal forest and Arctic tundra. Most Canadians live in the south, near the border with the United States, the longest international land border in the world.\n\nIndigenous peoples, including the First Nations, Inuit and Métis, have lived in Canada for thousands of years. The country is known for maple syrup, ice hockey, its multicultural society, and dishes such as poutine. The red maple leaf is the national symbol.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Canada_(Pantone).svg?width=800"
+    },
+    {
+      "id": "mexico",
+      "title": "Mexico",
+      "description": "A land of ancient civilisations, vibrant culture and rich cuisine.",
+      "content": "Mexico is a country in southern North America with its capital in Mexico City and a population of about 130 million, the largest Spanish-speaking population in the world. Spanish is the main language, with more than 60 indigenous languages also spoken, and the currency is the peso.\n\nLong before the Spanish arrived, the Maya built cities such as Chichén Itzá, and the Aztecs founded Tenochtitlan, in 1325, on the site of today's Mexico City. Mexico won independence from Spain in 1821 after a war that began in 1810. The pyramids of Teotihuacan are among the largest in the world.\n\nMexico's traditions include the Day of the Dead, recognised by UNESCO, and the artist Frida Kahlo. Its cuisine, recognised by UNESCO in 2010, uses maize, beans, chilli and chocolate, and gave the world tacos, guacamole and tamales.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Mexico.svg?width=800"
+    },
+    {
+      "id": "brazil",
+      "title": "Brazil",
+      "description": "The largest country in South America, home to the Amazon.",
+      "content": "Brazil is the largest country in South America and the fifth-largest in the world, with more than 210 million people. Its capital is Brasília, a planned city inaugurated in 1960, while its largest city is São Paulo.\n\nIt is the only country in the Americas where Portuguese is the official language. Brazil contains most of the Amazon rainforest and the Pantanal, the largest tropical wetland. The currency is the real. It became independent from Portugal in 1822.\n\nThe country is famous for Carnival in Rio de Janeiro, for samba and bossa nova music, and for football: Brazil is the only nation to have won the World Cup five times. The statue of Christ the Redeemer overlooks Rio from Corcovado mountain, and the Iguazu Falls on the border with Argentina are among the largest waterfalls on Earth."
+    },
+    {
+      "id": "argentina",
+      "title": "Argentina",
+      "description": "The South American country of tango, Patagonia and football.",
+      "content": "Argentina is the second-largest country in South America, stretching from the subtropical north to the tip of Patagonia. Its capital and largest city is Buenos Aires, and its population is about 46 million. Spanish is the official language, and the currency is the peso.\n\nThe Andes on its western border include Aconcagua, at 6,961 metres, the highest peak outside Asia. The fertile Pampas grasslands are home to gauchos and to the cattle that make Argentine beef and the asado barbecue famous. In the far south lie glaciers such as Perito Moreno, and Ushuaia is the southernmost city in the world.\n\nTango was born in Buenos Aires in the late 19th century. Argentina has produced football legends Diego Maradona and Lionel Messi, and won the World Cup in 1978, 1986 and 2022. The Iguazu Falls form part of its border with Brazil.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Argentina.svg?width=800"
+    },
+    {
+      "id": "colombia",
+      "title": "Colombia",
+      "description": "A South American country of coffee, biodiversity and colourful cities.",
+      "content": "Colombia is a country in the north-west of South America with coasts on both the Caribbean Sea and the Pacific Ocean. Its capital is Bogotá, high in the Andes, and its population is about 52 million. Spanish is the official language, and the currency is the peso.\n\nIt is one of the most biodiverse countries on Earth, with Amazon rainforest, Andean mountains, Caribbean beaches and tropical plains, and it has more species of birds than any other country. Colombian coffee is world famous, and the country also produces emeralds and flowers.\n\nCartagena's colonial walled city is a UNESCO World Heritage Site. The writer Gabriel García Márquez, author of One Hundred Years of Solitude, won the Nobel Prize in Literature in 1982. Colombian music includes cumbia and vallenato, and the legend of El Dorado, the golden man, came from the Muisca people.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Colombia.svg?width=800"
+    },
+    {
+      "id": "chile",
+      "title": "Chile",
+      "description": "A long, narrow country between the Andes and the Pacific.",
+      "content": "Chile is a country in South America that stretches about 4,300 kilometres from north to south but is on average only about 175 kilometres wide, squeezed between the Andes and the Pacific Ocean. Its capital is Santiago, and the population is about 19.5 million. Spanish is the official language, and the currency is the peso.\n\nThe Atacama Desert in the north is the driest non-polar desert in the world, and its clear skies make it a centre for astronomical observatories. In the south, Patagonia has glaciers, fjords and the Torres del Paine mountains. Easter Island, or Rapa Nui, with its giant stone moai statues, belongs to Chile.\n\nChile is the world's largest producer of copper and known for wine. The poets Gabriela Mistral and Pablo Neruda both won the Nobel Prize in Literature. The most powerful earthquake ever recorded, of magnitude 9.5, struck near Valdivia in 1960.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Chile.svg?width=800"
+    },
+    {
+      "id": "peru",
+      "title": "Peru",
+      "description": "The land of the Incas and Machu Picchu.",
+      "content": "Peru is a country in western South America with its capital in Lima and a population of about 34 million. It has three regions: the arid Pacific coast, the high Andes and the Amazon rainforest. Spanish, Quechua and Aymara are official languages, and the currency is the sol.\n\nPeru was the heart of the Inca Empire, whose capital was Cusco. Machu Picchu, a 15th-century mountain citadel high in the Andes, was named one of the New Seven Wonders of the World in 2007. The mysterious Nazca Lines, giant figures drawn in the desert, are also a UNESCO World Heritage Site.\n\nThe potato originated in the Andes, and Peru grows thousands of varieties. Peruvian cuisine, including ceviche, is celebrated worldwide. Lake Titicaca, shared with Bolivia, is the highest navigable lake in the world, and llamas and alpacas are common in the highlands.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Peru.svg?width=800"
+    },
+    {
+      "id": "cuba",
+      "title": "Cuba",
+      "description": "The largest island of the Caribbean, known for music and classic cars.",
+      "content": "Cuba is an island country in the Caribbean, made up of the main island and many smaller ones, with its capital in Havana and a population of about 11 million. It is the largest island in the Caribbean. Spanish is the official language, and the currency is the Cuban peso.\n\nCuba was a Spanish colony until 1898, and sugar and tobacco have been its main crops. The Revolution of 1959 changed its political system. Old Havana, with its colonial architecture, is a UNESCO World Heritage Site, and the streets are known for their classic American cars from the 1950s.\n\nCuban music, including son, salsa and rumba, has influenced the world, and Cuban cigars are famous. The writer Ernest Hemingway lived in Cuba for many years. Baseball and boxing are the most popular sports.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Cuba.svg?width=800"
+    },
+    {
+      "id": "venezuela",
+      "title": "Venezuela",
+      "description": "The South American home of Angel Falls and vast oil reserves.",
+      "content": "Venezuela is a country on the northern coast of South America with its capital in Caracas and a population of about 28 million. Spanish is the official language, and the currency is the bolívar. It has Caribbean beaches, the Andes, the Orinoco plains and part of the Amazon rainforest.\n\nAngel Falls, at 979 metres, is the highest uninterrupted waterfall in the world, plunging from a flat-topped mountain called a tepui in the Canaima National Park. Lake Maracaibo, a large brackish lake, is one of the oldest in the world. Venezuela has the largest proven oil reserves in the world.\n\nIts name, meaning Little Venice, was given by explorers who saw houses built on stilts over the water in 1499. The independence leader Simón Bolívar was born in Caracas in 1783. The arepa, a maize cake, is the national food.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Venezuela.svg?width=800"
+    },
+    {
+      "id": "ecuador",
+      "title": "Ecuador",
+      "description": "The country on the equator, home of the Galápagos Islands.",
+      "content": "Ecuador is a small country in north-western South America named for the equator, which runs through it. Its capital is Quito, high in the Andes, and its population is about 18 million. Spanish is the official language, and the currency is the US dollar.\n\nIt has four regions: the Pacific coast, the Andean highlands with volcanoes such as Cotopaxi, the Amazon rainforest, and the Galápagos Islands, about 1,000 kilometres offshore. There, Charles Darwin studied giant tortoises and finches in 1835, which helped him to develop his theory of evolution.\n\nQuito's historic centre was among the first places to be named a UNESCO World Heritage Site, in 1978. Ecuador is one of the world's largest exporters of bananas and also grows cacao and flowers, especially roses.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ecuador.svg?width=800"
+    },
+    {
+      "id": "bolivia",
+      "title": "Bolivia",
+      "description": "The high Andean country of salt flats and two capitals.",
+      "content": "Bolivia is a landlocked country in central South America. It has two capitals: Sucre, the constitutional capital, and La Paz, the seat of government, which at about 3,650 metres is the highest administrative capital in the world. The population is about 12 million. Spanish and 36 indigenous languages, such as Quechua and Aymara, are official, and the currency is the boliviano.\n\nThe Salar de Uyuni, the world's largest salt flat, covers about 10,000 square kilometres and turns into a giant mirror after rain. It also holds huge deposits of lithium, used in batteries. Lake Titicaca, shared with Peru, lies on the border.\n\nBolivia lost its coastline to Chile in the War of the Pacific in 1879–1884. The ruins of Tiwanaku are a pre-Inca site, and the silver mines of Potosí were once among the richest in the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Bolivia.svg?width=800"
+    },
+    {
+      "id": "uruguay",
+      "title": "Uruguay",
+      "description": "A small South American country with a big football history.",
+      "content": "Uruguay is a small country in South America, between Argentina and Brazil, with its capital in Montevideo and a population of about 3.4 million. Spanish is the official language, and the currency is the peso. It has gently rolling grasslands and Atlantic beaches, including the resort of Punta del Este.\n\nThe country gained independence in 1828. It hosted and won the first FIFA World Cup in 1930 and won again in 1950. Uruguay is known for its gaucho cowboy tradition, beef and the drink mate, a herbal tea that people carry in a gourd.\n\nUruguay is regarded as one of the most stable democracies in Latin America. In 2013 it became the first country to legalise the regulated sale of cannabis nationwide. Its Carnival, which lasts over 40 days, is said to be the longest in the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Uruguay.svg?width=800"
+    },
+    {
+      "id": "costa-rica",
+      "title": "Costa Rica",
+      "description": "A green Central American country of rainforests and pura vida.",
+      "content": "Costa Rica is a small country in Central America with coasts on the Pacific Ocean and the Caribbean Sea, with its capital in San José and a population of about 5.2 million. Spanish is the official language, and the currency is the colón.\n\nThe country abolished its army in 1948 and put the money into education and health. Costa Rica has only 0.03% of the Earth's land area but is home to roughly 5% of the world's species. About a quarter of its land is protected in national parks and reserves, and ecotourism is a leading industry.\n\nAlmost all of its electricity comes from renewable sources such as hydropower, geothermal and wind. Coffee and bananas are major exports, and the national motto, pura vida, means pure life. Its volcanoes include Arenal, and sea turtles nest on its beaches.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Costa_Rica.svg?width=800"
+    },
+    {
+      "id": "jamaica",
+      "title": "Jamaica",
+      "description": "The Caribbean island of reggae, Blue Mountain coffee and sprinters.",
+      "content": "Jamaica is an island country in the Caribbean Sea with its capital in Kingston and a population of about 2.8 million. English is the official language, but most people also speak Jamaican Patois. The currency is the Jamaican dollar. It gained independence from Britain in 1962.\n\nThe island is famous for reggae, which came from Kingston in the late 1960s, and its best-known star, Bob Marley. The Rastafari movement also began in Jamaica. Blue Mountain coffee is among the most prized in the world, and the spicy jerk seasoning is a national dish.\n\nThe Blue Mountains rise to more than 2,200 metres, and the island has waterfalls and beaches. For its size, Jamaica is a sporting giant: Usain Bolt set the 100 metres world record of 9.58 seconds in 2009. The island also entered a bobsled team in the Winter Olympics in 1988.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Jamaica.svg?width=800"
+    },
+    {
+      "id": "australia",
+      "title": "Australia",
+      "description": "The island continent of unique wildlife and vast outback.",
+      "content": "Australia is a country that covers the entire continent of Australia and the island of Tasmania, and it is the sixth-largest country in the world. Its capital is Canberra, and its largest cities are Sydney and Melbourne. The population is about 27 million, and English is the main language. The currency is the Australian dollar.\n\nThe Aboriginal and Torres Strait Islander peoples have lived on the continent for at least 60,000 years, one of the oldest continuous cultures in the world. Modern Australia was formed when British colonies federated in 1901. Most people live along the coast, while the centre is a dry region called the Outback, where Uluru, a sacred sandstone monolith, stands.\n\nThe country is home to unique animals such as kangaroos, koalas and platypuses. The Great Barrier Reef is the largest coral reef system in the world, and the Sydney Opera House is one of its best-known buildings.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Australia_(converted).svg?width=800"
+    },
+    {
+      "id": "new-zealand",
+      "title": "New Zealand",
+      "description": "An island nation of dramatic landscapes and Māori culture.",
+      "content": "New Zealand is an island nation in the south-western Pacific, made up of two main islands and many smaller ones, with its capital in Wellington and a population of about 5.2 million. English, Māori and New Zealand Sign Language are official languages, and the currency is the New Zealand dollar.\n\nThe Māori arrived from Polynesia about 700 years ago and call the country Aotearoa, often translated as land of the long white cloud. New Zealand became a British colony in 1840, after the Treaty of Waitangi. In 1893 it became the first country in the world to give women the right to vote in national elections.\n\nThe landscapes range from volcanoes and geysers to fjords and glaciers, and were used for The Lord of the Rings films. The kiwi, a flightless bird, is its symbol. Sheep greatly outnumber people, and the All Blacks rugby team performs the haka before matches.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_New_Zealand.svg?width=800"
+    },
+    {
+      "id": "papua-new-guinea",
+      "title": "Papua New Guinea",
+      "description": "A land of rainforests and more than 800 languages.",
+      "content": "Papua New Guinea occupies the eastern half of the island of New Guinea and many smaller islands in the south-western Pacific. Its capital is Port Moresby, and its population is about 10 million. The official languages are English, Tok Pisin and Hiri Motu, and the currency is the kina.\n\nIt is the most linguistically diverse country in the world, with more than 800 languages spoken by different communities, many of them in remote mountain valleys and along rivers. Most people live in villages and rely on farming, and traditional customs remain strong. The country became independent from Australia in 1975.\n\nIts rainforests contain birds-of-paradise, tree kangaroos and huge numbers of insects. The Kokoda Track, a World War II battle trail, is a popular trek. Coffee, palm oil, gold and gas are major exports.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Papua_New_Guinea.svg?width=800"
+    },
+    {
+      "id": "fiji",
+      "title": "Fiji",
+      "description": "A Pacific archipelago of coral reefs and warm hospitality.",
+      "content": "Fiji is an island country in the South Pacific made up of about 330 islands, of which around 110 are inhabited. Its capital is Suva, on the largest island, Viti Levu, and its population is about 930,000. English, Fijian and Fiji Hindi are official languages, and the currency is the Fijian dollar.\n\nThe islands gained independence from Britain in 1970. The population includes indigenous Fijians and many people of Indian descent, whose ancestors came to work on sugar plantations in the 19th century. Fijian culture is known for the kava ceremony, in which a mildly sedative drink is shared, and traditional firewalking.\n\nCoral reefs, white beaches and lagoons attract divers and tourists. Rugby is the national passion, and Fiji won the first Olympic gold medal in rugby sevens at the 2016 Rio Games.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Fiji.svg?width=800"
+    },
+    {
+      "id": "paraguay",
+      "title": "Paraguay",
+      "description": "A landlocked heart of South America with two official languages.",
+      "content": "Paraguay is a landlocked country in the centre of South America with its capital in Asunción and a population of about 6.9 million. Both Spanish and Guaraní are official languages, and most Paraguayans speak Guaraní, an indigenous language, which is rare in Latin America. The currency is the guaraní.\n\nThe Paraguay River divides the country into a fertile eastern region and the dry Chaco plain in the west. The Itaipu Dam, on the border with Brazil, is one of the largest hydroelectric power stations in the world, and Paraguay exports much of the electricity it produces.\n\nIn the 17th and 18th centuries, Jesuit missions built settlements in the region, and their ruins are a UNESCO World Heritage Site. The traditional drink is tereré, cold yerba mate tea, and the harp is the national instrument.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Paraguay.svg?width=800"
+    },
+    {
+      "id": "guatemala",
+      "title": "Guatemala",
+      "description": "The heart of the Maya world in Central America.",
+      "content": "Guatemala is a country in Central America with its capital in Guatemala City and a population of about 18 million. Spanish is the official language, and about 20 Maya languages are also spoken. The currency is the quetzal, named for the colourful national bird.\n\nThe country was the heart of the ancient Maya civilisation, and Tikal, a great city in the northern rainforest, has pyramids that rise above the jungle canopy. About 40% of Guatemalans belong to Maya groups, and many wear traditional hand-woven clothing with bright patterns.\n\nGuatemala has more than 30 volcanoes, some of them active, and lakes such as Lake Atitlán, surrounded by volcanoes. The colonial city of Antigua Guatemala is a UNESCO World Heritage Site. Coffee, bananas and sugar are important exports.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Guatemala.svg?width=800"
+    },
+    {
+      "id": "panama",
+      "title": "Panama",
+      "description": "The isthmus that connects the Atlantic and the Pacific.",
+      "content": "Panama is a country on the narrow isthmus that joins North and South America, with its capital in Panama City and a population of about 4.4 million. Spanish is the official language, and the currency is the balboa, although the US dollar is used in daily life.\n\nThe Panama Canal, opened in 1914, cuts across the isthmus for about 80 kilometres, allowing ships to pass between the Atlantic and Pacific oceans without sailing around South America. It was expanded in 2016 with new, larger locks. Around 5% of world maritime trade passes through it.\n\nPanama City has a modern skyline of skyscrapers and the historic district of Casco Viejo, a UNESCO World Heritage Site. The country's rainforests, islands and coral reefs are rich in wildlife. The so-called Panama hat actually originated in Ecuador but was shipped through Panama.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Panama.svg?width=800"
+    },
+    {
+      "id": "cambodia",
+      "title": "Cambodia",
+      "description": "The land of Angkor Wat and the Khmer Empire.",
+      "content": "Cambodia is a country in Southeast Asia with its capital in Phnom Penh and a population of about 17 million. Khmer is the official language, and the currency is the riel, although the US dollar is widely used. It is centred on the Mekong River and the great lake Tonlé Sap, which swells and shrinks with the seasons.\n\nThe Khmer Empire ruled much of Southeast Asia from the 9th to the 15th century. Its greatest monument is Angkor Wat, built in the 12th century under King Suryavarman II, the largest religious monument in the world and a UNESCO World Heritage Site since 1992. It appears on the national flag.\n\nCambodia became independent from France in 1953. In 1975–1979 the Khmer Rouge regime caused the deaths of about two million people, and the country has since rebuilt. Today tourism, textiles and rice farming are important.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Cambodia.svg?width=800"
+    },
+    {
+      "id": "maldives",
+      "title": "Maldives",
+      "description": "A chain of coral atolls in the Indian Ocean.",
+      "content": "The Maldives is an island nation in the Indian Ocean south-west of India, made up of about 1,190 coral islands grouped into 26 atolls. Its capital is Malé, and its population is about 520,000. Dhivehi is the official language, and the currency is the rufiyaa.\n\nIt is the lowest country on Earth, with an average height of about 1.5 metres above sea level, and its highest natural point is only about 2.4 metres, so rising sea levels threaten its future. The islands gained independence from Britain in 1965. Islam is the state religion.\n\nTurquoise lagoons, white beaches and coral reefs make it a major luxury tourism destination, with resorts on private islands. Fishing, especially for tuna, is the traditional industry.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Maldives.svg?width=800"
+    },
+    {
+      "id": "bhutan",
+      "title": "Bhutan",
+      "description": "The Himalayan kingdom that measures Gross National Happiness.",
+      "content": "Bhutan is a small kingdom in the eastern Himalayas between India and China, with its capital in Thimphu and a population of about 780,000. Dzongkha is the official language, and the currency is the ngultrum. Most people follow Vajrayana Buddhism, and monasteries and fortresses called dzongs are found across the country.\n\nThe country is famous for Gross National Happiness, a philosophy of development that values well-being and culture alongside economic growth. Bhutan protects its environment: more than 70% of its land is forest, and it absorbs more carbon than it emits. Television and the internet were only introduced in 1999.\n\nIts most famous sight is Paro Taktsang, the Tiger's Nest, a monastery clinging to a cliff about 900 metres above the Paro Valley. Archery is the national sport, and people wear traditional clothes, the gho for men and the kira for women.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Bhutan.svg?width=800"
+    }
+  ]
+}

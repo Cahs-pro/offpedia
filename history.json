@@ -1,0 +1,699 @@
+{
+  "category": "history",
+  "articles": [
+    {
+      "id": "stone-age",
+      "title": "The Stone Age",
+      "description": "The long era when humans made tools from stone.",
+      "content": "The Stone Age is the vast period of prehistory, lasting from about 2.6 million years ago until roughly 5,000 years ago in some places, when people made tools mostly from stone, bone and wood. It is divided into the Paleolithic, Mesolithic and Neolithic periods.\n\nDuring the Paleolithic, early humans lived as hunter-gatherers in small groups. They learned to control fire, perhaps more than a million years ago, made spears and hand axes and later sewed clothes. Our own species, Homo sapiens, appeared in Africa about 300,000 years ago and spread across the world, meeting other humans such as the Neanderthals.\n\nArt appeared in the form of cave paintings, carvings and jewellery. In Azerbaijan, Azykh Cave holds traces of some of the oldest human presence in the Caucasus, and the rock engravings of Gobustan record life over thousands of years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ggantija_Temples%2C_Xaghra%2C_Gozo.jpg?width=800"
+    },
+    {
+      "id": "neolithic-revolution",
+      "title": "The Neolithic Revolution",
+      "description": "The birth of farming and settled life.",
+      "content": "The Neolithic Revolution was the change from hunting and gathering to farming and settled life. It began about 11,500 years ago in the Fertile Crescent of the Middle East and later arose independently in China, the Americas and elsewhere.\n\nPeople domesticated plants such as wheat, barley, lentils and rice, and animals such as goats, sheep, cattle and pigs. At Göbekli Tepe in Turkey, hunters built monumental stone pillars as early as about 9500 BCE, perhaps before farming began. Villages such as Çatalhöyük grew into small towns, and in the South Caucasus, farming communities of the Shomu-Shulaveri culture, including in Azerbaijan, grew crops and kept animals about 8,000 years ago.\n\nFarming produced surpluses, which allowed specialised jobs, trade, rulers and eventually cities and writing. It also brought new problems, such as crowded living, disease and inequality.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fertile_crescent_Neolithic_B_circa_7500_BC.svg?width=800"
+    },
+    {
+      "id": "sumer",
+      "title": "Sumer",
+      "description": "The first civilisation, in southern Mesopotamia.",
+      "content": "Sumer was the earliest known urban civilisation, which arose in southern Mesopotamia, in present-day Iraq, around 4500 to 4000 BCE. It consisted of independent city-states such as Uruk, Ur and Lagash, each with its own ruler and patron god.\n\nThe Sumerians invented cuneiform writing around 3400 BCE, pressed with a reed stylus into clay tablets, and they used the wheel and the plough and dug irrigation canals. They developed a counting system based on 60, which is why we have 60 minutes in an hour and 360 degrees in a circle. Their temples, called ziggurats, rose above the cities.\n\nThe Epic of Gilgamesh, one of the oldest works of literature, comes from Sumer. Around 2334 BCE Sargon of Akkad conquered the Sumerian cities and built the first empire.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sumer_satellite_map.jpg?width=800"
+    },
+    {
+      "id": "babylon",
+      "title": "Babylon",
+      "description": "The great city of Hammurabi and Nebuchadnezzar.",
+      "content": "Babylon was an ancient city on the Euphrates River, in present-day Iraq, that was the capital of successive Mesopotamian empires. It rose to power under King Hammurabi, who ruled from about 1792 to 1750 BCE.\n\nHammurabi is famous for his law code, carved on a stone pillar, which set out about 282 laws and punishments and is one of the earliest written legal codes. Under King Nebuchadnezzar II in the 6th century BCE, the city was at its most splendid, with the blue-glazed Ishtar Gate, the Etemenanki ziggurat, and, according to tradition, the Hanging Gardens, one of the Seven Wonders of the Ancient World.\n\nBabylonian astronomers recorded the movements of planets and predicted eclipses. Cyrus the Great of Persia took the city in 539 BCE. Its ruins, in Iraq, became a UNESCO World Heritage Site in 2019.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ishtar_Gate.jpg?width=800"
+    },
+    {
+      "id": "ancient-egypt",
+      "title": "Ancient Egypt",
+      "description": "The Nile civilisation of pharaohs and pyramids.",
+      "content": "Ancient Egypt was a civilisation that flourished along the Nile for about three thousand years, from around 3100 BCE until its conquest by Rome in 30 BCE. The yearly flooding of the Nile made the valley fertile, supporting farming and a strong central state ruled by pharaohs.\n\nEgyptians built the pyramids at Giza as royal tombs around 2600–2500 BCE, developed hieroglyphic writing, a 365-day calendar and advanced medicine, and practised mummification because they believed in life after death. Egypt's history is divided into the Old, Middle and New Kingdoms, separated by periods of unrest.\n\nThe Rosetta Stone, found in 1799, allowed Jean-François Champollion to decipher hieroglyphs in 1822. Famous rulers include Hatshepsut, Ramses II and Cleopatra VII, and Tutankhamun's tomb, found in 1922, revealed treasures of the New Kingdom.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ancient_Egypt_map-en.svg?width=800"
+    },
+    {
+      "id": "indus-valley-civilisation",
+      "title": "The Indus Valley Civilisation",
+      "description": "The early urban culture of the Indus and its cities.",
+      "content": "The Indus Valley Civilisation, also called the Harappan civilisation, flourished in what is now Pakistan and north-west India from about 3300 to 1300 BCE, at its peak between about 2600 and 1900 BCE. It was one of the first three great urban cultures, along with Mesopotamia and Egypt.\n\nIts cities, such as Harappa and Mohenjo-daro, were carefully planned, with straight streets on grids, brick houses and advanced drainage systems with covered sewers. Mohenjo-daro had a large public bath, called the Great Bath. The people used standard weights and measures and traded with Mesopotamia.\n\nThey also had a script of symbols on seals that has never been deciphered, so much about their beliefs and government remains unknown. The reasons for the decline of the cities are debated, but changes in climate and rivers may have played a role.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Indus_Valley_Civilization%2C_Mature_Phase_(2600-1900_BCE).png?width=800"
+    },
+    {
+      "id": "phoenicians",
+      "title": "The Phoenicians",
+      "description": "The seafaring traders who spread the alphabet.",
+      "content": "The Phoenicians were a seafaring people from the coast of present-day Lebanon, whose city-states, such as Tyre, Sidon and Byblos, flourished from about 1500 to 300 BCE. They were the great traders and sailors of the ancient Mediterranean.\n\nThey were famous for purple dye made from the murex sea snail, which was so expensive that purple became the colour of royalty, and for cedar wood. Their ships travelled across the Mediterranean and beyond, founding colonies such as Carthage, traditionally in 814 BCE, and settlements in Spain and North Africa.\n\nAbout 1050 BCE they developed a simple alphabet of 22 letters for consonants. The Greeks adapted it and added vowels, and so it became the ancestor of the Latin and many other alphabets.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phoenicia_map-en.svg?width=800"
+    },
+    {
+      "id": "persian-empire",
+      "title": "The Persian Empire",
+      "description": "The first great world empire, founded by Cyrus.",
+      "content": "The Achaemenid Persian Empire was founded by Cyrus the Great in about 550 BCE. At its height, under Darius I, it stretched from Egypt and the Balkans to the Indus valley and was the largest empire the world had yet seen.\n\nIt was governed by provinces called satrapies, each run by a governor, and connected by the Royal Road, which was about 2,700 kilometres long. The Persians were relatively tolerant of the religions and customs of the peoples they ruled: the Cyrus Cylinder, from 539 BCE, is often seen as an early statement of this policy. The state religion was Zoroastrianism.\n\nPersian kings built the grand palaces of Persepolis and Susa. The empire fought the Greeks in the Persian Wars, including the Battle of Marathon in 490 BCE, and it finally fell to Alexander the Great in 330 BCE.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Achaemenid_Empire_500_BCE.jpg?width=800"
+    },
+    {
+      "id": "ancient-greece",
+      "title": "Ancient Greece",
+      "description": "The birthplace of democracy, philosophy and the Olympics.",
+      "content": "Ancient Greece was a civilisation of independent city-states, such as Athens, Sparta and Corinth, that flourished around the Aegean Sea from about 800 to 146 BCE. The Greeks shared a language, religion and festivals, including the Olympic Games, which began in 776 BCE.\n\nThe Classical period, in the 5th and 4th centuries BCE, saw remarkable achievements: the first democracy in Athens, the philosophy of Socrates, Plato and Aristotle, the tragedies of Sophocles and Euripides, the history of Herodotus and Thucydides, and the medicine of Hippocrates. The Parthenon was built between 447 and 432 BCE.\n\nThe Greek city-states wore each other down in the Peloponnesian War (431–404 BCE) and were later conquered by Macedon. Greek ideas spread across the Mediterranean and Asia after Alexander's conquests, and their legacy shapes science, art and politics today.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Parthenon_(30276156187).jpg?width=800"
+    },
+    {
+      "id": "classical-athens",
+      "title": "Classical Athens",
+      "description": "The city where democracy was born.",
+      "content": "Classical Athens was the city-state of Athens in the 5th and 4th centuries BCE, the cultural heart of ancient Greece. In 508 BCE Cleisthenes introduced reforms that created the first democracy, meaning rule by the people.\n\nCitizens gathered in an Assembly to debate and vote on laws, and many officials were chosen by lot. But only free adult male citizens could take part, excluding women, slaves and foreigners. Under the statesman Pericles in the mid-5th century, Athens led the Delian League, grew rich and built the Acropolis, including the Parthenon.\n\nThe city produced Socrates, who was executed in 399 BCE, his student Plato, the playwrights Aeschylus, Sophocles, Euripides and Aristophanes, and the historian Thucydides. Athens was defeated by Sparta in the Peloponnesian War, but its ideas endured.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_athenian_empire_431_BC-en.svg?width=800"
+    },
+    {
+      "id": "sparta",
+      "title": "Sparta",
+      "description": "The warrior city-state of ancient Greece.",
+      "content": "Sparta was a city-state in southern Greece, in the region of Laconia, famous for its military discipline. Its society was built around war: boys left home at the age of seven to start a harsh training programme called the agoge, and Spartan men were full-time soldiers.\n\nThe state had two kings, a council of elders and elected officials called ephors. The work of farming was done by a large population of enslaved people called helots. Spartan women had more freedom and property rights than women in other Greek cities. The word laconic, meaning using few words, comes from Laconia.\n\nIn 480 BCE, 300 Spartans and their allies held the pass of Thermopylae against the huge Persian army for days. Sparta defeated Athens in the Peloponnesian War in 404 BCE, but declined after losing to Thebes at Leuctra in 371 BCE.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spartan_Territory_Before_371_BC.png?width=800"
+    },
+    {
+      "id": "alexander-the-great",
+      "title": "Alexander the Great",
+      "description": "The young king who conquered the Persian Empire.",
+      "content": "Alexander III of Macedon, known as Alexander the Great, was born in 356 BCE, the son of King Philip II, and was taught by the philosopher Aristotle. He became king at the age of 20 in 336 BCE.\n\nIn a series of brilliant campaigns he defeated the Persian Empire, at battles such as Granicus, Issus and Gaugamela in 331 BCE, took Egypt, where he founded Alexandria, and marched east as far as India. He is said never to have lost a battle. He died in Babylon in 323 BCE, aged 32, and his generals split the empire among themselves.\n\nHis conquests spread Greek culture across Asia in what is called the Hellenistic age. After his death, the Persian governor Atropates established the state of Atropatene in the south of the Caucasus, whose name is the origin of the word Azerbaijan.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg?width=800"
+    },
+    {
+      "id": "roman-republic",
+      "title": "The Roman Republic",
+      "description": "Rome's era of Senate, consuls and conquest.",
+      "content": "The Roman Republic was the state of Rome from 509 BCE, when the Romans expelled their last king, until 27 BCE. Power was shared among elected officials called consuls, the Senate and popular assemblies, in a system of checks and balances later admired by the founders of the United States.\n\nSociety was divided between the patricians, the noble families, and the plebeians, the commoners, who won more rights over time, including the written law of the Twelve Tables in 450 BCE. Rome's citizen army, the legions, conquered Italy and then the Mediterranean, defeating Carthage in the Punic Wars.\n\nConquest brought wealth and slaves, but also inequality and political violence. Generals such as Marius, Sulla, Pompey and Julius Caesar fought civil wars, and the Republic ended when Caesar's heir Octavian became Augustus, the first emperor.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_republic%2C_territory_44_BC.svg?width=800"
+    },
+    {
+      "id": "roman-empire",
+      "title": "The Roman Empire",
+      "description": "The state that ruled the Mediterranean world for centuries.",
+      "content": "The Roman Empire was the state that Rome ruled after Augustus became its first emperor in 27 BCE. At its peak it controlled the whole Mediterranean and much of Europe, North Africa and the Middle East.\n\nRoman roads, aqueducts, law and the Latin language shaped later European civilisation. The empire reached its greatest extent under Trajan in 117 CE. In 395 CE it split into western and eastern halves; the Western Empire fell in 476 CE, while the Eastern (Byzantine) Empire survived until Constantinople fell to the Ottomans in 1453.\n\nRoman legacies include the alphabet we use today, concrete architecture, many principles of Roman law and the names of several months of the year. The empire also brought a long period of relative peace called the Pax Romana.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Empire_Trajan_117AD.png?width=800"
+    },
+    {
+      "id": "julius-caesar",
+      "title": "Julius Caesar",
+      "description": "The general who ended the Roman Republic.",
+      "content": "Gaius Julius Caesar (100–44 BCE) was a Roman general, statesman and writer. From 58 to 50 BCE he conquered Gaul, present-day France, which made him rich, famous and commander of a loyal army.\n\nIn 49 BCE, defying the Senate, he led his army across the Rubicon River into Italy, starting a civil war, after which he became dictator. His reforms included the Julian calendar, introduced in 45 BCE, with 365 days and a leap year every four years, on which our calendar is still based. The month of July is named in his honour.\n\nOn the Ides of March, 15 March 44 BCE, a group of senators, including Brutus and Cassius, stabbed him to death, fearing he wanted to be king. Their act triggered another civil war, from which his adopted heir Octavian emerged as Augustus.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg?width=800"
+    },
+    {
+      "id": "punic-wars",
+      "title": "The Punic Wars",
+      "description": "Rome's three wars against Carthage.",
+      "content": "The Punic Wars were three wars fought between Rome and Carthage, the powerful Phoenician city in North Africa, between 264 and 146 BCE. The name Punic comes from the Latin word for Phoenician.\n\nThe First Punic War was largely a naval fight over Sicily. In the Second, the Carthaginian general Hannibal famously crossed the Alps with elephants in 218 BCE and defeated the Romans at Cannae in 216 BCE, one of the greatest tactical victories in history. But Rome recovered, and Scipio Africanus defeated Hannibal at Zama in 202 BCE.\n\nIn the Third Punic War, the Romans besieged Carthage and destroyed it in 146 BCE. With Carthage gone, Rome became the dominant power of the Mediterranean.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Domain_changes_during_the_Punic_Wars_BC.gif?width=800"
+    },
+    {
+      "id": "cleopatra",
+      "title": "Cleopatra",
+      "description": "The last active queen of ancient Egypt.",
+      "content": "Cleopatra VII (69–30 BCE) was the last active ruler of the Ptolemaic Kingdom of Egypt, a dynasty founded by a Macedonian general of Alexander the Great. She was Greek-speaking but is said to have been the first of her family to learn the Egyptian language.\n\nIntelligent and politically skilled, she allied with the Roman leaders Julius Caesar and later Mark Antony to protect Egypt's independence. She had a son with Caesar, Caesarion, and children with Antony. When Antony and Cleopatra lost the naval Battle of Actium against Octavian in 31 BCE, their cause collapsed.\n\nAccording to tradition, she died in 30 BCE by the bite of an asp, avoiding capture. After her death Egypt became a province of the Roman Empire. Her story has inspired plays, paintings and films for centuries.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kleopatra-VII.-Altes-Museum-Berlin1.jpg?width=800"
+    },
+    {
+      "id": "maurya-empire",
+      "title": "The Maurya Empire",
+      "description": "The Indian empire of Chandragupta and Ashoka.",
+      "content": "The Maurya Empire was a large empire in ancient India, lasting from about 322 to 185 BCE. It was founded by Chandragupta Maurya, who took power in northern India with the help of the advisor Kautilya, credited with the political treatise Arthashastra, and ruled from the capital Pataliputra.\n\nIt reached its greatest extent under Chandragupta's grandson, Ashoka, who ruled from about 268 to 232 BCE. After a bloody campaign in Kalinga, Ashoka was horrified by the suffering and embraced Buddhism, promoting non-violence, tolerance and welfare. He recorded his policies on rock and pillar edicts, and sent missionaries to spread Buddhism to Sri Lanka and Central Asia.\n\nThe Lion Capital of Ashoka, from a pillar at Sarnath, is now the national emblem of India. The empire covered most of the subcontinent, and it split after Ashoka's successors.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maurya_Empire%2C_c.250_BCE_network_model_v01.png?width=800"
+    },
+    {
+      "id": "qin-shi-huang",
+      "title": "Qin Shi Huang",
+      "description": "The first emperor of a unified China.",
+      "content": "Qin Shi Huang, born Ying Zheng, was the king of the state of Qin who united China in 221 BCE and became its first emperor. He ended centuries of war among rival states, and the name China is thought to come from Qin.\n\nHe standardised writing, weights and measures, currency and even the width of cart axles, and divided the country into provinces run by officials, not nobles. He connected older defensive walls, which were the beginnings of the Great Wall, and built roads and canals. But he was also harsh, burning books and punishing critics.\n\nHe is buried near Xi'an in a vast tomb complex guarded by the Terracotta Army of around 8,000 life-sized clay soldiers, discovered by farmers in 1974. He died in 210 BCE, and his dynasty collapsed a few years later.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/QinShiHuang19century.jpg?width=800"
+    },
+    {
+      "id": "han-dynasty",
+      "title": "The Han Dynasty",
+      "description": "China's classical golden age.",
+      "content": "The Han dynasty ruled China from 206 BCE to 220 CE and is regarded as one of its golden ages. Its rule was so influential that the majority ethnic group in China is still called the Han people.\n\nEmperor Wu, who ruled from 141 to 87 BCE, expanded the empire and sent the envoy Zhang Qian to Central Asia, which opened the Silk Road for trade with the West. The government adopted Confucianism as its guiding philosophy and recruited officials through examinations. Paper was improved by Cai Lun in about 105 CE, and Zhang Heng built a seismoscope in 132 CE that detected earthquakes.\n\nAt its height the empire had a population of about 60 million, comparable to that of Rome, its contemporary on the other side of Eurasia. Rebellions and warlords led to its fall in 220 CE.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Han_Dynasty_2_BC_(cropped).svg?width=800"
+    },
+    {
+      "id": "caucasian-albania",
+      "title": "Caucasian Albania",
+      "description": "The ancient state in the land of present-day Azerbaijan.",
+      "content": "Caucasian Albania was an ancient state in the eastern South Caucasus, on the territory of present-day Azerbaijan and southern Dagestan, which existed from about the 4th century BCE to the 8th century CE. It has no connection to the Balkan country of Albania. The region was inhabited by about 26 tribes, including the Albanians, Udi and Lezgi.\n\nIts capital was for a time Gabala, or Qabala. Ancient writers such as Strabo described its people and its land. It was influenced by Persia, Rome and Armenia and often ruled by the Parthians and the Sasanians. In the 4th century CE, Albania adopted Christianity, and in the 5th century an Albanian alphabet was created for its language.\n\nThe Kish Church near Sheki is associated with this era. In the 8th century, the Arab caliphate conquered the region, and Islam gradually spread. In 1996 an Albanian text was discovered in a manuscript at St Catherine's Monastery in Sinai.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caucasian_Albania_in_5th_and_6th_centurires.svg?width=800"
+    },
+    {
+      "id": "byzantine-empire",
+      "title": "The Byzantine Empire",
+      "description": "The Roman Empire's Greek-speaking eastern half.",
+      "content": "The Byzantine Empire was the eastern half of the Roman Empire, which survived for about a thousand years after the fall of the West, from 330 to 1453. Its capital was Constantinople, now Istanbul, founded by Emperor Constantine, and its people called themselves Romans, though they spoke Greek and followed Orthodox Christianity.\n\nUnder Emperor Justinian I, in the 6th century, the empire retook parts of the West, and the Hagia Sophia was built in 537, as well as a great compilation of Roman law that formed the basis of many legal systems. Byzantine fire, a secret weapon that burned on water, helped defend the capital.\n\nThe empire lost land to Persians, Arabs, Seljuk Turks and, in 1204, to the Crusaders who sacked Constantinople. It fell to the Ottomans in 1453. Byzantine scholars preserved much of ancient Greek literature, and its art and religion influenced Russia and the Balkans.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eastern_Roman_Empire_565_CE.svg?width=800"
+    },
+    {
+      "id": "sasanian-empire",
+      "title": "The Sasanian Empire",
+      "description": "The last great Persian empire before Islam.",
+      "content": "The Sasanian Empire was the last Persian empire before the rise of Islam, ruling from 224 to 651 CE. It was founded by Ardashir I, who overthrew the Parthians, and its capital was Ctesiphon, near modern Baghdad.\n\nZoroastrianism was the state religion, and Sasanian kings presented themselves as the heirs of the ancient Achaemenids. For four centuries the empire was the great rival of Rome and later Byzantium. In 260 Shapur I captured the Roman emperor Valerian, and under Khosrow I in the 6th century, the empire reached its peak of prosperity and culture.\n\nThe Sasanians ruled over Caucasian Albania and built defences such as the walls of Derbent on the Caspian. The long wars with Byzantium exhausted both sides, and Arab armies defeated the Sasanians at Nahavand in 642, ending the empire by 651.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sasanian_Empire_at_its_apex_under_Khosrow_II.svg?width=800"
+    },
+    {
+      "id": "fall-of-rome",
+      "title": "The Fall of the Western Roman Empire",
+      "description": "How the Western Empire came to an end in 476 CE.",
+      "content": "The Western Roman Empire ended in 476 CE, when the Germanic general Odoacer deposed the last emperor, the boy Romulus Augustulus. It was less a single event than the result of a long decline over about two centuries.\n\nMany factors combined: waves of invasions by peoples such as the Goths, who sacked Rome in 410 under Alaric, the Vandals, who plundered it in 455, and the Huns under Attila, who ravaged Gaul and Italy in the 450s. There were also economic problems, heavy taxes, plague, civil wars and political instability, and the empire became difficult to defend.\n\nThe Eastern Empire, the Byzantine Empire, survived for another thousand years. In the West, Germanic kingdoms replaced Roman rule, and Latin evolved into French, Spanish, Italian and other languages, though Roman law and Christianity endured.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Roman_Republic_Empire_map.gif?width=800"
+    },
+    {
+      "id": "silk-road",
+      "title": "The Silk Road",
+      "description": "The trade routes that connected East Asia with the Mediterranean.",
+      "content": "The Silk Road was not a single road but a shifting network of caravan routes used from roughly the second century BCE. Silk travelled west while glass, horses, wool and ideas travelled east.\n\nCities along the way, including Samarkand and Baku on the Caspian branch, grew wealthy as staging posts. Merchants travelled in caravans of camels, often passing goods along in relays rather than crossing the whole distance themselves. Shamakhi, Ganja and Sheki were important stops in the territory of Azerbaijan.\n\nReligions, technologies such as papermaking, and unfortunately epidemics all moved along the same routes. The network declined after the 15th century as sea routes between Europe and Asia became more important.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Silk_road_Kazakhstan.svg?width=800"
+    },
+    {
+      "id": "middle-ages",
+      "title": "The Middle Ages",
+      "description": "Europe between the fall of Rome and about 1500.",
+      "content": "The Middle Ages, or medieval period, is the span in European history from the fall of the Western Roman Empire in 476 CE to roughly 1500. It is often divided into the early, high and late Middle Ages.\n\nSociety was organised by feudalism, in which lords granted land to vassals in return for loyalty and military service, and most people were peasants. The Christian Church was a powerful institution, and Gothic cathedrals, monasteries and the first universities, such as Bologna and Oxford, appeared.\n\nThe period saw the Crusades, the Viking raids and the Black Death of the 1340s, which killed perhaps a third of Europe's population. Meanwhile, the Islamic world, China and other regions experienced golden ages of science and trade.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Canterbury_Cathedral%2C_window_nXV_detail_(46220634195).jpg?width=800"
+    },
+    {
+      "id": "vikings",
+      "title": "The Vikings",
+      "description": "The Norse seafarers who raided and explored.",
+      "content": "The Vikings were seafaring people from Scandinavia who raided, traded and settled across Europe and beyond from about 793 to 1066. The Viking Age is usually said to begin with the raid on the monastery of Lindisfarne in England in 793.\n\nTheir fast, shallow longships allowed them to cross the open sea and sail up rivers. Vikings settled in England, Ireland and Normandy, whose name comes from Northmen, and founded a settlement in Iceland in about 870. Erik the Red colonised Greenland, and his son Leif Erikson reached North America around 1000, where the remains of L'Anse aux Meadows in Newfoundland have been found.\n\nSwedish Vikings, called the Rus, travelled along the rivers of Russia to Constantinople and the Caspian Sea, and in the 10th century they raided coastal towns of the Caspian, including Barda in Azerbaijan in 943. The Viking Age ended as Scandinavia turned Christian and formed kingdoms.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg?width=800"
+    },
+    {
+      "id": "charlemagne",
+      "title": "Charlemagne",
+      "description": "The king who united much of Western Europe.",
+      "content": "Charlemagne, or Charles the Great, was king of the Franks from 768 and became the first emperor in Western Europe since the fall of Rome. On Christmas Day 800, Pope Leo III crowned him Emperor of the Romans in St Peter's Basilica in Rome.\n\nBy conquest he united much of Western and Central Europe, including present-day France, Germany, northern Italy and the Low Countries, and spread Christianity. He ruled from Aachen and supported education, inviting scholars to his court in what is called the Carolingian Renaissance. A clear script called Carolingian minuscule, the ancestor of our lowercase letters, was developed then.\n\nHe died in 814, and his empire was divided among his grandsons by the Treaty of Verdun in 843, which laid the ground for France and Germany. He is sometimes called the father of Europe.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charlemagne_denier_Mayence_812_814.jpg?width=800"
+    },
+    {
+      "id": "crusades",
+      "title": "The Crusades",
+      "description": "The medieval holy wars over Jerusalem.",
+      "content": "The Crusades were a series of religious wars between 1095 and 1291, mostly launched by Western European Christians to take control of Jerusalem and the Holy Land from Muslim rulers. Pope Urban II called for the First Crusade at the Council of Clermont in 1095.\n\nThe First Crusade captured Jerusalem in 1099 and set up crusader states. In 1187 the Muslim leader Saladin retook the city, which led to the Third Crusade, in which Richard the Lionheart of England fought Saladin. The Fourth Crusade, in 1204, was diverted to sack Christian Constantinople.\n\nThe crusaders left mighty castles and stimulated trade between Europe and the Middle East, but also caused great suffering and lasting mistrust. Crusading spread to other targets in Europe as well. The last crusader stronghold, Acre, fell in 1291.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Combat_deuxi%C3%A8me_croisade.jpg?width=800"
+    },
+    {
+      "id": "mongol-empire",
+      "title": "The Mongol Empire",
+      "description": "The largest contiguous land empire in history.",
+      "content": "The Mongol Empire was founded in 1206 when Temüjin was proclaimed Genghis Khan, meaning universal ruler, of the united Mongol tribes. At its peak, in the 13th century, it stretched from Korea to Eastern Europe, covering about 24 million square kilometres, the largest contiguous land empire in history.\n\nMongol armies, made up of fast horse archers and disciplined by strict organisation, conquered China, Central Asia, Persia and Russia. They were feared for their destruction of cities that resisted, such as Baghdad in 1258. But they also protected trade and travellers along the Silk Road, a period called the Pax Mongolica, and used a relay postal system called the yam.\n\nThe empire divided into four khanates: the Yuan dynasty in China under Kublai Khan, the Golden Horde in Russia, the Chagatai Khanate in Central Asia, and the Ilkhanate in Persia, which had its capitals at Maragheh and Tabriz in Azerbaijan.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Expansion_of_the_Mongol_Empire_1206%E2%80%931294.gif?width=800"
+    },
+    {
+      "id": "black-death",
+      "title": "The Black Death",
+      "description": "The plague that killed a third of Europe.",
+      "content": "The Black Death was a devastating plague pandemic that killed tens of millions of people in Eurasia and North Africa between 1347 and 1351. It was caused by the bacterium Yersinia pestis, carried by fleas on rats.\n\nIt probably began in Central Asia and spread along trade routes. It reached Europe in 1347 when ships arrived at Sicily from the Black Sea. In a few years it killed an estimated 30% to 50% of Europe's population. Its symptoms included painful swellings called buboes and fever, and it could kill within days.\n\nCities tried quarantines, and the word comes from the Italian for forty days, the period ships had to wait before landing. The population loss caused labour shortages that raised wages and weakened feudalism. Sadly, minorities, especially Jews, were blamed and persecuted, and plague returned in waves for centuries.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1346-1353_spread_of_the_Black_Death_in_Europe_map.svg?width=800"
+    },
+    {
+      "id": "islamic-golden-age",
+      "title": "The Islamic Golden Age",
+      "description": "The centuries when science and learning flourished in the Muslim world.",
+      "content": "The Islamic Golden Age was a period of great cultural and scientific achievement in the Muslim world, from about the 8th to the 13th century. Scholars gathered in cities such as Baghdad, Cairo, Cordoba, Samarkand and Nishapur, supported by rulers and by a wealth of trade.\n\nIn the House of Wisdom in Baghdad, translators turned Greek, Persian and Indian works into Arabic. Al-Khwarizmi developed algebra, and our word algorithm comes from his name; Ibn Sina, or Avicenna, wrote the Canon of Medicine, used in Europe for centuries; Ibn al-Haytham advanced the study of optics; and al-Biruni measured the Earth's radius. Arabic numerals spread widely.\n\nUniversities, such as al-Qarawiyyin in Fez, founded in 859, hospitals, libraries and observatories flourished. Poets such as Nizami of Ganja belong to the same wider cultural world. Many historians link the end of the age with the Mongol sack of Baghdad in 1258.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Al-Idrisi's_world_map.JPG?width=800"
+    },
+    {
+      "id": "abbasid-caliphate",
+      "title": "The Abbasid Caliphate",
+      "description": "The caliphs of Baghdad.",
+      "content": "The Abbasid Caliphate was the third Islamic caliphate, ruling from 750 to 1258. The Abbasids overthrew the Umayyads and moved the capital east, founding the city of Baghdad in 762, which became the largest city in the world and a hub of trade and learning.\n\nThe caliphate's peak was under Harun al-Rashid, who ruled from 786 to 809, and his son al-Ma'mun, who supported the House of Wisdom. Papermaking, learned from Chinese prisoners, spread through the empire, making books cheaper.\n\nAzerbaijan was part of the caliphate, and in the 9th century Babak Khorramdin led a long revolt in its territory, which was suppressed in 837. Gradually the caliphs lost real power to regional dynasties. In 1258 the Mongols under Hulagu Khan sacked Baghdad and ended the caliphate.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abbasid_banner.svg?width=800"
+    },
+    {
+      "id": "seljuk-empire",
+      "title": "The Seljuk Empire",
+      "description": "The Turkic dynasty that opened Anatolia to the Turks.",
+      "content": "The Seljuk Empire was a Turkic Muslim empire that dominated Persia, Iraq and the Middle East in the 11th and 12th centuries. It was named after Seljuk, a leader of the Oghuz Turks, and grew under his grandson Tughril, who entered Baghdad in 1055 and was recognised as sultan by the Abbasid caliph.\n\nIn 1071, Alp Arslan defeated the Byzantine army at the Battle of Manzikert, which opened Anatolia to Turkish settlement. His son Malik-Shah and his wise vizier Nizam al-Mulk brought the empire to its peak. The Seljuks supported schools called madrasas and astronomy.\n\nAfter the empire split, its successor states included the Sultanate of Rum in Anatolia and, in Azerbaijan, the Eldiguzids, or Atabegs of Azerbaijan, who ruled from Nakhchivan and Tabriz. Nizami Ganjavi and many poets of the era lived under the Seljuks and their successors."
+    },
+    {
+      "id": "shirvanshahs",
+      "title": "The Shirvanshahs",
+      "description": "A long-lived dynasty of medieval Azerbaijan.",
+      "content": "The Shirvanshahs were a dynasty that ruled the region of Shirvan, in present-day Azerbaijan, for more than 600 years, from about 861 to 1538, making it one of the longest-lasting dynasties in the Islamic world. Their capital was first Shamakhi and later, after earthquakes, Baku.\n\nThe state was located on the Silk Road and was known for trade and silk. The 12th-century poet Khagani Shirvani lived at the court in Shamakhi. In the 15th century the Shirvanshahs built the palace complex in the Old City of Baku, which is now a UNESCO World Heritage Site, and possibly the Maiden Tower was in their fortifications.\n\nThe Shirvanshahs often had to seek protection from stronger neighbours, such as the Timurids, the Ottomans and the Safavids. The dynasty ended in 1538 when the Safavid Shah Tahmasp I took control of Shirvan.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Caucasus_1311_AD_map_de_alt.svg?width=800"
+    },
+    {
+      "id": "marco-polo",
+      "title": "Marco Polo",
+      "description": "The Venetian merchant who travelled to China.",
+      "content": "Marco Polo (1254–1324) was a Venetian merchant and explorer. In 1271 he left Venice with his father and uncle, and travelled overland along the Silk Road to the court of Kublai Khan in China, where he spent about 17 years, serving the Mongol emperor before returning in 1295.\n\nHis travels became famous through a book, The Travels of Marco Polo, which he dictated to the writer Rustichello da Pisa while imprisoned in Genoa around 1298. It introduced Europeans to the wonders of Asia, such as paper money, coal and the great cities of China, and inspired later explorers, including Columbus.\n\nIn it he also mentions the oil that gushed out of the ground near Baku, which people used for burning and for treating camels. Some scholars doubt parts of his account, but historians consider it a rich source of information about Asia in the 13th century.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Frontispice_%C3%A9dition_de_Nuremberg_1477_(cropped).png?width=800"
+    },
+    {
+      "id": "timur",
+      "title": "Timur",
+      "description": "The conqueror who built an empire from Samarkand.",
+      "content": "Timur, also known as Tamerlane, was a Turco-Mongol conqueror who lived from 1336 to 1405 and founded the Timurid Empire. Born near Samarkand, he rose to power in Central Asia and made Samarkand his glorious capital.\n\nHe led campaigns across Persia, the Caucasus, Iraq, Russia and India, capturing Delhi in 1398, and in 1402 defeated the Ottoman sultan Bayezid I at the Battle of Ankara. He was a brilliant but ruthless commander, and his conquests brought great destruction and loss of life. He campaigned in Azerbaijan and Georgia in the 1380s and 1390s.\n\nHe also brought craftsmen and scholars to Samarkand and built magnificent buildings, such as the Gur-e-Amir. His grandson Ulugh Beg was a famous astronomer. Timur died in 1405 while marching to invade China, and his descendants later founded the Mughal Empire in India.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Timur_reconstruction03.jpg?width=800"
+    },
+    {
+      "id": "ottoman-empire",
+      "title": "The Ottoman Empire",
+      "description": "The empire that lasted from 1299 to 1922.",
+      "content": "The Ottoman Empire was a multi-ethnic state founded around 1299 by Osman I in Anatolia, and it lasted until 1922. It grew into one of the great powers of the world after Mehmed II conquered Constantinople in 1453.\n\nUnder Suleiman the Magnificent in the 16th century it stretched from Hungary to Yemen and from Algeria to the Caspian Sea, controlling key trade routes. Its capital, Istanbul, was a meeting point of Muslim, Christian and Jewish communities. The architect Mimar Sinan built magnificent mosques.\n\nThe empire weakened over the 19th century and joined the losing side in World War I. The Sultanate was abolished in 1922, and in 1923 the Republic of Turkey was founded under Mustafa Kemal Atatürk.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Ottoman_Empire_(1844%E2%80%931922).svg?width=800"
+    },
+    {
+      "id": "fall-of-constantinople",
+      "title": "The Fall of Constantinople",
+      "description": "The 1453 conquest that ended the Byzantine Empire.",
+      "content": "The Fall of Constantinople was the capture of the capital of the Byzantine Empire by the Ottoman Turks on 29 May 1453. It marked the end of the Roman Empire, which had lasted for more than 1,400 years.\n\nThe Ottoman sultan Mehmed II, aged 21, besieged the city for 53 days with an army of many thousands and a fleet. The city's great walls had held for centuries, but Ottoman cannons, including a giant one built by the engineer Orban, broke them. The last Byzantine emperor, Constantine XI, died fighting.\n\nMehmed made the city his capital, which later became Istanbul, and converted the Hagia Sophia into a mosque. Greek scholars fled to Italy, bringing manuscripts that helped fuel the Renaissance. The Ottomans' control of trade routes encouraged Europeans to seek sea routes to Asia.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siege_of_Constantinople_fresco%2C_Moldovi%C8%9Ba_monastery%2C_Vatra_Moldovi%C8%9Bei%2C_2017.jpg?width=800"
+    },
+    {
+      "id": "safavid-empire",
+      "title": "The Safavid Empire",
+      "description": "The dynasty from Ardabil that made Iran Shia.",
+      "content": "The Safavid dynasty ruled Persia from 1501 to 1736. It began as a Sufi order in Ardabil, in north-western Iran, and its young leader Ismail I was proclaimed shah in Tabriz in 1501, when he was about 14.\n\nIsmail's supporters were Turkic tribes called the Qizilbash, and the Azerbaijani language was widely spoken at court. Ismail himself wrote poetry in Azerbaijani under the pen name Khatai. He made Twelver Shia Islam the state religion, a decision that shaped the identity of Iran. In 1514 the Ottomans defeated him at Chaldiran.\n\nThe dynasty peaked under Shah Abbas I, who moved the capital to Isfahan in 1598 and built the splendid Naqsh-e Jahan Square, and encouraged arts such as carpet weaving and miniature painting. The empire declined in the 18th century and fell to an Afghan invasion in 1722.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Safavid_Flag.svg?width=800"
+    },
+    {
+      "id": "mughal-empire",
+      "title": "The Mughal Empire",
+      "description": "The Muslim empire that ruled most of India.",
+      "content": "The Mughal Empire ruled much of the Indian subcontinent from 1526 to 1857. It was founded by Babur, a descendant of Timur and Genghis Khan, who defeated the Sultan of Delhi at the Battle of Panipat in 1526.\n\nThe empire flourished under his grandson Akbar, who ruled from 1556 to 1605, expanded the territory, and was known for religious tolerance and a strong administration. His descendants Jahangir and Shah Jahan were patrons of art and architecture. Shah Jahan built the Taj Mahal, between 1632 and 1653, as a tomb for his wife Mumtaz Mahal, as well as the Red Fort in Delhi.\n\nAt its height the empire was one of the wealthiest states in the world. It declined after the reign of Aurangzeb, who died in 1707, and the last emperor was deposed by the British after the Rebellion of 1857."
+    },
+    {
+      "id": "renaissance",
+      "title": "The Renaissance",
+      "description": "Europe's rebirth of art, science and learning.",
+      "content": "The Renaissance, meaning rebirth, was a period of great cultural change in Europe from about the 14th to the 17th century. It began in Italy, in cities such as Florence, and drew inspiration from classical Greece and Rome.\n\nArtists such as Leonardo da Vinci, Michelangelo and Raphael developed perspective and realistic anatomy. Humanist thinkers put the human being at the centre of study, and scientists such as Copernicus and Galileo challenged old ideas about the universe. The printing press, invented about 1440, spread these ideas widely.\n\nThe Renaissance changed painting, sculpture, architecture, literature and science, and its influence can be seen in universities, museums and cities today. Wealthy patrons such as the Medici family of Florence supported the arts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Da_Vinci_Vitruve_Luc_Viatour.jpg?width=800"
+    },
+    {
+      "id": "printing-press",
+      "title": "The Printing Press",
+      "description": "Movable type made books cheap enough to spread widely.",
+      "content": "Around 1440 Johannes Gutenberg combined movable metal type, oil-based ink and a screw press adapted from winemaking. His Gutenberg Bible, printed about 1455, was the first major book printed in Europe with movable type.\n\nPrinting had earlier roots in Asia: woodblock printing was used in China and Korea, the Diamond Sutra of 868 is the oldest dated printed book, and Bi Sheng invented movable clay type in China around 1040. But the Latin alphabet, with its few letters, suited movable type especially well.\n\nWithin fifty years printing shops had appeared across Europe, and by 1500 perhaps 20 million books were in circulation, transforming literacy, science and religion. It helped spread the ideas of the Renaissance and the Reformation, and made possible newspapers and mass education.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gutenberg_press.png?width=800"
+    },
+    {
+      "id": "age-of-discovery",
+      "title": "The Age of Discovery",
+      "description": "When European ships opened the sea routes of the world.",
+      "content": "The Age of Discovery, or Age of Exploration, was a period from the 15th to the 17th century when European sailors explored the oceans and reached the Americas, Africa and Asia by sea. It was driven by the search for trade routes to Asia, wealth, and the spread of Christianity.\n\nPortugal led the way. Prince Henry the Navigator sponsored expeditions along the African coast, Bartolomeu Dias rounded the Cape of Good Hope in 1488, and Vasco da Gama reached India in 1498. In 1492 Columbus, sailing for Spain, arrived in the Caribbean, and between 1519 and 1522 the expedition begun by Ferdinand Magellan made the first voyage around the world.\n\nThe voyages created the Columbian Exchange of plants, animals and diseases between hemispheres, bringing potatoes and maize to Europe and horses to America. But they also began European colonisation, the deaths of millions of Indigenous people from disease and conquest, and the Atlantic slave trade.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Theatrum_Orbis_Terrarum%2C_by_Abraham_Ortelius%2C_World%2C_1572.jpg?width=800"
+    },
+    {
+      "id": "christopher-columbus",
+      "title": "Christopher Columbus",
+      "description": "The navigator whose voyages linked Europe and the Americas.",
+      "content": "Christopher Columbus (1451–1506) was an Italian navigator from Genoa who sailed under the Spanish crown. He believed he could reach Asia by sailing west across the Atlantic, and after years of seeking support, Queen Isabella and King Ferdinand backed his expedition.\n\nHe set sail on 3 August 1492 with three ships, the Niña, the Pinta and the Santa María, and landed on an island in the Bahamas on 12 October. He thought he had reached the Indies, and so called the people he met Indians. He made four voyages to the Caribbean and the coast of Central and South America.\n\nHis voyages started sustained contact between Europe and the Americas, which transformed the world but also brought devastation for Indigenous peoples. Historians today discuss his legacy critically. He died in Spain in 1506, still believing he had reached Asia.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg?width=800"
+    },
+    {
+      "id": "aztec-empire",
+      "title": "The Aztec Empire",
+      "description": "The Mexica empire and its island capital, Tenochtitlan.",
+      "content": "The Aztec Empire was a powerful state in central Mexico in the 15th and early 16th centuries, led by the Mexica people. In 1325 they founded their capital Tenochtitlan on an island in Lake Texcoco, on the site of today's Mexico City.\n\nIn 1428 the Mexica formed the Triple Alliance with two other cities, and the empire grew by conquest and demanded tribute from many peoples. Tenochtitlan had about 200,000 people, larger than most European cities of the time, with causeways, canals, markets and the great Templo Mayor. Farmers grew crops on floating gardens called chinampas.\n\nAztec religion involved elaborate rituals, including human sacrifice. In 1519 the Spanish conquistador Hernán Cortés arrived, and with local allies and the devastation of smallpox, took Tenochtitlan in 1521. The Nahuatl language and foods such as chocolate, maize and tomatoes remain part of Mexican culture.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aztec_Empire_ME_(orthographic_projection).svg?width=800"
+    },
+    {
+      "id": "inca-empire",
+      "title": "The Inca Empire",
+      "description": "The largest empire of the pre-Columbian Americas.",
+      "content": "The Inca Empire, called Tawantinsuyu, meaning the four regions, was the largest empire in the pre-Columbian Americas. It grew from the city of Cusco in the Peruvian Andes, and expanded rapidly from 1438 under the ruler Pachacuti, until it stretched about 4,000 kilometres along the western coast of South America, with perhaps 10 million people.\n\nThe Incas had no writing or wheeled transport, but built a network of about 40,000 kilometres of roads, called the Qhapaq Ñan, with rope bridges and relay runners, and recorded information with knotted strings called quipus. They farmed on terraces, and constructed stonework so precise that many buildings survive, such as Machu Picchu.\n\nThe empire was weakened by a civil war and smallpox when the Spanish under Francisco Pizarro arrived in 1532. They captured the emperor Atahualpa, and by 1533 had taken Cusco. Quechua, the Inca language, is still spoken by millions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Suntur_Paucar.svg?width=800"
+    },
+    {
+      "id": "reformation",
+      "title": "The Protestant Reformation",
+      "description": "The movement that split Western Christianity.",
+      "content": "The Protestant Reformation was a religious movement that began in Europe in the 16th century and led to the creation of Protestant churches separate from the Catholic Church. It is traditionally dated from 31 October 1517, when the German monk Martin Luther published his Ninety-five Theses in Wittenberg, criticising the sale of indulgences.\n\nThe printing press spread his ideas quickly, and Luther translated the Bible into German. Other reformers followed, such as John Calvin in Geneva and Huldrych Zwingli in Zurich. In England, King Henry VIII broke from Rome in 1534 and founded the Church of England.\n\nThe Catholic Church responded with the Counter-Reformation. Religious conflict led to wars, including the Thirty Years' War (1618–1648), which ended with the Peace of Westphalia. The Reformation reshaped politics, education and culture across Europe."
+    },
+    {
+      "id": "ming-dynasty",
+      "title": "The Ming Dynasty",
+      "description": "The Chinese dynasty of the Forbidden City and the treasure fleets.",
+      "content": "The Ming dynasty ruled China from 1368 to 1644. It was founded by Zhu Yuanzhang, a peasant who became the Hongwu Emperor after driving out the Mongol-led Yuan dynasty.\n\nThe Yongle Emperor moved the capital to Beijing and built the Forbidden City, completed in 1420. Between 1405 and 1433, the admiral Zheng He led seven great voyages of the treasure fleets, with hundreds of ships, which visited Southeast Asia, India, Arabia and East Africa, long before Columbus. The Great Wall was extended and rebuilt in brick and stone.\n\nMing China was famous for blue-and-white porcelain, silk and novels. The dynasty ended in 1644 after peasant rebellions and the invasion of the Manchus, who founded the Qing dynasty.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Map_of_Ming_Chinese_empire_1415_(cropped_2).jpg?width=800"
+    },
+    {
+      "id": "tang-dynasty",
+      "title": "The Tang Dynasty",
+      "description": "China's golden age of poetry and cosmopolitan cities.",
+      "content": "The Tang dynasty ruled China from 618 to 907 and is often seen as its golden age. Its capital, Chang'an, now Xi'an, had about a million people and was one of the largest and most cosmopolitan cities in the world, a terminus of the Silk Road where merchants and monks from Persia, India and Central Asia gathered.\n\nPoetry flourished with Li Bai and Du Fu, whose poems are still learned by heart in China. Woodblock printing developed, tea became popular, and gunpowder was invented toward the end of the period. Buddhism was influential. Wu Zetian, who ruled from 690 to 705, was the only woman to rule China as emperor.\n\nThe dynasty was weakened by the An Lushan rebellion in 755, and it ended in 907. Overseas Chinese communities are still often called people of Tang.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tang_outline_map%2C_661.svg?width=800"
+    },
+    {
+      "id": "scientific-revolution",
+      "title": "The Scientific Revolution",
+      "description": "The birth of modern science in the 16th and 17th centuries.",
+      "content": "The Scientific Revolution was a period, roughly from 1543 to 1687, in which new ideas in astronomy, physics, biology and chemistry changed how people understood nature. It was marked by careful observation, experiment and mathematics instead of reliance on ancient authorities.\n\nIn 1543 Nicolaus Copernicus proposed that the Earth orbits the Sun, and Andreas Vesalius published a detailed book on human anatomy. Galileo used the telescope from 1609 to observe the Moon's mountains and Jupiter's moons, Johannes Kepler described the elliptical orbits of planets, and William Harvey explained blood circulation in 1628.\n\nThe revolution reached its climax with Isaac Newton's Principia in 1687, which set out the laws of motion and universal gravitation. Francis Bacon and René Descartes helped define the scientific method, and scientific societies such as the Royal Society, founded in 1660, spread knowledge.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Sir_Isaac_Newton%2C_1689_(head_shot_crop).jpg?width=800"
+    },
+    {
+      "id": "enlightenment",
+      "title": "The Enlightenment",
+      "description": "The 18th-century Age of Reason.",
+      "content": "The Enlightenment was an intellectual movement in 18th-century Europe that emphasised reason, science, individual liberty and the questioning of traditional authority. It is often called the Age of Reason.\n\nThinkers such as John Locke argued for natural rights to life, liberty and property; Montesquieu proposed the separation of powers; Voltaire defended free speech and religious tolerance; Jean-Jacques Rousseau wrote about the social contract; and Immanuel Kant urged people to dare to know. Denis Diderot edited the great Encyclopédie, which collected knowledge. Adam Smith published The Wealth of Nations in 1776.\n\nIdeas were discussed in salons, coffeehouses and books. The Enlightenment inspired the American and French Revolutions, and shaped modern ideas of democracy, human rights and secular government. Its critics point out that many Enlightenment thinkers still accepted slavery and colonial rule.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_salons_au_XVIIIe_si%C3%A8cle_-_Histoire_Image.jpg?width=800"
+    },
+    {
+      "id": "american-revolution",
+      "title": "The American Revolution",
+      "description": "How thirteen colonies became the United States.",
+      "content": "The American Revolution (1765–1783) was the struggle in which the thirteen British colonies in North America won independence and formed the United States. It began as a protest against taxes imposed by Britain without colonial representation in Parliament, summed up by the slogan no taxation without representation.\n\nTensions led to events such as the Boston Tea Party of 1773 and to fighting at Lexington and Concord in April 1775. On 4 July 1776 the Continental Congress adopted the Declaration of Independence, drafted mainly by Thomas Jefferson, which declared that all men are created equal.\n\nGeorge Washington led the Continental Army. The American victory at Saratoga in 1777 brought a French alliance, and the British surrendered at Yorktown in 1781. The Treaty of Paris in 1783 recognised the new nation, and its Constitution was written in 1787.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Declaration_of_Independence_(1819)%2C_by_John_Trumbull.jpg?width=800"
+    },
+    {
+      "id": "french-revolution",
+      "title": "The French Revolution",
+      "description": "The upheaval that ended the monarchy in France.",
+      "content": "The French Revolution (1789–1799) overthrew the monarchy in France and reshaped the country's politics and society. It began amid debt, food shortages and anger at unequal privileges.\n\nOn 14 July 1789 crowds stormed the Bastille prison, and in August the Declaration of the Rights of Man and of the Citizen proclaimed liberty and equality before the law. King Louis XVI was executed in 1793, followed by the violent period known as the Reign of Terror, led by Robespierre.\n\nThe revolution ended when Napoleon Bonaparte seized power in 1799. Its ideas of citizenship, secular government and human rights influenced movements around the world, and it also introduced the metric system.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anonymous_-_Prise_de_la_Bastille.jpg?width=800"
+    },
+    {
+      "id": "napoleon",
+      "title": "Napoleon Bonaparte",
+      "description": "The general who became emperor of the French.",
+      "content": "Napoleon Bonaparte (1769–1821) was born in Corsica and rose through the army during the French Revolution to become one of the greatest military commanders in history. In 1799 he seized power in a coup, and in 1804 he crowned himself Emperor of the French.\n\nHe won victories over the European powers, most famously at Austerlitz in 1805, and built an empire that covered much of Europe. His Napoleonic Code of 1804 set out a uniform system of civil law, ensuring equality before the law and protecting property, and it influenced legal systems around the world.\n\nIn 1812 his invasion of Russia ended in disaster, and he was forced to abdicate in 1814 and was exiled to Elba. He returned, but was defeated at Waterloo on 18 June 1815 and exiled to the remote island of Saint Helena, where he died in 1821.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?width=800"
+    },
+    {
+      "id": "industrial-revolution",
+      "title": "The Industrial Revolution",
+      "description": "The shift from hand tools to machines and factories.",
+      "content": "The Industrial Revolution was the transition from making goods by hand to making them by machine in factories, beginning in Britain in the 1760s and spreading across the world during the 19th century.\n\nIt began with textile machines such as the spinning jenny and the power loom, and was powered first by water and then by James Watt's improved steam engine. Coal and iron were essential, and railways, starting with the Stockton and Darlington Railway in 1825, connected markets. Later developments in steel, chemicals and electricity marked a second industrial revolution.\n\nThe changes brought huge growth in production and wealth, and people moved from the countryside to fast-growing cities. But working conditions were harsh, with long hours and child labour, and cities were crowded and polluted. Reformers, trade unions and new laws gradually improved conditions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Powerloom_weaving_in_1835.jpg?width=800"
+    },
+    {
+      "id": "abolition-of-slavery",
+      "title": "The Abolition of Slavery",
+      "description": "The long struggle to end the Atlantic slave trade and slavery.",
+      "content": "Between the 16th and 19th centuries, about 12.5 million Africans were forcibly transported across the Atlantic to work in the Americas, in one of the greatest crimes in human history. Slavery had existed in many societies, but this trade turned human beings into commodities on a massive scale.\n\nOpposition grew from the 18th century through the work of enslaved people who resisted and escaped, of formerly enslaved writers such as Olaudah Equiano, and of campaigners such as William Wilberforce. Britain banned the slave trade in 1807 and slavery in most of its empire in 1833. The Haitian Revolution ended slavery in Haiti in 1793 and independence in 1804.\n\nThe United States ended slavery with the Thirteenth Amendment in 1865, after the Civil War, and Brazil was the last country in the Americas to abolish it, in 1888. Forms of forced labour and human trafficking still exist today.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Slavezanzibar2.JPG?width=800"
+    },
+    {
+      "id": "latin-american-independence",
+      "title": "Latin American Independence",
+      "description": "The wars that freed Spanish America.",
+      "content": "The Latin American wars of independence, mostly between 1808 and 1826, ended Spanish and Portuguese colonial rule across the Americas. They were triggered when Napoleon invaded Spain in 1808, which weakened Spain's control over its colonies.\n\nSimón Bolívar, born in Caracas, led armies that freed Venezuela, Colombia, Ecuador, Peru and Bolivia, and dreamed of a united Latin America; he is called El Libertador. José de San Martín liberated Argentina, Chile and Peru. In Mexico, the priest Miguel Hidalgo began the uprising in 1810. Brazil became independent from Portugal in 1822 in a mostly peaceful process under Pedro I.\n\nThe last major battle, at Ayacucho in Peru in 1824, ended Spanish power on the continent. Bolívar's large Gran Colombia broke apart, and the new republics faced political instability and inequality."
+    },
+    {
+      "id": "russian-empire",
+      "title": "The Russian Empire",
+      "description": "The vast empire ruled by the tsars.",
+      "content": "The Russian Empire was the huge state ruled by the tsars from 1721, when Peter the Great took the title of emperor, until the revolution of 1917. Peter modernised Russia, founded St Petersburg in 1703 and moved the capital there.\n\nUnder Catherine the Great in the 18th century, Russia expanded south and west, and in the 19th century it moved into the Caucasus and Central Asia. It became the largest contiguous empire of its day, covering about a sixth of the world's land, with dozens of peoples. Tsar Alexander II freed the serfs in 1861. The Trans-Siberian Railway was started in 1891.\n\nAzerbaijan was incorporated into the empire in the early 19th century, and Baku became a booming oil city. Defeat in the war with Japan in 1905, and in World War I, led to revolution, and Nicholas II, the last tsar, abdicated in 1917."
+    },
+    {
+      "id": "german-unification",
+      "title": "The Unification of Germany",
+      "description": "How Bismarck created the German Empire.",
+      "content": "Before 1871 the German lands were divided into about 39 states, loosely united in the German Confederation. In the 19th century, nationalism, and a customs union called the Zollverein, brought them closer.\n\nThe Prussian chancellor Otto von Bismarck engineered unification through three short wars: against Denmark in 1864, Austria in 1866 and France in 1870–1871. With the French defeat, the southern German states joined, and on 18 January 1871 the German Empire was proclaimed at the Palace of Versailles, with King Wilhelm I of Prussia as emperor, or Kaiser.\n\nThe new empire quickly became an industrial and military power, and Bismarck introduced pioneering social insurance. Germany was divided again after World War II and finally reunified on 3 October 1990.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Deutsches_Reich_(1871-1918)-en.png?width=800"
+    },
+    {
+      "id": "italian-unification",
+      "title": "The Unification of Italy",
+      "description": "The Risorgimento that created the Kingdom of Italy.",
+      "content": "Italian unification, or the Risorgimento (resurgence), was the process by which the states of the Italian peninsula, divided for centuries, were united into a single kingdom between about 1815 and 1871.\n\nThe Kingdom of Sardinia-Piedmont, guided by its prime minister Count Cavour, led the effort. The philosopher Giuseppe Mazzini inspired nationalists, and the fighter Giuseppe Garibaldi, in 1860, sailed with about a thousand volunteers, the Redshirts, and conquered Sicily and Naples. The Kingdom of Italy was proclaimed in 1861 under Victor Emmanuel II.\n\nVenice joined in 1866, and Rome, which had been ruled by the Pope, became the capital in 1871. But a gap remained between the industrial north and the poorer south, and the language, Italian, was spoken by only a small share of people in everyday life.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Episodio_delle_cinque_giornate_(Baldassare_Verazzi).jpg?width=800"
+    },
+    {
+      "id": "american-civil-war",
+      "title": "The American Civil War",
+      "description": "The conflict over slavery that nearly broke the United States.",
+      "content": "The American Civil War (1861–1865) was fought between the United States and eleven Southern states that seceded to form the Confederate States of America. The central cause was slavery, which the Southern economy depended on, and which the election of Abraham Lincoln in 1860 seemed to threaten.\n\nFighting began at Fort Sumter in April 1861. The North had more people, industry and railways. Major battles included Antietam in 1862 and Gettysburg in 1863, which was the turning point. Lincoln's Emancipation Proclamation, on 1 January 1863, declared enslaved people in rebel states free, and Black soldiers joined the Union army.\n\nGeneral Robert E. Lee surrendered at Appomattox on 9 April 1865. About 620,000 soldiers died, the deadliest conflict in American history. Lincoln was assassinated days later, and the Thirteenth Amendment abolished slavery.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?width=800"
+    },
+    {
+      "id": "meiji-restoration",
+      "title": "The Meiji Restoration",
+      "description": "The transformation of Japan into a modern state.",
+      "content": "The Meiji Restoration of 1868 ended the rule of the Tokugawa shogunate, which had governed Japan since 1603, and restored power to the emperor. It was named after Emperor Meiji, who reigned from 1867 to 1912.\n\nJapan had been largely closed to the outside world until American Commodore Matthew Perry's ships arrived in 1853, demanding trade. Faced with Western power, Japanese reformers decided to modernise quickly. The capital moved from Kyoto to Tokyo, the feudal system and samurai privileges were abolished, and the government built railways, factories, schools and a modern army and navy.\n\nA constitution was adopted in 1889. Within a generation, Japan became an industrial and military power, defeating China in 1895 and Russia in 1905. It was the first non-Western country to industrialise successfully.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor_Meiji_by_Takahashi_Yuichi.jpg?width=800"
+    },
+    {
+      "id": "opium-wars",
+      "title": "The Opium Wars",
+      "description": "The wars that forced open China to Western trade.",
+      "content": "The Opium Wars were two conflicts in the 19th century between China's Qing dynasty and Britain, with France joining the second. They were caused by the trade in opium, grown in British India and sold illegally in China, which caused widespread addiction and drained China's silver.\n\nIn 1839 the Chinese official Lin Zexu destroyed thousands of chests of opium at Humen. Britain sent warships, and in the First Opium War (1839–1842), the Chinese were defeated. By the Treaty of Nanjing, China ceded Hong Kong to Britain and opened five ports to trade. The Second Opium War (1856–1860) brought further concessions.\n\nThese unequal treaties weakened the Qing state, and the period is called the Century of Humiliation in China. Hong Kong returned to Chinese rule in 1997.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Destroying_Chinese_war_junks%2C_by_E._Duncan_(1843).jpg?width=800"
+    },
+    {
+      "id": "british-empire",
+      "title": "The British Empire",
+      "description": "The largest empire in history.",
+      "content": "The British Empire was the largest empire in history. At its height in the early 20th century it covered about a quarter of the world's land and ruled about a quarter of its population, some 458 million people, which gave rise to the saying that the sun never set on it.\n\nIt began with overseas colonies in the 16th and 17th centuries, in North America and the Caribbean, and grew through trading companies such as the East India Company, which came to control India. In the 19th century, under Queen Victoria, Britain added large parts of Africa, Asia and the Pacific, and its navy dominated the seas.\n\nThe empire spread the English language, parliamentary institutions and sports such as cricket, but also involved conquest, slavery, forced labour and famines such as the Bengal famine of 1943. Most colonies became independent after World War II, and many belong to the Commonwealth today.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Great_Britain_(1707%E2%80%931800).svg?width=800"
+    },
+    {
+      "id": "scramble-for-africa",
+      "title": "The Scramble for Africa",
+      "description": "The European race to divide Africa, 1881–1914.",
+      "content": "The Scramble for Africa was the rapid conquest and division of the African continent by European powers between about 1881 and 1914. In 1880 only about 10% of Africa was under European control, but by 1914 about 90% was.\n\nThe major players were Britain, France, Germany, Belgium, Italy, Portugal and Spain. At the Berlin Conference of 1884–1885, they set rules for dividing the continent without consulting any African leaders. Borders were drawn by Europeans, often cutting across ethnic groups and joining rival ones, a legacy that still causes problems.\n\nKing Leopold II of Belgium ran the Congo Free State as his personal possession, and its brutal system of forced rubber collecting killed millions. Africans resisted, and Ethiopia defeated Italy at the Battle of Adwa in 1896. By 1914 only Ethiopia and Liberia remained independent.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/African-civilizations-map-pre-colonial.svg?width=800"
+    },
+    {
+      "id": "russo-persian-wars",
+      "title": "The Russo-Persian Wars",
+      "description": "The wars that divided Azerbaijan along the Aras.",
+      "content": "The Russo-Persian Wars were conflicts between the Russian Empire and Qajar Iran in the 19th century, mainly over control of the South Caucasus. The two most important took place in 1804–1813 and 1826–1828.\n\nAt that time the territory of present-day Azerbaijan was divided among several khanates, such as Karabakh, Ganja, Baku, Shirvan and Sheki. In 1804 Russian forces stormed Ganja, and its ruler Javad Khan was killed. Persian forces led by Crown Prince Abbas Mirza fought back, but were defeated.\n\nThe Treaty of Gulistan (1813) and the Treaty of Turkmenchay (1828) gave the northern khanates to Russia and set the border along the Aras River, dividing the Azerbaijani people between the Russian and Persian empires. This division remains the basis of the modern border between Azerbaijan and Iran."
+    },
+    {
+      "id": "baku-oil-boom",
+      "title": "The Baku Oil Boom",
+      "description": "When Baku fuelled the world.",
+      "content": "In the late 19th century Baku became the oil capital of the world. Oil had been extracted there for centuries, and the first industrial well was drilled at Bibi-Heybat in 1846. In 1872 the Russian government opened the oil fields to private companies, unleashing a rush of investment.\n\nThe Nobel brothers, Ludvig and Robert, founded the company Branobel in 1879, and built pipelines, and in 1878 launched the first oil tanker, the Zoroaster, on the Caspian. The Rothschild family also invested. By 1901, Baku was producing about half of the world's oil, and the city's population grew from about 14,000 in 1859 to more than 200,000 by 1913.\n\nOil barons such as Haji Zeynalabdin Taghiyev built grand mansions and financed schools, theatres and hospitals. The wealth created much of Baku's elegant architecture, though the workers lived in crowded conditions in the district called Black Town.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Azerbaijanoil.jpg?width=800"
+    },
+    {
+      "id": "steam-engine",
+      "title": "The Steam Engine",
+      "description": "The machine that powered the Industrial Revolution.",
+      "content": "The steam engine is a machine that uses the pressure of steam to produce motion. Early versions were used in the 1700s to pump water out of mines, and in 1712 Thomas Newcomen built the first widely used engine.\n\nIn 1769 James Watt patented a design with a separate condenser, which made the engine much more efficient, and later added mechanisms to turn its motion into rotation. It allowed factories to be built anywhere, not only near rivers. The unit of power, the watt, is named after him.\n\nSteam was soon put to work moving vehicles: Richard Trevithick built a railway locomotive in 1804, Robert Fulton launched a commercial steamboat in 1807, and George Stephenson's Rocket won the Rainhill Trials in 1829. Railways and steamships shrank distances and transformed trade, migration and war.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steam_locomotive_gear_(J%C5%BD_06-018%3B_Slovenia).jpg?width=800"
+    },
+    {
+      "id": "victorian-era",
+      "title": "The Victorian Era",
+      "description": "Britain in the age of Queen Victoria.",
+      "content": "The Victorian era is the period of Queen Victoria's reign in Britain, from 1837 to 1901, one of the longest in British history. It was a time of great industrial growth, colonial expansion and social change.\n\nThe Great Exhibition of 1851, held in the glass Crystal Palace in London, showed off the achievements of industry. Railways spread across the country, the penny post began in 1840, and cities grew rapidly. Charles Darwin published On the Origin of Species in 1859, and novelists such as Charles Dickens and the Brontë sisters described the era. In 1876 Victoria became Empress of India.\n\nVictorian society valued respectability, hard work and family, but contained great poverty and inequality, and reforms in public health, education and factory conditions slowly followed. Queen Victoria died in 1901.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Queen_Victoria_-_Winterhalter_1859.jpg?width=800"
+    },
+    {
+      "id": "womens-suffrage",
+      "title": "Women's Suffrage",
+      "description": "The fight for women's right to vote.",
+      "content": "Women's suffrage is the right of women to vote in elections. For most of history women were excluded from political life, and from the 19th century movements around the world campaigned for the vote, often facing arrest and ridicule.\n\nNew Zealand was the first self-governing country to give women the vote in national elections, in 1893. Finland followed in 1906 and was the first in Europe to give women full political rights. In Britain, the suffragettes led by Emmeline Pankhurst used protests and civil disobedience, and women over 30 gained the vote in 1918. The American 19th Amendment was ratified in 1920.\n\nIn 1918 the Azerbaijan Democratic Republic gave women the right to vote, the first Muslim-majority country to do so. In some countries it was won much later: Switzerland only in 1971, and Saudi Arabia in 2015.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Universal_suffrage_women_lexical%2C_World%2C_2024_(cropped).svg?width=800"
+    },
+    {
+      "id": "california-gold-rush",
+      "title": "The California Gold Rush",
+      "description": "The rush of 1849 that transformed the American West.",
+      "content": "The California Gold Rush began on 24 January 1848, when James Marshall found gold flakes at Sutter's Mill, near Sacramento, California. News spread around the world, and in 1849 about 300,000 people, called forty-niners, rushed to California from the United States, Latin America, Europe, Australia and China.\n\nSan Francisco grew from a village of about 1,000 people to a city of tens of thousands within a few years. California became a state in 1850. Few miners got rich, and many merchants did better: Levi Strauss, for instance, later made durable jeans for workers, from 1873.\n\nThe gold rush brought enormous change, and it had a devastating effect on California's Native Americans, whose population fell sharply from disease, violence and loss of land. It also caused environmental damage from mining.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1850_Woman_and_Men_in_California_Gold_Rush.jpg?width=800"
+    },
+    {
+      "id": "haitian-revolution",
+      "title": "The Haitian Revolution",
+      "description": "The only successful slave revolt to found a state.",
+      "content": "The Haitian Revolution (1791–1804) was an uprising by enslaved people in the French colony of Saint-Domingue, which became the independent republic of Haiti. It is the only slave revolt in history that led to the founding of a state.\n\nSaint-Domingue was the richest colony in the world, producing sugar and coffee with the labour of about half a million enslaved Africans. The revolt began in August 1791. It was led by talented commanders, in particular Toussaint Louverture, a formerly enslaved man who became governor, and after his capture by the French, Jean-Jacques Dessalines.\n\nThe rebels defeated French, Spanish and British armies, including a large force sent by Napoleon. Haiti declared independence on 1 January 1804. It was the first Black republic, though France forced it in 1825 to pay a heavy indemnity, which burdened its economy for generations.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_r%C3%A9volt%C3%A9s._France_militaire._Martinet_et_Masson.jpg?width=800"
+    },
+    {
+      "id": "revolutions-of-1848",
+      "title": "The Revolutions of 1848",
+      "description": "The Spring of Nations across Europe.",
+      "content": "The Revolutions of 1848, called the Spring of Nations, were a wave of uprisings that swept across Europe. They began in Sicily in January, and then in Paris in February, where King Louis-Philippe was forced to abdicate and the Second Republic was proclaimed.\n\nRevolts spread to the German states, the Austrian Empire, where the chancellor Metternich fled, Hungary, led by Lajos Kossuth, and Italy. People demanded constitutions, freedom of the press, national self-determination and the end of feudal obligations. In the same year Karl Marx and Friedrich Engels published The Communist Manifesto.\n\nMost of the revolutions were defeated by 1849, as conservatives regained control. But they had lasting effects: serfdom was abolished in Austria, France gave the vote to all men, and the ideals of nationalism and liberalism shaped later unification movements in Germany and Italy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Horace_Vernet-Barricade_rue_Soufflot.jpg?width=800"
+    },
+    {
+      "id": "crimean-war",
+      "title": "The Crimean War",
+      "description": "The war that pitted Russia against Britain, France and the Ottomans.",
+      "content": "The Crimean War (1853–1856) was fought between the Russian Empire and an alliance of the Ottoman Empire, Britain, France and later Sardinia. It began as a dispute over Russian influence in the Ottoman lands and the protection of Christian holy places.\n\nMost of the fighting took place on the Crimean Peninsula, where the Allies besieged the Russian naval base at Sevastopol for almost a year. Famous episodes included the Charge of the Light Brigade in 1854. Disease killed more soldiers than battle, and Florence Nightingale's work in military hospitals helped found modern nursing. Fighting also took place in the Caucasus, around Kars.\n\nThe war ended with the Treaty of Paris in 1856. It was one of the first wars covered by newspapers using telegraph, and by photographers, and it exposed Russia's backwardness and pushed it toward reform.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Simpson_-_Attack_on_the_Malakoff.jpg?width=800"
+    },
+    {
+      "id": "world-war-1",
+      "title": "World War I",
+      "description": "The global conflict of 1914–1918.",
+      "content": "World War I (1914–1918) was a global conflict fought mainly in Europe between the Allied Powers, including France, Britain, Russia and later the United States, and the Central Powers, led by Germany, Austria-Hungary and the Ottoman Empire.\n\nIt was sparked by the assassination of Archduke Franz Ferdinand in Sarajevo on 28 June 1914, which set off a chain of alliances. Trench warfare on the Western Front, along with machine guns, poison gas and heavy artillery, caused enormous casualties: roughly 10 million soldiers died, along with millions of civilians.\n\nThe war ended with an armistice on 11 November 1918. It toppled four empires, the German, Austro-Hungarian, Russian and Ottoman, and the Treaty of Versailles (1919) reshaped Europe. In the Caucasus, the war contributed to the rise of the independent republics of Azerbaijan, Armenia and Georgia in 1918.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bataille_de_Verdun_1916.jpg?width=800"
+    },
+    {
+      "id": "russian-revolution",
+      "title": "The Russian Revolution",
+      "description": "The upheaval of 1917 that created the Soviet state.",
+      "content": "The Russian Revolution of 1917 was actually two revolutions. In the February Revolution, strikes and protests amid war, hunger and anger at the government forced Tsar Nicholas II to abdicate, ending 300 years of Romanov rule. A Provisional Government took charge but failed to end the war.\n\nIn the October Revolution, on 7 November by the modern calendar, the Bolsheviks, led by Vladimir Lenin, seized power in Petrograd with the slogan peace, land and bread. A bitter Civil War followed between the Red and White armies, lasting until 1922, in which millions died. The tsar and his family were executed in 1918.\n\nIn December 1922 the Soviet Union was founded. In Baku, the revolution led to the short-lived Baku Commune in 1918, and in 1920 the Red Army entered Azerbaijan, ending its first republic.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B8%D1%82%D0%B8%D0%BD%D0%B3_%D0%BD%D0%B0_%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B5_(1917).jpg?width=800"
+    },
+    {
+      "id": "azerbaijan-democratic-republic",
+      "title": "Azerbaijan Democratic Republic",
+      "description": "The first secular democratic republic in the Muslim world.",
+      "content": "The Azerbaijan Democratic Republic (ADR) was proclaimed on 28 May 1918 in Tbilisi and was the first secular democratic republic in the Muslim world.\n\nThe government was led by Prime Minister Fatali Khan Khoyski, with Mammad Amin Rasulzade as chairman of the National Council. It first sat in Ganja and moved to Baku in September 1918. The parliament, which opened in December 1918, gave women the right to vote, earlier than in many Western countries. Baku State University was founded in 1919.\n\nThe republic lasted only 23 months, ending when the Red Army entered Baku on 28 April 1920. Its tricolour flag of blue, red and green with a crescent and star was restored as the national flag in 1991.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Azerbaijan_(1918%E2%80%931920).svg?width=800"
+    },
+    {
+      "id": "turkish-war-of-independence",
+      "title": "The Turkish War of Independence",
+      "description": "How Atatürk saved Turkey after the Ottoman defeat.",
+      "content": "The Turkish War of Independence (1919–1923) was fought by Turkish nationalists against the Allied powers that had occupied the defeated Ottoman Empire after World War I. The Treaty of Sèvres of 1920 would have divided Anatolia among Greece, Armenia, France, Britain and Italy.\n\nThe resistance was led by Mustafa Kemal, a general who had won fame at Gallipoli in 1915. In 1919 he began organising the national movement in Anatolia, and on 23 April 1920 the Grand National Assembly opened in Ankara. Turkish forces defeated the Greeks at the Battle of Sakarya in 1921 and in the Great Offensive of August 1922.\n\nThe Treaty of Lausanne of 24 July 1923 recognised the new borders, and the Republic of Turkey was proclaimed on 29 October 1923 with Kemal as president. He introduced sweeping reforms, including secularism, the Latin alphabet in 1928 and women's voting rights in 1934, and was given the surname Atatürk, father of the Turks.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_-_kolaj.jpg?width=800"
+    },
+    {
+      "id": "great-depression",
+      "title": "The Great Depression",
+      "description": "The worldwide economic collapse of the 1930s.",
+      "content": "The Great Depression was the worst economic downturn of the modern era, lasting from 1929 until the late 1930s. It began with the Wall Street Crash in the United States in October 1929, when share prices collapsed.\n\nBanks failed, businesses closed and millions lost their jobs. In the United States, unemployment reached about 25% by 1933, and in some countries industrial output fell by about a third or more. World trade collapsed as countries raised tariffs. Farmers in the American Great Plains were hit by drought and dust storms, the Dust Bowl.\n\nPresident Franklin D. Roosevelt's New Deal, from 1933, created jobs and reforms such as social security and banking regulation. In Germany the crisis helped the Nazis win power. The Depression finally ended with the rearmament and wartime spending of World War II.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg?width=800"
+    },
+    {
+      "id": "nazi-germany",
+      "title": "Nazi Germany",
+      "description": "The dictatorship of Adolf Hitler, 1933–1945.",
+      "content": "Nazi Germany, or the Third Reich, was the German state under the dictatorship of Adolf Hitler and his National Socialist Party from 1933 to 1945. Hitler became chancellor on 30 January 1933, amid the economic crisis, and quickly ended democracy, banned other parties and created a one-party state.\n\nThe regime was based on extreme nationalism, racism and hatred of Jews. The Nuremberg Laws of 1935 stripped Jews of citizenship, and in November 1938 the pogrom called Kristallnacht destroyed synagogues and Jewish businesses. Opponents were imprisoned in concentration camps.\n\nHitler rearmed Germany, annexed Austria in 1938 and invaded Poland in September 1939, starting World War II. Germany was defeated in 1945, and Hitler killed himself on 30 April 1945. Nazi leaders were tried at the Nuremberg trials in 1945 and 1946.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Germany_(1935%E2%80%931945).svg?width=800"
+    },
+    {
+      "id": "world-war-2",
+      "title": "World War II",
+      "description": "The deadliest conflict in human history, 1939–1945.",
+      "content": "World War II (1939–1945) was the deadliest conflict in history, involving more than 30 countries and killing an estimated 70–85 million people.\n\nIt began when Germany invaded Poland on 1 September 1939. The Allies, led by Britain, the Soviet Union and the United States, fought the Axis powers of Germany, Italy and Japan. Major turning points included the Battle of Stalingrad, the D-Day landings in Normandy in 1944, and the war in the Pacific. Hundreds of thousands of Azerbaijanis served in the Soviet army, and Baku's oil fuelled the Soviet war effort.\n\nThe war ended in Europe in May 1945 and in Asia in September 1945, after the atomic bombings of Hiroshima and Nagasaki. It also saw the Holocaust, the genocide of six million Jews. The United Nations was founded in 1945 in its aftermath.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?width=800"
+    },
+    {
+      "id": "holocaust",
+      "title": "The Holocaust",
+      "description": "The genocide of six million Jews by Nazi Germany.",
+      "content": "The Holocaust was the systematic, state-sponsored genocide of about six million European Jews by Nazi Germany and its collaborators between 1941 and 1945. Millions of others, including Roma, people with disabilities, political prisoners and Soviet prisoners of war, were also murdered.\n\nAfter years of persecution, Jews were forced into ghettos, and mobile killing units called Einsatzgruppen shot hundreds of thousands in occupied territories. In 1942, at the Wannsee Conference, Nazi officials coordinated the so-called Final Solution, and Jews were deported by train to extermination camps such as Auschwitz-Birkenau, Treblinka and Sobibór, where they were killed in gas chambers.\n\nAuschwitz was liberated by Soviet forces on 27 January 1945, now marked as International Holocaust Remembrance Day. Some people risked their lives to rescue Jews, and are honoured as Righteous Among the Nations. Remembering the Holocaust is meant to warn against hatred and genocide.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Selection_on_the_ramp_at_Auschwitz-Birkenau%2C_1944_(Auschwitz_Album)_1b.jpg?width=800"
+    },
+    {
+      "id": "atomic-bombings",
+      "title": "Hiroshima and Nagasaki",
+      "description": "The first and only use of nuclear weapons in war.",
+      "content": "The atomic bombings of Hiroshima and Nagasaki, in August 1945, were the only use of nuclear weapons in war. They came at the end of World War II, after the United States developed the bomb in the Manhattan Project, led scientifically by J. Robert Oppenheimer at Los Alamos. The first test, Trinity, took place in New Mexico on 16 July 1945.\n\nOn 6 August a bomb called Little Boy was dropped on Hiroshima, and on 9 August a second, Fat Man, on Nagasaki. Tens of thousands of people died instantly, and by the end of 1945 the death toll had reached about 200,000 from the blast, fires, and radiation. Japan announced its surrender on 15 August.\n\nThe use of the bombs is still debated by historians. The survivors, called hibakusha, have campaigned for a world without nuclear weapons, and the bombings started the nuclear arms race of the Cold War.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Atomic_bombing_of_Japan.jpg?width=800"
+    },
+    {
+      "id": "united-nations",
+      "title": "The United Nations",
+      "description": "The international organisation founded to keep the peace.",
+      "content": "The United Nations (UN) is an international organisation founded on 24 October 1945, after World War II, to maintain peace and security, protect human rights and promote cooperation between nations. It began with 51 member states and now has 193, and its headquarters are in New York.\n\nIts main bodies are the General Assembly, where all members are represented, and the Security Council, which has five permanent members, the United States, Russia, China, Britain and France, with the power of veto, and ten rotating members. In 1948 the UN adopted the Universal Declaration of Human Rights.\n\nThe UN also runs peacekeeping missions and agencies such as the World Health Organization, UNESCO and UNICEF. It has succeeded in some efforts and been limited in others. Azerbaijan became a member in 1992.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_Nations.svg?width=800"
+    },
+    {
+      "id": "cold-war",
+      "title": "The Cold War",
+      "description": "The rivalry between the USA and the Soviet Union.",
+      "content": "The Cold War (about 1947–1991) was a long geopolitical rivalry between the United States and the Soviet Union and their allies that never became a direct war between the two.\n\nIt was fought through an arms race, spying, propaganda, the space race and proxy wars such as those in Korea and Vietnam. The Cuban Missile Crisis of 1962 brought the world close to nuclear war. Europe was divided by what Winston Churchill called an iron curtain, and Berlin was split by a wall from 1961.\n\nThe Berlin Wall fell in 1989 and the Soviet Union dissolved in December 1991, which ended the conflict. Azerbaijan restored its independence in the same year.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/NATO_vs._Warsaw_Pact_(1949-1990).svg?width=800"
+    },
+    {
+      "id": "indian-independence",
+      "title": "Indian Independence",
+      "description": "The end of British rule in India in 1947.",
+      "content": "India was ruled by Britain, first through the East India Company and, after the great rebellion of 1857, directly by the Crown. The Indian National Congress, founded in 1885, began to demand self-government, and the movement grew in the 20th century.\n\nMahatma Gandhi led campaigns of non-violent resistance, such as the Salt March of 1930, in which he walked about 390 kilometres to make salt in defiance of British law, and the Quit India movement of 1942. Other leaders included Jawaharlal Nehru, and Muhammad Ali Jinnah, who led the Muslim League in demanding a separate state.\n\nIndependence came on 15 August 1947, with the partition of British India into India and Pakistan. Partition caused mass migrations of about 15 million people and violence that killed perhaps one to two million. Gandhi was assassinated in 1948, and India adopted its constitution in 1950.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/India%2C_by_British_Information_Services%2C_1944_restored_version.jpg?width=800"
+    },
+    {
+      "id": "korean-war",
+      "title": "The Korean War",
+      "description": "The war that divided the Korean Peninsula.",
+      "content": "The Korean War (1950–1953) began when communist North Korea invaded South Korea on 25 June 1950. The peninsula had been divided at the 38th parallel after World War II, with the Soviet Union backing the North and the United States the South.\n\nThe United Nations sent forces, mostly American, to support South Korea. After landing at Inchon in September 1950, UN troops pushed deep into the North, but China entered the war in October and drove them back. The fighting settled near the 38th parallel.\n\nAn armistice was signed on 27 July 1953, but no peace treaty, so the two Koreas are technically still at war. A heavily fortified demilitarised zone separates them. Around three million people are thought to have died, and the war was one of the first big tests of the Cold War.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Chosin.jpg?width=800"
+    },
+    {
+      "id": "vietnam-war",
+      "title": "The Vietnam War",
+      "description": "The long conflict in Southeast Asia, 1955–1975.",
+      "content": "The Vietnam War (1955–1975) was fought between communist North Vietnam, led by Ho Chi Minh and supported by the Soviet Union and China, and South Vietnam, supported by the United States. It grew out of the struggle against French colonial rule that ended in 1954, after which Vietnam was divided.\n\nAmerican involvement escalated after the Gulf of Tonkin incident of 1964, and by 1968 more than half a million US troops were in Vietnam. The Tet Offensive of that year, though a military failure for the North, shook American public opinion. Bombing, the use of the chemical Agent Orange and guerrilla fighting caused enormous suffering.\n\nThe US withdrew its forces in 1973 under the Paris Peace Accords, and Saigon fell to the North on 30 April 1975. Vietnam was reunified in 1976. Perhaps one to three million Vietnamese and about 58,000 Americans died.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_(79431435).jpg?width=800"
+    },
+    {
+      "id": "cuban-missile-crisis",
+      "title": "The Cuban Missile Crisis",
+      "description": "The 13 days when the world came closest to nuclear war.",
+      "content": "The Cuban Missile Crisis of October 1962 was a confrontation between the United States and the Soviet Union over Soviet nuclear missiles secretly placed in Cuba, about 150 kilometres from Florida. It is regarded as the moment when the Cold War came closest to a nuclear war.\n\nOn 14 October an American U-2 spy plane photographed the missile sites. President John F. Kennedy announced a naval quarantine of Cuba on 22 October. For 13 days the world held its breath as ships approached the line and both sides prepared for war. A Soviet submarine officer, Vasily Arkhipov, is said to have helped prevent a nuclear torpedo launch.\n\nThe crisis ended when the Soviet leader Nikita Khrushchev agreed to remove the missiles in return for a US promise not to invade Cuba and, secretly, to withdraw US missiles from Turkey. A hotline between Washington and Moscow was set up in 1963.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PGM-19A_Jupiter_missile-02.jpg?width=800"
+    },
+    {
+      "id": "space-race",
+      "title": "The Space Race",
+      "description": "The Cold War contest to reach space and the Moon.",
+      "content": "The Space Race was a competition between the United States and the Soviet Union during the Cold War to achieve firsts in space exploration. It started on 4 October 1957, when the Soviets launched Sputnik 1, the first artificial satellite, shocking the West.\n\nA month later the dog Laika became the first animal in orbit. NASA was created in 1958. On 12 April 1961 the Soviet cosmonaut Yuri Gagarin became the first human in space, and in 1963 Valentina Tereshkova was the first woman. In 1961 President Kennedy pledged to land a man on the Moon before the decade was out.\n\nThe US won the race to the Moon: on 20 July 1969, Neil Armstrong and Buzz Aldrin landed with Apollo 11. The rivalry eased with the Apollo–Soyuz mission of 1975, and later cooperation led to the International Space Station.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sputnik_asm.jpg?width=800"
+    },
+    {
+      "id": "civil-rights-movement",
+      "title": "The Civil Rights Movement",
+      "description": "The struggle to end racial segregation in the United States.",
+      "content": "The Civil Rights Movement was the campaign, mainly in the 1950s and 1960s, to end racial segregation and discrimination against African Americans in the United States. In much of the South, Black people were separated in schools, buses and restaurants and were blocked from voting.\n\nIn 1954 the Supreme Court ruled in Brown v. Board of Education that segregated schools were unconstitutional. In 1955 Rosa Parks refused to give up her bus seat in Montgomery, Alabama, which began a year-long bus boycott led by a young minister, Martin Luther King Jr. Protesters used non-violent methods such as sit-ins and marches, and faced violence.\n\nAt the March on Washington on 28 August 1963, King delivered his I Have a Dream speech. The movement won the Civil Rights Act of 1964 and the Voting Rights Act of 1965. King was assassinated in 1968.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Civil_Rights_March_on_Washington%2C_D.C._(Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial)_-_NARA_-_542010.jpg?width=800"
+    },
+    {
+      "id": "decolonization-of-africa",
+      "title": "The Decolonisation of Africa",
+      "description": "How African nations won independence.",
+      "content": "The decolonisation of Africa was the process by which African countries gained independence from European colonial rule, mostly between the 1950s and the 1970s. After World War II, European powers were weakened and nationalist movements grew stronger.\n\nGhana, led by Kwame Nkrumah, was the first sub-Saharan country to become independent, in 1957. In 1960, known as the Year of Africa, seventeen countries won independence, including Nigeria, Senegal and the Belgian Congo. The British prime minister Harold Macmillan spoke of a wind of change blowing through the continent. Algeria won independence in 1962 after a bitter war with France, and Kenya in 1963.\n\nPortugal's colonies, such as Angola and Mozambique, became independent in 1975, Zimbabwe in 1980, Namibia in 1990, and South Africa ended apartheid in 1994. The new states inherited colonial borders and economies, which have posed lasting challenges.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/African_nations_order_of_independence_1950-1993.gif?width=800"
+    },
+    {
+      "id": "soviet-union",
+      "title": "The Soviet Union",
+      "description": "The communist superpower from 1922 to 1991.",
+      "content": "The Soviet Union, or USSR, was a communist state that existed from 1922 to 1991, stretching across Eastern Europe and northern Asia. It grew out of the Russian Revolution and, at its largest, included 15 republics, among them Russia, Ukraine, Kazakhstan and Azerbaijan.\n\nUnder Joseph Stalin, from the late 1920s to 1953, the country was rapidly industrialised, but the regime also carried out purges, forced collectivisation and imprisoned millions in the Gulag camps. In World War II, about 27 million Soviet citizens died, and the country emerged as a superpower rivalling the United States. It launched the first satellite in 1957 and the first person into space in 1961.\n\nLater leaders included Khrushchev and Brezhnev. In the 1980s Mikhail Gorbachev introduced reforms called perestroika and glasnost, but they released forces that broke up the state. Gorbachev resigned on 25 December 1991, and the Soviet Union dissolved.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Soviet_Union.svg?width=800"
+    },
+    {
+      "id": "fall-of-the-berlin-wall",
+      "title": "The Fall of the Berlin Wall",
+      "description": "The moment that symbolised the end of the Cold War.",
+      "content": "The Berlin Wall was built by communist East Germany in August 1961 to stop its citizens fleeing to the West, and it divided the city of Berlin for 28 years. The barrier, about 155 kilometres long around West Berlin, included concrete walls, watchtowers and guards with orders to shoot, and at least 140 people died trying to cross.\n\nIn 1989 change swept through Eastern Europe. Hungary opened its border in May, and East Germans poured out through it, and mass demonstrations in Leipzig demanded freedom. On the evening of 9 November 1989, an East German official mistakenly announced that the border was open, and thousands gathered at the crossings, and guards let them through.\n\nPeople danced on the Wall and chipped away pieces. Germany was reunified on 3 October 1990. The fall of the Wall became the symbol of the end of the Cold War and of the collapse of communism in Europe.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Berlinermauer.jpg?width=800"
+    },
+    {
+      "id": "azerbaijan-independence",
+      "title": "Azerbaijan's Restoration of Independence",
+      "description": "The path to independence in 1991.",
+      "content": "In the late 1980s, under the Soviet reforms of glasnost, national movements grew in Azerbaijan. The Popular Front of Azerbaijan was founded in 1989. On the night of 19 to 20 January 1990, Soviet troops entered Baku, killing more than 130 civilians in an event called Black January, which turned public opinion firmly toward independence.\n\nOn 30 August 1991 the Supreme Soviet declared the restoration of independence, and on 18 October 1991 the Constitutional Act on the State Independence of the Republic of Azerbaijan was adopted. A referendum in December confirmed it, and in 1992 Azerbaijan joined the United Nations. In 1994 the government signed the so-called Contract of the Century with international oil companies.\n\nThe early years were hard, marked by economic crisis and by the conflict over Nagorno-Karabakh, which began in 1988. After a ceasefire in 1994 and fighting in 2020, Azerbaijan restored control over the region in 2023. Independence Day is celebrated on 18 October.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Azerbaijan.svg?width=800"
+    },
+    {
+      "id": "european-union",
+      "title": "The European Union",
+      "description": "The political and economic union of European countries.",
+      "content": "The European Union (EU) is a political and economic union of 27 European countries. Its roots lie in the aftermath of World War II. On 9 May 1950, the French foreign minister Robert Schuman proposed pooling coal and steel production, so that war between France and Germany would be impossible. That day is now celebrated as Europe Day.\n\nSix countries formed the European Coal and Steel Community in 1951 and the European Economic Community with the Treaty of Rome in 1957. The Maastricht Treaty of 1992 created the EU. The euro entered circulation as notes and coins in 2002, and in 2004 ten mostly Eastern European countries joined. Britain left in 2020.\n\nThe EU has a single market, in which people, goods, services and capital move freely, a Parliament elected by citizens, and the Schengen area without passport checks between most members. It won the Nobel Peace Prize in 2012.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Europe.svg?width=800"
+    },
+    {
+      "id": "september-11-attacks",
+      "title": "The September 11 Attacks",
+      "description": "The 2001 terrorist attacks on the United States.",
+      "content": "On the morning of 11 September 2001, 19 hijackers linked to the terrorist group al-Qaeda seized four passenger aeroplanes in the United States. Two were flown into the Twin Towers of the World Trade Center in New York, which collapsed, and a third hit the Pentagon near Washington, D.C. The fourth, Flight 93, crashed in a field in Pennsylvania after passengers tried to retake control.\n\nNearly 3,000 people were killed, making it the deadliest terrorist attack in history. The scenes were watched live around the world and shocked the public.\n\nThe United States responded with a global War on Terror, invading Afghanistan in October 2001, where al-Qaeda was based, and later Iraq in 2003. The attacks led to stronger security at airports, new laws such as the Patriot Act, and long debates about security, freedom and foreign policy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WTC_smoking_on_9-11.jpeg?width=800"
+    },
+    {
+      "id": "great-recession",
+      "title": "The Great Recession",
+      "description": "The global financial crisis of 2007–2009.",
+      "content": "The Great Recession was a severe worldwide economic downturn that followed the global financial crisis of 2007–2008. It was the worst since the Great Depression.\n\nIts roots lay in a housing bubble in the United States, fuelled by cheap loans, including risky subprime mortgages, which banks packaged into complex financial products sold around the world. When house prices fell, many borrowers could not pay, and banks suffered huge losses. On 15 September 2008 the investment bank Lehman Brothers collapsed, and the financial system froze.\n\nGovernments rescued banks and stimulated the economy, but millions lost jobs and homes. A debt crisis in the eurozone followed from 2010. Regulations such as the Dodd–Frank Act were passed, and the anonymous inventor of Bitcoin launched that currency in 2009 partly as a response to distrust of banks.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GDP_Real_Growth_in_2009.svg?width=800"
+    },
+    {
+      "id": "covid-19-pandemic",
+      "title": "The COVID-19 Pandemic",
+      "description": "The global health crisis that began in 2019.",
+      "content": "COVID-19 is an illness caused by the coronavirus SARS-CoV-2, first identified in the Chinese city of Wuhan in December 2019. It spread rapidly, and on 11 March 2020 the World Health Organization declared it a pandemic. Azerbaijan reported its first case in late February 2020.\n\nGovernments introduced lockdowns, travel restrictions, mask rules and closures of schools and businesses. Hospitals in many countries were overwhelmed. More than 7 million deaths were officially reported worldwide, though estimates of the true toll are higher. The economic effects were sharp, and many people shifted to working and studying online.\n\nVaccines were developed in record time, and the first were approved in December 2020. Vaccination campaigns and immunity from infection gradually reduced severe illness, and the WHO ended the global health emergency in May 2023. The pandemic changed attitudes to health, work and international cooperation.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Covid-19_SP_-_UTI_V._Nova_Cachoeirinha.jpg?width=800"
+    }
+  ]
+}

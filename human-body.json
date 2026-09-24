@@ -1,0 +1,701 @@
+{
+  "category": "human-body",
+  "articles": [
+    {
+      "id": "human-body",
+      "title": "The Human Body",
+      "description": "An overview of how our bodies are built and work.",
+      "content": "The human body is a complex machine made of about 30 to 37 trillion cells, organised into tissues, organs and organ systems. An adult weighs about 70 kilograms on average, and around 60% of that is water. Most of the body's mass is made of just a few elements: oxygen, carbon, hydrogen and nitrogen.\n\nScientists usually describe 11 organ systems, including the skeletal, muscular, circulatory, respiratory, digestive, nervous, endocrine, immune, urinary, reproductive and integumentary (skin) systems. Each has its own job, but they work together, and the body constantly adjusts to keep its internal conditions stable, a balance called homeostasis.\n\nThe study of the body's structure is called anatomy, and the study of how it functions is physiology. Modern imaging, from X-rays to MRI, lets doctors see inside a living person without surgery.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anatomical_Male_Figure_Showing_Heart%2C_Lungs%2C_and_Main_Arteries.jpg?width=800"
+    },
+    {
+      "id": "cells",
+      "title": "Cells",
+      "description": "The tiny building blocks of every living thing.",
+      "content": "The cell is the basic unit of life. The human body contains roughly 200 different types of cells, from red blood cells to nerve cells and skin cells, and each is specialised for its job. Most cells are far too small to be seen without a microscope, about a tenth of the width of a human hair.\n\nThe English scientist Robert Hooke first used the word cell in 1665 when he looked at cork under a microscope. In 1839 Matthias Schleiden and Theodor Schwann proposed that all living things are made of cells.\n\nA typical cell has a membrane, a nucleus that holds the DNA, and structures called organelles. Mitochondria produce energy. Cells grow, divide and die, and every second millions of cells in the body are replaced.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Typical_human_cell.tif?width=800"
+    },
+    {
+      "id": "tissues",
+      "title": "Tissues",
+      "description": "Groups of similar cells working together.",
+      "content": "A tissue is a group of similar cells that work together to perform a particular function. The human body has four basic types of tissue, and organs are made of combinations of them.\n\nEpithelial tissue covers surfaces and lines cavities, as in the skin and the lining of the gut. Connective tissue supports and joins other tissues, and includes bone, cartilage, fat and even blood. Muscle tissue contracts to produce movement and comes in three kinds: skeletal, smooth and cardiac. Nervous tissue carries electrical signals, in the brain, spinal cord and nerves.\n\nThe study of tissues is called histology. Doctors examine thin slices of tissue under a microscope, called a biopsy, to diagnose diseases such as cancer.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Emphysema_H_and_E.jpg?width=800"
+    },
+    {
+      "id": "skeleton",
+      "title": "The Skeleton",
+      "description": "An adult human skeleton contains 206 bones, a newborn about 270.",
+      "content": "The skeleton gives the body its shape, protects organs, and works with muscles to allow movement. The skull protects the brain, and the ribcage guards the heart and lungs.\n\nBones also store calcium and other minerals, and the bone marrow inside many of them produces blood cells. The largest bone is the femur, or thigh bone, while the smallest is the stapes in the middle ear, about three millimetres long.\n\nBabies are born with more bones because some, such as those of the skull, later fuse together. Bone is living tissue that constantly renews itself, and the entire adult skeleton is gradually replaced roughly every ten years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Human-Skeleton.jpg?width=800"
+    },
+    {
+      "id": "bone",
+      "title": "Bone",
+      "description": "The living, self-repairing material of the skeleton.",
+      "content": "Bone is a hard but living tissue. It is made mainly of collagen, a flexible protein that gives it toughness, and calcium phosphate, a mineral that gives it hardness. Together they make bone remarkably strong for its weight.\n\nThe outer layer, compact bone, is dense and smooth, while inside is spongy bone, which has a honeycomb-like structure. In the centre of many bones is bone marrow, where red blood cells, white blood cells and platelets are made. Two kinds of cells constantly remodel bone: osteoclasts break old bone down and osteoblasts build new bone.\n\nBroken bones heal by forming new bone at the fracture. Calcium, vitamin D and exercise that puts weight on the bones help keep them strong, while the condition osteoporosis makes bones thin and brittle with age.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Left_femur_of_extinct_elephant%2C_Alaska%2C_Ice_Age_Wellcome_L0057714.jpg?width=800"
+    },
+    {
+      "id": "joints",
+      "title": "Joints",
+      "description": "Where two or more bones meet.",
+      "content": "A joint is a place where two or more bones meet. The human body has about 360 joints. Some, such as those in the skull, are fixed and do not move, while others allow a wide range of movement.\n\nThe main types of movable joints include ball-and-socket joints in the shoulder and hip, which allow movement in all directions; hinge joints in the knee and elbow, which move like a door; pivot joints in the neck, which allow rotation; and gliding joints in the wrists and ankles.\n\nThe ends of the bones are covered with smooth cartilage, and the joint is lubricated by synovial fluid. Ligaments connect bone to bone, while tendons connect muscle to bone. The knee is the largest joint, and arthritis is a common condition in which joints become inflamed or worn.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Joint.svg?width=800"
+    },
+    {
+      "id": "muscles",
+      "title": "Muscles",
+      "description": "The tissues that make the body move.",
+      "content": "Muscles are tissues that contract to produce movement, maintain posture and generate heat. The human body has about 600 skeletal muscles, which make up about 40% of body weight, as well as smooth muscle in organs and cardiac muscle in the heart.\n\nSkeletal muscles are under voluntary control and are attached to bones by tendons. They work in pairs: when the biceps contracts to bend the elbow, the triceps relaxes. Smooth muscle, in the walls of the stomach, intestines and blood vessels, works automatically, and cardiac muscle beats without rest for a lifetime.\n\nThe largest muscle is the gluteus maximus in the buttock, and the smallest is the stapedius in the ear. Muscles use energy in the form of ATP, and exercise makes them stronger.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Types_of_muscle.webp?width=800"
+    },
+    {
+      "id": "heart",
+      "title": "The Heart",
+      "description": "The muscular pump that moves blood through the body.",
+      "content": "The human heart has four chambers: two atria that receive blood and two ventricles that push it out. The right side pumps blood to the lungs to pick up oxygen, and the left side sends it to the rest of the body.\n\nValves keep the blood flowing in one direction, and an electrical signal from a small group of cells called the sinoatrial node, the heart's natural pacemaker, sets the rhythm. It beats roughly 100,000 times a day, moving about 7,000 litres of blood through a network of vessels that would stretch far beyond the circumference of the Earth if laid end to end.\n\nA heart is about the size of a fist and weighs about 300 grams. Regular exercise, a balanced diet and not smoking help keep it healthy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heart_anterior_exterior_view.png?width=800"
+    },
+    {
+      "id": "circulatory-system",
+      "title": "The Circulatory System",
+      "description": "The transport network of heart and blood vessels.",
+      "content": "The circulatory system carries blood to every part of the body, delivering oxygen and nutrients and removing waste. It consists of the heart, blood vessels and blood.\n\nThere are three kinds of vessels: arteries carry blood away from the heart, veins return it, and tiny capillaries, with walls just one cell thick, allow exchange with the tissues. Together the vessels are about 100,000 kilometres long. The system has two loops: the pulmonary circulation carries blood to the lungs and back, and the systemic circulation supplies the rest of the body.\n\nThe English physician William Harvey explained in 1628 that blood circulates around the body in a loop, driven by the heart. A drop of blood can complete a full circuit in about a minute.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Circulatory_System_en.svg?width=800"
+    },
+    {
+      "id": "blood",
+      "title": "Blood",
+      "description": "The fluid that carries oxygen, nutrients and defenders.",
+      "content": "Blood is the fluid that circulates through the body, carrying oxygen, nutrients, hormones and waste. An adult has about five litres.\n\nIt consists of plasma, a pale yellow liquid making up about 55% of the volume, and cells: red blood cells carry oxygen using haemoglobin, white blood cells fight infection, and platelets help it clot. Red cells live about 120 days and are made in the bone marrow.\n\nThere are four main blood groups, A, B, AB and O, discovered by Karl Landsteiner in 1901, and each is also Rh positive or negative. Type O negative is called the universal donor for red cells.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Venous_and_arterial_blood.jpg?width=800"
+    },
+    {
+      "id": "lungs",
+      "title": "The Lungs",
+      "description": "The organs that bring oxygen into the blood.",
+      "content": "The lungs are a pair of spongy organs that bring oxygen into the blood and remove carbon dioxide. Air travels through the nose or mouth, the windpipe (trachea) and the bronchi, which branch into millions of tiny sacs called alveoli.\n\nThere are around 300 to 500 million alveoli, and their walls are so thin that gases pass easily into the surrounding capillaries. The diaphragm, a dome-shaped muscle under the lungs, contracts to draw air in. An adult breathes about 12 to 20 times a minute at rest.\n\nThe right lung has three lobes and the left has two, leaving room for the heart. Smoking and air pollution are major causes of lung disease.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lungs_diagram_detailed.svg?width=800"
+    },
+    {
+      "id": "respiratory-system",
+      "title": "The Respiratory System",
+      "description": "How the body breathes.",
+      "content": "The respiratory system brings oxygen into the body and removes carbon dioxide. It includes the nose, throat, voice box, windpipe, bronchi and lungs. The nose warms, moistens and filters the air, and tiny hairs called cilia sweep dust and germs upward.\n\nIn the alveoli, oxygen passes into the blood and carbon dioxide passes out to be exhaled. The air we breathe in contains about 21% oxygen, and the air we breathe out about 16%, plus more carbon dioxide. A person breathes about 11,000 litres of air every day.\n\nBreathing is controlled automatically by the brainstem, which senses carbon dioxide levels in the blood, though we can also control it consciously. Coughing and sneezing clear irritants from the airways.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Respiratory_system_complete_en.svg?width=800"
+    },
+    {
+      "id": "brain",
+      "title": "The Brain",
+      "description": "The control centre of the body and seat of thought.",
+      "content": "The brain is the control centre of the nervous system, weighing about 1.4 kilograms and containing roughly 86 billion neurons.\n\nIt has three main parts: the cerebrum, responsible for thought, memory, language and voluntary movement; the cerebellum, which coordinates balance and movement; and the brainstem, which controls breathing and heart rate. The cerebral cortex, its wrinkled outer layer, is divided into lobes with specialised roles.\n\nNeurons communicate through electrical impulses and chemicals called neurotransmitters. Although it makes up only about 2% of body weight, the brain uses about 20% of the body's energy. It stays adaptable throughout life, a property called neuroplasticity.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Brain_autopsy_lateral_view.jpg?width=800"
+    },
+    {
+      "id": "nervous-system",
+      "title": "The Nervous System",
+      "description": "The body's communication network.",
+      "content": "The nervous system is the body's communication network, carrying signals between the brain and every other part of the body. It has two main parts: the central nervous system, made up of the brain and spinal cord, and the peripheral nervous system, made up of the nerves that branch out to the rest of the body.\n\nIts basic cells are neurons, and there are about 86 billion in the brain. Signals travel along them as electrical impulses at speeds up to about 120 metres per second, and pass between neurons via chemicals called neurotransmitters. Sensory nerves send information to the brain, and motor nerves carry commands to the muscles.\n\nThe autonomic nervous system controls things we do not think about, such as heartbeat and digestion. The Spanish scientist Santiago Ramón y Cajal showed in the 1880s and 1890s that the nervous system is made of separate neurons.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/TE-Nervous_system_diagram.svg?width=800"
+    },
+    {
+      "id": "spinal-cord",
+      "title": "The Spinal Cord",
+      "description": "The highway that connects the brain to the body.",
+      "content": "The spinal cord is a long, thin bundle of nerve tissue that runs from the base of the brain down the back, inside the spine. In adults it is about 45 centimetres long and is protected by the 33 vertebrae of the backbone, and by fluid and membranes.\n\nIt carries messages between the brain and the body: sensory signals go up, and movement commands come down. Thirty-one pairs of spinal nerves branch out from it to the arms, legs and organs. It also manages simple reflexes, such as pulling your hand away from a hot surface, without waiting for the brain.\n\nAn injury to the spinal cord can cause paralysis below the level of the damage, because the signals cannot get through. Research on treatments and technologies to help people with such injuries is advancing.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blausen_0822_SpinalCord.png?width=800"
+    },
+    {
+      "id": "digestive-system",
+      "title": "The Digestive System",
+      "description": "How the body breaks food into nutrients.",
+      "content": "The digestive system breaks food down into nutrients the body can absorb. It is a tube about nine metres long from mouth to anus, plus helper organs.\n\nDigestion starts in the mouth, where teeth chew and saliva begins breaking down starch. Food moves down the oesophagus to the stomach, where acid and enzymes turn it into a liquid mix. In the small intestine, bile from the liver and enzymes from the pancreas finish digestion, and most nutrients are absorbed through finger-like villi. The large intestine absorbs water and forms waste.\n\nThe gut hosts trillions of bacteria that help digest fibre and make some vitamins. The whole journey takes about 24 to 72 hours.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Digestive_system_diagram_en.svg?width=800"
+    },
+    {
+      "id": "stomach",
+      "title": "The Stomach",
+      "description": "The muscular bag that churns and digests food.",
+      "content": "The stomach is a J-shaped muscular organ on the left side of the upper abdomen. It normally holds about one litre of food but can stretch to hold up to about four litres.\n\nWhen food arrives, the stomach walls churn it and mix it with gastric juice, which contains hydrochloric acid, strong enough to kill most bacteria, and enzymes such as pepsin that start breaking down proteins. A thick layer of mucus protects the stomach lining from its own acid, and the lining is renewed every few days. Food stays in the stomach for two to four hours before moving on to the small intestine.\n\nIn 1982 the Australian scientists Barry Marshall and Robin Warren showed that the bacterium Helicobacter pylori causes most stomach ulcers, and they received the Nobel Prize in 2005.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray1046.svg?width=800"
+    },
+    {
+      "id": "liver",
+      "title": "The Liver",
+      "description": "The body's chemical factory and largest internal organ.",
+      "content": "The liver is the largest internal organ, weighing about 1.5 kilograms, and lies in the upper right part of the abdomen, protected by the ribs. It is a chemical factory that performs hundreds of functions.\n\nIt produces bile, which helps digest fats, filters the blood coming from the intestines, breaks down toxins and drugs, stores sugar as glycogen and vitamins, and makes proteins that help blood clot. About 1.5 litres of blood pass through the liver every minute.\n\nThe liver is unusual in being able to regenerate: it can regrow after part of it is removed. This makes living-donor liver transplants possible. Hepatitis viruses, heavy drinking and fatty liver disease can damage it, and it can suffer without clear symptoms for a long time.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anatomy_Abdomen_Tiesworks.jpg?width=800"
+    },
+    {
+      "id": "pancreas",
+      "title": "The Pancreas",
+      "description": "The gland that aids digestion and controls blood sugar.",
+      "content": "The pancreas is a gland about 15 centimetres long that lies behind the stomach. It has two roles: as part of the digestive system and as part of the endocrine system.\n\nIt makes digestive juices with enzymes that break down carbohydrates, proteins and fats and releases them into the small intestine. Scattered among the digestive cells are clusters called the islets of Langerhans, discovered by Paul Langerhans in 1869, which produce hormones. Insulin lowers blood sugar, and glucagon raises it.\n\nWhen the pancreas does not produce enough insulin, or the body cannot use it properly, the result is diabetes. In 1921 Frederick Banting and Charles Best isolated insulin from the pancreas, a discovery that saved millions of lives.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blausen_0699_PancreasAnatomy2.png?width=800"
+    },
+    {
+      "id": "small-intestine",
+      "title": "The Small Intestine",
+      "description": "Where most digestion and absorption takes place.",
+      "content": "The small intestine is a long, coiled tube between the stomach and the large intestine. It is about six metres long in a relaxed body, though it is shorter in a living person because of muscle tone, and is only about 2.5 centimetres wide, so it is called small because of its width, not its length.\n\nIt has three parts: the duodenum, the jejunum and the ileum. Here bile and pancreatic enzymes finish breaking down food, and nutrients pass into the blood. Its inner wall is covered with folds and millions of tiny finger-like projections called villi, giving it a surface area of about 30 square metres.\n\nWaves of muscle contractions called peristalsis push food along. Diseases such as coeliac disease, in which the immune system reacts to gluten, can damage the lining.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tractus_intestinalis_intestinum_tenue.svg?width=800"
+    },
+    {
+      "id": "large-intestine",
+      "title": "The Large Intestine",
+      "description": "The final part of the digestive tract.",
+      "content": "The large intestine, or colon, is the wide tube at the end of the digestive system, about 1.5 metres long. It frames the abdomen and connects to the rectum and anus. The appendix is a small pouch attached near its beginning.\n\nIts main job is to absorb water and salts from the waste that remains after digestion, turning it into solid stool. It is home to trillions of bacteria that ferment fibre, produce vitamin K and some B vitamins, and help protect against harmful microbes.\n\nWaste is stored in the rectum until it is expelled. A diet with plenty of fibre and water keeps the bowel moving regularly. Colon cancer is common but can often be prevented through screening, which finds and removes growths early.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tractus_intestinalis_intestinum_crassum.svg?width=800"
+    },
+    {
+      "id": "kidneys",
+      "title": "The Kidneys",
+      "description": "The organs that filter blood and make urine.",
+      "content": "The kidneys are two bean-shaped organs, each about the size of a fist, located below the ribcage on either side of the spine.\n\nThey filter the blood, removing waste and extra water to make urine. Each kidney contains about a million tiny filters called nephrons. Together they filter about 180 litres of fluid a day, but only one to two litres leave the body as urine; the rest is reabsorbed.\n\nKidneys also regulate blood pressure, balance salts and minerals, and produce the hormone erythropoietin, which stimulates red blood cell production. People can live with one healthy kidney, and kidney transplants are among the most common organ transplants.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blausen_0592_KidneyAnatomy_01.png?width=800"
+    },
+    {
+      "id": "urinary-system",
+      "title": "The Urinary System",
+      "description": "How the body removes liquid waste.",
+      "content": "The urinary system removes waste and excess water from the blood in the form of urine, and keeps the body's fluids and chemicals in balance. It consists of two kidneys, two ureters, the bladder and the urethra.\n\nUrine is made in the kidneys and flows down the ureters, thin tubes about 25 centimetres long, to the bladder. The bladder is a muscular bag that can hold about 400 to 600 millilitres, and nerves signal the brain when it starts to fill, usually at around 200 millilitres. Urine leaves the body through the urethra.\n\nAdults produce about one to two litres of urine a day, which is about 95% water. Drinking enough water helps prevent infections and kidney stones. People whose kidneys fail can be treated with dialysis or a transplant.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Urinary_system.svg?width=800"
+    },
+    {
+      "id": "skin",
+      "title": "The Skin",
+      "description": "The body's largest organ and its protective barrier.",
+      "content": "Skin is the body's largest organ, covering about 1.5 to 2 square metres in an adult and weighing around four kilograms or more.\n\nIt has three layers: the epidermis, a waterproof outer layer that renews itself about every month; the dermis, containing blood vessels, nerves, sweat glands and hair follicles; and a layer of fat tissue below. The pigment melanin gives skin its colour and protects against ultraviolet rays.\n\nSkin protects against germs, regulates temperature through sweating, senses touch, pain and heat, and makes vitamin D in sunlight. Sunscreen reduces the risk of skin cancer.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Human_skin_structure.jpg?width=800"
+    },
+    {
+      "id": "hair-and-nails",
+      "title": "Hair and Nails",
+      "description": "Growing structures made of keratin.",
+      "content": "Hair and nails are made of keratin, a tough protein that is also found in the outer layer of the skin. Both are made of dead cells that are pushed out by living cells below.\n\nHair grows from follicles in the skin. The scalp has about 100,000 hairs, and the whole body has around five million follicles. Scalp hair grows about 1.25 centimetres a month, and each hair lives for several years before it falls out and is replaced. Hair colour comes from the pigment melanin, and hair turns grey when pigment cells stop producing it.\n\nFingernails grow about three millimetres a month, faster than toenails, and take about six months to grow out fully. Nails protect the tips of the fingers and help in picking up small objects. Hair helps keep the body warm and protects the eyes.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gray945.png?width=800"
+    },
+    {
+      "id": "eye",
+      "title": "The Eye",
+      "description": "The organ that turns light into vision.",
+      "content": "The eye is the organ of sight. Light enters through the transparent cornea, passes through the pupil, whose size is adjusted by the coloured iris, and is focused by the lens onto the retina at the back of the eye.\n\nThe retina contains about 120 million rods, which work in dim light, and around 6 million cones, which detect colour. They convert light into electrical signals that travel along the optic nerve to the brain, which builds the image; the image on the retina is actually upside down.\n\nNearsightedness occurs when the eyeball is too long and farsightedness when it is too short, and glasses can correct both. Humans have three types of cones, and colour blindness results from missing or altered types.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Human_eye_with_blood_vessels.jpg?width=800"
+    },
+    {
+      "id": "ear",
+      "title": "The Ear",
+      "description": "The organ of hearing and balance.",
+      "content": "The ear has three parts. The outer ear, including the visible flap, collects sound and channels it down the ear canal to the eardrum, a thin membrane that vibrates. In the air-filled middle ear, three tiny bones, the malleus, incus and stapes, pass on and amplify the vibrations. The stapes is the smallest bone in the body.\n\nThe vibrations reach the inner ear, the fluid-filled cochlea, a snail-shaped tube lined with about 15,000 tiny hair cells. They convert the movements into electrical signals that the auditory nerve carries to the brain. Young people can hear frequencies from about 20 to 20,000 hertz.\n\nThe inner ear also contains the balance organs. Loud noise, above about 85 decibels for long periods, can permanently damage the hair cells, which do not grow back.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Human_right_ear_(cropped).jpg?width=800"
+    },
+    {
+      "id": "nose-and-smell",
+      "title": "The Nose and the Sense of Smell",
+      "description": "How we detect thousands of odours.",
+      "content": "The nose is the organ of smell and the entrance to the respiratory system. High inside the nasal cavity is a patch of tissue with about 400 kinds of smell receptors that detect chemicals in the air. When molecules bind to them, they send signals to the olfactory bulb in the brain.\n\nHumans can tell apart thousands of different smells. The olfactory bulb is closely linked to the parts of the brain involved in emotion and memory, which is why a smell can suddenly bring back a vivid memory. Much of what we think of as taste is actually smell, which is why food seems bland when we have a cold.\n\nThe nose also warms, moistens and filters the air we breathe, and the sinuses around it make the skull lighter. Losing the sense of smell, called anosmia, can result from infections or head injuries.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/David_Ryckaert_(III)_-_Old_women_smelling_a_carnation_(Allegory_of_smell).jpg?width=800"
+    },
+    {
+      "id": "tongue-and-taste",
+      "title": "The Tongue and the Sense of Taste",
+      "description": "How we recognise flavours.",
+      "content": "The tongue is a strong muscle covered with tiny bumps called papillae, many of which contain taste buds. A person has roughly 2,000 to 10,000 taste buds, mostly on the tongue but also on the roof of the mouth and throat, and each is renewed about every ten days.\n\nThere are five basic tastes: sweet, sour, salty, bitter and umami, the savoury taste of foods like meat, tomatoes and mushrooms, identified by the Japanese chemist Kikunae Ikeda in 1908. The popular idea of a tongue map, with different regions for different tastes, is a myth: all tastes can be sensed on all parts of the tongue.\n\nTaste helps us to recognise nutritious food and avoid poisons, since many bitter substances are toxic. The tongue also helps in chewing, swallowing and speech, and flavour is a combination of taste, smell and texture.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Taste_bud.svg?width=800"
+    },
+    {
+      "id": "touch",
+      "title": "The Sense of Touch",
+      "description": "How skin feels pressure, heat and pain.",
+      "content": "The sense of touch comes from receptors in the skin and other tissues that detect pressure, vibration, temperature and pain. Different receptors respond to different things: mechanoreceptors sense pressure and texture, thermoreceptors sense hot and cold, and nociceptors sense harmful stimuli.\n\nSignals travel through nerves and the spinal cord to the brain's somatosensory cortex, which maps the body. The map is not to scale: areas such as the fingertips, lips and tongue take up much more space than the back or legs, because they are much more sensitive. That is why we can read Braille with our fingertips.\n\nTouch is the first sense to develop in the womb. It is important for movement, protection and emotional bonding, and babies who are held and cuddled develop better.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XBio_illustration_%E2%80%93_Somatosensory_System.png?width=800"
+    },
+    {
+      "id": "teeth",
+      "title": "Teeth",
+      "description": "The hard structures that bite and chew.",
+      "content": "Teeth are hard structures in the mouth used to bite, chew and help in speech. Humans have two sets: 20 baby teeth, which begin to appear at about six months, and 32 permanent teeth, which replace them from about the age of six.\n\nThere are four kinds: incisors for cutting, canines for tearing, and premolars and molars for grinding. Each tooth has an outer layer of enamel, the hardest substance in the body, a softer layer of dentin, and a pulp with nerves and blood vessels in the centre. The last molars are called wisdom teeth and often appear in the late teens.\n\nTooth decay happens when bacteria in the mouth turn sugars into acids that dissolve the enamel. Brushing twice a day with fluoride toothpaste, cleaning between the teeth, eating less sugar and visiting a dentist help prevent cavities.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Close_up_-_chimpanzee_teeth.png?width=800"
+    },
+    {
+      "id": "immune-system",
+      "title": "The Immune System",
+      "description": "The body's defence network against germs.",
+      "content": "The immune system is the body's defence network against germs such as bacteria, viruses and fungi.\n\nThe first barriers are the skin and mucous membranes. The innate immune system responds quickly and generally, with white blood cells such as phagocytes and with fever and inflammation. The adaptive immune system learns: B cells make antibodies and T cells destroy infected cells, and memory cells remember an invader for a faster response next time.\n\nVaccines train the adaptive immune system without causing the disease. Edward Jenner developed the first vaccine, against smallpox, in 1796, and smallpox was declared eradicated in 1980. Overreactions can cause allergies and autoimmune diseases.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neutrophil_with_anthrax_copy.jpg?width=800"
+    },
+    {
+      "id": "white-blood-cells",
+      "title": "White Blood Cells",
+      "description": "The body's defenders in the bloodstream.",
+      "content": "White blood cells, or leukocytes, are the cells of the immune system that defend the body against infection and disease. They are made in the bone marrow and circulate in the blood and lymph. A healthy adult has about 4,000 to 11,000 of them in every microlitre of blood, far fewer than red blood cells.\n\nThere are five main types. Neutrophils are the most common and engulf bacteria, in a process called phagocytosis; monocytes become macrophages, which also swallow invaders; lymphocytes, including B cells and T cells, provide targeted defence and memory; and eosinophils and basophils respond to parasites and allergies.\n\nThe number of white cells rises during an infection, so a blood test can help doctors detect it. Some live only a few hours or days, while some memory cells survive for many years.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blausen_0909_WhiteBloodCells.png?width=800"
+    },
+    {
+      "id": "lymphatic-system",
+      "title": "The Lymphatic System",
+      "description": "The drainage and defence network of the body.",
+      "content": "The lymphatic system is a network of vessels, nodes and organs that collects excess fluid from the tissues, called lymph, and returns it to the blood. It also absorbs fats from the digestive system and plays an important role in immunity.\n\nLymph nodes, of which there are about 600, are small bean-shaped filters found in the neck, armpits and groin that trap germs and contain white blood cells. Other parts of the system include the spleen, which filters blood, the thymus, where T cells mature, and the tonsils.\n\nUnlike the blood, lymph has no pump: it is moved along by the contractions of surrounding muscles, and one-way valves stop it flowing backwards. When you have an infection, the lymph nodes near it may swell and become tender as they fight the germs.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blausen_0623_LymphaticSystem_Female.png?width=800"
+    },
+    {
+      "id": "endocrine-system",
+      "title": "The Endocrine System",
+      "description": "The glands that control the body with hormones.",
+      "content": "The endocrine system is a set of glands that release hormones directly into the bloodstream. The hormones travel to target organs and control processes such as growth, metabolism, mood, reproduction and sleep.\n\nThe main glands are the pituitary, the hypothalamus, the thyroid, the parathyroids, the adrenal glands, the pancreas, the ovaries and the testes, and the pineal gland. The pituitary, a pea-sized gland at the base of the brain, is often called the master gland since it controls many others.\n\nCompared to the nervous system, which acts within milliseconds, the endocrine system works more slowly but its effects last longer. Its glands are regulated by feedback loops that keep hormone levels in balance. Problems include diabetes and thyroid disorders.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Endocrine_English.svg?width=800"
+    },
+    {
+      "id": "hormones",
+      "title": "Hormones",
+      "description": "Chemical messengers that regulate the body.",
+      "content": "Hormones are chemical messengers made by glands and released into the blood. Even tiny amounts can strongly affect cells that have matching receptors. The word was introduced by the English physiologist Ernest Starling in 1905, from a Greek word meaning to set in motion.\n\nWell-known examples include insulin, which lowers blood sugar; adrenaline, which prepares the body for fight or flight; cortisol, the stress hormone; growth hormone, which stimulates growth; melatonin, which regulates sleep; estrogen and testosterone, the sex hormones; and oxytocin, involved in birth and bonding.\n\nHormone levels are controlled by feedback: when the level of one rises enough, signals reduce its production. Imbalances can cause conditions such as diabetes, thyroid disease and growth disorders, and hormones are used as medicines.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hormone_Transport.png?width=800"
+    },
+    {
+      "id": "thyroid",
+      "title": "The Thyroid Gland",
+      "description": "The butterfly-shaped gland that sets the body's pace.",
+      "content": "The thyroid is a butterfly-shaped gland at the front of the neck, just below the Adam's apple, weighing about 20 grams. It produces hormones, mainly thyroxine and triiodothyronine, that regulate metabolism, the speed at which the body uses energy.\n\nThe thyroid needs iodine, a mineral found in seafood, dairy and iodised salt, to make its hormones. A lack of iodine causes the gland to swell into a goitre, and in children it can harm brain development. This is why many countries add iodine to salt.\n\nAn underactive thyroid, called hypothyroidism, causes tiredness, weight gain and feeling cold, while an overactive one, hyperthyroidism, causes weight loss, a fast heartbeat and anxiety. Both are diagnosed with blood tests and can be treated.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Anterior_thyroid.jpg?width=800"
+    },
+    {
+      "id": "insulin",
+      "title": "Insulin",
+      "description": "The hormone that lets cells use sugar.",
+      "content": "Insulin is a hormone produced by beta cells in the pancreas. After a meal, when blood glucose rises, insulin is released and signals muscle, fat and liver cells to take up the sugar, which lowers the level in the blood. It also helps store the excess as glycogen and fat.\n\nIn people with type 1 diabetes, the immune system destroys beta cells, so they need insulin injections; in type 2 diabetes, cells respond poorly to insulin. Before insulin was available, type 1 diabetes was fatal.\n\nIn 1921 Frederick Banting and Charles Best in Toronto isolated insulin, and in January 1922 a 14-year-old boy, Leonard Thompson, became the first patient to be treated. Banting and John Macleod received the Nobel Prize in 1923. Today insulin is produced by genetically engineered bacteria and yeast.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Insulin_struct.png?width=800"
+    },
+    {
+      "id": "human-reproduction",
+      "title": "Human Reproduction",
+      "description": "How new human life begins.",
+      "content": "Human reproduction is sexual: a new person begins when a sperm cell from the father fertilises an egg cell from the mother. Each of these cells, called gametes, carries 23 chromosomes, so the fertilised egg has the full set of 46.\n\nThe female reproductive system includes two ovaries, which release an egg roughly once every menstrual cycle of about 28 days, the fallopian tubes, where fertilisation usually happens, and the uterus, where the embryo develops. The male system includes the testes, which produce sperm and the hormone testosterone.\n\nAfter fertilisation, the egg divides as it travels to the uterus, where it implants in the lining. Medical help is available for couples with difficulty conceiving: in 1978 Louise Brown was born in England as the first baby conceived by in vitro fertilisation.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mice_X_Y_chromosomes.jpg?width=800"
+    },
+    {
+      "id": "pregnancy",
+      "title": "Pregnancy",
+      "description": "The nine months of development before birth.",
+      "content": "Pregnancy is the period in which a baby develops inside the mother's uterus, lasting about 40 weeks, or roughly nine months, counted from the last menstrual period. It is divided into three trimesters.\n\nIn the first weeks the fertilised egg becomes an embryo, and by about six weeks the heart begins to beat. From about nine weeks it is called a fetus. The placenta, an organ that grows in the uterus, passes oxygen and nutrients from the mother to the baby and removes waste through the umbilical cord. By birth a baby usually weighs about 3.3 kilograms.\n\nRegular check-ups, healthy food, folic acid supplements, no alcohol or smoking, and ultrasound scans help mothers and babies stay healthy. Pregnancy also brings big changes in hormones and in the mother's body.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/PregnantWoman.jpg?width=800"
+    },
+    {
+      "id": "puberty",
+      "title": "Puberty",
+      "description": "The transition from child to adult body.",
+      "content": "Puberty is the stage of life when a child's body becomes sexually mature and capable of reproduction. It begins when the brain signals the pituitary gland to release hormones that stimulate the ovaries or testes. In girls it typically starts between the ages of 8 and 13, and in boys between 9 and 14, though the timing varies widely.\n\nPhysical changes include a growth spurt, the development of body hair and, in girls, breast development and the start of menstruation, and in boys a deepening voice and more muscle. The skin also produces more oil, which can cause acne.\n\nThe brain changes as well, and teenagers may feel stronger emotions and mood swings. Puberty is a normal part of development, and talking with parents, teachers or doctors can help young people through it."
+    },
+    {
+      "id": "ageing",
+      "title": "Ageing",
+      "description": "The changes that come with growing older.",
+      "content": "Ageing is the gradual change in the body over time. Cells divide less often, in part because the protective ends of chromosomes, called telomeres, become shorter each time. Skin loses elasticity, muscles and bones lose mass, and eyesight, hearing and memory may decline.\n\nGlobal life expectancy has risen from about 32 years in 1900 to over 70 today, thanks to better sanitation, nutrition, vaccines and medicine. The oldest person whose age has been fully verified was the Frenchwoman Jeanne Calment, who lived to 122 years and 164 days, dying in 1997.\n\nGenes account for only part of how well people age. Regular exercise, a balanced diet, not smoking, good sleep, mental activity and social connections are all linked to healthier old age. The study of ageing is called gerontology."
+    },
+    {
+      "id": "sleep",
+      "title": "Sleep",
+      "description": "The nightly state that restores body and mind.",
+      "content": "Sleep is a natural state of rest in which consciousness is reduced and the body recovers. Most adults need seven to nine hours a night, while teenagers need eight to ten and young children even more.\n\nDuring the night the brain goes through cycles of about 90 minutes, moving between light sleep, deep sleep and REM (rapid eye movement) sleep, when most vivid dreams occur. In deep sleep the body releases growth hormone and repairs tissues; the brain also consolidates memories and clears waste products.\n\nThe body's internal clock, the circadian rhythm, is set by light, and the hormone melatonin helps signal night. Lack of sleep harms attention, mood and health. In 1964 a US student, Randy Gardner, stayed awake for 11 days as an experiment, and suffered serious memory and concentration problems.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Domenico_Fetti_-_Sleeping_Girl_-_WGA7863.jpg?width=800"
+    },
+    {
+      "id": "dreams",
+      "title": "Dreams",
+      "description": "The stories our minds tell while we sleep.",
+      "content": "Dreams are sequences of images, sounds and feelings that we experience during sleep. Most vivid dreaming occurs during REM sleep, and a person has about four to six dreams a night, though most are forgotten.\n\nScientists do not fully agree on why we dream. Some suggest that dreams help the brain process emotions and consolidate memories, while others think they are a by-product of random brain activity. In 1899 Sigmund Freud published The Interpretation of Dreams, arguing that dreams reveal hidden desires, though many of his ideas are now disputed.\n\nNightmares are frightening dreams, and in lucid dreaming a person knows they are dreaming and can sometimes control the dream. People in many ancient cultures believed that dreams carried messages from the gods or the future.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_dream_(BM_1868%2C0808.9057).jpg?width=800"
+    },
+    {
+      "id": "memory",
+      "title": "Memory",
+      "description": "How the brain stores and recalls information.",
+      "content": "Memory is the ability to encode, store and retrieve information. Psychologists distinguish sensory memory, which lasts for a moment, short-term or working memory, which holds about seven items for several seconds, and long-term memory, which can last a lifetime.\n\nThe hippocampus, a seahorse-shaped structure deep in the brain, is important for forming new memories. The case of a patient known as H.M., Henry Molaison, who lost the ability to form new memories after brain surgery in 1953, taught scientists a great deal. Long-term memories are stored across the cortex.\n\nIn 1885 the German psychologist Hermann Ebbinghaus showed that we forget new information quickly unless it is reviewed. Sleep, repetition, associations and mnemonic techniques help us remember. Diseases such as Alzheimer's disease damage memory.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Memory.gif?width=800"
+    },
+    {
+      "id": "emotions",
+      "title": "Emotions",
+      "description": "The feelings that shape how we think and act.",
+      "content": "Emotions are complex reactions involving feelings, thoughts, body changes and behaviour. They help us respond to situations that matter, such as danger, loss or success.\n\nThe brain's limbic system, especially the amygdala, plays a central role, particularly in fear. The psychologist Paul Ekman identified six emotions whose facial expressions appear to be recognised across cultures: happiness, sadness, fear, anger, surprise and disgust. Hormones and neurotransmitters, such as adrenaline and serotonin, take part in emotional responses.\n\nEmotions influence decisions, memory and health. Learning to understand and manage emotions, sometimes called emotional intelligence, helps people in relationships and at work. If strong feelings become overwhelming, talking to someone you trust or a professional can help.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sixteen_faces_expressing_the_human_passions._Wellcome_L0068375_(cropped).jpg?width=800"
+    },
+    {
+      "id": "pain",
+      "title": "Pain",
+      "description": "The alarm system that warns of harm.",
+      "content": "Pain is an unpleasant sensation that warns the body of harm. When tissue is damaged, special nerve endings called nociceptors send signals through nerves and the spinal cord to the brain, which interprets them as pain, together with emotions and memories of similar experiences.\n\nAcute pain, from an injury, is short-lived and protective. Chronic pain lasts for more than about three months, even after healing, and can become a condition in itself. In 1965 Ronald Melzack and Patrick Wall proposed the gate control theory, in which the spinal cord can block or let through pain signals, which explains why rubbing a bumped elbow helps.\n\nThe body makes its own painkillers, endorphins. Medicines range from aspirin and paracetamol to strong opioids such as morphine. A few people are born unable to feel pain, which is dangerous because they do not notice injuries.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Wrist_pain.jpg?width=800"
+    },
+    {
+      "id": "reflexes",
+      "title": "Reflexes",
+      "description": "Automatic responses that protect us.",
+      "content": "A reflex is an automatic, rapid response to a stimulus that does not need conscious thought. It happens through a reflex arc: a sensory nerve carries the signal to the spinal cord, which sends a command straight to a muscle, bypassing the brain, so the response takes only a few hundredths of a second.\n\nExamples include pulling your hand away from something hot, blinking when something approaches the eye, coughing, and the knee-jerk reflex tested by doctors with a small hammer, which checks that the nerves are working. The pupils also shrink automatically in bright light.\n\nNewborn babies have reflexes such as grasping, sucking and startling, which disappear as the brain matures. The British physiologist Charles Sherrington did pioneering work on reflexes and won a Nobel Prize in 1932."
+    },
+    {
+      "id": "balance",
+      "title": "The Sense of Balance",
+      "description": "How the inner ear keeps us upright.",
+      "content": "Balance is the ability to keep the body upright and stable. It relies on three sources of information: the vestibular system in the inner ear, the eyes and the sensors in muscles and joints, called proprioceptors. The brain, especially the cerebellum, combines them.\n\nThe vestibular system has three fluid-filled semicircular canals that detect rotation of the head and two small organs, the utricle and saccule, that detect gravity and straight-line motion by the movement of tiny crystals over hair cells.\n\nIf the signals do not agree, we feel dizzy. Spinning around confuses the fluid in the canals, and motion sickness happens when the eyes and inner ear disagree. Astronauts often feel disoriented in weightlessness until the brain adapts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Balance.JPG?width=800"
+    },
+    {
+      "id": "voice",
+      "title": "The Human Voice",
+      "description": "How we produce speech and song.",
+      "content": "The human voice is produced in the larynx, or voice box, in the throat. Inside it are two folds of tissue called vocal cords, or vocal folds. When we speak, air from the lungs makes them vibrate, creating sound waves.\n\nThe pitch depends on how fast the folds vibrate. Adult men's voices vibrate on average about 100 to 120 times a second, women's about 200, and children's even faster. Tightening the folds raises the pitch. Then the sound is shaped by the throat, mouth, tongue, teeth, lips and nose into speech.\n\nDuring puberty the larynx grows, especially in boys, and the voice deepens, which produces the Adam's apple. Singers train to control breath and resonance. Overuse, shouting and smoking can damage the voice, and rest and water help it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Human_voice_spectrogram.jpg?width=800"
+    },
+    {
+      "id": "nutrition",
+      "title": "Nutrition",
+      "description": "What we eat and how it keeps us healthy.",
+      "content": "Nutrition is the science of how food nourishes the body. Food provides energy and the building materials the body needs, in two main groups: macronutrients, which we need in large amounts, namely carbohydrates, proteins and fats, and micronutrients, such as vitamins and minerals, which we need in small amounts.\n\nA balanced diet includes a variety of foods: vegetables and fruit, whole grains, protein sources such as fish, eggs, pulses and meat, and dairy or alternatives. The World Health Organization recommends eating at least 400 grams of fruit and vegetables a day and limiting sugar, salt and unhealthy fats. The Mediterranean diet is often mentioned as a healthy pattern.\n\nPoor nutrition takes two forms: undernutrition, which stunts growth and weakens immunity, and overnutrition, which leads to obesity and diseases such as diabetes. Traditional Azerbaijani cuisine, with its fresh herbs, vegetables and grilled meat, can be a healthy pattern when eaten in balance.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Close_wing_posture_of_Amblypodia_anita_(Hewitson%2C_1862)_-_Purple_Leaf_Blue_(Male)_gathering_nutrients_from_bird_dropping_WLB.jpg?width=800"
+    },
+    {
+      "id": "vitamins",
+      "title": "Vitamins",
+      "description": "Essential nutrients needed in tiny amounts.",
+      "content": "Vitamins are organic substances the body needs in small amounts to work properly but cannot make in enough quantity itself. There are 13 essential vitamins: four fat-soluble ones, A, D, E and K, which are stored in body fat, and nine water-soluble ones, the eight B vitamins and vitamin C, which are not stored and must be replaced regularly.\n\nTheir lack causes deficiency diseases. Scurvy, caused by too little vitamin C, killed many sailors until the Scottish doctor James Lind showed in 1747 that citrus fruit could cure it. A lack of vitamin D causes rickets, in which children's bones become soft, and the body can make this vitamin when skin is exposed to sunlight.\n\nThe Polish scientist Casimir Funk coined the word vitamine in 1912. Most people who eat a varied diet get enough vitamins from food, and very high doses of some supplements can be harmful.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/B_vitamin_supplement_tablets.jpg?width=800"
+    },
+    {
+      "id": "minerals",
+      "title": "Minerals",
+      "description": "The chemical elements the body needs.",
+      "content": "Dietary minerals are chemical elements, other than carbon, hydrogen, oxygen and nitrogen, that the body needs for health. Major minerals needed in larger amounts include calcium, phosphorus, potassium, sodium, magnesium and chloride, and trace minerals needed in tiny amounts include iron, zinc, iodine and selenium.\n\nCalcium and phosphorus make bones and teeth hard. Iron is a key part of haemoglobin, which carries oxygen in the blood, and a lack of it causes anaemia, one of the most common nutritional deficiencies in the world. Sodium and potassium help nerves and muscles work and keep fluid balance. Iodine is essential for the thyroid.\n\nToo much of some minerals can be harmful: the World Health Organization advises adults to consume less than five grams of salt a day, because too much sodium raises blood pressure.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Human_carbonic_anhydrase_II_PDB%3D6LUX.png?width=800"
+    },
+    {
+      "id": "hydration",
+      "title": "Water and Hydration",
+      "description": "Why the body needs water.",
+      "content": "Water makes up about 60% of an adult's body weight, and the brain is about 75% water. It carries nutrients, removes waste, cushions joints, regulates temperature through sweat, and is the medium in which all body chemistry takes place.\n\nThe body loses water every day through urine, sweat, breathing and digestion, roughly two to two and a half litres. This must be replaced from drinks and food, which provides about 20% of our water. How much we need depends on the weather, activity and body size, and the thirst mechanism usually guides us.\n\nMild dehydration can cause headaches, tiredness and poor concentration, and severe dehydration is dangerous, especially in children and older people. Pale yellow urine is a rough sign of good hydration. Drinking far too much water in a short time can also be harmful.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Clean_water_for_a_village_in_West_Lombok_(10686572086).jpg?width=800"
+    },
+    {
+      "id": "carbohydrates",
+      "title": "Carbohydrates",
+      "description": "The body's main source of quick energy.",
+      "content": "Carbohydrates are sugars, starches and fibre, and they are the body's main source of energy. Each gram provides about four kilocalories. During digestion, most are broken down into glucose, the fuel that the brain and muscles rely on.\n\nSimple carbohydrates, such as the sugars in sweets, fruit and honey, are digested quickly. Complex carbohydrates, such as the starches in bread, rice, potatoes and pulses, are digested more slowly and give longer-lasting energy. Fibre, found in whole grains, vegetables and fruit, is not digested but helps the gut and can lower cholesterol.\n\nDietary guidelines suggest that about 45% to 65% of energy should come from carbohydrates, preferably from whole foods rather than sugary foods and drinks. Foods with a low glycaemic index raise blood sugar more gradually.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/XBio_illustration_%E2%80%93_Carbohydrate.png?width=800"
+    },
+    {
+      "id": "proteins",
+      "title": "Proteins",
+      "description": "The building blocks of muscles, enzymes and much more.",
+      "content": "Proteins are large molecules made of chains of smaller units called amino acids. There are 20 amino acids used by the body, of which nine are essential, meaning that we must get them from food. Each gram of protein provides about four kilocalories.\n\nProteins have many jobs: they build and repair muscles, skin and hair, form enzymes that speed up chemical reactions, make antibodies, carry oxygen in haemoglobin, and serve as hormones such as insulin. The shape of a protein, determined by the order of its amino acids, decides what it does.\n\nGood sources include meat, fish, eggs, dairy products, beans, lentils, nuts and grains. The recommended amount for most adults is about 0.8 grams per kilogram of body weight per day. Children, athletes and older people may need somewhat more.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Myoglobin.png?width=800"
+    },
+    {
+      "id": "fats",
+      "title": "Fats",
+      "description": "Energy stores and essential building materials.",
+      "content": "Fats, also called lipids, are a concentrated source of energy, providing about nine kilocalories per gram, more than twice as much as carbohydrates or proteins. They insulate the body, protect organs, form part of every cell membrane and help absorb vitamins A, D, E and K.\n\nDietary fats are usually classified by their chemical structure. Unsaturated fats, in olive oil, nuts, seeds and fish, are considered healthy and include omega-3 fatty acids, which are good for the heart. Saturated fats, found in butter, cheese and fatty meat, should be limited, and industrially produced trans fats are best avoided, since they raise the risk of heart disease.\n\nThe body stores extra energy as fat in adipose tissue. A certain amount is necessary, but too much, especially around the abdomen, increases the risk of diabetes and cardiovascular disease.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trimyristin-3D-vdW.png?width=800"
+    },
+    {
+      "id": "metabolism",
+      "title": "Metabolism",
+      "description": "The chemistry that keeps the body running.",
+      "content": "Metabolism is the sum of all the chemical reactions in the body that keep it alive. They fall into two groups: catabolism, which breaks down food molecules to release energy, and anabolism, which uses energy to build and repair tissues.\n\nThe energy is stored in a molecule called ATP, which cells use as a fuel. Enzymes control the reactions. The basal metabolic rate is the energy used at rest to keep the heart beating, lungs breathing and body warm; it is typically about 1,400 to 1,800 kilocalories a day for adults, and it accounts for most of the body's energy use.\n\nMetabolism varies with age, sex, body size and muscle mass, since muscle uses more energy than fat, and hormones from the thyroid have a strong effect. Babies also have brown fat, which burns energy to produce heat.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Metabolism-en.svg?width=800"
+    },
+    {
+      "id": "calories",
+      "title": "Calories",
+      "description": "How we measure the energy in food.",
+      "content": "A calorie is a unit of energy. When people talk about calories in food, they usually mean kilocalories, the amount of heat needed to raise the temperature of one kilogram of water by one degree Celsius, equal to about 4,184 joules.\n\nFood energy was originally measured by burning food in a device called a bomb calorimeter, and later calculated using the Atwater system developed in the late 19th century. Carbohydrates and proteins provide about four kilocalories per gram, fats about nine, and alcohol about seven.\n\nMost adults need about 2,000 to 2,500 kilocalories a day, depending on age, sex, size and activity. If you take in more energy than you use, the body stores it as fat; if less, it draws on stores. Food labels show the energy content, but the quality of food matters as well as the quantity.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/FDA_Nutrition_Facts_Label_2016.png?width=800"
+    },
+    {
+      "id": "exercise",
+      "title": "Exercise",
+      "description": "Physical activity for a healthy body and mind.",
+      "content": "Exercise is physical activity that improves or maintains fitness and health. The main kinds are aerobic exercise, such as walking, running and swimming, which strengthens the heart and lungs, strength training, which builds muscle and bones, and flexibility and balance exercises.\n\nThe World Health Organization recommends that adults do at least 150 to 300 minutes of moderate-intensity activity a week, or 75 to 150 minutes of vigorous activity, plus muscle-strengthening on two or more days. Children and teenagers should get an average of at least 60 minutes a day.\n\nRegular exercise lowers the risk of heart disease, stroke, type 2 diabetes and some cancers, strengthens bones and muscles, improves sleep and mood, and helps maintain a healthy weight. It releases endorphins, chemicals that improve mood. Even small amounts, such as brisk walks, are beneficial.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cycling_in_Amsterdam_(893).jpg?width=800"
+    },
+    {
+      "id": "pulse",
+      "title": "The Pulse",
+      "description": "The beat you can feel in your arteries.",
+      "content": "The pulse is the rhythmic expansion of an artery caused by the pressure wave from each heartbeat. You can feel it where an artery passes near the skin, such as at the wrist, the neck or the temple, by gently pressing with two fingers.\n\nThe resting pulse rate for most adults is between 60 and 100 beats per minute. Well-trained athletes may have rates of 40 to 60, since their hearts pump more blood with each beat. Newborn babies have rates of about 100 to 160. The rate rises with exercise, fear, fever and caffeine, and falls with rest and sleep.\n\nDoctors have checked the pulse for thousands of years in ancient Egyptian, Greek, Chinese and Indian medicine. A rate that is consistently too fast, too slow or irregular can be a sign of a heart problem, and it is worth discussing with a doctor."
+    },
+    {
+      "id": "blood-pressure",
+      "title": "Blood Pressure",
+      "description": "The force of blood against artery walls.",
+      "content": "Blood pressure is the force that circulating blood exerts on the walls of the arteries. It is measured in millimetres of mercury (mmHg) and written as two numbers: the systolic pressure, when the heart beats, over the diastolic pressure, when it rests between beats.\n\nA healthy reading for most adults is below about 120/80. High blood pressure, or hypertension, is usually defined as 140/90 or above, and some guidelines use 130/80. It often has no symptoms, which is why it is called a silent killer, but it raises the risk of heart attack, stroke and kidney disease.\n\nThe Italian doctor Scipione Riva-Rocci invented the cuff-style blood pressure meter in 1896. Reducing salt, keeping a healthy weight, exercising, limiting alcohol and not smoking help control blood pressure, and medicines are available.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blood_pressure_monitoring.jpg?width=800"
+    },
+    {
+      "id": "blood-types",
+      "title": "Blood Types",
+      "description": "The A, B, AB and O groups.",
+      "content": "Blood types are classifications of blood based on the presence of certain molecules, called antigens, on the surface of red blood cells. In 1901 the Austrian doctor Karl Landsteiner discovered the ABO system, for which he received the Nobel Prize in 1930.\n\nPeople with type A have the A antigen, type B the B antigen, type AB both and type O neither. In addition, blood may be Rh positive or Rh negative, depending on the presence of another antigen. The immune system produces antibodies against antigens it does not have, so mismatched transfusions can be dangerous.\n\nType O negative blood can be given to almost anyone in an emergency, and type AB positive people can receive blood of any group. Blood types are inherited from parents, and the most common type worldwide is O positive.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ABO_blood_type.svg?width=800"
+    },
+    {
+      "id": "body-temperature",
+      "title": "Body Temperature",
+      "description": "How the body stays warm and cool.",
+      "content": "Human beings are warm-blooded, keeping their core body temperature within a narrow range of about 36.1 to 37.2 °C, with 37 °C, or 98.6 °F, as the traditional average. The German doctor Carl Wunderlich established this figure in the 1850s, although modern studies find the average is slightly lower.\n\nThe hypothalamus, in the brain, works like a thermostat. When we get too hot, we sweat, and blood vessels near the skin widen to release heat. When we get cold, we shiver, which produces heat, and the vessels narrow to conserve it.\n\nTemperature varies during the day, lowest in the early morning and highest in the late afternoon. Hypothermia, a core temperature below 35 °C, and heatstroke, above about 40 °C, are dangerous emergencies.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MIT_4.401_Introduction_to_Building_Technology%2C_Spring_2006_-_Human_Body_Temperature_-_3029642097.jpg?width=800"
+    },
+    {
+      "id": "fever",
+      "title": "Fever",
+      "description": "The body's way of fighting infection.",
+      "content": "A fever is a temporary rise in body temperature above the normal range, usually defined as 38 °C or higher. It is a common sign that the body is fighting an infection.\n\nWhen the immune system detects germs, it releases substances called pyrogens that reset the hypothalamus, the brain's thermostat, to a higher temperature. The body then shivers and feels cold until it reaches the new setting. The higher temperature makes it harder for many bacteria and viruses to multiply and helps immune cells work.\n\nMost fevers in adults are harmless and pass in a few days. Resting, drinking fluids, and, if uncomfortable, medicines such as paracetamol or ibuprofen can help. Medical help should be sought for a very high fever, a fever that lasts, or if a baby has one, and for symptoms such as a stiff neck or confusion.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Symptoms-fever.jpg?width=800"
+    },
+    {
+      "id": "vaccines",
+      "title": "Vaccines",
+      "description": "Training the immune system before the disease arrives.",
+      "content": "A vaccine is a preparation that trains the immune system to recognise and fight a specific germ without causing the disease. It contains weakened or killed germs, parts of them, or instructions for making a harmless piece of the germ, as in mRNA vaccines.\n\nThe first vaccine was developed by the English doctor Edward Jenner in 1796, who used material from cowpox to protect against smallpox. A global vaccination campaign led the World Health Organization to declare smallpox eradicated in 1980, the only human disease so far wiped out. Vaccines have also nearly eliminated polio.\n\nWhen enough people in a community are vaccinated, it becomes harder for a disease to spread, which protects the babies and people who cannot be vaccinated, called herd immunity. According to the WHO, vaccines prevent between 3.5 and 5 million deaths a year from diseases such as measles, diphtheria and tetanus.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Smallpox_vaccine.jpg?width=800"
+    },
+    {
+      "id": "antibiotics",
+      "title": "Antibiotics",
+      "description": "Medicines that fight bacterial infections.",
+      "content": "Antibiotics are medicines that kill bacteria or stop them growing. They do not work against viruses, so they are not useful for colds or flu.\n\nThe first antibiotic in wide use was penicillin. In 1928 the Scottish scientist Alexander Fleming noticed that a mould had killed bacteria on one of his culture dishes. In the 1940s Howard Florey and Ernst Chain developed it into a medicine, and it saved countless lives during World War II. Since then many classes of antibiotics have been discovered, and they made common surgery and the treatment of infections such as pneumonia and tuberculosis safe.\n\nOveruse and misuse allow bacteria to become resistant, which the World Health Organization calls one of the biggest threats to global health. Antibiotics should only be taken when prescribed, and the full course should be finished as directed.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Staphylococcus_aureus_(AB_Test).jpg?width=800"
+    },
+    {
+      "id": "viruses",
+      "title": "Viruses",
+      "description": "Tiny infectious agents that need living cells.",
+      "content": "Viruses are microscopic infectious agents that can only reproduce inside the living cells of a host. They are much smaller than bacteria, typically 20 to 300 nanometres across, and consist of genetic material, either DNA or RNA, wrapped in a protein coat, and sometimes a fatty envelope.\n\nBecause they lack their own machinery, scientists debate whether viruses count as living things. Once inside a cell, a virus takes over its machinery to make copies of itself. Viruses cause diseases such as influenza, measles, chickenpox, HIV/AIDS and COVID-19, but they infect all forms of life, including bacteria.\n\nThe first virus discovered was the tobacco mosaic virus in the 1890s, by Dmitri Ivanovsky and Martinus Beijerinck. Vaccines prevent many viral diseases, and antiviral drugs treat some, while antibiotics do not work against them.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Coronavirus._SARS-CoV-2.png?width=800"
+    },
+    {
+      "id": "bacteria",
+      "title": "Bacteria",
+      "description": "The single-celled microbes that live everywhere.",
+      "content": "Bacteria are single-celled microorganisms found everywhere on Earth: in soil, water, air and inside the bodies of animals. Each is only a few micrometres long, and they were among the first forms of life on the planet, more than three billion years ago.\n\nBacteria reproduce by dividing in two, and under good conditions some can do so every 20 minutes. The human body has about as many bacterial cells as human cells, and most of them are harmless or helpful, for example in digesting food. Only a small number cause disease, such as those that cause tuberculosis, cholera, strep throat and food poisoning.\n\nAntonie van Leeuwenhoek was the first to observe bacteria with a microscope, in the 1670s. In the 19th century Louis Pasteur and Robert Koch showed that bacteria can cause disease. Good hygiene, clean water and antibiotics control harmful bacteria.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/E._coli_Bacteria_(7316101966).jpg?width=800"
+    },
+    {
+      "id": "cancer",
+      "title": "Cancer",
+      "description": "The disease of uncontrolled cell growth.",
+      "content": "Cancer is a group of more than 100 diseases in which some of the body's cells grow uncontrollably and can spread to other parts of the body. Normally cells divide and die in a regulated way, but changes, or mutations, in their DNA can cause them to ignore the signals, forming a lump called a tumour.\n\nCauses include tobacco smoke, which is the leading cause of lung cancer, too much ultraviolet radiation, some infections such as HPV and hepatitis B, certain chemicals, obesity, alcohol and inherited genes. Age is a major risk factor. Cancer is a leading cause of death worldwide, responsible for nearly 10 million deaths a year.\n\nFinding cancer early, through screening and awareness of symptoms, greatly improves the chances of successful treatment. Treatments include surgery, chemotherapy, radiotherapy and newer approaches such as immunotherapy. Not smoking, a healthy diet and vaccination can prevent many cancers.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tumor_Mesothelioma2_legend.jpg?width=800"
+    },
+    {
+      "id": "diabetes",
+      "title": "Diabetes",
+      "description": "The condition of high blood sugar.",
+      "content": "Diabetes is a chronic condition in which the level of glucose in the blood is too high, either because the pancreas does not produce enough insulin or because the body cannot use it effectively. More than 500 million adults worldwide are living with it.\n\nIn type 1 diabetes, the immune system destroys the insulin-producing cells, and patients need insulin every day. Type 2, much more common, is linked to being overweight and inactive and to genes, and can often be managed by diet, exercise and medicines. Gestational diabetes occurs during pregnancy.\n\nSymptoms include great thirst, frequent urination, tiredness and blurred vision. Over time high blood sugar can damage the eyes, kidneys, nerves and heart. Blood tests diagnose it, and early treatment prevents complications. World Diabetes Day, on 14 November, marks the birthday of Frederick Banting.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue_circle_for_diabetes.svg?width=800"
+    },
+    {
+      "id": "allergies",
+      "title": "Allergies",
+      "description": "When the immune system overreacts to harmless things.",
+      "content": "An allergy is an overreaction of the immune system to a substance, called an allergen, that is usually harmless. Common allergens include pollen, dust mites, pet dander, mould, certain foods such as peanuts, milk, eggs and shellfish, insect stings and some medicines.\n\nOn first exposure the body makes IgE antibodies, and on later exposures they trigger cells to release chemicals such as histamine, causing sneezing, itching, hives, watery eyes or a rash. Hay fever, an allergy to pollen, is very common.\n\nA severe reaction called anaphylaxis, with swelling of the throat and difficulty breathing, is a medical emergency and is treated with an injection of adrenaline. Antihistamines can relieve mild symptoms, and the best approach is to identify and avoid the allergen; a doctor can arrange tests and, in some cases, immunotherapy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hives2010.JPG?width=800"
+    },
+    {
+      "id": "asthma",
+      "title": "Asthma",
+      "description": "The chronic condition of inflamed airways.",
+      "content": "Asthma is a long-term condition in which the airways in the lungs become inflamed and narrow, making breathing difficult. Symptoms include wheezing, a tight chest, shortness of breath and coughing, especially at night or after exercise.\n\nAttacks can be triggered by allergens such as pollen and dust mites, cold air, exercise, smoke, air pollution and respiratory infections. About 260 million people worldwide have asthma, and it often starts in childhood, though it can begin at any age.\n\nThere is no cure, but it can be controlled. People use reliever inhalers to open the airways quickly during an attack and preventer inhalers, with anti-inflammatory medicine, to reduce sensitivity over time. A doctor can create an asthma action plan. World Asthma Day is observed on the first Tuesday of May.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asthma_(Lungs).png?width=800"
+    },
+    {
+      "id": "cardiovascular-disease",
+      "title": "Cardiovascular Disease",
+      "description": "The diseases of the heart and blood vessels.",
+      "content": "Cardiovascular disease is a group of disorders of the heart and blood vessels, and it is the leading cause of death in the world, responsible for nearly 18 million deaths a year. The main forms are coronary heart disease, which can cause heart attacks, stroke, high blood pressure and heart failure.\n\nA common underlying cause is atherosclerosis, in which fatty deposits called plaque build up inside the arteries, narrowing them. If a plaque ruptures and a clot blocks the blood supply to the heart, it causes a heart attack, and if it blocks the supply to the brain, it causes a stroke.\n\nMajor risk factors are smoking, high blood pressure, high cholesterol, diabetes, obesity, lack of exercise, an unhealthy diet and family history. Most cardiovascular disease can be prevented by a healthy lifestyle. World Heart Day is observed on 29 September.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cardiac_amyloidosis_very_high_mag_movat.jpg?width=800"
+    },
+    {
+      "id": "smoking",
+      "title": "Smoking and Health",
+      "description": "How tobacco harms the body.",
+      "content": "Smoking tobacco is one of the biggest preventable causes of death, killing more than eight million people each year, according to the World Health Organization. Tobacco smoke contains about 7,000 chemicals, at least 70 of which cause cancer, together with nicotine, a highly addictive drug.\n\nSmoking damages nearly every organ. It is the main cause of lung cancer and chronic obstructive pulmonary disease, and it also increases the risk of heart disease, stroke, other cancers, and problems in pregnancy. In 1950 the researchers Richard Doll and Austin Bradford Hill published evidence linking smoking with lung cancer. Secondhand smoke also harms non-smokers, especially children.\n\nThe good news is that quitting brings quick benefits: within a year the risk of heart disease falls by about half, and over the years the risk of cancer drops. Doctors, quit-lines and medicines can help. World No Tobacco Day is on 31 May.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Surgeon_General's_warning_cigarettes.jpg?width=800"
+    },
+    {
+      "id": "stress",
+      "title": "Stress",
+      "description": "How the body responds to pressure.",
+      "content": "Stress is the body's reaction to challenges or threats. When the brain senses danger, it triggers the fight-or-flight response: the adrenal glands release adrenaline and cortisol, the heart beats faster, breathing quickens, and muscles get ready for action. This response helps us react quickly in emergencies.\n\nThe physiologist Hans Selye introduced the concept of stress into biology in the 1930s. Short-term stress, such as before an exam, can even improve performance. But when stress becomes chronic, the constant flood of hormones can contribute to sleep problems, headaches, high blood pressure, weakened immunity, anxiety and depression.\n\nRegular exercise, enough sleep, deep breathing, time in nature, hobbies and talking with friends and family help manage stress. If stress feels overwhelming or lasts for a long time, a doctor or counsellor can help.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Classes_of_stresses_that_plants_are_exposed_to.jpg?width=800"
+    },
+    {
+      "id": "mental-health",
+      "title": "Mental Health",
+      "description": "Emotional, psychological and social well-being.",
+      "content": "Mental health includes our emotional, psychological and social well-being. It affects how we think, feel and act, how we handle stress, relate to others and make choices, and it is as important as physical health.\n\nThe World Health Organization estimates that about one in eight people in the world live with a mental disorder. Common conditions include anxiety disorders and depression, which are treatable. Causes can include genes, brain chemistry, life experiences such as trauma or loss, and long-term stress. Mental health problems are not a weakness and are nothing to be ashamed of.\n\nTreatments include talking therapies, such as cognitive behavioural therapy, medication, and support from family and community. Sleep, exercise, connection with others and limits on alcohol help protect well-being. If you or someone you know is struggling, talking to a doctor or a trusted person is a good first step. World Mental Health Day is observed on 10 October.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Psi_with_Rod_of_Asclepius.svg?width=800"
+    },
+    {
+      "id": "first-aid",
+      "title": "First Aid",
+      "description": "The immediate help given before professionals arrive.",
+      "content": "First aid is the help given to a person who is injured or suddenly ill until professional medical help arrives. Its aims are to save life, prevent the condition getting worse and help recovery. Learning basic first aid can make a big difference.\n\nThe first step is to make sure the scene is safe, then check if the person responds and is breathing, and call for help. In Azerbaijan the ambulance number is 103, and the general emergency number is 112. For severe bleeding, press firmly on the wound with a clean cloth. Burns should be cooled under running water for at least ten minutes. A person who is unconscious but breathing can be placed on their side, in the recovery position.\n\nThe modern Red Cross movement was inspired by Henry Dunant, who was moved by the suffering after the Battle of Solferino in 1859. A basic first-aid kit at home and in the car is useful.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISO_7010_E003_-_First_aid_sign.svg?width=800"
+    },
+    {
+      "id": "cpr",
+      "title": "CPR",
+      "description": "Cardiopulmonary resuscitation, the technique that can restart a life.",
+      "content": "Cardiopulmonary resuscitation, or CPR, is an emergency technique used when someone's heart has stopped beating, called cardiac arrest. Without oxygen the brain begins to be damaged within a few minutes, so starting CPR quickly can double or triple the chance of survival.\n\nThe steps are to call the emergency number, then push hard and fast in the centre of the chest, about 5 to 6 centimetres deep, at a rate of 100 to 120 compressions a minute. Trained people may give two rescue breaths after every 30 compressions. Untrained bystanders can do hands-only CPR, with compressions alone.\n\nIf an automated external defibrillator (AED) is nearby, it gives clear voice instructions and can deliver a shock to restart a normal rhythm. Modern CPR was developed around 1960 by doctors including Peter Safar and James Elam. Many organisations offer short courses.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/CPR_training-04.jpg?width=800"
+    },
+    {
+      "id": "anesthesia",
+      "title": "Anaesthesia",
+      "description": "How surgery became painless.",
+      "content": "Anaesthesia is the use of drugs to prevent pain during surgery and other procedures. General anaesthesia makes the patient unconscious, local anaesthesia numbs a small area, and regional anaesthesia, such as an epidural, blocks pain in a larger part of the body.\n\nBefore anaesthesia, surgery was terrifyingly painful and had to be done as fast as possible. On 16 October 1846, at Massachusetts General Hospital in Boston, the dentist William Morton demonstrated the use of ether to put a patient to sleep during an operation, an event known as Ether Day. In 1847 the Scottish doctor James Young Simpson began using chloroform.\n\nToday an anaesthetist monitors the heart rate, breathing and blood pressure throughout an operation, and modern drugs are far safer. Anaesthesia made possible the long and complex surgeries of modern medicine.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A_gray_wolf_being_radio-collared.jpg?width=800"
+    },
+    {
+      "id": "x-rays",
+      "title": "X-rays",
+      "description": "The rays that let doctors see inside the body.",
+      "content": "X-rays are a form of high-energy electromagnetic radiation that can pass through soft tissue but are absorbed by dense materials such as bone. This lets them make images of the inside of the body, and doctors use them to find broken bones, lung problems and dental cavities.\n\nThe German physicist Wilhelm Röntgen discovered X-rays on 8 November 1895. A few weeks later he produced an image of his wife's hand, showing her bones and wedding ring. In 1901 he received the first Nobel Prize in Physics. The X-ray quickly spread through medicine, including to battlefields.\n\nIn the 1970s the invention of computed tomography, or CT, by Godfrey Hounsfield allowed detailed three-dimensional images. Since X-rays are ionising radiation, doses are kept as low as possible. They are also used for airport baggage checks and in astronomy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Color_X-ray_photogram.jpg?width=800"
+    },
+    {
+      "id": "mri",
+      "title": "Magnetic Resonance Imaging",
+      "description": "The scanner that uses magnets and radio waves.",
+      "content": "Magnetic resonance imaging, or MRI, is a medical technique that produces detailed images of soft tissues such as the brain, muscles, joints and organs, without using X-rays. The patient lies inside a large tube containing a very powerful magnet.\n\nThe magnet aligns the hydrogen atoms in the body's water, and pulses of radio waves knock them out of alignment. As they return, they give off signals that a computer turns into images. The scan is painless, but the machine makes loud knocking sounds, and people with certain metal implants cannot have one.\n\nPaul Lauterbur and Peter Mansfield won the Nobel Prize in 2003 for developing the technique, and the first scan of a human body was done in 1977. Functional MRI shows which parts of the brain are active by detecting changes in blood flow.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Structural_MRI_animation.ogv?width=800"
+    },
+    {
+      "id": "ultrasound",
+      "title": "Ultrasound",
+      "description": "Seeing inside the body with sound.",
+      "content": "Medical ultrasound uses sound waves at frequencies far above human hearing, typically 2 to 18 million hertz, to make images of the inside of the body. A handheld probe sends waves into the body and picks up the echoes that bounce back from tissues, and a computer creates a live picture.\n\nIt is best known for showing an unborn baby during pregnancy, but it is also used to examine the heart, in a test called an echocardiogram, the liver, kidneys, blood vessels and muscles. Doppler ultrasound measures the speed and direction of blood flow.\n\nUnlike X-rays, ultrasound uses no ionising radiation and is considered very safe. The Scottish doctor Ian Donald pioneered its use in obstetrics in the 1950s. Machines are now portable and cheap, so they can be used in remote places.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sonographer_doing_pediatric_echocardiography.JPG?width=800"
+    },
+    {
+      "id": "surgery",
+      "title": "Surgery",
+      "description": "Treating disease and injury by operating.",
+      "content": "Surgery is a branch of medicine in which doctors treat injuries, diseases and deformities by cutting, repairing or removing tissue. It is among the oldest medical practices: skulls with holes made by a procedure called trepanation, about 7,000 years old, have been found.\n\nThe ancient Indian physician Sushruta, around the 6th century BCE, described operations including plastic surgery, and in the 10th century the Andalusian doctor al-Zahrawi, known in Europe as Albucasis, wrote an illustrated encyclopedia of surgical instruments. Modern surgery advanced with anaesthesia in 1846 and antiseptic methods introduced by the British surgeon Joseph Lister in 1867.\n\nToday surgeons use minimally invasive techniques with tiny cameras, and robots such as the da Vinci system, as well as microsurgery and transplants. Strict sterile procedures and careful teamwork make operations safer.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cardiac_surgery_operating_room.jpg?width=800"
+    },
+    {
+      "id": "organ-transplant",
+      "title": "Organ Transplants",
+      "description": "Replacing a failing organ with a healthy one.",
+      "content": "An organ transplant is an operation in which a failing organ is replaced with a healthy one from a donor. Organs that can be transplanted include kidneys, livers, hearts, lungs and pancreases. Donors may be people who have died or, for kidneys and parts of the liver, living volunteers.\n\nThe first successful kidney transplant took place in Boston in 1954, between identical twins, performed by Joseph Murray. On 3 December 1967 Christiaan Barnard performed the first human heart transplant in Cape Town, South Africa. At first, the patients' immune systems rejected most organs, but drugs to suppress the immune system, especially ciclosporin in the 1980s, made transplants much more successful.\n\nThere are always more people waiting for organs than donors, so many countries encourage people to register as donors. Scientists are also researching organs grown in the laboratory and animal organs adapted for human use.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lost_towel_number_15_found.JPG?width=800"
+    },
+    {
+      "id": "blood-donation",
+      "title": "Blood Donation",
+      "description": "Giving blood to save lives.",
+      "content": "Blood donation is the voluntary giving of blood to be used in transfusions for patients who need it, for instance after accidents, during surgery, or to treat illnesses such as cancer and blood disorders. There is still no artificial substitute for human blood.\n\nA whole blood donation is about 450 millilitres and takes about ten minutes. The body replaces the fluid within a day and the red cells within a few weeks. The blood is tested, and can be separated into components, red cells, plasma and platelets, so one donation can help up to three people. Red cells can be stored for about 42 days, and platelets only five to seven days, so regular donations are needed.\n\nMost healthy adults can donate, following simple checks. World Blood Donor Day is observed on 14 June, the birthday of Karl Landsteiner, who discovered the blood groups.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Blood_donation_pictogram.svg?width=800"
+    },
+    {
+      "id": "human-genome",
+      "title": "The Human Genome",
+      "description": "The complete set of human DNA.",
+      "content": "The human genome is the complete set of genetic instructions in a human being, written in DNA. It consists of about 3.2 billion base pairs, organised in 23 pairs of chromosomes in the nucleus of almost every cell.\n\nIt contains about 20,000 protein-coding genes, though genes make up only around 1% to 2% of the DNA. The Human Genome Project, an international effort launched in 1990, produced a reference sequence that was declared complete in 2003, and in 2022 scientists published the first truly gapless sequence. Any two people are about 99.9% identical in their DNA.\n\nKnowing the genome helps researchers to understand inherited diseases, find new medicines and develop personalised treatments. It also raises questions about privacy and ethics, for example about genetic testing and gene editing.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Human_karyotype_with_bands_and_sub-bands.png?width=800"
+    },
+    {
+      "id": "stem-cells",
+      "title": "Stem Cells",
+      "description": "Cells that can become many other cell types.",
+      "content": "Stem cells are special cells that can divide to make copies of themselves and can develop into specialised cell types, such as muscle, nerve or blood cells. They are a kind of repair system for the body.\n\nThere are several kinds. Embryonic stem cells, from very early embryos, can become almost any cell type. Adult stem cells, found in places such as bone marrow, are more limited but constantly replace blood, skin and gut cells. In 2006 the Japanese scientist Shinya Yamanaka showed how to turn ordinary adult cells into so-called induced pluripotent stem cells, winning the Nobel Prize in 2012.\n\nBone marrow transplants, which use blood stem cells to treat leukaemia and other diseases, have been done since the 1950s and 1960s. Researchers hope stem cells will one day repair damaged hearts, spinal cords and other organs.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MSC_high_magnification.jpg?width=800"
+    },
+    {
+      "id": "microbiome",
+      "title": "The Human Microbiome",
+      "description": "The trillions of microbes that live in and on us.",
+      "content": "The human microbiome is the community of trillions of microorganisms, including bacteria, viruses and fungi, that live on and in the body, especially in the gut. The number of bacterial cells in the body is estimated to be about the same as the number of human cells.\n\nThese microbes help digest food, especially fibre, make some vitamins such as vitamin K, train the immune system and crowd out harmful germs. A baby first receives microbes at birth and from breast milk, and the microbiome develops through childhood and is shaped by diet, environment and medicines.\n\nImbalances have been linked to conditions such as inflammatory bowel disease, allergies and obesity. Antibiotics can disturb it. Fermented foods, such as yoghurt and the Azerbaijani qatiq, contain live bacteria, and a diet rich in fibre supports a healthy gut. Doctors can even treat some serious gut infections with faecal transplants.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skin_Microbiome20169-300.jpg?width=800"
+    },
+    {
+      "id": "hippocrates",
+      "title": "Hippocrates",
+      "description": "The ancient Greek father of medicine.",
+      "content": "Hippocrates (about 460–370 BCE) was a Greek physician from the island of Kos, often called the father of medicine. He and his followers helped separate medicine from superstition by insisting that diseases have natural causes and should be treated based on careful observation.\n\nThe Hippocratic Corpus, a collection of about 60 works written by him and his school, describes symptoms, diagnosis and treatments, and emphasises diet, rest and the healing power of nature. It supported the theory of the four humours, blood, phlegm, yellow bile and black bile, which dominated medicine for about two thousand years, though it was wrong.\n\nThe Hippocratic Oath, a code of medical ethics traditionally attributed to him, requires doctors to help patients and keep their confidences. Versions of it are still used at some medical school graduations.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hippocrates.jpg?width=800"
+    },
+    {
+      "id": "avicenna",
+      "title": "Avicenna (Ibn Sina)",
+      "description": "The medieval physician whose Canon guided doctors for centuries.",
+      "content": "Avicenna, or Ibn Sina (980–1037), was a Persian scholar born near Bukhara, in present-day Uzbekistan, who became one of the most influential physicians and philosophers in history. He wrote in Arabic and worked in cities of Central Asia and Persia, and died in Hamadan.\n\nHis masterpiece, The Canon of Medicine, completed around 1025, is a huge encyclopaedia that gathered Greek, Roman, Persian and Indian medical knowledge and added his own observations. It described the contagious nature of some diseases, the importance of quarantine and the principles of testing medicines. Translated into Latin in the 12th century, it was a standard textbook in European universities until the 17th century.\n\nHe also wrote The Book of Healing, a wide-ranging work on philosophy and science. He is honoured across Asia, and a statue of him stands in the United Nations building in Vienna.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avicenna_Bust%2C_left_profile_(cropped).jpg?width=800"
+    },
+    {
+      "id": "louis-pasteur",
+      "title": "Louis Pasteur",
+      "description": "The scientist who proved germs cause disease.",
+      "content": "Louis Pasteur (1822–1895) was a French chemist and microbiologist whose discoveries changed medicine and industry. He showed that microbes cause fermentation and that spontaneous generation, the idea that life arises from non-living matter, is false, through experiments with flasks with long curved necks.\n\nHis work supported the germ theory of disease, the idea that specific microbes cause specific illnesses. He developed pasteurisation, heating liquids such as milk, wine and beer to kill harmful microbes, in the 1860s, which made food safer.\n\nPasteur also created vaccines. In 1881 he publicly demonstrated a vaccine against anthrax in sheep, and in 1885 he gave the first rabies vaccine to a boy, Joseph Meister, who had been bitten by a rabid dog and survived. The Pasteur Institute in Paris, founded in 1887, continues his work.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg?width=800"
+    },
+    {
+      "id": "alexander-fleming",
+      "title": "Alexander Fleming",
+      "description": "The discoverer of penicillin.",
+      "content": "Alexander Fleming (1881–1955) was a Scottish physician and microbiologist who discovered penicillin, the first true antibiotic. He served as a doctor in World War I, where he saw many soldiers die from infected wounds, which influenced his research.\n\nIn September 1928, at St Mary's Hospital in London, he returned from holiday to find that a mould, later identified as Penicillium, had contaminated a dish of Staphylococcus bacteria, and around the mould the bacteria had been killed. He realised that the mould released a substance that fights bacteria, and named it penicillin. He had earlier discovered lysozyme, a natural antibacterial enzyme, in 1921.\n\nFleming did not develop it into a medicine. That was done by Howard Florey, Ernst Chain and their team in Oxford in the 1940s, and the three shared the Nobel Prize in 1945. In his acceptance speech Fleming warned that misuse could cause bacteria to become resistant.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Synthetic_Production_of_Penicillin_TR1468.jpg?width=800"
+    },
+    {
+      "id": "andreas-vesalius",
+      "title": "Andreas Vesalius",
+      "description": "The founder of modern human anatomy.",
+      "content": "Andreas Vesalius (1514–1564) was a Flemish physician who is regarded as the founder of modern human anatomy. He studied in Leuven, Paris and Padua, and became a professor in Padua, Italy, at the age of 23.\n\nFor centuries doctors had relied on the writings of the ancient Roman physician Galen, who had mostly dissected animals. Vesalius insisted on dissecting human bodies himself and found more than 200 errors in Galen's work. In 1543, the same year that Copernicus published his book on the Sun-centred universe, he published De humani corporis fabrica, The Fabric of the Human Body.\n\nThe book, with beautiful illustrations by artists from Titian's workshop, was one of the most influential works in medical history, and it showed that direct observation is the basis of medicine.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Man_dressed_in_Black_by_Calcar_(Hermitage).jpg?width=800"
+    },
+    {
+      "id": "fingerprints",
+      "title": "Fingerprints",
+      "description": "The unique patterns on our fingertips.",
+      "content": "A fingerprint is the pattern of ridges and valleys on the skin of a fingertip. These patterns form in the womb, between about the 10th and 16th weeks of pregnancy, and stay the same throughout life, apart from growth. Even identical twins have different fingerprints.\n\nThere are three main patterns: loops, which are the most common, whorls and arches. The ridges probably improve grip and increase sensitivity to touch. Sweat pores along the ridges leave prints on the objects we touch.\n\nThe British scientist Francis Galton showed in his 1892 book that fingerprints are permanent and unique. That year in Argentina, police official Juan Vucetich used a fingerprint to solve a murder, considered the first case of its kind. Fingerprints are now used in police work, passports, and to unlock phones.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fingerprintforcriminologystubs.jpg?width=800"
+    },
+    {
+      "id": "twins",
+      "title": "Twins",
+      "description": "Two babies born from the same pregnancy.",
+      "content": "Twins are two offspring produced in the same pregnancy. About one in every 40 births in the world results in twins, though the rate varies by region and has increased with fertility treatments.\n\nIdentical twins, or monozygotic twins, develop from one fertilised egg that splits in two, so they share nearly all their DNA and are always the same sex. Fraternal twins, or dizygotic twins, develop from two separate eggs fertilised by two sperm, and are as genetically similar as ordinary siblings, and can be of different sexes.\n\nScientists study twins to find out how much of our traits come from genes and how much from the environment. Identical twins are very similar in many ways but are not exactly the same, and they have different fingerprints. Rarely, twins are born joined together, called conjoined twins.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mauch_Twins.jpg?width=800"
+    },
+    {
+      "id": "handedness",
+      "title": "Left- and Right-Handedness",
+      "description": "Why most people prefer one hand.",
+      "content": "Handedness is the tendency to use one hand more skilfully than the other. About 90% of people are right-handed and about 10% are left-handed, and a small number can use both hands equally well, called ambidextrous.\n\nHandedness is linked to the way the brain is organised: each side of the brain controls the opposite side of the body. In most people, the left hemisphere handles language and controls the right hand. Genes have some effect, but it is not simple, and left-handed parents can have right-handed children. Hand preference can be seen in the womb, and babies show it in the first years.\n\nIn the past left-handed children were often forced to write with their right hands, and the word sinister comes from the Latin for left. Today it is accepted as normal. International Left-Handers Day is observed on 13 August.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SantaCruz-CuevaManos-P2210651b.jpg?width=800"
+    },
+    {
+      "id": "yawning",
+      "title": "Yawning",
+      "description": "The contagious mystery of the open mouth.",
+      "content": "A yawn is an involuntary act of opening the mouth wide and taking a deep breath, followed by a slower exhale. It typically lasts about four to seven seconds. Yawning is found across most vertebrates, including fish, birds, dogs and apes, and human babies yawn in the womb from about 11 weeks.\n\nScientists are still not sure why we yawn. The old idea that it increases oxygen has been disproved. Current hypotheses include that yawning cools the brain, helps us become more alert when we are tired or bored, and helps in shifting between different states of wakefulness.\n\nYawning is contagious: seeing, hearing or even reading about a yawn can make us yawn too. This effect begins at about age four or five in children and may be related to empathy and social bonding, though this is debated.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yawning_koala_bear_(3589381656)_(cropped).jpg?width=800"
+    },
+    {
+      "id": "laughter",
+      "title": "Laughter",
+      "description": "The social sound of joy.",
+      "content": "Laughter is a response to humour, joy or social situations, involving a series of short, repetitive sounds and movements of the face and chest. It uses about 15 facial muscles and briefly changes breathing. Babies begin to laugh at around three to four months old, before they can speak.\n\nLaughter is deeply social: we are much more likely to laugh with other people than alone, and it is contagious. It signals friendliness, eases tension and strengthens bonds. It also releases endorphins and reduces levels of the stress hormone cortisol, and it temporarily raises our tolerance for pain.\n\nLaughter is not unique to humans. Chimpanzees and other apes make laughter-like sounds when tickled or playing, and researchers have found that rats emit high-pitched chirps when tickled, which humans cannot hear. Laughter appears to be a very old form of play communication.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Laughing_boy_at_golden_hour.jpg?width=800"
+    },
+    {
+      "id": "human-height",
+      "title": "Human Height",
+      "description": "How tall we grow and why.",
+      "content": "Human height varies widely between individuals and populations. The average adult man is about 171 centimetres tall around the world, and the average adult woman about 159 centimetres. People in the Netherlands and some other European countries are among the tallest, with average male heights of about 183 centimetres.\n\nHeight is largely inherited, with genes accounting for about 80% of the difference between people, but nutrition and health in childhood also matter. Children grow fastest in infancy and during the growth spurt of puberty. Growth continues as long as the growth plates at the ends of long bones remain open, and they close at the end of adolescence.\n\nThe tallest person in recorded history was Robert Wadlow of the United States, who reached 272 centimetres, and the shortest adult recorded was Chandra Bahadur Dangi of Nepal, at 54.6 centimetres. People are about a centimetre taller in the morning than in the evening, because the discs in the spine compress during the day.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Navy_110426-N-00332-114_Students_measure_the_height_and_body_weight_of_fourth_and_fifth_grade_students_from_Lindenwood_Elementary_School.jpg?width=800"
+    }
+  ]
+}

@@ -1,0 +1,696 @@
+{
+  "category": "culture",
+  "articles": [
+    {
+      "id": "music",
+      "title": "Music",
+      "description": "The art of organised sound, found in every culture.",
+      "content": "Music is the art of arranging sound in time, using elements such as melody, harmony, rhythm, dynamics and timbre. It exists in every known human culture and is used for worship, celebration, storytelling, dance and simple enjoyment.\n\nSome of the oldest known instruments are bone flutes about 40,000 years old, found in caves in Germany. Musical notation developed in stages over many centuries, from ancient Mesopotamian tablets to the staff notation used in Europe since the Middle Ages, which allowed pieces to be written down and performed by others.\n\nToday music ranges from folk and classical traditions to jazz, rock, pop and electronic styles, and recording and streaming let people hear almost any music from anywhere. In Azerbaijan, Uzeyir Hajibeyov composed Leyli and Majnun in 1908, the first opera in the Muslim East, and later composers such as Gara Garayev and Fikret Amirov carried the tradition forward.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Sounds_of_Earth_-_GPN-2000-001976.jpg?width=800"
+    },
+    {
+      "id": "mugham",
+      "title": "Muğam",
+      "description": "The classical modal music of Azerbaijan, recognised by UNESCO.",
+      "content": "Muğam is a largely improvised form built on modes that carry their own emotional character. There are seven main muğams, Rast, Shur, Segah, Chahargah, Bayati-Shiraz, Shushtar and Humayun, and each has several branches that a performer links into a long suite, moving from calm to intense passages.\n\nA traditional trio pairs a singer holding a frame drum with tar and kamancha players. The singer often performs poetry by classical poets such as Fuzuli and Nasimi, and the art depends on the performer's skill at ornamenting the melody and responding to the poem's mood. Famous performers include Jabbar Garyaghdioglu, Khan Shushinski and Alim Qasimov.\n\nUNESCO proclaimed Azerbaijani muğam a Masterpiece of the Oral and Intangible Heritage of Humanity in 2003 and inscribed it on its list of intangible cultural heritage in 2008. Muğam is passed from teacher to student, and the International Mugham Centre in Baku is dedicated to the art.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seyid_Shushinski_ansambl.jpg?width=800"
+    },
+    {
+      "id": "ashiq-art",
+      "title": "Ashiq Art",
+      "description": "The art of the travelling poet-musician of Azerbaijan.",
+      "content": "Ashiq art is the tradition of the ashiq, a poet, singer and storyteller who accompanies himself on the saz, a long-necked lute. Ashiqs travelled from village to village, performing at weddings and gatherings, and they combine music, poetry, acting and improvisation.\n\nTheir repertoire includes short poems called bayati and long epic tales called dastans, such as Koroghlu and Ashiq Garib, which they perform partly sung and partly spoken. Some ashiqs also take part in poetic contests in which two performers answer each other in verse. Ashiq Alasgar was one of the well-known ashiqs of the 19th century.\n\nUNESCO inscribed the art of Azerbaijani Ashiqs on its list of intangible cultural heritage in 2009. The tradition is taught by masters to apprentices and remains alive in regions such as Gazakh, Tovuz and Shamakhi.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/A%C5%9F%C4%B1q_A%C4%9Falar_Mikay%C4%B1lov.JPG?width=800"
+    },
+    {
+      "id": "tar",
+      "title": "Tar",
+      "description": "The long-necked lute at the heart of Azerbaijani music.",
+      "content": "The tar is a long-necked, plucked string instrument with a double-bowl body made of mulberry wood, covered with a thin membrane usually made from the pericardium of an ox. It is played on the chest with a small metal plectrum and has a warm, ringing tone.\n\nThe Azerbaijani tar has 11 strings, in a form developed in the 19th century by the master musician Mirza Sadigjan, who added sympathetic strings and extended the range. It is the main melodic instrument of the mugham trio and is used in ashiq music, classical compositions and modern ensembles.\n\nUNESCO recognised the craftsmanship and performance art of the Azerbaijani tar as intangible cultural heritage in 2012. Instrument makers choose the wood carefully and prepare each tar by hand, and the tar has been a symbol of Azerbaijani culture for generations."
+    },
+    {
+      "id": "kamancha",
+      "title": "Kamancha",
+      "description": "The bowed spike fiddle of Azerbaijani music.",
+      "content": "The kamancha is a bowed string instrument with a round body, a long neck and a spike at the bottom on which it rests. The player holds it upright, resting the spike on the knee or a stool, and turns the instrument to move between the strings instead of moving the bow.\n\nTraditionally it has four strings, and its body is made of wood covered with a thin skin membrane. The sound is rich and expressive, close to the human voice, which is why it suits mugham, where it often answers the singer and the tar. The virtuoso Habil Aliyev, who lived from 1849 to 1926, was one of the most famous kamancha players.\n\nSimilar instruments are played across the Middle East and Central Asia, from Iran to Turkey. UNESCO included the craftsmanship and performance art of the kamancha on its list of intangible cultural heritage in 2017.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/2_Kam%C4%81nches%2C_Persia%2C_ca._1880.jpg?width=800"
+    },
+    {
+      "id": "classical-music",
+      "title": "Classical Music",
+      "description": "The Western art tradition from Bach to today.",
+      "content": "Classical music is the art music tradition of the Western world, written down in notation and performed by trained musicians. In a narrow sense the term refers to the Classical period, about 1750 to 1820, but in general use it covers about a thousand years of music.\n\nThe main periods are the Baroque, with composers such as Bach and Handel, the Classical, with Haydn, Mozart and Beethoven, and the Romantic, with Chopin, Tchaikovsky and Verdi. A symphony orchestra brings together strings, woodwinds, brass and percussion, and forms such as the symphony, concerto, sonata and opera developed in this tradition.\n\nIn the 20th century composers explored new sounds, from Stravinsky to electronic music. Azerbaijan has its own classical school, founded on mugham, with composers such as Uzeyir Hajibeyov, Gara Garayev and Fikret Amirov, and the country hosts the Gabala International Music Festival.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/BJO_Konzert_Phil_MR_098.jpg?width=800"
+    },
+    {
+      "id": "jazz",
+      "title": "Jazz",
+      "description": "The improvised music that grew from African-American roots.",
+      "content": "Jazz is a music genre that emerged in the early 20th century in New Orleans, in African-American communities, drawing on blues, ragtime and brass band music. Its defining features are improvisation, syncopated rhythm and a strong sense of swing.\n\nThe genre developed through styles such as swing in the 1930s, bebop in the 1940s and cool jazz and free jazz later. Musicians such as Louis Armstrong, Duke Ellington, Ella Fitzgerald, Charlie Parker and Miles Davis are among its greatest names, and jazz influenced music around the world.\n\nAzerbaijan has a strong jazz tradition. In the 1960s the pianist Vagif Mustafazadeh blended jazz with mugham to create what became known as jazz-mugham, and Baku hosts an international jazz festival. UNESCO celebrates International Jazz Day every year on 30 April."
+    },
+    {
+      "id": "opera",
+      "title": "Opera",
+      "description": "Drama told through singing and orchestral music.",
+      "content": "Opera is a form of theatre in which the story is sung, accompanied by an orchestra, with singers performing arias, duets and choruses. It combines music, drama, costumes and staging and is usually performed in an opera house.\n\nIt began in Italy around 1600, in Florence, and quickly spread across Europe. Claudio Monteverdi, Mozart, Verdi, Wagner and Puccini wrote some of the best-known operas, such as The Magic Flute, La Traviata and Madama Butterfly. Famous opera houses include La Scala in Milan and the Vienna State Opera.\n\nIn 1908 Uzeyir Hajibeyov staged Leyli and Majnun in Baku, the first opera in the Muslim East, based on the poem by Fuzuli. The Azerbaijan State Academic Opera and Ballet Theatre in Baku continues that tradition, and the singer Bulbul was among its early stars.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Macbeth_applause_at_Savonlinna_Opera_festival_in_2007_-_panoramio.jpg?width=800"
+    },
+    {
+      "id": "ballet",
+      "title": "Ballet",
+      "description": "A dance art of graceful, precise movement.",
+      "content": "Ballet is a formal dance form that began in the Italian courts of the Renaissance and was developed in France, where King Louis XIV founded the Royal Academy of Dance in 1661. It has its own vocabulary of steps, many with French names such as plié and pirouette.\n\nDancers train for years to achieve strength and control, and female dancers often perform on pointe in special shoes. Tchaikovsky's Swan Lake, The Sleeping Beauty and The Nutcracker, written in the late 19th century in Russia, are among the most beloved ballets in the world.\n\nIn Azerbaijan, Gara Garayev composed the ballets Seven Beauties, inspired by Nizami's poem, in 1952, and The Path of Thunder. Ballet is performed at the Academic Opera and Ballet Theatre in Baku, and the art has a strong following in the country.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Edgar_Degas_-_La_Classe_de_danse.jpg?width=800"
+    },
+    {
+      "id": "rock-music",
+      "title": "Rock Music",
+      "description": "The electric-guitar-driven music that shaped popular culture.",
+      "content": "Rock music grew from rock and roll, which emerged in the United States in the 1950s from blues, country and rhythm and blues. Typical rock bands feature electric guitars, bass guitar and drums, with a singer performing energetic songs.\n\nElvis Presley and Chuck Berry helped create the sound, and in the 1960s bands such as The Beatles and The Rolling Stones made rock a global phenomenon. Later came hard rock, punk, heavy metal, progressive rock and alternative rock, each with a loyal audience.\n\nRock has influenced fashion, film and politics and has shaped how young people express themselves. Big festivals such as Woodstock in 1969 became symbols of a generation, and rock musicians continue to fill stadiums around the world."
+    },
+    {
+      "id": "piano",
+      "title": "Piano",
+      "description": "The keyboard instrument with 88 keys and a hammer action.",
+      "content": "The piano is a keyboard instrument in which pressing a key makes a felt-covered hammer strike a string. Its full name, pianoforte, means soft-loud in Italian, because unlike earlier keyboards it could play at different volumes depending on how hard the key was pressed.\n\nIt was invented by the Italian instrument maker Bartolomeo Cristofori around 1700. A modern piano has 88 keys, spanning more than seven octaves, and comes as a grand piano, with strings horizontal, or an upright piano, which is more compact. It is played with both hands and pedals.\n\nThe piano became the central instrument of Western music, used for solo works, accompaniment and composing. Composers such as Chopin and Liszt wrote masterpieces for it, and it plays an important role in jazz and pop as well.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Steinway_Vienna_002.JPG?width=800"
+    },
+    {
+      "id": "guitar",
+      "title": "Guitar",
+      "description": "A plucked string instrument used in countless music styles.",
+      "content": "The guitar is a plucked string instrument, usually with six strings, held across the body. It appears in many forms, from the acoustic and classical guitar to the electric guitar, which uses pickups and an amplifier.\n\nIts ancestors go back thousands of years, and the modern classical guitar took shape in Spain in the 19th century. Andrés Segovia brought it to concert halls in the 20th century. Electric guitars appeared in the 1930s, and models such as the Fender Stratocaster and the Gibson Les Paul became icons of rock music.\n\nGuitars are central to flamenco, blues, country, jazz, rock and many folk traditions. Players such as Jimi Hendrix, Django Reinhardt and Paco de Lucía expanded what the instrument can do, and it is among the most popular instruments to learn.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/GuitareClassique5.png?width=800"
+    },
+    {
+      "id": "violin",
+      "title": "Violin",
+      "description": "The four-string bowed instrument of the orchestra.",
+      "content": "The violin is a bowed string instrument with four strings tuned in fifths: G, D, A and E. It is the smallest and highest-pitched member of the violin family, which also includes the viola, cello and double bass.\n\nIt developed in northern Italy in the 16th century. Makers from Cremona, such as the Amati family, Guarneri and Antonio Stradivari, produced instruments in the 17th and 18th centuries that are still considered among the finest and can be worth millions. Violins are made of spruce and maple and played with a bow strung with horsehair.\n\nThe violin is the core of the symphony orchestra and a solo instrument with a huge repertoire, from Vivaldi's Four Seasons to works by Paganini. It is also used in folk music around the world, including in Azerbaijan.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Violin_VL100.png?width=800"
+    },
+    {
+      "id": "folk-music",
+      "title": "Folk Music",
+      "description": "Traditional music passed on within communities.",
+      "content": "Folk music is the traditional music of a community, usually passed on by ear from one generation to the next, without a known composer. It often accompanies work, weddings, festivals and religious observances.\n\nIts songs tell stories about love, work, war and nature, and its melodies and lyrics change slightly as they are performed by different singers. Each region has its own instruments and styles, such as Celtic fiddle music in Ireland, flamenco in Spain, or the ashiq songs and bayati verses of Azerbaijan.\n\nIn the 20th century researchers called ethnomusicologists began recording folk music to preserve it, and folk revivals in the 1950s and 1960s brought the genre to new audiences. Folk melodies have also inspired many classical composers, including Azerbaijani ones."
+    },
+    {
+      "id": "hip-hop",
+      "title": "Hip Hop",
+      "description": "The culture that grew out of the Bronx in the 1970s.",
+      "content": "Hip hop is a culture and music genre that began in the 1970s in the Bronx, New York, among African-American, Caribbean and Latino youth. It is often described as having four elements: rapping (or MCing), DJing, breakdancing and graffiti art.\n\nThe birth of hip hop is often dated to a party in 1973 in which DJ Kool Herc extended the instrumental sections of records so that dancers could keep going. Rap records began to sell in the late 1970s, and the genre grew into one of the most influential styles in popular music.\n\nHip hop spread around the world, and today artists in almost every country rap in their own language, telling stories of their own lives. Its influence is seen in fashion, language and film, and it remains one of the world's most listened-to music genres."
+    },
+    {
+      "id": "yalli",
+      "title": "Yalli",
+      "description": "The Azerbaijani group folk dance.",
+      "content": "Yalli is a traditional group dance of Azerbaijan in which people join hands or link arms and move together in a line or a circle, following a leader who sets the steps. It is danced at weddings, festivals and celebrations.\n\nThe dancers' movements are coordinated with the rhythm of instruments such as the drum (nagara) and the zurna, a loud double-reed instrument. Different forms exist in different regions, including Kochari, associated with Karabakh, and Tenzere, associated with Nakhchivan. Solo dancers may also break out from the line to show skill.\n\nUNESCO inscribed Yalli (Kochari, Tenzere) on its list of intangible cultural heritage in 2018. The dance is a symbol of unity and joy, since everyone in the line depends on each other to keep the rhythm."
+    },
+    {
+      "id": "folk-dance",
+      "title": "Folk Dance",
+      "description": "Traditional dances that express a community's identity.",
+      "content": "Folk dances are traditional dances performed by ordinary people at social gatherings and celebrations, often to folk music. They usually developed over generations and reflect a community's life, work, beliefs and history.\n\nFolk dances take many forms: ring and line dances, such as the Greek sirtaki and the Azerbaijani yalli, couple dances, such as the waltz and the polka, and solo dances with a strong personal style, such as flamenco. Costumes, steps and music often identify the region the dance comes from.\n\nMany countries now teach folk dances in schools and present them on stage through ensembles. Dances such as Uzundara and Terekeme in Azerbaijan, the Ukrainian hopak and the Scottish Highland dances keep traditions alive and help people connect with their heritage.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dansa_tradicional_valenciana_-_Museu_Valenci%C3%A0_d'Etnologia.jpg?width=800"
+    },
+    {
+      "id": "theatre",
+      "title": "Theatre",
+      "description": "The live performance art of drama on stage.",
+      "content": "Theatre is the art of telling stories through live performance by actors in front of an audience. It combines acting, text, costumes, lighting, music and set design and can be serious, comic or a mix of both.\n\nWestern theatre began in Ancient Greece in the 5th century BCE, where playwrights such as Aeschylus, Sophocles and Euripides wrote tragedies for festivals in Athens. Later traditions include Shakespeare's plays in Elizabethan England, Japanese Noh and Kabuki, Chinese opera and Indian Sanskrit drama.\n\nAzerbaijani theatre has its roots in folk performances and religious plays. The first professional performance in the Azerbaijani language took place in Baku in 1873, when a play by Mirza Fatali Akhundov was staged by Hasan bey Zardabi and his students, and modern theatres now operate across the country.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernhardt_Hamlet2.jpg?width=800"
+    },
+    {
+      "id": "circus",
+      "title": "Circus",
+      "description": "Acrobats, clowns and daring acts under the big top.",
+      "content": "The circus is a travelling or permanent show that combines acrobatics, juggling, trapeze, clowns and often trained animals. The modern circus was created by Philip Astley, a former cavalry sergeant, who staged shows with horse riding in a ring in London in 1768.\n\nThe circular ring, still about 13 metres across, was designed for horse riders. In the 19th century the tented circus spread across Europe and America, with companies such as Barnum and Bailey. Performers train for years to perfect balancing acts, aerial skills and comedy.\n\nToday many circuses no longer use wild animals and focus on human skill and theatre. Companies such as Cirque du Soleil, founded in 1984 in Quebec, combine acrobatics with music and storytelling, and countries such as China and Russia have long circus traditions.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barnum_%26_Bailey_clowns_and_geese2.jpg?width=800"
+    },
+    {
+      "id": "cinema",
+      "title": "Cinema",
+      "description": "Moving pictures as art, entertainment and storytelling.",
+      "content": "Cinema is the art of telling stories through moving images. The Lumière brothers held the first public paid film screening in Paris in December 1895, and within a few years films were being shown around the world.\n\nEarly films were silent and black and white. Sound arrived in the late 1920s with The Jazz Singer, and colour became common by the mid 20th century. Hollywood in the United States, Bollywood in India and the film industries of Japan, France, Egypt and many other countries created distinctive traditions, and festivals such as Cannes celebrate them.\n\nFilm screenings reached Baku in the late 1890s, and Azerbaijani cinema developed in the early 20th century, with films such as In the Kingdom of Oil and Millions in 1916. Today films are made and watched on everything from giant cinema screens to smartphones.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_Voyage_dans_la_Lune_(1902).webm?width=800"
+    },
+    {
+      "id": "animation",
+      "title": "Animation",
+      "description": "Bringing drawings and models to life frame by frame.",
+      "content": "Animation is the art of creating the illusion of movement by showing a rapid sequence of still images. Each frame differs slightly from the last, and when played at about 24 frames per second the images appear to move.\n\nEarly pioneers include Émile Reynaud in France and Winsor McCay, whose Gertie the Dinosaur appeared in 1914. Walt Disney's Snow White and the Seven Dwarfs (1937) was the first full-length cel-animated feature, and Pixar's Toy Story (1995) was the first feature made entirely with computer animation.\n\nAnimation includes hand-drawn cartoons, stop-motion with clay or puppets, and computer-generated images. Japanese anime and studios such as Studio Ghibli have a worldwide following, and animation is used for entertainment, education and advertising.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Animexample.gif?width=800"
+    },
+    {
+      "id": "photography",
+      "title": "Photography",
+      "description": "Capturing light to make lasting images.",
+      "content": "Photography is the art and science of making images by recording light, either chemically on film or electronically with a sensor. The word comes from Greek words meaning drawing with light.\n\nThe oldest surviving photograph, made by Nicéphore Niépce around 1826 to 1827, shows a view from his window in France. Louis Daguerre introduced the daguerreotype in 1839, and George Eastman's Kodak camera of 1888 made photography available to ordinary people. Digital photography began in the 1970s, and today most pictures are taken on smartphones.\n\nPhotography is used for art, journalism, science and family memories. Photographers such as Ansel Adams and Henri Cartier-Bresson turned it into a recognised art form, and images can change how people see events, places and one another.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Photographer_Photographing_Nevada_Mountains.jpg?width=800"
+    },
+    {
+      "id": "television",
+      "title": "Television",
+      "description": "The screen that brought moving pictures into homes.",
+      "content": "Television is a system for broadcasting moving images and sound to receivers in homes and public places. The Scottish inventor John Logie Baird gave demonstrations in 1926, and Philo Farnsworth developed the first fully electronic system in the late 1920s.\n\nRegular broadcasts began in the 1930s and spread widely after World War II. Colour television became common in the 1960s and 1970s, followed by satellite and cable television, digital broadcasting and high-definition screens. Broadcasts of events such as the 1969 Moon landing were watched by hundreds of millions of people.\n\nTelevision in Azerbaijan began broadcasting in 1956. Today many people watch on demand through streaming services, but television remains an important source of news, sport and entertainment.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cptvdisplay.jpg?width=800"
+    },
+    {
+      "id": "comics",
+      "title": "Comics",
+      "description": "Stories told through sequences of images and words.",
+      "content": "Comics are a medium in which images arranged in sequence, often with speech balloons and captions, tell a story. They range from short newspaper strips to long graphic novels.\n\nThe Swiss teacher Rodolphe Töpffer created early picture stories in the 1830s. American newspaper strips became popular in the early 20th century, and Superman debuted in Action Comics No. 1 in 1938, launching the superhero genre. Japan developed manga, which has its own styles and enormous readership, and in Europe Tintin and Asterix became classics.\n\nGraphic novels such as Maus by Art Spiegelman, which won a Pulitzer Prize in 1992, showed that comics can deal with serious subjects. Today comics are read in print and online, and many films are based on them.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Little_Nemo_1906-08-19.jpg?width=800"
+    },
+    {
+      "id": "video-games",
+      "title": "Video Games",
+      "description": "Interactive entertainment on screens.",
+      "content": "A video game is an electronic game in which players interact with images on a screen using a controller, keyboard, touch screen or motion sensor. Games can be played alone, against others or in teams online.\n\nEarly games such as Pong, released by Atari in 1972, brought arcades and home consoles into popular culture. Nintendo's Super Mario Bros. in 1985 and later series such as The Legend of Zelda, Pokémon and Minecraft became global phenomena. The rise of smartphones brought casual games to billions of people.\n\nVideo games are now one of the largest entertainment industries in the world. They are also used for education and training, and esports tournaments attract millions of viewers, turning skilled players into professional athletes.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Universum_TV_Multispiel_2006.jpg?width=800"
+    },
+    {
+      "id": "literature",
+      "title": "Literature",
+      "description": "Written and oral works of imagination and thought.",
+      "content": "Literature is the body of written and oral works valued for their artistic and intellectual quality, including poetry, drama, novels, essays and stories. It reflects the ideas, feelings and history of the societies that produce it.\n\nOne of the oldest surviving works is the Epic of Gilgamesh from Mesopotamia, followed by the epics of Homer, Greek tragedies and the plays of Shakespeare. The Nobel Prize in Literature has been awarded since 1901 and honours writers from every continent, and world literature is enriched by translation.\n\nAzerbaijani literature has a rich heritage: the oral Book of Dede Gorgud, the poetry of Nizami, Nasimi and Fuzuli, whose Layla and Majnun appeared in 1535, and the modern plays of Mirza Fatali Akhundov in the 19th century, followed by writers such as Jalil Mammadguluzadeh and Samad Vurgun in the 20th.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Biblioth%C3%A8que_de_l'Assembl%C3%A9e_Nationale_(Lunon).jpg?width=800"
+    },
+    {
+      "id": "poetry",
+      "title": "Poetry",
+      "description": "Language shaped by rhythm, image and emotion.",
+      "content": "Poetry is the art of using language for its sound and rhythm as well as its meaning, often arranged in lines and stanzas. It can express feelings, tell stories or capture a moment in a few words.\n\nPoetry is older than writing, since early poems were sung and memorised. Famous forms include the ancient epic, the Persian ghazal, the Japanese haiku, the European sonnet and free verse. Poets such as Homer, Rumi, Nizami, Shakespeare and Pushkin are still read centuries later.\n\nIn Azerbaijani culture poetry has always had a special place: it is sung in mugham, performed by ashiqs and recited at gatherings. The forms gazal, bayati and gosma are traditional, and poets such as Nasimi, Fuzuli, Shahriyar, Samad Vurgun and Bakhtiyar Vahabzadeh are loved."
+    },
+    {
+      "id": "novel",
+      "title": "The Novel",
+      "description": "Long prose fiction that explores lives and societies.",
+      "content": "A novel is a long work of prose fiction that tells a story with characters, plot and setting. Novels can be adventures, love stories, mysteries, historical tales or studies of society.\n\nOne of the earliest examples is the Japanese Tale of Genji, written around 1000 by Murasaki Shikibu. Miguel de Cervantes's Don Quixote, published in 1605 and 1615, is often called the first modern European novel. The form flourished in the 19th century with authors such as Jane Austen, Charles Dickens, Leo Tolstoy and Fyodor Dostoevsky.\n\nThe Azerbaijani novel developed in the 20th century, with authors such as Yusif Vazir Chamanzaminli and Mammad Said Ordubadi writing historical fiction, and later writers such as Anar and Elchin. Novels remain one of the most popular literary forms in the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madame_de_Pompadour.jpg?width=800"
+    },
+    {
+      "id": "nizami-ganjavi",
+      "title": "Nizami Ganjavi",
+      "description": "The great 12th-century poet from Ganja.",
+      "content": "Nizami Ganjavi (about 1141–1209) was a poet from Ganja who wrote in Persian and is regarded as one of the greatest romantic epic poets in world literature. He lived most of his life in his hometown and refused to become a court poet.\n\nHis masterpiece is the Khamsa, or Quintet, five long poems: Makhzan al-Asrar, Khosrow and Shirin, Layla and Majnun, Haft Paykar and Iskandarnameh. Layla and Majnun, a tragic love story from Arab tradition, became one of the best-loved tales of the Middle East and Central Asia.\n\nHis work inspired poets in Persian, Turkic and other literatures for centuries, including Fuzuli and Navoi, and artists illustrated his poems in countless miniature paintings. His mausoleum stands in Ganja, and his statues can be seen in Baku and around the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nezami_(detail)_Addressing_his_Son_Mohammad._Attributed_to_Behzad%2C_Leyli_and_Majnun_(Nizami_Ganjavi)_1482.jpg?width=800"
+    },
+    {
+      "id": "fuzuli",
+      "title": "Fuzuli",
+      "description": "The classical Azerbaijani poet of love and longing.",
+      "content": "Muhammad Fuzuli (about 1483–1556) was a poet who wrote in Azerbaijani, Persian and Arabic and is considered the greatest classical poet of Azerbaijani literature. He lived in the region of Iraq, in cities such as Baghdad, Najaf and Karbala.\n\nHis best-known work is the poem Leyli and Majnun (1535), a retelling of the famous love story that is regarded as a masterpiece of Turkic literature. He also wrote gazals, or lyrical poems, about love, separation and spiritual longing, and his Divan collects them. He is famous for the emotional depth and musicality of his verse.\n\nFuzuli's poetry is still read and sung across Azerbaijan, Turkey and Iraq, and many mugham performers use his poems. His work inspired Uzeyir Hajibeyov's opera Leyli and Majnun in 1908.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fuz%C3%BBl%C3%AE.jpg?width=800"
+    },
+    {
+      "id": "shakespeare",
+      "title": "William Shakespeare",
+      "description": "The English playwright who shaped world theatre.",
+      "content": "William Shakespeare (1564–1616) was an English playwright and poet, born in Stratford-upon-Avon. He is widely regarded as the greatest writer in the English language, and his plays are performed more often than those of any other dramatist.\n\nHe wrote around 37 plays, including tragedies such as Hamlet, Macbeth, Othello and Romeo and Juliet, comedies such as A Midsummer Night's Dream, and histories such as Henry V, as well as 154 sonnets. Many of his plays were performed at the Globe Theatre in London, and he introduced or popularised many English words and expressions.\n\nShakespeare's plays have been translated into every major language and adapted into countless films, operas and ballets. They explore ambition, love, jealousy and power, themes that remain familiar to audiences today.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/William_Shakespeare_by_John_Taylor%2C_edited.jpg?width=800"
+    },
+    {
+      "id": "dede-korkut",
+      "title": "Book of Dede Korkut",
+      "description": "The great epic of the Oghuz Turks.",
+      "content": "The Book of Dede Korkut, or Kitabi Dede Gorgud, is an epic of the Oghuz Turks, a collection of twelve tales of heroes, families and battles, linked by the wise storyteller Dede Korkut. It was written down in the 15th century, but the stories are older and were told orally for generations.\n\nThe tales feature brave warriors such as Bamsi Beyrek and Basat, who defeats the one-eyed giant Depegöz, and they describe values such as courage, loyalty, family and honour. The two main manuscripts are kept in Dresden, with twelve tales, and the Vatican, with six.\n\nUNESCO included the Dede Qorqud heritage, shared by Azerbaijan, Turkey and Kazakhstan, on its list of intangible cultural heritage in 2018. The book is regarded as one of the foundations of Azerbaijani and Turkish literature.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kitab-%C4%B1_Dede_Korkut_ala-lisan-i_Ta'ife-i_O%C4%9Fuzhan%2C_Dresden.jpg?width=800"
+    },
+    {
+      "id": "epic-poetry",
+      "title": "Epic Poetry",
+      "description": "Long heroic poems that tell the stories of nations.",
+      "content": "Epic poetry consists of long narrative poems that tell of heroes, gods and great events, often shaping a people's identity. Epics were originally performed orally by singers and memorised across generations.\n\nThe oldest surviving epic is the Epic of Gilgamesh from Mesopotamia, dating to about 2100 BCE. The Iliad and the Odyssey of Homer, the Indian Mahabharata and Ramayana, the Persian Shahnameh by Ferdowsi, completed around 1010, and the English Beowulf are among the great epics of the world.\n\nAzerbaijan has a rich epic tradition, including the Book of Dede Korkut, the Koroghlu epic, performed by ashiqs, and the poems of Nizami. Epics preserve history, language and values, and they continue to inspire novels, films and games.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/British_Museum_Flood_Tablet.jpg?width=800"
+    },
+    {
+      "id": "fairy-tales",
+      "title": "Fairy Tales",
+      "description": "Magical stories passed down through generations.",
+      "content": "Fairy tales are short stories with magical elements, such as talking animals, witches, dragons and enchanted objects, usually ending with a lesson or a happy ending. They began as oral stories told by people of all ages.\n\nIn Europe, Charles Perrault published tales such as Cinderella and Sleeping Beauty in 1697, the Brothers Grimm collected German tales from 1812, and Hans Christian Andersen wrote original ones such as The Little Mermaid in the 1830s. The story of Cinderella exists in hundreds of versions around the world.\n\nAzerbaijani fairy tales feature heroes such as Malikmammad, clever fools and helpful animals, often told by grandparents at home. Researchers collect them to preserve them, and fairy tales continue to inspire films, books and ballets.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carl_Larsson_-_Little_Red_Riding_Hood_1881.jpg?width=800"
+    },
+    {
+      "id": "mythology",
+      "title": "Mythology",
+      "description": "The sacred stories that explain the world.",
+      "content": "Mythology is a body of traditional stories about gods, heroes and the origins of the world. Myths explained natural events such as the seasons, thunder or the movement of the sun before science provided other answers, and they expressed a society's values.\n\nGreek myths about Zeus, Athena and Hercules, Egyptian myths about Ra and Osiris, Norse myths about Odin and Thor, and Hindu myths from the Mahabharata and Ramayana are among the best known. Turkic peoples honoured the sky god Tengri, and ancient Azerbaijan was a centre of Zoroastrianism, in which fire is a symbol of purity, which links to the name Land of Fire.\n\nMyths continue to influence literature, art and film. Words such as echo, panic and titanic come from mythological names, and modern stories still use their heroes and quests.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hotherus_and_wood_maidens_by_Froelich.jpg?width=800"
+    },
+    {
+      "id": "proverbs",
+      "title": "Proverbs",
+      "description": "Short sayings that hold generations of wisdom.",
+      "content": "A proverb is a short, memorable saying that expresses a common truth or piece of advice. Proverbs are passed on orally and are used in everyday speech to make a point vividly.\n\nEvery culture has its own, and many express similar ideas in different images. They often compare human behaviour to nature, farming, animals or the household. Scholars study proverbs as a window into how a community thinks, and collections of them exist from ancient times, such as the Biblical Book of Proverbs.\n\nIn Azerbaijan proverbs are called atalar sozu, or fathers' words, and they are still used in conversation, at gatherings and in literature. Collections have been published since the 19th century, and they are part of the language's charm and character."
+    },
+    {
+      "id": "library",
+      "title": "Library",
+      "description": "The places that collect and share knowledge.",
+      "content": "A library is a collection of books and other materials organised so that people can find and use them. Libraries have preserved knowledge for thousands of years and serve as centres for learning and community life.\n\nThe Library of Ashurbanipal in Nineveh, in the 7th century BCE, held thousands of clay tablets, and the Library of Alexandria in Egypt, founded in the 3rd century BCE, was one of the largest of the ancient world. In medieval Baghdad, the House of Wisdom was a centre for translation and science. Today the largest library is the Library of Congress in Washington, D.C.\n\nModern libraries lend books, offer computers and host events, and digital libraries make millions of texts available online. In Baku, the National Library, named after Mirza Fatali Akhundov, holds millions of items, including manuscripts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SanDiegoCityCollegeLearningResource_-_bookshelf.jpg?width=800"
+    },
+    {
+      "id": "painting",
+      "title": "Painting",
+      "description": "The art of applying colour to a surface.",
+      "content": "Painting is the art of applying pigment to a surface such as rock, wall, wood, paper or canvas to represent the world or express ideas and feelings. It is one of the oldest human arts.\n\nThe earliest known paintings are cave art such as that at Lascaux in France and Altamira in Spain, many thousands of years old. Renaissance masters such as Leonardo da Vinci, whose Mona Lisa is world famous, developed perspective and realism, and later movements from Impressionism to abstract art changed how artists see.\n\nIn the Islamic world and Persia, miniature painting flourished in books, and the Tabriz school influenced Azerbaijani art. Sattar Bahlulzade and Tahir Salahov are among Azerbaijan's best-known 20th-century painters, and the National Art Museum in Baku holds the country's greatest collection.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg?width=800"
+    },
+    {
+      "id": "sculpture",
+      "title": "Sculpture",
+      "description": "Art shaped in three dimensions from stone, metal and more.",
+      "content": "Sculpture is the art of making three-dimensional forms by carving, modelling, casting or assembling materials such as stone, wood, bronze, clay or metal. It can stand alone, decorate buildings or mark public spaces.\n\nAncient Greek sculptors created idealised human figures in marble, such as the works at the Parthenon. Michelangelo's David, carved in Florence between 1501 and 1504, is a symbol of Renaissance sculpture, and Auguste Rodin's The Thinker is a modern classic. In the 20th century sculpture became abstract, with artists such as Henry Moore and Constantin Brâncuși.\n\nPublic monuments, such as statues of poets and heroes, are found in many cities. In Baku, monuments to Nizami, Fuzuli and Nasimi decorate squares and parks, and the Azerbaijani sculptor Fuad Abdurahmanov is among the names of the country's sculpture school.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dying_gaul.jpg?width=800"
+    },
+    {
+      "id": "architecture",
+      "title": "Architecture",
+      "description": "The art of designing buildings and spaces.",
+      "content": "Architecture is the art and science of designing buildings and the spaces around them, combining function, structure and beauty. It reflects the technology, climate and beliefs of the society that builds it.\n\nLandmarks of world architecture include the Egyptian pyramids, the Greek Parthenon, the Roman Pantheon, Gothic cathedrals such as Notre-Dame, Islamic mosques with domes and minarets, and modern skyscrapers. New materials such as steel, glass and reinforced concrete allowed buildings to grow taller and lighter in the 19th and 20th centuries.\n\nAzerbaijan combines historic forms, such as the Shirvan school of architecture, seen in the Palace of the Shirvanshahs, with modern designs such as the Flame Towers and the Heydar Aliyev Center by Zaha Hadid. Architecture shapes how people live and remember, and it is one of the most visible forms of culture.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/View_of_Santa_Maria_del_Fiore_in_Florence.jpg?width=800"
+    },
+    {
+      "id": "calligraphy",
+      "title": "Calligraphy",
+      "description": "Writing treated as a visual art in its own right.",
+      "content": "Calligraphic traditions developed independently in East Asia, the Islamic world and Europe, and in each the discipline is as much about rhythm, spacing and the pressure of the hand as about legibility.\n\nIn the Islamic world, calligraphy became the highest visual art, since it was used to write the Quran. Main scripts include Naskh, Thuluth, Diwani and the flowing Nastaliq, which was developed in Persia and used for Persian, Azerbaijani and Turkish poetry. In China and Japan, brush calligraphy is considered a form of painting and personal expression.\n\nMaster calligraphers trained for years before their work was considered finished, and their work decorates manuscripts, buildings, coins and carpets. Calligraphy remains a living art, practised by artists and hobbyists around the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Letter_by_Ouyang_Xiu.jpg?width=800"
+    },
+    {
+      "id": "miniature-painting",
+      "title": "Miniature Painting",
+      "description": "Tiny, detailed paintings that illustrate manuscripts.",
+      "content": "Miniature painting is the art of making small, highly detailed paintings, usually to illustrate books or to be kept as albums. In the Persian and Islamic world, miniatures decorated manuscripts of poetry, history and science.\n\nThe Tabriz school, which flourished from the 14th to the 16th centuries, was one of the most important schools of miniature painting, influencing Persian, Ottoman and Azerbaijani art. Artists such as Sultan Muhammad and Mir Sayyid Ali created richly coloured scenes with delicate lines and imaginative compositions, often illustrating the works of Nizami and Ferdowsi.\n\nPainters used natural pigments, including gold, and fine brushes. Today the tradition lives on in Azerbaijan through artists and schools, and the Museum of Miniature Books in Baku shows another form of tiny craftsmanship.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yusef_Zuleykha.jpg?width=800"
+    },
+    {
+      "id": "mosaic",
+      "title": "Mosaic",
+      "description": "Pictures made from thousands of small pieces.",
+      "content": "A mosaic is a picture or pattern made from small pieces of coloured stone, glass, ceramic or other material, called tesserae, set into a surface such as a floor or wall. Mosaics can last for thousands of years.\n\nAncient Greeks and Romans decorated floors with mosaics of gods, animals and daily life, and the Byzantines covered church walls with shimmering glass and gold mosaics, as in Hagia Sophia in Istanbul. In the Islamic world, geometric tilework in blue, turquoise and gold adorns mosques and palaces.\n\nModern artists still use mosaics, including in metro stations and public spaces. Antoni Gaudí's colourful broken-tile mosaics in Barcelona's Park Güell are a famous 20th-century example.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MosaicEpiphany-of-Dionysus.jpg?width=800"
+    },
+    {
+      "id": "pottery",
+      "title": "Pottery",
+      "description": "The ancient craft of shaping and firing clay.",
+      "content": "Pottery is the craft of forming objects such as vessels, tiles and figures from clay and hardening them by firing in a kiln. It is one of the oldest human technologies, and some fragments are almost 20,000 years old.\n\nPotters shape the clay by hand or on a wheel, add decoration and coat it with a glaze. Different traditions include Greek painted vases, Chinese porcelain, Persian lustre ware and the blue-and-white tiles of Iznik in Turkey. Archaeologists use pottery fragments to date ancient sites.\n\nIn Azerbaijan, pottery has been made since ancient times, and traditional centres such as Basgal and Gala produce jugs, bowls and decorative ware. Ceramics are used for cooking, storage and decoration, and handmade pottery is admired as art.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg?width=800"
+    },
+    {
+      "id": "street-art",
+      "title": "Street Art",
+      "description": "Art in public spaces, from graffiti to murals.",
+      "content": "Street art is visual art created in public spaces, including graffiti, stencils, stickers and large murals. It often carries social messages and brings colour to city walls.\n\nModern graffiti began in the late 1960s and 1970s in Philadelphia and New York, where young people wrote their names, or tags, on subway trains, and it became part of hip-hop culture. Artists such as Keith Haring and Banksy brought street art into galleries and public debate, and it is now celebrated in festivals.\n\nMany cities commission murals to brighten neighbourhoods and tell local stories. Street art raises questions about who owns public space, and it remains a lively form of artistic expression for new generations.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Berlinermauer.jpg?width=800"
+    },
+    {
+      "id": "renaissance",
+      "title": "Renaissance",
+      "description": "Europe's rebirth of art, science and learning.",
+      "content": "The Renaissance, meaning rebirth, was a period of great cultural change in Europe from about the 14th to the 17th century. It began in Italy, in cities such as Florence, and drew inspiration from classical Greece and Rome.\n\nArtists such as Leonardo da Vinci, Michelangelo and Raphael developed perspective and realistic anatomy. Humanist thinkers put the human being at the centre of study, and scientists such as Copernicus and Galileo challenged old ideas about the universe. The printing press, invented about 1440, spread these ideas widely.\n\nThe Renaissance changed painting, sculpture, architecture, literature and science, and its influence can be seen in universities, museums and cities today. Wealthy patrons such as the Medici family of Florence supported the arts.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Da_Vinci_Vitruve_Luc_Viatour.jpg?width=800"
+    },
+    {
+      "id": "impressionism",
+      "title": "Impressionism",
+      "description": "The art movement that painted light and moments.",
+      "content": "Impressionism was an art movement that began in Paris in the 1870s. Its painters wanted to capture the effects of light and colour in a moment, often working outdoors with quick brushstrokes.\n\nThe name came from Claude Monet's painting Impression, Sunrise (1872), and the first group exhibition took place in 1874. Artists such as Monet, Pierre-Auguste Renoir, Edgar Degas, Camille Pissarro and Berthe Morisot painted landscapes, city scenes and everyday life instead of historical or religious subjects.\n\nThe critics first mocked the style, but it became one of the most loved in the world and opened the way for modern art, including Post-Impressionism with Vincent van Gogh and Paul Cézanne.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Claude_Monet%2C_Impression%2C_soleil_levant.jpg?width=800"
+    },
+    {
+      "id": "museums",
+      "title": "Museums",
+      "description": "Institutions that preserve and share heritage.",
+      "content": "A museum is an institution that collects, preserves and displays objects of cultural, artistic, historical or scientific value for the public. Museums educate, inspire and safeguard heritage.\n\nThe Ashmolean Museum in Oxford, opened in 1683, is regarded as the first university museum, and the British Museum opened in 1759. The Louvre in Paris became a public museum in 1793 during the French Revolution and is the most visited art museum in the world. Museums cover everything from art and archaeology to science and technology.\n\nBaku has many museums, including the Azerbaijan National Art Museum, the Azerbaijan Carpet Museum, the Museum of Miniature Books and the History Museum. Modern museums use digital tools and online collections so that people can explore artefacts from anywhere.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Museo_Chileno_de_Arte_Precolombino_-_2020_-_10.jpg?width=800"
+    },
+    {
+      "id": "carpet-weaving",
+      "title": "Carpet Weaving",
+      "description": "The traditional art of making woven carpets.",
+      "content": "Carpet weaving is a traditional craft in which wool or silk threads are knotted or woven on a loom to make patterned carpets and flat-woven rugs. Carpets were used as floor coverings, wall hangings, bedding and dowry gifts.\n\nIn Azerbaijan, the craft has been practised for centuries and is divided into schools associated with regions such as Guba, Shirvan, Ganja, Gazakh, Karabakh and Tabriz, each with its own patterns and colours. A common motif is the buta, a teardrop shape that is related to the paisley pattern. Weavers traditionally use natural dyes from plants such as madder and walnut husks.\n\nUNESCO inscribed Azerbaijani carpet weaving on its list of intangible cultural heritage in 2010. The Azerbaijan Carpet Museum in Baku, opened in 2014 in a building shaped like a rolled carpet, holds thousands of pieces.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carpet_market_Elizavetpol_XIXcentury.jpg?width=800"
+    },
+    {
+      "id": "kilim",
+      "title": "Kilim",
+      "description": "The flat-woven rug of nomads and villages.",
+      "content": "A kilim is a flat-woven rug made without knots, so it has no pile. The weaver interlaces the weft and warp threads to create bold geometric patterns, and the design appears identically on both sides.\n\nKilims are woven across Anatolia, the Caucasus, Iran and Central Asia. In Azerbaijan, flat-weaves include palaz, shadda and verni, which are used as floor coverings, wall decorations and bags, and the traditional patterns often carry symbolic meanings, such as protection or fertility.\n\nBecause kilims are lighter and quicker to make than pile carpets, they were widely used by nomadic families. Today they are popular in homes worldwide and valued for their bright colours and authentic craftsmanship.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hotamis_Kilim.jpg?width=800"
+    },
+    {
+      "id": "embroidery",
+      "title": "Embroidery",
+      "description": "Decorating fabric with needle and thread.",
+      "content": "Embroidery is the art of decorating fabric or other materials with a needle and thread, sometimes adding beads, pearls or metal. It has been practised for thousands of years and appears on clothing, home textiles and ceremonial items.\n\nFamous examples include the Bayeux Tapestry, a long embroidered cloth from the 11th century that tells the story of the Norman conquest of England, and the elaborate silk embroidery of China and India. Techniques range from simple stitches to complex gold-thread work.\n\nIn Azerbaijan, a well-known form is tirma, in which gold or silver thread is stitched onto velvet or silk, used for decorating women's clothing, bags and ceremonial items. Embroidery was traditionally taught within families, and girls prepared embroidered items for their dowry.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kantha_(Quilt)_LACMA_AC1994.131.1.jpg?width=800"
+    },
+    {
+      "id": "jewellery",
+      "title": "Jewellery",
+      "description": "Ornaments worn to adorn, mark status and preserve memory.",
+      "content": "Jewellery consists of ornaments such as necklaces, rings, bracelets and earrings, made of metal, stones, beads or other materials. People have worn jewellery for tens of thousands of years, and shell beads about 100,000 years old have been found in Africa and the Middle East.\n\nJewellery can show wealth, beliefs, marriage or belonging to a community. Ancient Egyptians wore gold collars and scarab amulets, and Roman and medieval craftsmen developed techniques such as filigree, enamel and gem cutting. Diamonds became popular for engagement rings in the 20th century.\n\nTraditional Azerbaijani jewellery is made mainly of silver and gold with stones such as carnelian and turquoise, and includes belts, pendants, bracelets and headpieces worn by women at weddings. Regional centres such as Ganja and Sheki were known for their metalworkers.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pectoral_and_Necklace_of_Sithathoryunet_with_the_Name_of_Senwosret_II_MET_DT531.jpg?width=800"
+    },
+    {
+      "id": "kalaghayi",
+      "title": "Kalaghayi",
+      "description": "The hand-printed silk headscarf of Azerbaijan.",
+      "content": "Kalaghayi, or kelaghayi, is a traditional women's silk headscarf made in Azerbaijan, decorated with patterns printed by hand from carved wooden blocks. The silk is thin and light, and the patterns are often floral or based on the buta motif.\n\nThe craft is centred in Sheki, a region known for silk since the Silk Road, and in Basgal. Craftsmen use natural dyes and colours carry meaning: white is worn in mourning, and bright colours such as red and green are worn at celebrations and by young women.\n\nUNESCO inscribed the traditional art of Azerbaijani kelaghayi making and wearing on its list of intangible cultural heritage in 2014. The craft is passed on from master to apprentice and remains a symbol of national identity."
+    },
+    {
+      "id": "novruz",
+      "title": "Novruz",
+      "description": "The spring festival marking the new year.",
+      "content": "Novruz is a spring festival celebrating the new year at the spring equinox, around 20 to 21 March. Its roots go back more than 3,000 years, and it is celebrated in Azerbaijan, Iran, Central Asia and other regions.\n\nIn the weeks before the holiday, four Tuesdays, each linked to an element, are marked. People clean their homes, jump over bonfires and set a festive table with a dish of sprouted wheat called samani, a symbol of rebirth. Traditional sweets include shakarbura, pakhlava and gogal, and families visit relatives and neighbours.\n\nFolk games such as egg fighting, and performances of music and dance, take place in squares and villages. UNESCO added Novruz to its list of intangible cultural heritage in 2009, and in Azerbaijan it is celebrated with several public holidays.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Haft-sin%2C_Nowruz%2C_Still-life-3205068.jpg?width=800"
+    },
+    {
+      "id": "ramadan",
+      "title": "Ramadan",
+      "description": "The Islamic month of fasting, prayer and charity.",
+      "content": "Ramadan is the ninth month of the Islamic lunar calendar, during which Muslims fast from dawn to sunset. It is one of the Five Pillars of Islam and commemorates the month in which the Quran began to be revealed.\n\nDuring the day Muslims refrain from food, drink and other worldly pleasures, and they focus on prayer, reading the Quran and charity. The fast is broken at sunset with a meal called iftar, often beginning with dates and water, and a pre-dawn meal called suhoor is eaten before the fast. Extra prayers called taraweeh are performed in the evenings.\n\nBecause the Islamic calendar follows the moon, Ramadan moves about ten or eleven days earlier each year. It ends with the festival of Eid al-Fitr, known in Azerbaijan as Ramazan Bayrami, when families gather, exchange visits and share sweets.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Breaking_the_Fast_(2)_(27351979537).jpg?width=800"
+    },
+    {
+      "id": "eid-al-adha",
+      "title": "Eid al-Adha",
+      "description": "The Islamic festival of sacrifice.",
+      "content": "Eid al-Adha, the Festival of Sacrifice, is one of the two major festivals of Islam. It falls on the 10th day of Dhu al-Hijjah, the last month of the Islamic year, and coincides with the end of the annual pilgrimage to Mecca, the Hajj.\n\nIt commemorates the willingness of Prophet Ibrahim to sacrifice his son as an act of obedience to God, before God provided a ram instead. Families who can afford it sacrifice an animal such as a sheep or a cow, and share the meat in three parts: with the family, with friends and neighbours, and with people in need.\n\nThe day starts with a special prayer, followed by visits, meals and gifts. In Azerbaijan it is known as Gurban Bayrami and is a public holiday, celebrated with family gatherings and charity.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eid_al_adha_compilation.jpg?width=800"
+    },
+    {
+      "id": "wedding",
+      "title": "Wedding",
+      "description": "The ceremonies that celebrate a marriage.",
+      "content": "A wedding is a ceremony in which two people are united in marriage, and every culture has its own customs. Weddings involve family and community and can include religious rites, feasts, music, dance and symbolic gifts.\n\nIn Western traditions the bride often wears white, a custom made popular by Queen Victoria in 1840, and rings are exchanged. Weddings in India can last several days with colourful ceremonies, while Chinese weddings often feature red, the colour of luck.\n\nA traditional Azerbaijani wedding includes matchmaking, an engagement ceremony called nishan, a henna night before the wedding and a large celebration with music, food and the yalli dance. Guests give gifts, and the bride's family prepares a dowry, though modern weddings often mix old and new customs.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hindu_wedding_rituals_b_(cropped).jpg?width=800"
+    },
+    {
+      "id": "tea-culture",
+      "title": "Tea Culture",
+      "description": "The social rituals of tea drinking.",
+      "content": "Tea culture consists of the customs and rituals surrounding the preparation and drinking of tea. In many societies tea is a symbol of hospitality and a reason for people to sit down together.\n\nIn Japan the tea ceremony, or chado, is an art of calm and precision, and in Britain afternoon tea developed in the 1840s. In Russia the samovar is a symbol of the tea table, and in Morocco mint tea is poured from a height into small glasses.\n\nTea is at the heart of Azerbaijani hospitality. Black tea is served hot in small pear-shaped glasses called armudu, often with sugar cubes, jam and sweets, and guests are offered tea as soon as they arrive. Traditional tea houses, called chayxana, are social spaces, and tea is grown in the south of the country, near Lankaran and Astara.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Japanese_tea_ceremony_20100502_Japan_Matsuri_02.jpg?width=800"
+    },
+    {
+      "id": "carnival",
+      "title": "Carnival",
+      "description": "The festive season of parades, costumes and music.",
+      "content": "Carnival is a festive season of parades, masks, costumes, music and dancing, celebrated in many Christian countries before Lent. The word is thought to come from Latin words meaning to take away meat.\n\nThe Carnival of Rio de Janeiro is the biggest in the world, with samba schools competing in the Sambadrome. The Venice Carnival, with elaborate masks, dates from the Middle Ages, and Mardi Gras in New Orleans, Trinidad Carnival and Notting Hill Carnival in London show how the tradition spread.\n\nCarnival is a time when normal rules are relaxed and communities enjoy music, food and humour. Many of its traditions come from mixing European, African and indigenous cultures.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lingelbach_Karneval_in_Rom_001.jpg?width=800"
+    },
+    {
+      "id": "christmas",
+      "title": "Christmas",
+      "description": "The Christian festival celebrating the birth of Jesus.",
+      "content": "Christmas is a Christian holiday that celebrates the birth of Jesus, held on 25 December in most countries. Orthodox churches that use the Julian calendar, such as those in Russia and Georgia, celebrate on 7 January.\n\nMany customs are not religious in origin: decorated trees became popular in Germany in the 16th century, and Santa Claus grew out of the legend of Saint Nicholas. People exchange gifts, sing carols and share special meals, and nativity scenes recall the story of the birth in Bethlehem.\n\nChristmas is celebrated in different ways around the world, from midnight masses in the Philippines to summer barbecues in Australia. In many countries it has also become a broader cultural event, enjoyed by people of different backgrounds.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adoration_of_the_sheperds_-_Matthias_Stomer.jpg?width=800"
+    },
+    {
+      "id": "diwali",
+      "title": "Diwali",
+      "description": "The Hindu festival of lights.",
+      "content": "Diwali, the festival of lights, is one of the most important festivals in India and is celebrated by Hindus, Jains and Sikhs. It usually falls in October or November and lasts five days.\n\nFamilies light small clay lamps called diyas, decorate their homes with colourful patterns called rangoli, exchange sweets and gifts and set off fireworks. In many traditions the festival honours Lakshmi, the goddess of prosperity, and celebrates the victory of light over darkness and good over evil.\n\nDiwali is celebrated in India and by communities in countries such as Nepal, Singapore, Malaysia, Fiji and the United Kingdom. It is a time for cleaning homes, forgiving quarrels and gathering with relatives.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Rangoli_of_Lights.jpg?width=800"
+    },
+    {
+      "id": "chinese-new-year",
+      "title": "Chinese New Year",
+      "description": "The Spring Festival of the lunar calendar.",
+      "content": "Chinese New Year, or the Spring Festival, marks the start of the lunar new year and falls between 21 January and 20 February. It is the most important traditional holiday in China and is celebrated by Chinese communities worldwide.\n\nEach year is linked to one of twelve zodiac animals, such as the rat, ox, tiger, dragon and horse. Families clean their homes, put up red decorations, share a reunion dinner and give children red envelopes containing money. Lion and dragon dances and fireworks drive away bad luck.\n\nThe festival lasts about fifteen days and ends with the Lantern Festival. Hundreds of millions of people travel to be with their families, in what is considered the largest annual human migration.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kung_Hei_Fat_Choi!_(6834861529).jpg?width=800"
+    },
+    {
+      "id": "oktoberfest",
+      "title": "Oktoberfest",
+      "description": "Munich's famous autumn folk festival.",
+      "content": "Oktoberfest is a large folk festival held each year in Munich, Germany, and it is the biggest in the world. It runs for about two and a half weeks, from late September to the first Sunday of October.\n\nThe first Oktoberfest was held in 1810 to celebrate the wedding of Crown Prince Ludwig of Bavaria and Princess Therese, and the horse races were so popular that the event was repeated each year. Today the festival takes place on a field called the Theresienwiese, with large beer tents, carousels and food stands.\n\nVisitors wear traditional Bavarian clothes, such as lederhosen and dirndls, and enjoy brass-band music, pretzels and roast chicken. About six million people attend each year.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/O'zapft_is!_M%C3%BCnchens_5_Jahreszeit_hat_begonnen_-_O'zapft_is!_Munich_5_season%2C_the_Oktoberfest_has_begun_(9855483374).jpg?width=800"
+    },
+    {
+      "id": "azerbaijani-cuisine",
+      "title": "Azerbaijani Cuisine",
+      "description": "The flavours of the land of fire.",
+      "content": "Azerbaijani cuisine is known for its fresh herbs, meat, fish from the Caspian and seasonal fruit and vegetables. Saffron, sumac and fresh coriander, dill and mint give dishes their aroma, and lamb, beef and chicken are cooked in many different ways.\n\nPlov, a rice dish with many varieties, is often called the king of the table. Other favourites are dolma, kebab, piti, a lamb and chickpea stew, qutab, thin pancakes with fillings, dovga, a yoghurt soup with herbs, and kuku, herb omelettes. Meals often start with bread and fresh greens.\n\nSweet dishes include pakhlava and shakarbura, and tea is served in small pear-shaped glasses called armudu. Each region has its own specialties, such as the fish dishes of Lankaran and the piti and halva of Sheki."
+    },
+    {
+      "id": "pilaf",
+      "title": "Pilaf (Plov)",
+      "description": "The rice dish served at feasts across Asia.",
+      "content": "Pilaf, known as plov in Azerbaijan and Central Asia, is a dish in which rice is cooked in a seasoned broth or fat until it is fluffy and each grain stays separate. It is found in different forms from the Balkans to India.\n\nIn Azerbaijan, plov is a festive dish with dozens of varieties. Rice is often steamed with saffron and butter and served separately from the toppings, which can include lamb, chicken, chestnuts, dried fruit and herbs. A crispy layer at the bottom of the pot, called gazmag, is prized.\n\nPlov is served at weddings, holidays and family gatherings. Its preparation is treated as an art, and cooks take pride in their own recipes.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Afghan_Palo.jpg?width=800"
+    },
+    {
+      "id": "dolma",
+      "title": "Dolma",
+      "description": "Stuffed vegetables and leaves, a symbol of shared cooking.",
+      "content": "Dolma is a family of stuffed dishes found across the Caucasus, Turkey and the Middle East, in which vegetables or leaves are filled with a mixture of meat, rice and herbs and then cooked. The word comes from a Turkic verb meaning to be filled.\n\nIn Azerbaijan, there are many versions: dolma wrapped in grape leaves, cabbage dolma, and stuffed tomatoes, peppers and aubergines, often served with yoghurt and garlic. Fresh herbs such as mint, dill and coriander give it a distinctive flavour.\n\nUNESCO inscribed the dolma making and sharing tradition, as a marker of cultural identity, on its list of intangible cultural heritage in 2017. Making dolma often brings family and neighbours together to prepare it.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Speca_te_mbushura_me_mish.JPG?width=800"
+    },
+    {
+      "id": "baklava",
+      "title": "Baklava (Pakhlava)",
+      "description": "The layered pastry of nuts and syrup.",
+      "content": "Baklava is a sweet pastry made of thin layers of dough filled with chopped nuts and soaked in syrup or honey. It is famous across Turkey, the Middle East, the Balkans and the Caucasus.\n\nThe dessert developed in the Ottoman palace kitchens and was refined over centuries, with many regional variations. Azerbaijani pakhlava is baked in a diamond shape, layered with ground walnuts or hazelnuts and sugar, and topped with saffron for colour. It is a traditional treat at Novruz.\n\nMaking it requires skill, since the dough must be rolled paper-thin. Baklava is eaten with tea on holidays and offered to guests, and it is enjoyed around the world.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baklava(1).png?width=800"
+    },
+    {
+      "id": "tea",
+      "title": "Tea",
+      "description": "The world's most popular drink after water.",
+      "content": "Tea is a drink made by infusing the leaves of the plant Camellia sinensis in hot water. It is the most widely consumed beverage in the world after water.\n\nAccording to legend, tea was discovered in China by the emperor Shennong around 2737 BCE. Black, green, white and oolong tea all come from the same plant and differ in how the leaves are processed. Tea reached Europe in the 17th century and became central to British life, while the Silk Road carried it across Asia.\n\nMajor producers include China, India, Kenya and Sri Lanka, and tea is grown in the south of Azerbaijan. People in Turkey and Azerbaijan are among the biggest tea drinkers, and the drink plays an important role in hospitality.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Longjing_tea_steeping_in_gaiwan.jpg?width=800"
+    },
+    {
+      "id": "coffee",
+      "title": "Coffee",
+      "description": "The roasted seeds that fuel daily life.",
+      "content": "Coffee is a drink made from roasted seeds, called beans, of the coffee plant. It is grown in tropical regions, and Brazil is the largest producer, followed by Vietnam and Colombia.\n\nLegend says the Ethiopian goatherd Kaldi noticed his goats becoming lively after eating coffee berries. Coffee drinking spread from Yemen in the 15th century across the Ottoman world, where coffeehouses became social centres, and reached Europe in the 17th century. Italy developed espresso in the early 20th century.\n\nTurkish coffee, prepared in a small pot called a cezve, was inscribed by UNESCO on its list of intangible cultural heritage in 2013. Coffee is central to social life in many countries, and it is a major part of the world economy.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Latte_and_dark_coffee.jpg?width=800"
+    },
+    {
+      "id": "wine",
+      "title": "Wine",
+      "description": "An ancient drink made from fermented grapes.",
+      "content": "Wine is an alcoholic drink made from fermented grapes. Archaeologists have found evidence of winemaking about 8,000 years ago in the South Caucasus, in what is now Georgia, and the tradition spread across the Mediterranean.\n\nAncient Egyptians, Greeks and Romans were wine lovers, and the drink became important in religion and culture. Today France, Italy and Spain are among the largest producers. Wine varies with the grape variety, soil, climate and method, and is often matched with food.\n\nGrapes have been grown in Azerbaijan since ancient times. In the 19th century German settlers in Goygol developed winemaking, and regions such as Ganja, Shamakhi and Gabala have vineyards.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Red_and_white_wine_in_glass.jpg?width=800"
+    },
+    {
+      "id": "bread",
+      "title": "Bread",
+      "description": "The staple food of many civilisations.",
+      "content": "Bread is a staple food made from flour and water, usually baked. It is one of the oldest prepared foods, and 14,000-year-old remains of flatbread have been found in Jordan.\n\nAncient Egyptians developed leavened bread, using yeast, and bakers across the world developed hundreds of forms, from French baguettes and German rye loaves to Indian naan and Mexican tortillas. The industrial production of sliced bread began in the 20th century.\n\nIn Azerbaijan, bread is a sacred food and is treated with respect. Tandir bread, baked on the wall of a clay oven, and thin lavash are eaten with meals, and UNESCO inscribed the flatbread making and sharing culture, shared by Azerbaijan and other countries, in 2016.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Korb_mit_Br%C3%B6tchen.JPG?width=800"
+    },
+    {
+      "id": "pomegranate",
+      "title": "Pomegranate",
+      "description": "The fruit of abundance in the Caucasus.",
+      "content": "The pomegranate is a fruit with a leathery red skin and hundreds of juicy seeds, native to a region stretching from Iran to the Caucasus. It has been cultivated for thousands of years.\n\nIn Azerbaijan, the pomegranate, or nar, is a symbol of fertility and abundance. The fruit grows in regions such as Goychay, which hosts an annual Pomegranate Festival in autumn, and it is used in juice, in the sauce narsharab that accompanies meat and fish, and in salads.\n\nPomegranates are rich in vitamins and antioxidants. In many cultures, including Greek, Persian and Jewish traditions, the fruit is a symbol of life and prosperity.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pomegranate_Juice_(2019).jpg?width=800"
+    },
+    {
+      "id": "italian-cuisine",
+      "title": "Italian Cuisine",
+      "description": "Simple ingredients, regional traditions and pasta.",
+      "content": "Italian cuisine is one of the most popular in the world, known for pasta, pizza, olive oil, cheese and fresh vegetables. It is built on simple, high-quality ingredients and varies greatly by region.\n\nNorthern Italy is known for risotto, polenta and butter-based sauces, while the south favours tomatoes, olive oil, seafood and dried pasta. Tomatoes arrived from the Americas in the 16th century and became central to Italian cooking. Pizza, which developed in Naples, was inscribed by UNESCO in 2017 for its art of the pizzaiuolo, the pizza maker.\n\nItalian meals are social events, and traditional cooking is shared within families. Dishes such as spaghetti, lasagne, Parmigiano-Reggiano cheese and gelato are enjoyed worldwide.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Italian_food.JPG?width=800"
+    },
+    {
+      "id": "sushi",
+      "title": "Sushi",
+      "description": "The Japanese art of vinegared rice and fish.",
+      "content": "Sushi is a Japanese dish based on rice seasoned with vinegar, combined with ingredients such as raw fish, seafood, vegetables and seaweed. Popular types include nigiri, maki rolls and sashimi, which is thin slices of raw fish served without rice.\n\nSushi began as a way of preserving fish in fermented rice in Southeast Asia, and it evolved in Japan. In Edo, now Tokyo, in the early 19th century, vendors began selling nigiri sushi as a quick meal. Sushi masters train for years to prepare the rice and cut the fish perfectly.\n\nIn the 20th century sushi spread worldwide, and new forms such as the California roll appeared. It is often served with soy sauce, wasabi and pickled ginger.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sushi_platter.jpg?width=800"
+    },
+    {
+      "id": "chocolate",
+      "title": "Chocolate",
+      "description": "The sweet treat that began as a bitter Maya drink.",
+      "content": "Chocolate is made from the seeds of the cacao tree, which originated in the rainforests of Central and South America. Ancient peoples such as the Maya and Aztecs drank a bitter, spiced chocolate beverage and used cacao beans as currency.\n\nSpanish explorers brought chocolate to Europe in the 16th century, where sugar was added. The first solid eating chocolate was made by the English company Fry's in 1847, and in 1875 the Swiss Daniel Peter created milk chocolate. Today Ivory Coast and Ghana grow most of the world's cacao.\n\nChocolate is enjoyed as bars, in desserts and as a drink, and it is linked with celebrations such as Easter and Valentine's Day. Fair trade certification aims to help the farmers who grow the cacao.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Three_Bars_(1).jpg?width=800"
+    },
+    {
+      "id": "spices",
+      "title": "Spices",
+      "description": "The aromatic seeds, barks and roots that flavour food.",
+      "content": "Spices are dried seeds, fruits, barks, roots or flowers used to flavour, colour and preserve food. Examples include pepper, cinnamon, cloves, cumin, saffron and sumac. Many spices were also used in medicine, perfume and religious rituals.\n\nThe spice trade shaped world history. Spices from India and Southeast Asia travelled along the Silk Road and by sea to Europe, and the search for a direct sea route to them led to voyages such as that of Vasco da Gama, who reached India in 1498. Saffron, made from the stigmas of crocus flowers, is one of the most expensive spices in the world by weight.\n\nIn Azerbaijan, saffron gives plov its golden colour and sumac is sprinkled over kebabs and salads. Spices add flavour and many also have antioxidant properties, and every cuisine has its own signature mix.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Spices1.jpg?width=800"
+    },
+    {
+      "id": "languages",
+      "title": "Languages",
+      "description": "The systems of communication that shape human culture.",
+      "content": "About 7,000 languages are spoken in the world today, and around 40% of them are endangered, with few remaining speakers. Languages carry a community's history, humour and ways of seeing the world.\n\nLanguages are grouped into families that share a common ancestor. Indo-European languages, including English, Russian, German and Hindi, have the most speakers, while Mandarin Chinese has the most native speakers of any single language. English is the most widely spoken language when second-language speakers are counted.\n\nAzerbaijani belongs to the Turkic family, along with Turkish, Kazakh and Uzbek. UNESCO marks International Mother Language Day on 21 February to promote linguistic diversity and protect languages at risk.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tepantitla_mural%2C_Ballplayer_A_(Daquella_manera).jpg?width=800"
+    },
+    {
+      "id": "writing",
+      "title": "Writing",
+      "description": "The invention that lets ideas outlast their authors.",
+      "content": "Writing is a system of visible marks used to record language. It allowed information, laws, stories and trade records to be kept and shared over time and distance, and it marks the boundary between prehistory and history.\n\nThe earliest known writing is cuneiform, used in Sumer in Mesopotamia from about 3400 to 3200 BCE, pressed with a reed into clay tablets. Egyptian hieroglyphs appeared around the same time, and Chinese characters were used on oracle bones by about 1200 BCE. In the Americas, the Maya developed a complex script.\n\nWriting systems can be logographic, in which symbols represent words or ideas, like Chinese, syllabic, like Japanese kana, or alphabetic, where symbols represent sounds. Paper, printing and now digital text have each transformed how writing spreads.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rosetta_Stone.JPG?width=800"
+    },
+    {
+      "id": "alphabet",
+      "title": "Alphabet",
+      "description": "A set of letters that stand for sounds.",
+      "content": "An alphabet is a set of letters that represent the basic sounds of a language. The first alphabet was developed in the ancient Middle East, and the Phoenician alphabet, from about 1050 BCE, was the ancestor of many later ones.\n\nThe Greeks added letters for vowels, and the Latin alphabet, used for English and most European languages, developed from the Greek. Cyrillic was created in the 9th century for Slavic languages, and the Arabic alphabet spread with Islam.\n\nAzerbaijani has been written in several alphabets: Arabic script for centuries, Latin from 1922, Cyrillic from 1939 and Latin again from 1991. The modern Azerbaijani alphabet has 32 letters, including special ones such as ə, ç, ğ, ı, ö, ş and ü.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Phoenician_alphabet.svg?width=800"
+    },
+    {
+      "id": "azerbaijani-language",
+      "title": "Azerbaijani Language",
+      "description": "The Turkic language of Azerbaijan.",
+      "content": "Azerbaijani is a Turkic language spoken by about 30 to 35 million people, mainly in Azerbaijan and north-western Iran. It belongs to the Oghuz branch and is closely related to Turkish and Turkmen, with which it is partly mutually intelligible.\n\nIt is the official language of Azerbaijan. Its literary history goes back to poets such as Nasimi in the 14th century and Fuzuli in the 16th, and to the epic Book of Dede Korkut. Its vocabulary includes many words from Persian and Arabic, and in the 20th century Russian words entered it as well.\n\nThe language is written in the Latin script in Azerbaijan and in the Arabic script in Iran. Vowel harmony, where vowels in a word agree with each other, and suffixes that attach to word stems are typical features of its grammar.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Azerbaijani_in_Perso-Arabic%2C_Latin%2C_and_Cyrillic.png?width=800"
+    },
+    {
+      "id": "sign-language",
+      "title": "Sign Language",
+      "description": "Languages of gesture, movement and expression.",
+      "content": "Sign languages are complete languages that use hand shapes, movements, facial expressions and body posture instead of sound. They have their own grammar and vocabulary and are not simply gestures for spoken words.\n\nThere are more than 300 sign languages in the world, including American Sign Language, British Sign Language and Azerbaijani Sign Language, and they are not mutually intelligible. About 70 million people are deaf and many use a sign language as their first language. In 1880 an international conference in Milan called for oral teaching in deaf education, which suppressed sign languages for decades.\n\nToday sign languages are recognised in many countries and by the United Nations Convention on the Rights of Persons with Disabilities. International Day of Sign Languages is observed on 23 September each year."
+    },
+    {
+      "id": "translation",
+      "title": "Translation",
+      "description": "Carrying meaning from one language to another.",
+      "content": "Translation is the process of expressing the meaning of a text or speech in another language. It makes possible the exchange of literature, science, religion and law between cultures.\n\nTranslation has shaped history: in the 9th century the House of Wisdom in Baghdad translated Greek, Persian and Indian works into Arabic, preserving knowledge that later reached Europe. The Bible has been translated into thousands of languages, and the Rosetta Stone, with the same text in three scripts, allowed hieroglyphs to be read.\n\nTranslators must balance faithfulness to the original with natural expression, and poetry is especially difficult. Machine translation has improved greatly, but human translators remain essential for nuance. International Translation Day is celebrated on 30 September.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_V_ordonnant_la_traduction_d'Aristote_copy.jpg?width=800"
+    },
+    {
+      "id": "backgammon",
+      "title": "Backgammon (Nard)",
+      "description": "The ancient dice-and-strategy game of tea houses.",
+      "content": "Backgammon, known as nard in Azerbaijan, is a two-player board game in which players move fifteen checkers around a board according to rolls of the dice. The aim is to move all your checkers home and bear them off before your opponent.\n\nIt is one of the oldest known board games, with ancestors going back about 5,000 years, such as the Royal Game of Ur from Mesopotamia. Across the Middle East and Caucasus, two forms are played: short nard, which is like international backgammon, and long nard, with a different starting position and rules.\n\nNard is a familiar sight in Azerbaijani tea houses and parks, where players meet to compete and chat. The game combines luck, because of the dice, with skill in planning.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Backgammon_lg.png?width=800"
+    },
+    {
+      "id": "board-games",
+      "title": "Board Games",
+      "description": "Games played on boards for thousands of years.",
+      "content": "Board games are games played with pieces that are moved or placed on a marked surface, following a set of rules. They can depend on luck, strategy or both, and they have been enjoyed since ancient times.\n\nSenet was played in Egypt about 3100 BCE, and the Chinese game Go is more than 2,500 years old. Chess developed from the Indian game chaturanga, and mancala games are played across Africa and Asia. In the 20th century, Monopoly, first sold in 1935, and Scrabble became household classics.\n\nModern designer board games such as Catan, released in 1995, sparked a boom in tabletop gaming, and many people play with friends and family or in cafés. Board games are used for entertainment, education and building skills.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Navy_110713-N-NT881-124_Personnel_Specialist_2nd_Class_James_Vail%2C_left%2C_and_Boatswain's_Mate_2nd_Class_Nathaniel_Eaton_play_board_games_with_ch.jpg?width=800"
+    },
+    {
+      "id": "fashion",
+      "title": "Fashion",
+      "description": "The changing styles of clothing and self-expression.",
+      "content": "Fashion is the prevailing style of clothing, accessories and appearance at a given time. It reflects the culture, economy and technology of a society and changes with the seasons and the decades.\n\nModern fashion began in the 19th century in Paris, where the English designer Charles Frederick Worth opened the first haute couture house in 1858. In the 20th century designers such as Coco Chanel and Christian Dior changed how people dressed, and cities such as Paris, Milan, London and New York hold fashion weeks.\n\nFashion is also an industry with big environmental effects, which has led to interest in sustainable and second-hand clothes. In Azerbaijan, designers combine national motifs with modern styles, and Baku hosts fashion events.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Carolina_Herrera_AW14_12.jpg?width=800"
+    },
+    {
+      "id": "folk-costume",
+      "title": "Traditional Costume",
+      "description": "Regional clothing that carries identity and history.",
+      "content": "Traditional or folk costumes are outfits associated with a region or community, often worn at festivals and ceremonies. Their colours, fabrics and decoration show local materials, climate and beliefs.\n\nThe Japanese kimono, the Korean hanbok, the Indian sari and the Scottish kilt are well-known examples. Traditional Azerbaijani men's clothing includes the chokha, a long coat with cartridge pockets across the chest, and the tall sheepskin hat called papakha. Women's costumes include the long dress with an embroidered waist called arkhalig, silver belts and the kelaghayi headscarf.\n\nTraditional costumes are seen in dance ensembles and at weddings and national holidays. Museums and craft workshops help preserve the techniques used to make them.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/WLF_frobas_(3).jpg?width=800"
+    },
+    {
+      "id": "perfume",
+      "title": "Perfume",
+      "description": "The art of fragrance through the ages.",
+      "content": "Perfume is a mixture of fragrant oils, alcohol and other substances used to give a pleasant smell to the body, clothes or rooms. Its name comes from the Latin per fumum, meaning through smoke.\n\nPerfume is very old: ancient Egyptians used scented oils and resins in religious ceremonies, and a woman named Tapputi in Mesopotamia, around 1200 BCE, is mentioned in cuneiform tablets as one of the world's first known perfumers. Arab and Persian scholars such as Avicenna improved distillation, which made rose water and other essences.\n\nThe town of Grasse in France became the centre of perfume making in the 18th century. Chanel No. 5 was launched in 1921, and modern perfumers blend natural and synthetic materials into top, middle and base notes."
+    },
+    {
+      "id": "unesco-world-heritage",
+      "title": "UNESCO World Heritage",
+      "description": "Sites of outstanding value to all humanity.",
+      "content": "A UNESCO World Heritage Site is a place of outstanding cultural or natural value that is protected for all humanity. The programme began with a convention adopted by UNESCO in 1972, and more than 1,200 sites in over 160 countries are listed.\n\nFamous examples include the Pyramids of Giza, the Great Wall of China, Machu Picchu, the Taj Mahal and the Great Barrier Reef. To be listed, a site must meet at least one of ten criteria, such as being a masterpiece of human creativity or an outstanding example of an ecosystem.\n\nAzerbaijan has several sites: the Walled City of Baku with the Shirvanshah's Palace and Maiden Tower (2000), the Gobustan Rock Art Cultural Landscape (2007), the Historic Centre of Sheki with the Khan's Palace (2019), the Hyrcanian Forests (2019) and the Cultural Landscape of Khinalig (2023).",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/World_Heritage_Logo_global.svg?width=800"
+    },
+    {
+      "id": "intangible-heritage",
+      "title": "Intangible Cultural Heritage",
+      "description": "Living traditions passed from generation to generation.",
+      "content": "Intangible cultural heritage consists of living traditions, such as oral stories, music, dance, festivals, rituals, knowledge about nature and traditional crafts. Unlike buildings, it is carried in people and passed on from one generation to the next.\n\nUNESCO adopted a Convention for the Safeguarding of the Intangible Cultural Heritage in 2003, and it maintains lists of elements that are recognised for protection. Examples include Japanese Kabuki, Spanish flamenco, French gastronomic meal, and Turkish coffee culture.\n\nAzerbaijan has many elements on the lists, including mugham, ashiq art, Novruz, carpet weaving, tar, kamancha, kelaghayi, lavash, dolma, yalli, the game of chovgan and the copper craftsmanship of Lahij. These traditions are recognised as part of humanity's shared heritage."
+    },
+    {
+      "id": "old-city-baku",
+      "title": "Old City of Baku",
+      "description": "The walled heart of Baku, called Icherisheher.",
+      "content": "The Old City, or Icherisheher, is the historic walled core of Baku, on the shore of the Caspian Sea. Its narrow winding streets, mosques, caravanserais and houses date back many centuries, and some walls are from the 12th century.\n\nAmong its landmarks are the Palace of the Shirvanshahs and the Maiden Tower, which stand on a hill. The caravanserais, such as the Multani and Bukhara caravanserais, housed merchants on the Silk Road, and the Old City has small museums, workshops and cafés.\n\nUNESCO inscribed the Walled City of Baku with the Shirvanshah's Palace and Maiden Tower as a World Heritage Site in 2000. Around it grew the modern city, but the Old City remains the cultural heart of Baku."
+    },
+    {
+      "id": "gobustan",
+      "title": "Gobustan",
+      "description": "A landscape of ancient rock art near Baku.",
+      "content": "Gobustan is an area of rocky hills about 60 kilometres south-west of Baku, famous for its collection of prehistoric rock art. The site includes more than 6,000 engravings of people, animals, boats and hunting scenes carved into boulders.\n\nThe images span thousands of years, from the Stone Age to the Middle Ages, and offer a view of how people lived when the Caspian shoreline was different. Visitors can also see the Gaval Dash, a stone that makes a sound like a tambourine when struck, and mud volcanoes nearby that bubble with cold mud.\n\nUNESCO inscribed the Gobustan Rock Art Cultural Landscape as a World Heritage Site in 2007. A modern museum on the site explains the finds and the history of the region.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Qobustan_giri%C5%9F_qayas%C4%B1_2026_(1).jpg?width=800"
+    },
+    {
+      "id": "maiden-tower",
+      "title": "Maiden Tower",
+      "description": "Baku's mysterious medieval symbol.",
+      "content": "The Maiden Tower, or Giz Galasi, is a stone tower in the Old City of Baku and one of the best-known symbols of Azerbaijan. It is about 30 metres tall and has eight floors, with walls up to five metres thick at the base.\n\nIt was built in the 12th century, although its exact purpose is unclear: scholars have suggested that it served as a watchtower, a Zoroastrian temple or an observatory. The name has led to many legends, including the story of a princess who leapt from its top to escape an unwanted marriage.\n\nThe tower is part of the UNESCO World Heritage Site of the Old City, and its image appears on money and in art. Visitors can climb inside for panoramic views of Baku and the Caspian.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maiden_tower_IMG_8521.jpg?width=800"
+    },
+    {
+      "id": "flame-towers",
+      "title": "Flame Towers",
+      "description": "Baku's three glowing skyscrapers.",
+      "content": "The Flame Towers are three skyscrapers in Baku, completed in 2012, whose curved shapes recall tongues of fire. They refer to Azerbaijan's title of Land of Fire, and are visible from many parts of the city.\n\nThe tallest tower is over 180 metres. The complex contains offices, apartments and a hotel, and the surfaces are covered with LED screens that display flames, the Azerbaijani flag and other images at night. The towers stand on a hill above the seaside boulevard.\n\nThey became a symbol of modern Baku and a popular subject for photographers. Together with the Old City and the Heydar Aliyev Center, they show the contrast between old and new in the city's skyline."
+    },
+    {
+      "id": "heydar-aliyev-center",
+      "title": "Heydar Aliyev Center",
+      "description": "A flowing building designed by Zaha Hadid.",
+      "content": "The Heydar Aliyev Center is a cultural complex in Baku, designed by the Iraqi-British architect Zaha Hadid and completed in 2012. Its curved white form flows out of the ground with almost no straight lines or sharp corners.\n\nThe building includes a museum, exhibition halls and an auditorium, and covers about 57,000 square metres. It is built from a concrete structure and a steel framework covered with panels that create its smooth surface. Hadid wanted the building to express optimism and a break from rigid Soviet-era architecture.\n\nIn 2014 the Center won the Design Museum's Design of the Year award, and it has become one of the most photographed buildings in the world."
+    },
+    {
+      "id": "shirvanshah-palace",
+      "title": "Palace of the Shirvanshahs",
+      "description": "The royal palace complex in Baku's Old City.",
+      "content": "The Palace of the Shirvanshahs is a medieval palace complex in the Old City of Baku, built mostly in the 15th century for the Shirvanshahs, the rulers of the state of Shirvan. The complex includes the main palace, the Divankhana, a mosque, a mausoleum and a bath.\n\nThe buildings are made of local limestone and show the Shirvan-Absheron school of architecture, with restrained decoration and carved inscriptions. The Divankhana is an octagonal pavilion with a domed portal, thought to have been used for receptions and judicial meetings.\n\nThe palace is part of the UNESCO World Heritage Site of the Walled City of Baku. Restored in the 20th century, it is now a museum that presents the history of the Shirvanshahs.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Palace_of_Shirvanshahs_common.JPG?width=800"
+    },
+    {
+      "id": "sheki-khan-palace",
+      "title": "Sheki Khan's Palace",
+      "description": "The summer palace with stained-glass windows.",
+      "content": "The Palace of the Sheki Khans is a palace built in 1797 as the summer residence of the rulers of the Sheki Khanate. It is a two-storey building in the centre of Sheki, next to a fortress and a large plane tree.\n\nIts windows are made of shebeke, a lattice of small pieces of coloured glass fitted into wooden frames without glue or nails. The walls and ceilings are decorated with colourful murals of flowers, hunting scenes and landscapes, and the palace has six rooms.\n\nThe palace is the main attraction of Sheki, a city known for its Silk Road history. UNESCO inscribed the Historic Centre of Sheki with the Khan's Palace as a World Heritage Site in 2019.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9E%C9%99ki_xan_saray%C4%B1.jpg?width=800"
+    },
+    {
+      "id": "baku",
+      "title": "Baku",
+      "description": "The capital on the shore of the Caspian Sea.",
+      "content": "Baku is the capital and largest city of Azerbaijan, a port on the western shore of the Caspian Sea, on the Absheron Peninsula. More than two million people live in the city, which is one of the lowest-lying capitals in the world.\n\nThe city is known for its historic Old City, its winds and its oil. In the second half of the 19th century the oil boom brought great wealth, and families such as the Nobels, Rothschilds and local oil barons built grand buildings. The seaside boulevard, the Flame Towers and the Heydar Aliyev Center reflect the modern city.\n\nBaku has hosted major events, including the Eurovision Song Contest in 2012, the first European Games in 2015 and the Azerbaijan Grand Prix of Formula 1 since 2016. It is also the country's cultural centre, with theatres, museums and universities.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baku_Montage.jpg?width=800"
+    },
+    {
+      "id": "ganja",
+      "title": "Ganja",
+      "description": "Azerbaijan's second city, the home of Nizami.",
+      "content": "Ganja is the second-largest city of Azerbaijan, in the west of the country at the foot of the Lesser Caucasus. It is more than a thousand years old and was a major cultural and trading centre along the Silk Road.\n\nIt is the birthplace of the poet Nizami Ganjavi, whose mausoleum stands in the city. Historic sites include the Javad Khan Gate, the Juma Mosque and the Shah Abbas Mosque, and the tourism area around Lake Goygol is nearby. The city is also known for its cuisine and sweets.\n\nIn 1918 the government of the Azerbaijan Democratic Republic first met in Ganja. Today it is a centre of industry, education and culture, and it has a lively park and cafe scene.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ganja_City_in_Azerbaijan.svg?width=800"
+    },
+    {
+      "id": "sheki",
+      "title": "Sheki",
+      "description": "The Silk Road city in the Caucasus foothills.",
+      "content": "Sheki is a historic city in northern Azerbaijan, set in the foothills of the Greater Caucasus mountains. It was an important stop on the Silk Road and became a centre for silk production, which is still traded today.\n\nThe city is known for the Palace of the Sheki Khans, built in 1797, and the 18th-century Sheki Caravanserai, once used by traveling merchants and now a hotel. Its old streets are lined with houses that have red-tiled roofs and shebeke windows. The Kish Albanian church nearby is one of the oldest Christian sites in the region.\n\nSheki is famous for its sweets, including Sheki halva, a layered rice-flour pastry, and its piti stew. UNESCO inscribed the Historic Centre of Sheki as a World Heritage Site in 2019.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%C5%9E%C9%99ki_%C5%9F%C9%99h%C9%99ri_%C3%BCmumi_g%C3%B6r%C3%BCn%C3%BC%C5%9F._%C3%A7ayk%C9%99nar%C4%B1.jpg?width=800"
+    },
+    {
+      "id": "karabakh-horse",
+      "title": "Karabakh Horse",
+      "description": "The golden-coated national horse of Azerbaijan.",
+      "content": "The Karabakh horse is a breed of riding horse developed in the Karabakh region of Azerbaijan, and it is regarded as the country's national horse. It is known for its endurance, speed and gentle temperament, and for the golden or chestnut coat with a metallic shine.\n\nFor centuries the breed was used by cavalry and nomads in the mountains, and Karabakh horses were also sent as gifts to rulers. The breed is smaller than many Western breeds, but strong and adapted to hills and hot weather, and it was used to improve other breeds.\n\nThe horse plays a key role in chovgan, a traditional horse-riding game similar to polo, which UNESCO inscribed on its list of intangible cultural heritage in 2013. Breeders work to protect this rare breed.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Qarabaq_ati.jpg?width=800"
+    },
+    {
+      "id": "origami",
+      "title": "Origami",
+      "description": "The Japanese art of paper folding, from cranes to modern engineering.",
+      "content": "Origami is the traditional Japanese art of folding paper into decorative or representational shapes, without cutting or gluing. The word combines the Japanese words for folding, oru, and paper, kami. Paper folding developed after papermaking reached Japan from China around the 6th century, and it was originally used mainly for ceremonial purposes.\n\nThe crane is the best-known origami figure and a symbol of peace and long life. In 1955 a Japanese girl named Sadako Sasaki, who became ill after the atomic bombing of Hiroshima, folded paper cranes in the hope of recovering, inspired by a legend that folding a thousand cranes grants a wish; her story made the crane a worldwide symbol of peace, and children still send folded cranes to a memorial in Hiroshima.\n\nModern origami has grown far beyond traditional shapes. Mathematicians and engineers now study the geometry of folding to design compact solar panels that unfold in space, foldable medical stents and even airbags, and origami principles are taught in schools worldwide as a simple way to explore geometry and patience with nothing more than a square of paper.",
+      "image": ""
+    }
+  ]
+}
